@@ -7,8 +7,8 @@ from pipeline import (
     config_loader,
     channel_resolver,
     rss_fetcher,
-    transcript_fetcher,
-    summarizer,
+    # transcript_fetcher,
+    # summarizer,
     data_manager,
     writer,
 )
@@ -82,61 +82,67 @@ def run_pipeline(config_path="config.json", data_path="data.json"):
             return
         logger.info("Stage 5: %d new videos to process", len(new_videos))
 
-        # Stage 6: Fetch transcripts
-        logger.info("Stage 6: Fetching transcripts for %d videos", len(new_videos))
-        new_videos = transcript_fetcher.fetch_transcripts(new_videos)
+        # Stage 6: Fetch transcripts (disabled — re-enable when proxy is configured)
+        # logger.info("Stage 6: Fetching transcripts for %d videos", len(new_videos))
+        # new_videos = transcript_fetcher.fetch_transcripts(new_videos)
+        #
+        # transcripts_ok = sum(1 for v in new_videos if v.get("transcriptAvailable"))
+        # if transcripts_ok == 0:
+        #     status.warn("Transcripts blocked (cloud IP) — set YOUTUBE_PROXY secret for transcripts")
+        # elif transcripts_ok < len(new_videos):
+        #     status.warn(f"Transcripts fetched for {transcripts_ok}/{len(new_videos)} videos")
 
-        transcripts_ok = sum(1 for v in new_videos if v.get("transcriptAvailable"))
-        if transcripts_ok == 0:
-            status.warn("Transcripts blocked (cloud IP) — set YOUTUBE_PROXY secret for transcripts")
-        elif transcripts_ok < len(new_videos):
-            status.warn(f"Transcripts fetched for {transcripts_ok}/{len(new_videos)} videos")
+        # Stage 7: Generate summaries (disabled — re-enable when transcripts are available)
+        # logger.info("Stage 7: Generating summaries")
+        # summary_errors = 0
+        # try:
+        #     client = summarizer.init_client(config)
+        #     model = config["ai"]["model"]
+        #
+        #     for video in new_videos:
+        #         if video["transcriptAvailable"]:
+        #             video["summary"] = summarizer.summarize_video(client, model, video["transcript"])
+        #             if video["summary"].startswith("Summary generation failed"):
+        #                 summary_errors += 1
+        #         else:
+        #             video["summary"] = "Transcript not available for this video."
+        #         # Remove raw transcript from output (not needed in data.json)
+        #         video.pop("transcript", None)
+        # except Exception as e:
+        #     logger.warning("Summarizer init failed: %s", e)
+        #     summary_errors = len(new_videos)
+        #     for video in new_videos:
+        #         if "summary" not in video:
+        #             video["summary"] = "Transcript not available for this video."
+        #         video.pop("transcript", None)
+        #
+        # if summary_errors > 0:
+        #     status.warn(f"AI summaries failed for {summary_errors} video(s) — check Gemini API quota")
 
-        # Stage 7: Generate summaries
-        logger.info("Stage 7: Generating summaries")
-        summary_errors = 0
-        try:
-            client = summarizer.init_client(config)
-            model = config["ai"]["model"]
+        # Set defaults while transcripts/summaries are disabled
+        for video in new_videos:
+            video["transcriptAvailable"] = False
+            video["summary"] = ""
 
-            for video in new_videos:
-                if video["transcriptAvailable"]:
-                    video["summary"] = summarizer.summarize_video(client, model, video["transcript"])
-                    if video["summary"].startswith("Summary generation failed"):
-                        summary_errors += 1
-                else:
-                    video["summary"] = "Transcript not available for this video."
-                # Remove raw transcript from output (not needed in data.json)
-                video.pop("transcript", None)
-        except Exception as e:
-            logger.warning("Summarizer init failed: %s", e)
-            summary_errors = len(new_videos)
-            for video in new_videos:
-                if "summary" not in video:
-                    video["summary"] = "Transcript not available for this video."
-                video.pop("transcript", None)
-
-        if summary_errors > 0:
-            status.warn(f"AI summaries failed for {summary_errors} video(s) — check Gemini API quota")
-
-        # Stage 8: Merge, group, regenerate digests, and write
+        # Stage 8: Merge, group, and write
         logger.info("Stage 8: Merging data and writing output")
         merged_data = data_manager.merge_and_group(existing_data, new_videos, config["display"]["daysToShow"])
 
-        changed_days = data_manager.get_changed_days(existing_data, merged_data)
-        if changed_days and summary_errors == 0:
-            logger.info("Regenerating daily digests for %d days: %s", len(changed_days), changed_days)
-            for day in merged_data["days"]:
-                if day["date"] in changed_days:
-                    video_summaries = []
-                    for ch in day["channels"]:
-                        for v in ch["videos"]:
-                            if v.get("summary") and not v["summary"].startswith("Transcript not available"):
-                                video_summaries.append(v["summary"])
-                    if video_summaries:
-                        day["dailyDigest"] = summarizer.generate_daily_digest(
-                            client, model, day["date"], video_summaries
-                        )
+        # Daily digest generation (disabled — re-enable with summaries)
+        # changed_days = data_manager.get_changed_days(existing_data, merged_data)
+        # if changed_days and summary_errors == 0:
+        #     logger.info("Regenerating daily digests for %d days: %s", len(changed_days), changed_days)
+        #     for day in merged_data["days"]:
+        #         if day["date"] in changed_days:
+        #             video_summaries = []
+        #             for ch in day["channels"]:
+        #                 for v in ch["videos"]:
+        #                     if v.get("summary") and not v["summary"].startswith("Transcript not available"):
+        #                         video_summaries.append(v["summary"])
+        #             if video_summaries:
+        #                 day["dailyDigest"] = summarizer.generate_daily_digest(
+        #                     client, model, day["date"], video_summaries
+        #                 )
 
         merged_data["pipelineStatus"] = status.to_dict()
         writer.write_data(merged_data, data_path)
