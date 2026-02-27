@@ -70,14 +70,10 @@
       days = days.slice(0, daysFilter);
     }
 
-    var todayStr = new Date().toISOString().slice(0, 10);
-
     days.forEach(function (day) {
       var section = document.createElement("details");
       section.className = "day-section";
-      if (day.date === todayStr) {
-        section.setAttribute("open", "");
-      }
+      section.setAttribute("open", "");
 
       var summary = document.createElement("summary");
       summary.className = "day-heading";
