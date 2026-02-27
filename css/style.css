@@ -56,11 +56,24 @@ a:hover {
 /* === Layout === */
 
 header,
-main,
 footer {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+.layout-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  align-items: flex-start;
+}
+
+.layout-wrapper main {
+  flex: 1;
+  min-width: 0;
 }
 
 /* === Header === */
@@ -117,6 +130,86 @@ header {
   color: var(--accent);
   text-decoration: none;
   background: var(--hover);
+}
+
+/* === Channel Sidebar === */
+
+.channel-sidebar {
+  width: 240px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 0;
+}
+
+.channel-sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.channel-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.channel-sidebar::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+
+.sidebar-heading {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  padding: 0 1rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.5rem;
+}
+
+.channel-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.channel-list a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  color: var(--text);
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: background 0.1s;
+}
+
+.channel-list a:hover {
+  background: var(--hover);
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.channel-name-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex: 1;
+  min-width: 0;
+}
+
+.channel-video-count {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  background: var(--bg);
+  border-radius: 10px;
+  padding: 0.1rem 0.5rem;
+  margin-left: 0.5rem;
+  flex-shrink: 0;
 }
 
 /* === Day Sections === */
@@ -319,6 +412,38 @@ footer {
 }
 
 /* === Responsive === */
+
+@media (max-width: 768px) {
+  .layout-wrapper {
+    flex-direction: column;
+  }
+
+  .channel-sidebar {
+    position: static;
+    width: 100%;
+    max-height: none;
+    overflow-y: visible;
+    margin-bottom: 1rem;
+  }
+
+  .channel-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    padding: 0 0.5rem;
+  }
+
+  .channel-list a {
+    padding: 0.35rem 0.75rem;
+    font-size: 0.8rem;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+  }
+
+  .channel-video-count {
+    display: none;
+  }
+}
 
 @media (max-width: 600px) {
   .video-card {

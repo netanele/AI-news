@@ -43,11 +43,75 @@
     }
   }
 
+  // --- Sidebar ---
+
+  function extractUniqueChannels(data) {
+    var channelMap = {};
+    if (!data.days) return [];
+
+    var daysFilter = parseInt(localStorage.getItem("daysFilter"), 10);
+    var days = data.days;
+    if (daysFilter && daysFilter > 0 && daysFilter < days.length) {
+      days = days.slice(0, daysFilter);
+    }
+
+    days.forEach(function (day) {
+      day.channels.forEach(function (channel) {
+        var name = channel.channelName;
+        if (channelMap[name]) {
+          channelMap[name].videoCount += channel.videos.length;
+        } else {
+          channelMap[name] = {
+            channelName: name,
+            channelUrl: channel.channelUrl,
+            videoCount: channel.videos.length,
+          };
+        }
+      });
+    });
+
+    return Object.keys(channelMap)
+      .map(function (key) { return channelMap[key]; })
+      .sort(function (a, b) {
+        return a.channelName.localeCompare(b.channelName, undefined, { sensitivity: "base" });
+      });
+  }
+
+  function renderSidebar(channels) {
+    var list = document.getElementById("channel-list");
+    if (!list) return;
+    list.innerHTML = "";
+
+    channels.forEach(function (channel) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = channel.channelUrl || "#";
+      a.target = "_blank";
+      a.rel = "noopener";
+
+      var nameSpan = document.createElement("span");
+      nameSpan.className = "channel-name-text";
+      nameSpan.textContent = channel.channelName;
+      a.appendChild(nameSpan);
+
+      var countSpan = document.createElement("span");
+      countSpan.className = "channel-video-count";
+      countSpan.textContent = channel.videoCount;
+      a.appendChild(countSpan);
+
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  }
+
   // --- Rendering ---
 
   function renderDashboard(data) {
     var dashboard = document.getElementById("dashboard");
     dashboard.innerHTML = "";
+
+    // Render channel sidebar
+    renderSidebar(extractUniqueChannels(data));
 
     // Last updated + pipeline status
     var updatedEl = document.getElementById("last-updated");
