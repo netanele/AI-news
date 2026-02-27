@@ -1,7 +1,180 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2026-02-27T06:06:47Z",
   "config": {
     "daysToShow": 7
   },
-  "days": []
+  "days": [
+    {
+      "date": "2026-02-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "pt0CWcPGBhA",
+              "title": "I Built The Most Realistic Medical AI Receptionist",
+              "publishedAt": "2026-02-26T17:24:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pt0CWcPGBhA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pt0CWcPGBhA",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "romGzY0Xu0s",
+              "title": "This Just Fixed 90% Of AI Coding",
+              "publishedAt": "2026-02-25T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/romGzY0Xu0s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=romGzY0Xu0s",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "tM0XYas3MgM",
+              "title": "How to Get Your Business to Show Up on ChatGPT",
+              "publishedAt": "2026-02-25T18:50:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tM0XYas3MgM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tM0XYas3MgM",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "qDLzZB5fB_s",
+              "title": "How to Run Your Entire Business With Claude Code (No Coding Required)",
+              "publishedAt": "2026-02-25T16:21:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qDLzZB5fB_s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qDLzZB5fB_s",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "WJc2Ugkruss",
+              "title": "Why Everyone’s Buying Mac Minis",
+              "publishedAt": "2026-02-24T14:47:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WJc2Ugkruss/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/WJc2Ugkruss",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "hp7n45JqvIw",
+              "title": "OpenClaw Use Cases That Are Actually Insane",
+              "publishedAt": "2026-02-22T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hp7n45JqvIw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hp7n45JqvIw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "0YHAe8QV0wQ",
+              "title": "The way you work now has an expiration date",
+              "publishedAt": "2026-02-22T20:47:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0YHAe8QV0wQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0YHAe8QV0wQ",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "dVpIPXmEk8Y",
+              "title": "Claude Plugins Are Replacing Entire Departments — Here's What They Do",
+              "publishedAt": "2026-02-22T16:34:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dVpIPXmEk8Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dVpIPXmEk8Y",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "-SQ3gkly9uo",
+              "title": "What the F*ck Is OpenClaw?",
+              "publishedAt": "2026-02-20T17:23:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-SQ3gkly9uo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/-SQ3gkly9uo",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "sDePFmn-3io",
+              "title": "I Built an AI That Turns PDFs Into Newsletters and Podcasts (Antigravity + n8n)",
+              "publishedAt": "2026-02-20T14:11:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sDePFmn-3io/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sDePFmn-3io",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
