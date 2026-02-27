@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-02-27T08:00:00Z",
+  "lastUpdated": "2026-02-27T06:01:18Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
       "date": "2026-02-27",
-      "dailyDigest": "Today saw major announcements around GPT-5's multimodal capabilities and a new open-source robotics foundation model. The AI community is buzzing about benchmark results and real-world applications.",
+      "dailyDigest": "Summary generation failed — will retry next run.",
       "channels": [
         {
           "channelName": "AI Explained",
@@ -19,7 +19,7 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/abc123def/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=abc123def",
-              "summary": "\u2022 GPT-5 features native multimodal understanding across text, images, audio, and video\n\u2022 Reasoning benchmarks show 40% improvement over GPT-4o on complex math and coding tasks\n\u2022 Pricing is 2x cheaper per token than GPT-4o, making it more accessible\n\u2022 New \"deep thinking\" mode enables multi-step problem solving with transparent chain-of-thought",
+              "summary": "• GPT-5 features native multimodal understanding across text, images, audio, and video\n• Reasoning benchmarks show 40% improvement over GPT-4o on complex math and coding tasks\n• Pricing is 2x cheaper per token than GPT-4o, making it more accessible\n• New \"deep thinking\" mode enables multi-step problem solving with transparent chain-of-thought",
               "transcriptAvailable": true
             },
             {
@@ -29,8 +29,24 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xyz789ghi/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=xyz789ghi",
-              "summary": "\u2022 AI agents are now handling 30% of customer service interactions at Fortune 500 companies\n\u2022 Code generation agents have reduced development time by 50% in controlled studies\n\u2022 Key limitation remains: agents still struggle with ambiguous real-world tasks requiring judgment",
+              "summary": "• AI agents are now handling 30% of customer service interactions at Fortune 500 companies\n• Code generation agents have reduced development time by 50% in controlled studies\n• Key limitation remains: agents still struggle with ambiguous real-world tasks requiring judgment",
               "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "C_R8_Dd1x00",
+              "title": "Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude",
+              "publishedAt": "2026-02-27T04:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C_R8_Dd1x00/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/C_R8_Dd1x00",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
             }
           ]
         },
@@ -45,8 +61,24 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/tmp456abc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=tmp456abc",
-              "summary": "\u2022 New sim-to-real transfer technique enables robots to learn locomotion in under 10 minutes\n\u2022 The approach uses a diffusion-based policy that generalizes across different terrain types\n\u2022 Open-source foundation model released, enabling researchers worldwide to build on this work",
+              "summary": "• New sim-to-real transfer technique enables robots to learn locomotion in under 10 minutes\n• The approach uses a diffusion-based policy that generalizes across different terrain types\n• Open-source foundation model released, enabling researchers worldwide to build on this work",
               "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "YE2TH7GNqnE",
+              "title": "Nano Banana 2 🍌",
+              "publishedAt": "2026-02-27T02:09:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YE2TH7GNqnE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/YE2TH7GNqnE",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
             }
           ]
         }
@@ -54,7 +86,7 @@
     },
     {
       "date": "2026-02-26",
-      "dailyDigest": "Wednesday's coverage focused on Google's new Gemini Ultra release and debates around AI safety benchmarks. Multiple channels covered the same story from different angles.",
+      "dailyDigest": "Summary generation failed — will retry next run.",
       "channels": [
         {
           "channelName": "AI Explained",
@@ -67,8 +99,50 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ggl001abc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=ggl001abc",
-              "summary": "\u2022 Gemini Ultra 2.0 matches GPT-5 on most reasoning benchmarks\n\u2022 Unique advantage: native integration with Google Search for real-time information\n\u2022 Available through Google AI Studio and Vertex AI with competitive pricing",
+              "summary": "• Gemini Ultra 2.0 matches GPT-5 on most reasoning benchmarks\n• Unique advantage: native integration with Google Search for real-time information\n• Available through Google AI Studio and Vertex AI with competitive pricing",
               "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "TZ_5GHNqOnw",
+              "title": "Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents",
+              "publishedAt": "2026-02-26T22:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TZ_5GHNqOnw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TZ_5GHNqOnw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "q6pbQ5li5Cg",
+              "title": "Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)",
+              "publishedAt": "2026-02-26T15:01:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/q6pbQ5li5Cg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=q6pbQ5li5Cg",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "pt0CWcPGBhA",
+              "title": "I Built The Most Realistic Medical AI Receptionist",
+              "publishedAt": "2026-02-26T17:24:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pt0CWcPGBhA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pt0CWcPGBhA",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
             }
           ]
         },
@@ -83,7 +157,7 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/tmp002def/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=tmp002def",
-              "summary": "\u2022 Current AI safety benchmarks can be gamed by training specifically for test scenarios\n\u2022 Researchers propose adversarial evaluation framework that's harder to overfit\n\u2022 Major labs have agreed to adopt the new framework starting Q2 2026",
+              "summary": "• Current AI safety benchmarks can be gamed by training specifically for test scenarios\n• Researchers propose adversarial evaluation framework that's harder to overfit\n• Major labs have agreed to adopt the new framework starting Q2 2026",
               "transcriptAvailable": true
             },
             {
@@ -97,13 +171,87 @@
               "transcriptAvailable": false
             }
           ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "HNGVhlfWlyU",
+              "title": "future gyms",
+              "publishedAt": "2026-02-26T20:53:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HNGVhlfWlyU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/HNGVhlfWlyU",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
         }
       ]
     },
     {
       "date": "2026-02-25",
-      "dailyDigest": "Tuesday's highlights included breakthroughs in protein folding speed and a new text-to-3D model that produces game-ready assets.",
+      "dailyDigest": "Summary generation failed — will retry next run.",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "romGzY0Xu0s",
+              "title": "This Just Fixed 90% Of AI Coding",
+              "publishedAt": "2026-02-25T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/romGzY0Xu0s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=romGzY0Xu0s",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "0v9ixCWNhPo",
+              "title": "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)",
+              "publishedAt": "2026-02-25T15:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0v9ixCWNhPo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0v9ixCWNhPo",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "tM0XYas3MgM",
+              "title": "How to Get Your Business to Show Up on ChatGPT",
+              "publishedAt": "2026-02-25T18:50:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tM0XYas3MgM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tM0XYas3MgM",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "qDLzZB5fB_s",
+              "title": "How to Run Your Entire Business With Claude Code (No Coding Required)",
+              "publishedAt": "2026-02-25T16:21:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qDLzZB5fB_s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qDLzZB5fB_s",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "Two Minute Papers",
           "channelUrl": "https://www.youtube.com/@TwoMinutePapers",
@@ -115,7 +263,7 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/tmp004jkl/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=tmp004jkl",
-              "summary": "\u2022 AlphaFold 4 achieves 100x speedup over AlphaFold 3 with comparable accuracy\n\u2022 New architecture uses sparse attention patterns specifically designed for protein sequences\n\u2022 Drug discovery pipelines can now screen candidates in hours instead of days",
+              "summary": "• AlphaFold 4 achieves 100x speedup over AlphaFold 3 with comparable accuracy\n• New architecture uses sparse attention patterns specifically designed for protein sequences\n• Drug discovery pipelines can now screen candidates in hours instead of days",
               "transcriptAvailable": true
             },
             {
@@ -125,8 +273,342 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/tmp005mno/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=tmp005mno",
-              "summary": "Summary generation failed \u2014 will retry next run.",
+              "summary": "Summary generation failed — will retry next run.",
               "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "KVSdEJyQc9M",
+              "title": "secret cameras in your house",
+              "publishedAt": "2026-02-25T21:12:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KVSdEJyQc9M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KVSdEJyQc9M",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "VmEa3fVvZDw",
+              "title": "They Got Caught...",
+              "publishedAt": "2026-02-25T17:58:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VmEa3fVvZDw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VmEa3fVvZDw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "5wPI9wSCL3A",
+              "title": "no one felt sorry for them",
+              "publishedAt": "2026-02-25T14:44:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5wPI9wSCL3A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5wPI9wSCL3A",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "QWzLPn164w0",
+              "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
+              "publishedAt": "2026-02-24T15:00:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QWzLPn164w0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QWzLPn164w0",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "WJc2Ugkruss",
+              "title": "Why Everyone’s Buying Mac Minis",
+              "publishedAt": "2026-02-24T14:47:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WJc2Ugkruss/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/WJc2Ugkruss",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "3110hx3ygp0",
+              "title": "I've spent 5 BILLION tokens perfecting OpenClaw...",
+              "publishedAt": "2026-02-24T23:59:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3110hx3ygp0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3110hx3ygp0",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "mI1d1WqIQWQ",
+              "title": "ways to use ai",
+              "publishedAt": "2026-02-24T16:18:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mI1d1WqIQWQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mI1d1WqIQWQ",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "8jKAT8GNDE0",
+              "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
+              "publishedAt": "2026-02-23T15:00:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8jKAT8GNDE0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8jKAT8GNDE0",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "v47uzWSn9Vw",
+              "title": "Three ways to spot a deepfake",
+              "publishedAt": "2026-02-23T23:28:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/v47uzWSn9Vw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/v47uzWSn9Vw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "hp7n45JqvIw",
+              "title": "OpenClaw Use Cases That Are Actually Insane",
+              "publishedAt": "2026-02-22T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hp7n45JqvIw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hp7n45JqvIw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "OMb5oTlC_q0",
+              "title": "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)",
+              "publishedAt": "2026-02-22T19:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OMb5oTlC_q0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OMb5oTlC_q0",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "0YHAe8QV0wQ",
+              "title": "The way you work now has an expiration date",
+              "publishedAt": "2026-02-22T20:47:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0YHAe8QV0wQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0YHAe8QV0wQ",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "dVpIPXmEk8Y",
+              "title": "Claude Plugins Are Replacing Entire Departments — Here's What They Do",
+              "publishedAt": "2026-02-22T16:34:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dVpIPXmEk8Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dVpIPXmEk8Y",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "O-0poNv2jD4",
+              "title": "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.",
+              "publishedAt": "2026-02-21T16:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/O-0poNv2jD4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=O-0poNv2jD4",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "THnldGFw6Dk",
+              "title": "Can normal people use OpenClaw?",
+              "publishedAt": "2026-02-21T15:30:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/THnldGFw6Dk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/THnldGFw6Dk",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "-bQcWs1Z9a0",
+              "title": "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.",
+              "publishedAt": "2026-02-20T15:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-bQcWs1Z9a0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-bQcWs1Z9a0",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "-SQ3gkly9uo",
+              "title": "What the F*ck Is OpenClaw?",
+              "publishedAt": "2026-02-20T17:23:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-SQ3gkly9uo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/-SQ3gkly9uo",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "sDePFmn-3io",
+              "title": "I Built an AI That Turns PDFs Into Newsletters and Podcasts (Antigravity + n8n)",
+              "publishedAt": "2026-02-20T14:11:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sDePFmn-3io/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sDePFmn-3io",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "JktkeSkt7Fc",
+              "title": "Forward Future Live | 02.20.26 | Guests from IFS, Vantor, Pindrop Security, and Runway!",
+              "publishedAt": "2026-02-20T20:14:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JktkeSkt7Fc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JktkeSkt7Fc",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "W5dlgzluems",
+              "title": "Google just dropped Gemini 3.1... (WOAH)",
+              "publishedAt": "2026-02-20T20:02:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/W5dlgzluems/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=W5dlgzluems",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "A4_MUgnS6rw",
+              "title": "Gemini 3.1 Pro Simulations 👀",
+              "publishedAt": "2026-02-20T19:47:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/A4_MUgnS6rw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/A4_MUgnS6rw",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "gnd1K0h6fjM",
+              "title": "Gemini 3.1 Pro Benchmarks",
+              "publishedAt": "2026-02-20T17:13:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gnd1K0h6fjM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/gnd1K0h6fjM",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
             }
           ]
         }
