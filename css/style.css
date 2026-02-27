@@ -281,6 +281,10 @@ header {
   color: var(--warning);
 }
 
+.status-warning {
+  color: var(--warning);
+}
+
 .loading {
   text-align: center;
   color: var(--text-muted);

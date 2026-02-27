@@ -33,6 +33,11 @@ def fetch_videos(channels, days_to_show):
                 time.sleep(_REQUEST_DELAY)
             feed_url = RSS_URL_TEMPLATE.format(channel_id=channel["channel_id"])
             response = requests.get(feed_url, headers=_HEADERS, timeout=15)
+
+            if response.status_code != 200:
+                logger.warning("RSS feed HTTP %d for %s — skipping", response.status_code, channel["channel_name"])
+                continue
+
             feed = feedparser.parse(response.content)
 
             if feed.bozo and not feed.entries:

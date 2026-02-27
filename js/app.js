@@ -49,10 +49,17 @@
     var dashboard = document.getElementById("dashboard");
     dashboard.innerHTML = "";
 
-    // Last updated
+    // Last updated + pipeline status
     var updatedEl = document.getElementById("last-updated");
     if (updatedEl && data.lastUpdated) {
-      updatedEl.textContent = "Updated " + formatRelativeTime(data.lastUpdated);
+      var statusText = "Updated " + formatRelativeTime(data.lastUpdated);
+      if (data.pipelineStatus && data.pipelineStatus.status !== "ok") {
+        statusText += " (partial \u2014 " + data.pipelineStatus.issues.join("; ") + ")";
+        updatedEl.classList.add("status-warning");
+      } else if (data.pipelineStatus && data.pipelineStatus.status === "ok") {
+        updatedEl.classList.remove("status-warning");
+      }
+      updatedEl.textContent = statusText;
     }
 
     if (!data.days || data.days.length === 0) {
