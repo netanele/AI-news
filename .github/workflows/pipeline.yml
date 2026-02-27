@@ -13,6 +13,9 @@ concurrency:
   group: pipeline
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
