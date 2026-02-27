@@ -1,6 +1,7 @@
-"""Fetch YouTube video transcripts with retry logic."""
+"""Fetch YouTube video transcripts with retry logic and proxy support."""
 
 import logging
+import os
 import time
 
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -8,11 +9,13 @@ from youtube_transcript_api._errors import (
     TranscriptsDisabled,
     NoTranscriptFound,
     VideoUnavailable,
+    RequestBlocked,
 )
+from youtube_transcript_api.proxies import GenericProxyConfig
 
 logger = logging.getLogger(__name__)
 
-# Only retry on transient/known YouTube errors, not programming bugs
+# Transient errors worth retrying from the same IP
 RETRIABLE_EXCEPTIONS = (
     TranscriptsDisabled,
     NoTranscriptFound,
@@ -22,22 +25,47 @@ RETRIABLE_EXCEPTIONS = (
     OSError,
 )
 
+# IP-level blocks — retrying from same IP won't help
+IP_BLOCKED_EXCEPTIONS = (RequestBlocked,)
 
-def fetch_transcripts(videos, max_retries=3, retry_delay=300):
+
+def _build_api():
+    """Build YouTubeTranscriptApi with optional proxy from env."""
+    proxy_url = os.environ.get("YOUTUBE_PROXY")
+    if proxy_url:
+        logger.info("Using proxy for transcript fetching")
+        return YouTubeTranscriptApi(
+            proxy_config=GenericProxyConfig(
+                http_url=proxy_url,
+                https_url=proxy_url,
+            )
+        )
+    return YouTubeTranscriptApi()
+
+
+def fetch_transcripts(videos, max_retries=3, retry_delay=2):
     """Fetch transcripts for a list of videos with retry logic.
 
     Args:
         videos: List of video dicts (must have 'id' key).
         max_retries: Number of retry attempts per video.
-        retry_delay: Seconds between retries (default 300s for GitHub Actions).
+        retry_delay: Seconds between retries.
 
     Returns:
         Updated video list with 'transcript' and 'transcriptAvailable' fields.
     """
-    api = YouTubeTranscriptApi()
+    api = _build_api()
+    ip_blocked = False
 
     for video in videos:
         video_id = video["id"]
+
+        # If already IP-blocked, skip remaining transcript fetches
+        if ip_blocked:
+            video["transcript"] = None
+            video["transcriptAvailable"] = False
+            continue
+
         success = False
 
         for attempt in range(1, max_retries + 1):
@@ -48,6 +76,13 @@ def fetch_transcripts(videos, max_retries=3, retry_delay=300):
                 video["transcriptAvailable"] = True
                 success = True
                 logger.info("Transcript fetched for %s", video_id)
+                break
+            except IP_BLOCKED_EXCEPTIONS as e:
+                logger.warning(
+                    "YouTube IP blocked — skipping all remaining transcripts. "
+                    "Set YOUTUBE_PROXY env var to use a proxy. Error: %s", type(e).__name__
+                )
+                ip_blocked = True
                 break
             except RETRIABLE_EXCEPTIONS as e:
                 logger.warning(
@@ -64,6 +99,9 @@ def fetch_transcripts(videos, max_retries=3, retry_delay=300):
         if not success:
             video["transcript"] = None
             video["transcriptAvailable"] = False
-            logger.warning("Transcript unavailable for %s after %d attempts", video_id, max_retries)
+            logger.warning("Transcript unavailable for %s", video_id)
+
+    fetched = sum(1 for v in videos if v.get("transcriptAvailable"))
+    logger.info("Transcripts: %d/%d fetched successfully", fetched, len(videos))
 
     return videos

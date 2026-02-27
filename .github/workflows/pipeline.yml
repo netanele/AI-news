@@ -36,6 +36,7 @@ jobs:
       - name: Run pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_PROXY: ${{ secrets.YOUTUBE_PROXY }}
         run: python -m pipeline.main
 
       - name: Commit updated data.json
