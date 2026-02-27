@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:17:27Z",
+  "lastUpdated": "2026-02-27T06:29:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -105,6 +105,22 @@
           ]
         },
         {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "6FNu2xqP758",
+              "title": "Claude Code Just KILLED OpenClaw! HUGE NEW Update Introduces Remote Control + Scheduled Tasks!",
+              "publishedAt": "2026-02-26T03:07:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6FNu2xqP758/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6FNu2xqP758",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
@@ -201,6 +217,22 @@
           ]
         },
         {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "g3D3yYVCSYQ",
+              "title": "Mercury 2: The World's Fastest Reasoning Model! Fast, Cheap, & Powerful! Beats Claude & Gemini!",
+              "publishedAt": "2026-02-25T04:09:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/g3D3yYVCSYQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=g3D3yYVCSYQ",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
@@ -269,6 +301,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/WJc2Ugkruss/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/WJc2Ugkruss",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "7bQXrf2jbZY",
+              "title": "Gemini 3.1 Pro + Claude Opus 4.6 = Ultimate AI Coding Workflow! Incredible Coding Results + FREE!",
+              "publishedAt": "2026-02-24T08:35:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7bQXrf2jbZY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7bQXrf2jbZY",
               "summary": "Transcript not available for this video.",
               "transcriptAvailable": false
             }
@@ -355,6 +403,22 @@
           ]
         },
         {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "EGo7m7ZjW0c",
+              "title": "NEW Antigravity AI Studio Release From Google Changes AI Code Development!",
+              "publishedAt": "2026-02-23T08:11:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EGo7m7ZjW0c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EGo7m7ZjW0c",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
@@ -433,6 +497,22 @@
               "transcriptAvailable": false
             }
           ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CBIUxXy3WmM",
+              "title": "Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)",
+              "publishedAt": "2026-02-22T06:42:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CBIUxXy3WmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CBIUxXy3WmM",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
         }
       ]
     },
@@ -451,6 +531,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/O-0poNv2jD4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=O-0poNv2jD4",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CrCPFGxtgEY",
+              "title": "Claude Code NEW Update IS HUGE! Claude Code Secruity, Claude Engineer, & MORE!",
+              "publishedAt": "2026-02-21T04:18:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CrCPFGxtgEY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CrCPFGxtgEY",
               "summary": "Transcript not available for this video.",
               "transcriptAvailable": false
             }
@@ -600,5 +696,12 @@
         }
       ]
     }
-  ]
+  ],
+  "pipelineStatus": {
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: AILABS-393, ColeMedin, MetalSole",
+      "Transcripts blocked (cloud IP) — set YOUTUBE_PROXY secret for transcripts"
+    ]
+  }
 }
