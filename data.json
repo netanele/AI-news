@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:29:07Z",
+  "lastUpdated": "2026-02-27T14:27:36Z",
   "config": {
     "daysToShow": 7
   },
@@ -20,6 +20,22 @@
               "thumbnailUrl": "https://i.ytimg.com/vi/C_R8_Dd1x00/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/C_R8_Dd1x00",
               "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "u22-XoQvI4I",
+              "title": "Google's Nano Banana 2.0: Best Text-To-Image Generation Model EVER! The Photoshop killer! (Tested)",
+              "publishedAt": "2026-02-27T07:13:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u22-XoQvI4I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=u22-XoQvI4I",
+              "summary": "",
               "transcriptAvailable": false
             }
           ]
@@ -698,10 +714,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: AILABS-393, ColeMedin, MetalSole",
-      "Transcripts blocked (cloud IP) — set YOUTUBE_PROXY secret for transcripts"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
