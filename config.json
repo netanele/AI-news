@@ -1,0 +1,14 @@
+{
+  "ai": {
+    "provider": "gemini",
+    "model": "gemini-2.0-flash",
+    "apiKeyEnvVar": "GEMINI_API_KEY"
+  },
+  "display": {
+    "daysToShow": 7
+  },
+  "channels": [
+    "https://www.youtube.com/@AILABS-393",
+    "https://www.youtube.com/@matthew_berman","https://www.youtube.com/@ColeMedin","https://www.youtube.com/@NicholasPuru","https://www.youtube.com/@NateBJones","https://www.youtube.com/@NateBJones","https://www.youtube.com/@MetalSole"
+  ]
+}

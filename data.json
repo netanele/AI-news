@@ -1,0 +1,136 @@
+{
+  "lastUpdated": "2026-02-27T08:00:00Z",
+  "config": {
+    "daysToShow": 7
+  },
+  "days": [
+    {
+      "date": "2026-02-27",
+      "dailyDigest": "Today saw major announcements around GPT-5's multimodal capabilities and a new open-source robotics foundation model. The AI community is buzzing about benchmark results and real-world applications.",
+      "channels": [
+        {
+          "channelName": "AI Explained",
+          "channelUrl": "https://www.youtube.com/@AIExplained-official",
+          "videos": [
+            {
+              "id": "abc123def",
+              "title": "GPT-5 Is Here - Everything You Need To Know",
+              "publishedAt": "2026-02-27T14:30:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/abc123def/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=abc123def",
+              "summary": "\u2022 GPT-5 features native multimodal understanding across text, images, audio, and video\n\u2022 Reasoning benchmarks show 40% improvement over GPT-4o on complex math and coding tasks\n\u2022 Pricing is 2x cheaper per token than GPT-4o, making it more accessible\n\u2022 New \"deep thinking\" mode enables multi-step problem solving with transparent chain-of-thought",
+              "transcriptAvailable": true
+            },
+            {
+              "id": "xyz789ghi",
+              "title": "The Real Impact of AI Agents in 2026",
+              "publishedAt": "2026-02-27T09:15:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xyz789ghi/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xyz789ghi",
+              "summary": "\u2022 AI agents are now handling 30% of customer service interactions at Fortune 500 companies\n\u2022 Code generation agents have reduced development time by 50% in controlled studies\n\u2022 Key limitation remains: agents still struggle with ambiguous real-world tasks requiring judgment",
+              "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "Two Minute Papers",
+          "channelUrl": "https://www.youtube.com/@TwoMinutePapers",
+          "videos": [
+            {
+              "id": "tmp456abc",
+              "title": "This AI Robot Learns To Walk in Minutes!",
+              "publishedAt": "2026-02-27T16:00:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tmp456abc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tmp456abc",
+              "summary": "\u2022 New sim-to-real transfer technique enables robots to learn locomotion in under 10 minutes\n\u2022 The approach uses a diffusion-based policy that generalizes across different terrain types\n\u2022 Open-source foundation model released, enabling researchers worldwide to build on this work",
+              "transcriptAvailable": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "dailyDigest": "Wednesday's coverage focused on Google's new Gemini Ultra release and debates around AI safety benchmarks. Multiple channels covered the same story from different angles.",
+      "channels": [
+        {
+          "channelName": "AI Explained",
+          "channelUrl": "https://www.youtube.com/@AIExplained-official",
+          "videos": [
+            {
+              "id": "ggl001abc",
+              "title": "Gemini Ultra 2.0 - Google's Answer to GPT-5",
+              "publishedAt": "2026-02-26T11:00:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ggl001abc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ggl001abc",
+              "summary": "\u2022 Gemini Ultra 2.0 matches GPT-5 on most reasoning benchmarks\n\u2022 Unique advantage: native integration with Google Search for real-time information\n\u2022 Available through Google AI Studio and Vertex AI with competitive pricing",
+              "transcriptAvailable": true
+            }
+          ]
+        },
+        {
+          "channelName": "Two Minute Papers",
+          "channelUrl": "https://www.youtube.com/@TwoMinutePapers",
+          "videos": [
+            {
+              "id": "tmp002def",
+              "title": "AI Safety Tests Are Broken - Here's Why",
+              "publishedAt": "2026-02-26T15:30:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tmp002def/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tmp002def",
+              "summary": "\u2022 Current AI safety benchmarks can be gamed by training specifically for test scenarios\n\u2022 Researchers propose adversarial evaluation framework that's harder to overfit\n\u2022 Major labs have agreed to adopt the new framework starting Q2 2026",
+              "transcriptAvailable": true
+            },
+            {
+              "id": "tmp003ghi",
+              "title": "Neural Video Compression Beats H.266!",
+              "publishedAt": "2026-02-26T10:00:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tmp003ghi/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tmp003ghi",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "dailyDigest": "Tuesday's highlights included breakthroughs in protein folding speed and a new text-to-3D model that produces game-ready assets.",
+      "channels": [
+        {
+          "channelName": "Two Minute Papers",
+          "channelUrl": "https://www.youtube.com/@TwoMinutePapers",
+          "videos": [
+            {
+              "id": "tmp004jkl",
+              "title": "AlphaFold 4 - 100x Faster Protein Predictions",
+              "publishedAt": "2026-02-25T14:00:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tmp004jkl/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tmp004jkl",
+              "summary": "\u2022 AlphaFold 4 achieves 100x speedup over AlphaFold 3 with comparable accuracy\n\u2022 New architecture uses sparse attention patterns specifically designed for protein sequences\n\u2022 Drug discovery pipelines can now screen candidates in hours instead of days",
+              "transcriptAvailable": true
+            },
+            {
+              "id": "tmp005mno",
+              "title": "Text-to-3D Is Finally Good Enough For Games",
+              "publishedAt": "2026-02-25T10:30:00Z",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tmp005mno/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tmp005mno",
+              "summary": "Summary generation failed \u2014 will retry next run.",
+              "transcriptAvailable": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

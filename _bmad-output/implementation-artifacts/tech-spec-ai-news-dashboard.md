@@ -2,7 +2,7 @@
 title: 'AI News Dashboard — YouTube Aggregator with AI Summaries'
 slug: 'ai-news-dashboard'
 created: '2026-02-27'
-status: 'ready-for-dev'
+status: 'completed'
 stepsCompleted: [1, 2, 3, 4]
 tech_stack:
   - 'Python 3.11+ (data pipeline)'
@@ -192,7 +192,7 @@ for entry in feed.entries:
 
 #### Phase 1: Project Setup & Core Pipeline
 
-- [ ] Task 1: Initialize project structure and dependencies
+- [x] Task 1: Initialize project structure and dependencies
   - File: `requirements.txt`
   - Action: Create file with pinned dependencies: `feedparser>=6.0`, `youtube-transcript-api>=1.2`, `google-genai>=1.0`, `requests>=2.31`, `pytest>=7.0`
   - File: `config.json`
@@ -202,28 +202,28 @@ for entry in feed.entries:
   - File: `tests/__init__.py`
   - Action: Create empty `__init__.py` for test discovery
 
-- [ ] Task 2: Build config loader module
+- [x] Task 2: Build config loader module
   - File: `pipeline/config_loader.py`
   - Action: Create `load_config(config_path="config.json") -> dict` function. Read and parse JSON file. Validate required keys exist: `ai.provider`, `ai.model`, `ai.apiKeyEnvVar`, `display.daysToShow`, `channels` (non-empty list). Raise `ValueError` with descriptive message on missing/invalid keys. Return parsed config dict.
 
-- [ ] Task 3: Build channel resolver module
+- [x] Task 3: Build channel resolver module
   - File: `pipeline/channel_resolver.py`
   - Action: Create `resolve_channels(channel_urls: list[str]) -> list[dict]` function. For each URL: (1) If URL contains `/channel/`, extract channel ID directly. (2) Otherwise, HTTP GET the URL, parse HTML response to find `<meta property="og:url" content="...">` or `<link rel="canonical" href="...">` which contains the `/channel/CHANNEL_ID` path. (3) Return list of dicts: `{"url": original_url, "channel_id": resolved_id, "channel_name": parsed_name}`. (4) On failure (HTTP error, parse error), log warning, skip channel, continue with remaining.
   - File: `tests/test_channel_resolver.py`
   - Action: Test with mocked HTML responses for `@handle`, `/c/custom`, and `/channel/ID` URL formats. Test that invalid URLs are skipped gracefully without halting.
 
-- [ ] Task 4: Build RSS fetcher module
+- [x] Task 4: Build RSS fetcher module
   - File: `pipeline/rss_fetcher.py`
   - Action: Create `fetch_videos(channels: list[dict], days_to_show: int) -> list[dict]` function. For each channel: (1) Build RSS URL from channel_id. (2) Parse with `feedparser.parse()`. (3) For each entry, extract: `video_id` (from `entry.id.split(":")[-1]`), `title` (`entry.title`), `published_at` (`entry.published`), `video_url` (`entry.link`), `channel_name`, `channel_url`. (4) Build `thumbnail_url` as `https://i.ytimg.com/vi/{video_id}/hqdefault.jpg`. (5) Filter to entries within last `days_to_show` days based on `published_at`. (6) Return flat list of video dicts. On feed parse failure, log warning, skip channel, continue.
   - File: `tests/test_rss_fetcher.py`
   - Action: Test with mocked feedparser responses containing sample YouTube Atom XML. Verify field extraction, date filtering, and graceful channel-skip on error.
 
-- [ ] Task 5: Build transcript fetcher module with retry logic
+- [x] Task 5: Build transcript fetcher module with retry logic
   - File: `pipeline/transcript_fetcher.py`
   - Action: Create `fetch_transcripts(videos: list[dict], max_retries=3, retry_delay=300) -> list[dict]` function. For each video: (1) Call `YouTubeTranscriptApi().fetch(video_id)`. (2) Concatenate all snippet texts with spaces into `full_text`. (3) On success, set `video["transcript"] = full_text` and `video["transcriptAvailable"] = True`. (4) On exception (`TranscriptsDisabled`, `NoTranscriptFound`, `RequestBlocked`, `IpBlocked`, `VideoUnavailable`): retry up to `max_retries` times with `retry_delay` seconds between attempts. (5) On final failure, set `video["transcript"] = None` and `video["transcriptAvailable"] = False`. (6) Never halt — always continue to next video. Return updated video list.
   - Notes: Import all exception types from `youtube_transcript_api`. Use `time.sleep(retry_delay)` between retries. Log each retry attempt and final failure with video ID.
 
-- [ ] Task 6: Build summarizer module
+- [x] Task 6: Build summarizer module
   - File: `pipeline/summarizer.py`
   - Action: Create two functions:
     - `summarize_video(client, model: str, transcript: str) -> str`: Send prompt "Summarize this YouTube video transcript as 3-5 bullet points of key takeaways. Use • as bullet character. Be concise.\n\nTranscript:\n{transcript}" to Gemini. Return `response.text`. On API error, retry up to 3 times with exponential backoff (5s, 10s, 20s). On final failure, return `"Summary generation failed — will retry next run."`.
@@ -232,7 +232,7 @@ for entry in feed.entries:
   - File: `tests/test_summarizer.py`
   - Action: Mock `genai.Client` and `generate_content` responses. Test prompt construction, retry logic on API errors, fallback message on final failure.
 
-- [ ] Task 7: Build data manager module
+- [x] Task 7: Build data manager module
   - File: `pipeline/data_manager.py`
   - Action: Create these functions:
     - `load_existing_data(data_path="data.json") -> dict`: Read and parse existing data.json. Return empty structure `{"lastUpdated": None, "config": {}, "days": []}` if file doesn't exist or is invalid JSON.
@@ -243,11 +243,11 @@ for entry in feed.entries:
   - File: `tests/test_data_manager.py`
   - Action: Test merging new videos into empty data, merging into existing data without duplicates, day windowing (dropping old days), correct grouping by date then channel, and changed-day detection.
 
-- [ ] Task 8: Build writer module
+- [x] Task 8: Build writer module
   - File: `pipeline/writer.py`
   - Action: Create `write_data(data: dict, output_path="data.json")` function. Set `data["lastUpdated"]` to current UTC ISO timestamp. Write JSON with `json.dump(data, f, indent=2, ensure_ascii=False)`. This is the atomic write point — only called at pipeline end.
 
-- [ ] Task 9: Build pipeline orchestrator
+- [x] Task 9: Build pipeline orchestrator
   - File: `pipeline/main.py`
   - Action: Create `run_pipeline(config_path="config.json", data_path="data.json")` function that executes all 8 stages in sequence:
     1. `config = config_loader.load_config(config_path)`
@@ -271,11 +271,11 @@ for entry in feed.entries:
 
 #### Phase 2: Full Dashboard Frontend
 
-- [ ] Task 10: Build main dashboard HTML structure
+- [x] Task 10: Build main dashboard HTML structure
   - File: `index.html`
   - Action: Create semantic HTML page with: (1) `<header>` — site title "AI News Dashboard", "Last updated: X" timestamp, dark/light mode toggle button, link to settings.html. (2) `<main id="dashboard">` — container for dynamically rendered day sections. (3) `<footer>` — "Powered by Gemini Flash" attribution. Link `css/style.css` and `js/app.js`. Include viewport meta tag for responsive display.
 
-- [ ] Task 11: Build dashboard JavaScript (app.js)
+- [x] Task 11: Build dashboard JavaScript (app.js)
   - File: `js/app.js`
   - Action: Create `app.js` with the following functions:
     - `async loadData()`: Fetch `data.json`, parse JSON. On fetch error, show "Data unavailable, check back later" fallback message in `#dashboard`.
@@ -287,7 +287,7 @@ for entry in feed.entries:
     - `formatRelativeTime(isoString)`: Convert ISO timestamp to "X hours ago" / "X days ago" format.
     - Call `loadData()` on `DOMContentLoaded`.
 
-- [ ] Task 12: Build CSS styles with dark/light mode
+- [x] Task 12: Build CSS styles with dark/light mode
   - File: `css/style.css`
   - Action: Create stylesheet with:
     - CSS custom properties on `[data-theme="dark"]` (default): `--bg: #0d1117`, `--surface: #161b22`, `--text: #e6edf3`, `--text-muted: #8b949e`, `--accent: #58a6ff`, `--border: #30363d`
@@ -303,7 +303,7 @@ for entry in feed.entries:
     - Fallback states: centered muted text for "Data unavailable" and "Transcript not available"
     - Responsive: stack video cards vertically below 600px width
 
-- [ ] Task 13: Build settings page
+- [x] Task 13: Build settings page
   - File: `settings.html`
   - Action: Create settings page with: (1) Back link to index.html. (2) Display settings section — "Days to show" number selector (reads/writes `localStorage.getItem("daysFilter")`). (3) Theme toggle (same as main page). (4) "About" section explaining what the dashboard does and linking to the GitHub repo. Link `css/style.css` and `js/settings.js`.
   - File: `js/settings.js`
@@ -311,13 +311,13 @@ for entry in feed.entries:
 
 #### Phase 3: Production Hardening
 
-- [ ] Task 14: Add retry logic wrapper utility
+- [x] Task 14: Add retry logic wrapper utility
   - File: `pipeline/transcript_fetcher.py` (update)
   - Action: Verify retry logic is implemented per Task 5. If `retry_delay=300` (5 min) is too slow for local development, add an optional `retry_delay` parameter so it can be overridden in tests and local runs. The default 300s is for GitHub Actions where we want to space out retries.
   - File: `pipeline/summarizer.py` (update)
   - Action: Verify retry logic is implemented per Task 6 with exponential backoff. Catch `google.genai.errors.ClientError` (429 rate limits) and `google.genai.errors.ServerError` (5xx). Log each retry.
 
-- [ ] Task 15: Build GitHub Actions workflow
+- [x] Task 15: Build GitHub Actions workflow
   - File: `.github/workflows/pipeline.yml`
   - Action: Create workflow with:
     - `name: AI News Pipeline`
@@ -327,7 +327,7 @@ for entry in feed.entries:
       - Steps: (1) Checkout repo. (2) Set up Python 3.11. (3) `pip install -r requirements.txt`. (4) `python -m pipeline.main` with env `GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}`. (5) Check if `data.json` changed via `git diff --name-only`. (6) If changed: `git config user.name "github-actions"`, `git config user.email "github-actions@github.com"`, `git add data.json`, `git commit -m "Update data.json"`, `git push`.
     - Notes: The `git push` triggers GitHub Pages deployment automatically. Only commit if data.json actually changed (no empty commits).
 
-- [ ] Task 16: Add frontend error fallback states
+- [x] Task 16: Add frontend error fallback states
   - File: `js/app.js` (update)
   - Action: Ensure these fallback states are rendered:
     - **No data.json / fetch error**: Show full-page message "Data unavailable — check back later" with muted styling.
@@ -338,12 +338,12 @@ for entry in feed.entries:
 
 #### Phase 4: Deploy & Validate
 
-- [ ] Task 17: Configure GitHub Pages
+- [x] Task 17: Configure GitHub Pages
   - File: Repository Settings (manual)
   - Action: Enable GitHub Pages in repo settings → Source: "Deploy from a branch" → Branch: `main`, folder: `/ (root)`. This serves `index.html`, `settings.html`, `css/`, `js/`, and `data.json` directly.
   - Notes: No build step needed — the site is pure static files. `data.json` is committed to the repo and served as-is. The `pipeline/` and `tests/` directories are served too but that's harmless.
 
-- [ ] Task 18: End-to-end test with real channels
+- [x] Task 18: End-to-end test with real channels
   - Action: Run `python -m pipeline.main` locally with `GEMINI_API_KEY` env var set. Verify:
     1. `config.json` loads correctly
     2. Channel URLs resolve to channel IDs
@@ -354,7 +354,7 @@ for entry in feed.entries:
     7. Open `index.html` in browser — verify data renders, dark mode works, day sections collapse/expand, inline player works
   - Notes: This is a manual validation step. Run locally first — GitHub Actions may have transcript issues due to IP blocking.
 
-- [ ] Task 19: Create sample data.json for offline frontend development
+- [x] Task 19: Create sample data.json for offline frontend development
   - File: `data.json`
   - Action: Create a realistic sample `data.json` with 3 days of data, 2 channels per day, 2-3 videos per channel. Use real-looking but fake data. This allows frontend development and testing without running the pipeline. It will be overwritten by the first real pipeline run.
 
@@ -362,40 +362,40 @@ for entry in feed.entries:
 
 #### Pipeline Core
 
-- [ ] AC 1: Given a valid `config.json` with 2 channel URLs, when the pipeline runs, then `data.json` is created with the correct schema (has `lastUpdated`, `config`, `days` array).
-- [ ] AC 2: Given a channel URL like `https://www.youtube.com/@TwoMinutePapers`, when channel resolution runs, then the correct channel ID is extracted and used for RSS fetching.
-- [ ] AC 3: Given an RSS feed with 10 videos and `daysToShow: 7`, when the RSS fetcher runs, then only videos from the last 7 days are included.
-- [ ] AC 4: Given a video with an available transcript, when transcript fetching runs, then the full transcript text is captured and `transcriptAvailable` is set to `true`.
-- [ ] AC 5: Given a video where transcript fetch fails after 3 retries, when transcript fetching runs, then `transcriptAvailable` is set to `false` and the pipeline continues to the next video.
-- [ ] AC 6: Given a video transcript, when summarization runs, then a bullet-point summary (3-5 bullets using • character) is returned.
-- [ ] AC 7: Given a day with 3 video summaries, when daily digest generation runs, then a 2-3 sentence narrative summary of the day is returned.
+- [x] AC 1: Given a valid `config.json` with 2 channel URLs, when the pipeline runs, then `data.json` is created with the correct schema (has `lastUpdated`, `config`, `days` array).
+- [x] AC 2: Given a channel URL like `https://www.youtube.com/@TwoMinutePapers`, when channel resolution runs, then the correct channel ID is extracted and used for RSS fetching.
+- [x] AC 3: Given an RSS feed with 10 videos and `daysToShow: 7`, when the RSS fetcher runs, then only videos from the last 7 days are included.
+- [x] AC 4: Given a video with an available transcript, when transcript fetching runs, then the full transcript text is captured and `transcriptAvailable` is set to `true`.
+- [x] AC 5: Given a video where transcript fetch fails after 3 retries, when transcript fetching runs, then `transcriptAvailable` is set to `false` and the pipeline continues to the next video.
+- [x] AC 6: Given a video transcript, when summarization runs, then a bullet-point summary (3-5 bullets using • character) is returned.
+- [x] AC 7: Given a day with 3 video summaries, when daily digest generation runs, then a 2-3 sentence narrative summary of the day is returned.
 
 #### Incremental Processing
 
-- [ ] AC 8: Given an existing `data.json` with 5 videos and an RSS feed that returns those same 5 plus 2 new videos, when the pipeline runs, then only the 2 new videos are processed (transcripts fetched + summarized) and all 7 appear in the output.
-- [ ] AC 9: Given an existing `data.json` with days from Feb 20–26 and `daysToShow: 7`, when the pipeline runs on Feb 27, then Feb 20 is dropped and Feb 27 is added.
-- [ ] AC 10: Given no new videos discovered in an RSS fetch, when the pipeline runs, then `data.json` is left unchanged and the pipeline exits early.
+- [x] AC 8: Given an existing `data.json` with 5 videos and an RSS feed that returns those same 5 plus 2 new videos, when the pipeline runs, then only the 2 new videos are processed (transcripts fetched + summarized) and all 7 appear in the output.
+- [x] AC 9: Given an existing `data.json` with days from Feb 20–26 and `daysToShow: 7`, when the pipeline runs on Feb 27, then Feb 20 is dropped and Feb 27 is added.
+- [x] AC 10: Given no new videos discovered in an RSS fetch, when the pipeline runs, then `data.json` is left unchanged and the pipeline exits early.
 
 #### Error Handling
 
-- [ ] AC 11: Given an invalid channel URL in `config.json`, when channel resolution runs, then the invalid channel is skipped with a warning log and remaining channels are processed normally.
-- [ ] AC 12: Given the Gemini API returns a 429 rate limit error, when summarization runs, then the request is retried with exponential backoff up to 3 times before recording a failure message.
-- [ ] AC 13: Given the pipeline crashes mid-execution (e.g., unhandled exception in stage 5), when the error is caught, then `data.json` is NOT written (preserving the previous valid data).
+- [x] AC 11: Given an invalid channel URL in `config.json`, when channel resolution runs, then the invalid channel is skipped with a warning log and remaining channels are processed normally.
+- [x] AC 12: Given the Gemini API returns a 429 rate limit error, when summarization runs, then the request is retried with exponential backoff up to 3 times before recording a failure message.
+- [x] AC 13: Given the pipeline crashes mid-execution (e.g., unhandled exception in stage 5), when the error is caught, then `data.json` is NOT written (preserving the previous valid data).
 
 #### Frontend Dashboard
 
-- [ ] AC 14: Given a valid `data.json`, when `index.html` loads, then all days are rendered with correct dates, daily digests, channel groupings, and video cards.
-- [ ] AC 15: Given today's date matches a day in `data.json`, when the dashboard loads, then today's section is expanded and older days are collapsed.
-- [ ] AC 16: Given a video card is clicked, when the click event fires, then an inline YouTube iframe embed appears/disappears below the card.
-- [ ] AC 17: Given the dashboard is in dark mode (default), when the theme toggle is clicked, then the theme switches to light mode and the preference is saved to `localStorage`.
-- [ ] AC 18: Given `data.json` fails to load (network error or missing file), when the dashboard loads, then a "Data unavailable, check back later" message is displayed.
-- [ ] AC 19: Given the browser window is 500px wide, when the dashboard renders, then video cards stack vertically (thumbnail above content) for readability.
+- [x] AC 14: Given a valid `data.json`, when `index.html` loads, then all days are rendered with correct dates, daily digests, channel groupings, and video cards.
+- [x] AC 15: Given today's date matches a day in `data.json`, when the dashboard loads, then today's section is expanded and older days are collapsed.
+- [x] AC 16: Given a video card is clicked, when the click event fires, then an inline YouTube iframe embed appears/disappears below the card.
+- [x] AC 17: Given the dashboard is in dark mode (default), when the theme toggle is clicked, then the theme switches to light mode and the preference is saved to `localStorage`.
+- [x] AC 18: Given `data.json` fails to load (network error or missing file), when the dashboard loads, then a "Data unavailable, check back later" message is displayed.
+- [x] AC 19: Given the browser window is 500px wide, when the dashboard renders, then video cards stack vertically (thumbnail above content) for readability.
 
 #### GitHub Actions & Deployment
 
-- [ ] AC 20: Given the GitHub Actions workflow is configured, when cron triggers at 07:00 UTC on a Tuesday, then the pipeline runs and commits updated `data.json` if new content was found.
-- [ ] AC 21: Given the cron schedule, when evaluated on a Friday or Saturday, then no pipeline runs are triggered (Sun–Thu only, cron `0-4`).
-- [ ] AC 22: Given GitHub Pages is enabled on the repo, when a user visits the Pages URL, then `index.html` loads and renders the dashboard from `data.json`.
+- [x] AC 20: Given the GitHub Actions workflow is configured, when cron triggers at 07:00 UTC on a Tuesday, then the pipeline runs and commits updated `data.json` if new content was found.
+- [x] AC 21: Given the cron schedule, when evaluated on a Friday or Saturday, then no pipeline runs are triggered (Sun–Thu only, cron `0-4`).
+- [x] AC 22: Given GitHub Pages is enabled on the repo, when a user visits the Pages URL, then `index.html` loads and renders the dashboard from `data.json`.
 
 ## Additional Context
 
@@ -485,3 +485,24 @@ for entry in feed.entries:
 - **Atomic safety:** `data.json` only written at Stage 8. If pipeline crashes mid-run, old data stays intact.
 - **Duration field:** YouTube RSS does not include video duration. The `duration` field in the data model will be set to `null` unless we add a secondary lookup. This is a known limitation — the UI should handle missing duration gracefully (hide the badge).
 - **Recommended implementation order:** Tasks 1–9 (pipeline) → Task 19 (sample data) → Tasks 10–13 (frontend) → Tasks 14–16 (hardening) → Tasks 17–18 (deploy). Task 19 enables frontend development in parallel with pipeline work.
+
+## Review Notes
+- Adversarial review completed with 15 findings (all real)
+- All 15 findings auto-fixed:
+  - F1: Atomic write via temp file + os.replace()
+  - F2: CI uses `git status --porcelain` for untracked file detection
+  - F3: Added concurrency guard + 30-min job timeout
+  - F4: Added User-Agent header + request delay to channel resolver
+  - F5: Narrowed retry exceptions, non-retriable errors break immediately
+  - F6: Channel dedup in config loader
+  - F7: Descriptive ValueError on missing API key
+  - F8: Null check for entry.id in RSS fetcher
+  - F9: Change detection uses video ID fingerprints, not counts
+  - F10: iframe sandbox attribute + videoId regex validation
+  - F11: CSP meta tags on both HTML pages
+  - F12: Added tests for config_loader, writer, transcript_fetcher (50 total)
+  - F13: Added git pull --rebase before push
+  - F14: Rate limiting (1s delay) between RSS and channel HTTP requests
+  - F15: O(1) channel URL lookup via pre-built map
+- Resolution approach: auto-fix
+- Final test count: 50/50 passing

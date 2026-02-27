@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self'">
+  <title>Settings — AI News Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .settings-page { max-width: 600px; margin: 0 auto; padding: 2rem 1rem; }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; font-size: 0.9rem; }
+    .settings-section { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; margin-bottom: 1.25rem; }
+    .settings-section h2 { font-size: 1rem; margin-bottom: 0.75rem; }
+    .setting-row { display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0; }
+    .setting-row label { font-size: 0.9rem; }
+    .setting-row input[type="number"] { width: 60px; padding: 0.3rem 0.5rem; border: 1px solid var(--border); border-radius: 4px; background: var(--bg); color: var(--text); font-size: 0.9rem; }
+    .setting-row select { padding: 0.3rem 0.5rem; border: 1px solid var(--border); border-radius: 4px; background: var(--bg); color: var(--text); font-size: 0.9rem; }
+    .about-text { font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <div class="settings-page">
+    <a href="index.html" class="back-link">&larr; Back to Dashboard</a>
+    <h1>Settings</h1>
+
+    <div class="settings-section">
+      <h2>Display</h2>
+      <div class="setting-row">
+        <label for="days-filter">Days to show</label>
+        <input type="number" id="days-filter" min="1" max="30" value="7">
+      </div>
+      <div class="setting-row">
+        <label for="theme-select">Theme</label>
+        <select id="theme-select">
+          <option value="dark">Dark</option>
+          <option value="light">Light</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <h2>About</h2>
+      <p class="about-text">
+        AI News Dashboard aggregates recent AI-related YouTube videos, extracts transcripts,
+        and generates AI-powered summaries using Gemini Flash. The pipeline runs automatically
+        via GitHub Actions and publishes to GitHub Pages. No accounts or API keys needed to view.
+      </p>
+    </div>
+  </div>
+
+  <script src="js/settings.js"></script>
+</body>
+</html>

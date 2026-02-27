@@ -1,0 +1,50 @@
+name: AI News Pipeline
+
+on:
+  schedule:
+    # Sun-Thu at 07:00, 10:00, 15:00 UTC (10:00, 13:00, 18:00 Israel time)
+    # Cron: 0=Sun, 4=Thu
+    - cron: '0 7 * * 0-4'
+    - cron: '0 10 * * 0-4'
+    - cron: '0 15 * * 0-4'
+  workflow_dispatch: # Manual trigger
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: true
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m pipeline.main
+
+      - name: Commit updated data.json
+        run: |
+          # Check for changes (covers both modified tracked and new untracked data.json)
+          if [ -n "$(git status data.json --porcelain)" ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add data.json
+            git pull --rebase origin main
+            git commit -m "Update data.json"
+            git push
+          else
+            echo "No changes to data.json — skipping commit"
+          fi
