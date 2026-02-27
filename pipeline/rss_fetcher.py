@@ -5,12 +5,18 @@ import time
 from datetime import datetime, timedelta, timezone
 
 import feedparser
+import requests
 
 logger = logging.getLogger(__name__)
 
 RSS_URL_TEMPLATE = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 THUMBNAIL_URL_TEMPLATE = "https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
 _REQUEST_DELAY = 1  # seconds between RSS fetches
+_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Accept": "application/xml, text/xml, application/atom+xml, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 
 def fetch_videos(channels, days_to_show):
@@ -26,7 +32,8 @@ def fetch_videos(channels, days_to_show):
             if i > 0:
                 time.sleep(_REQUEST_DELAY)
             feed_url = RSS_URL_TEMPLATE.format(channel_id=channel["channel_id"])
-            feed = feedparser.parse(feed_url)
+            response = requests.get(feed_url, headers=_HEADERS, timeout=15)
+            feed = feedparser.parse(response.content)
 
             if feed.bozo and not feed.entries:
                 logger.warning("Feed parse error for %s: %s", channel["channel_name"], feed.bozo_exception)
