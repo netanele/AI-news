@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:13:54Z",
+  "lastUpdated": "2026-02-27T06:17:27Z",
   "config": {
     "daysToShow": 7
   },
@@ -46,6 +46,22 @@
       "date": "2026-02-26",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "YeCHI1dmpZY",
+              "title": "This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)",
+              "publishedAt": "2026-02-26T01:00:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YeCHI1dmpZY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YeCHI1dmpZY",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -121,6 +137,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/romGzY0Xu0s/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=romGzY0Xu0s",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "tHUohQJvHvI",
+              "title": "Gemini 3.1 Pro Faltered — And Revealed Something Bigger",
+              "publishedAt": "2026-02-25T19:32:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tHUohQJvHvI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tHUohQJvHvI",
               "summary": "Transcript not available for this video.",
               "transcriptAvailable": false
             }
@@ -275,6 +307,38 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "goOZSXmrYQ4",
+              "title": "My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)",
+              "publishedAt": "2026-02-23T17:35:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/goOZSXmrYQ4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=goOZSXmrYQ4",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "QDIs4g3Qw3k",
+              "title": "The One Shift That Takes You to Level 3 With AI",
+              "publishedAt": "2026-02-23T13:00:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QDIs4g3Qw3k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QDIs4g3Qw3k",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -414,6 +478,38 @@
       "date": "2026-02-20",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "FDYhPXYDS_o",
+              "title": "This Free Tool Makes Claude Code 10x Better",
+              "publishedAt": "2026-02-20T23:19:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FDYhPXYDS_o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FDYhPXYDS_o",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "y_W3486ccfI",
+              "title": "Something Is Happening Inside Claude Code Agent Teams",
+              "publishedAt": "2026-02-20T20:52:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/y_W3486ccfI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=y_W3486ccfI",
+              "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
