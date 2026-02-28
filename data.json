@@ -1,9 +1,151 @@
 {
-  "lastUpdated": "2026-02-27T14:42:01Z",
+  "lastUpdated": "2026-02-28T22:23:41Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-02-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "sdxJEd7nqiQ",
+              "title": "This Fixed The 90% of All Design Errors",
+              "publishedAt": "2026-02-28T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sdxJEd7nqiQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sdxJEd7nqiQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "jChlnd4kTcw",
+              "title": "Claude Code Remote Control Is About to Change Things",
+              "publishedAt": "2026-02-28T16:05:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jChlnd4kTcw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jChlnd4kTcw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "lKM8vZRG7eE",
+              "title": "Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm",
+              "publishedAt": "2026-02-28T22:00:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lKM8vZRG7eE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lKM8vZRG7eE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "2ghhiPLg-jg",
+              "title": "My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.",
+              "publishedAt": "2026-02-28T16:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2ghhiPLg-jg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2ghhiPLg-jg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "m7r4iP2NqNc",
+              "title": "ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind",
+              "publishedAt": "2026-02-28T04:00:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/m7r4iP2NqNc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/m7r4iP2NqNc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "xIbIbTjpr0o",
+              "title": "How to Use Claude Code for FREE",
+              "publishedAt": "2026-02-28T21:03:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xIbIbTjpr0o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/xIbIbTjpr0o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "8Nk9IWhW2Ck",
+              "title": "I built my own OpenClaw that does EVERYTHING for me (but safer)",
+              "publishedAt": "2026-02-28T15:58:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8Nk9IWhW2Ck/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8Nk9IWhW2Ck",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "aw_k00T4UFk",
+              "title": "Antigravity + Claude Code IS INCREDIBLE! NEW AI Coding Workflow Can Build and Automate EVERYTHING!",
+              "publishedAt": "2026-02-28T04:49:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aw_k00T4UFk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=aw_k00T4UFk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "dMsW7aDEcUk",
+              "title": "Paradox in action",
+              "publishedAt": "2026-02-28T21:21:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dMsW7aDEcUk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dMsW7aDEcUk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "rgqxrw26twA",
+              "title": "The Government just blacklisted Anthropic...",
+              "publishedAt": "2026-02-28T00:18:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rgqxrw26twA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rgqxrw26twA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-02-27",
       "dailyDigest": "",
@@ -13,6 +155,26 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "U5N9NvI_p8o",
+              "title": "LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm",
+              "publishedAt": "2026-02-27T22:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/U5N9NvI_p8o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/U5N9NvI_p8o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "BpibZSMGtdY",
+              "title": "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.",
+              "publishedAt": "2026-02-27T15:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BpibZSMGtdY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BpibZSMGtdY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "C_R8_Dd1x00",
               "title": "Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude",
               "publishedAt": "2026-02-27T04:00:12+00:00",
@@ -20,6 +182,22 @@
               "thumbnailUrl": "https://i.ytimg.com/vi/C_R8_Dd1x00/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/C_R8_Dd1x00",
               "summary": "Transcript not available for this video.",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "LbFgQDqTnSE",
+              "title": "Never Use ChatGPT Without This",
+              "publishedAt": "2026-02-27T18:47:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LbFgQDqTnSE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LbFgQDqTnSE",
+              "summary": "",
               "transcriptAvailable": false
             }
           ]
@@ -44,6 +222,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "_HkwxN4uO68",
+              "title": "Baby Keem know ball",
+              "publishedAt": "2026-02-27T21:10:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_HkwxN4uO68/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_HkwxN4uO68",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "YE2TH7GNqnE",
               "title": "Nano Banana 2 🍌",
@@ -579,132 +767,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/THnldGFw6Dk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/THnldGFw6Dk",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-02-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "FDYhPXYDS_o",
-              "title": "This Free Tool Makes Claude Code 10x Better",
-              "publishedAt": "2026-02-20T23:19:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FDYhPXYDS_o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FDYhPXYDS_o",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "y_W3486ccfI",
-              "title": "Something Is Happening Inside Claude Code Agent Teams",
-              "publishedAt": "2026-02-20T20:52:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/y_W3486ccfI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=y_W3486ccfI",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "-bQcWs1Z9a0",
-              "title": "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.",
-              "publishedAt": "2026-02-20T15:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-bQcWs1Z9a0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-bQcWs1Z9a0",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "-SQ3gkly9uo",
-              "title": "What the F*ck Is OpenClaw?",
-              "publishedAt": "2026-02-20T17:23:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-SQ3gkly9uo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/-SQ3gkly9uo",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "sDePFmn-3io",
-              "title": "I Built an AI That Turns PDFs Into Newsletters and Podcasts (Antigravity + n8n)",
-              "publishedAt": "2026-02-20T14:11:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sDePFmn-3io/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sDePFmn-3io",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "JktkeSkt7Fc",
-              "title": "Forward Future Live | 02.20.26 | Guests from IFS, Vantor, Pindrop Security, and Runway!",
-              "publishedAt": "2026-02-20T20:14:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JktkeSkt7Fc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JktkeSkt7Fc",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "W5dlgzluems",
-              "title": "Google just dropped Gemini 3.1... (WOAH)",
-              "publishedAt": "2026-02-20T20:02:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W5dlgzluems/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=W5dlgzluems",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "A4_MUgnS6rw",
-              "title": "Gemini 3.1 Pro Simulations 👀",
-              "publishedAt": "2026-02-20T19:47:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/A4_MUgnS6rw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/A4_MUgnS6rw",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "gnd1K0h6fjM",
-              "title": "Gemini 3.1 Pro Benchmarks",
-              "publishedAt": "2026-02-20T17:13:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gnd1K0h6fjM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/gnd1K0h6fjM",
               "summary": "Transcript not available for this video.",
               "transcriptAvailable": false
             }
