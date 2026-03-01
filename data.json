@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T09:06:29Z",
+  "lastUpdated": "2026-03-01T09:17:37Z",
   "config": {
     "daysToShow": 7
   },
@@ -754,9 +754,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: matthew_berman, NicholasPuru, NateBJones, MetalSole, intheworldofai"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
