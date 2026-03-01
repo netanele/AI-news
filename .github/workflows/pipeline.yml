@@ -43,12 +43,19 @@ jobs:
         run: |
           # Check for changes (covers both modified tracked and new untracked data.json)
           if [ -n "$(git status data.json --porcelain)" ]; then
+            # Save pipeline output, reset to remote, then overlay
+            # This avoids rebase merge issues with data.json
+            cp data.json /tmp/pipeline-data.json
             git config user.name "github-actions"
             git config user.email "github-actions@github.com"
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/pipeline-data.json data.json
             git add data.json
-            git commit -m "Update data.json"
-            git pull --rebase -X theirs origin main
-            git push
+            git diff --cached --quiet && echo "No effective changes — skipping" || {
+              git commit -m "Update data.json"
+              git push
+            }
           else
             echo "No changes to data.json — skipping commit"
           fi
