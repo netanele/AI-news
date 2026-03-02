@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-03-01T15:17:47Z",
+  "lastUpdated": "2026-03-02T07:51:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-03-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "4H_an5xtyr0",
+              "title": "NEW Claude Code & OpenCode KILLER! This Just Fixed 90% of AI Coding! (Open Source)",
+              "publishedAt": "2026-03-02T07:13:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4H_an5xtyr0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4H_an5xtyr0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-03-01",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "da0QOSSFzUw",
+              "title": "You Don’t Have To Learn Excel Anymore (Claude)",
+              "publishedAt": "2026-03-01T22:38:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/da0QOSSFzUw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/da0QOSSFzUw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -19,6 +57,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/PU_hwTG0QVU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=PU_hwTG0QVU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "whAYgnVLiVE",
+              "title": "never thought this could be real",
+              "publishedAt": "2026-03-01T17:55:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/whAYgnVLiVE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/whAYgnVLiVE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -661,100 +715,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-02-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "hp7n45JqvIw",
-              "title": "OpenClaw Use Cases That Are Actually Insane",
-              "publishedAt": "2026-02-22T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hp7n45JqvIw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hp7n45JqvIw",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "gmsyoeIX8rc",
-              "title": "How to avoid LLM psychosis — 2 tips you need NOW #llm #ai #futureofwork",
-              "publishedAt": "2026-02-22T22:00:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gmsyoeIX8rc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/gmsyoeIX8rc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "OMb5oTlC_q0",
-              "title": "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)",
-              "publishedAt": "2026-02-22T19:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OMb5oTlC_q0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OMb5oTlC_q0",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "0YHAe8QV0wQ",
-              "title": "The way you work now has an expiration date",
-              "publishedAt": "2026-02-22T20:47:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0YHAe8QV0wQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0YHAe8QV0wQ",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dVpIPXmEk8Y",
-              "title": "Claude Plugins Are Replacing Entire Departments — Here's What They Do",
-              "publishedAt": "2026-02-22T16:34:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dVpIPXmEk8Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dVpIPXmEk8Y",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "CBIUxXy3WmM",
-              "title": "Claude Code NEW Design Canvas With Built-In Figma That's FREE! (Pencil.dev)",
-              "publishedAt": "2026-02-22T06:42:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CBIUxXy3WmM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CBIUxXy3WmM",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: NateBJones"
+    ]
   }
 }
