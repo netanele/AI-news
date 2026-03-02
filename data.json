@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T10:45:21Z",
+  "lastUpdated": "2026-03-02T15:35:51Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,54 @@
       "date": "2026-03-02",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "m3fqyXZ4k4I",
+              "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
+              "publishedAt": "2026-03-02T15:01:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/m3fqyXZ4k4I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=m3fqyXZ4k4I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "SyTDaIg-xbk",
+              "title": "AI Is Improving Your Code and Destroying What Made It Yours",
+              "publishedAt": "2026-03-02T13:00:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SyTDaIg-xbk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SyTDaIg-xbk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "2JiMmye2ezg",
+              "title": "Open Brain: I Built an AI Brain in 45 Minutes. It Costs $0.10-$0.30/Mo. It Works With Every Model.",
+              "publishedAt": "2026-03-02T15:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2JiMmye2ezg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2JiMmye2ezg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
