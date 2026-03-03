@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T10:41:21Z",
+  "lastUpdated": "2026-03-03T15:41:48Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "cop_G65D7PA",
+              "title": "This Just Changed How I Work With AI Agents",
+              "publishedAt": "2026-03-03T14:15:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cop_G65D7PA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=cop_G65D7PA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "pTtueIqrg0Q",
+              "title": "Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.",
+              "publishedAt": "2026-03-03T15:15:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pTtueIqrg0Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pTtueIqrg0Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "AMwNQlkyBrc",
               "title": "One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai",
