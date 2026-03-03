@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T07:44:50Z",
+  "lastUpdated": "2026-03-03T10:41:21Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TWoX1yH7Kf0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=TWoX1yH7Kf0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "deEri629Nnw",
+              "title": "They spent MILLIONS on this...",
+              "publishedAt": "2026-03-03T02:17:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/deEri629Nnw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=deEri629Nnw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -115,6 +131,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/4H_an5xtyr0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=4H_an5xtyr0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "YmUNXNNTApg",
+              "title": "🫠 oh nooo",
+              "publishedAt": "2026-03-02T18:28:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YmUNXNNTApg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/YmUNXNNTApg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "YPLNjxMLDDA",
+              "title": "you can just do things!!",
+              "publishedAt": "2026-03-02T17:02:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YPLNjxMLDDA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/YPLNjxMLDDA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -754,9 +796,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: matthew_berman"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
