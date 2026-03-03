@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-02T15:35:51Z",
+  "lastUpdated": "2026-03-03T07:44:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-03",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "AMwNQlkyBrc",
+              "title": "One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai",
+              "publishedAt": "2026-03-03T04:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AMwNQlkyBrc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AMwNQlkyBrc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "TWoX1yH7Kf0",
+              "title": "Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)",
+              "publishedAt": "2026-03-03T03:48:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TWoX1yH7Kf0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TWoX1yH7Kf0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-02",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "SLeFoPuwMh0",
+              "title": "Use Your Local LLMs From Anywhere (Fully Private)",
+              "publishedAt": "2026-03-02T21:12:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SLeFoPuwMh0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SLeFoPuwMh0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "m3fqyXZ4k4I",
               "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
@@ -82,6 +130,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "uUutLHhfMVU",
+              "title": "Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork",
+              "publishedAt": "2026-03-01T22:00:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uUutLHhfMVU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/uUutLHhfMVU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "RnjgLlQTMf0",
               "title": "Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)",
@@ -693,96 +751,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-02-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "goOZSXmrYQ4",
-              "title": "My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)",
-              "publishedAt": "2026-02-23T17:35:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/goOZSXmrYQ4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=goOZSXmrYQ4",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "QDIs4g3Qw3k",
-              "title": "The One Shift That Takes You to Level 3 With AI",
-              "publishedAt": "2026-02-23T13:00:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QDIs4g3Qw3k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QDIs4g3Qw3k",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "8jKAT8GNDE0",
-              "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
-              "publishedAt": "2026-02-23T15:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8jKAT8GNDE0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8jKAT8GNDE0",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "EGo7m7ZjW0c",
-              "title": "NEW Antigravity AI Studio Release From Google Changes AI Code Development!",
-              "publishedAt": "2026-02-23T08:11:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EGo7m7ZjW0c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EGo7m7ZjW0c",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "v47uzWSn9Vw",
-              "title": "Three ways to spot a deepfake",
-              "publishedAt": "2026-02-23T23:28:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/v47uzWSn9Vw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/v47uzWSn9Vw",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: matthew_berman"
+    ]
   }
 }
