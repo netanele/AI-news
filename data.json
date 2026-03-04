@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T15:41:48Z",
+  "lastUpdated": "2026-03-04T07:40:45Z",
   "config": {
     "daysToShow": 7
   },
@@ -45,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AMwNQlkyBrc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/AMwNQlkyBrc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "rtrafyAEm6I",
+              "title": "The AI Tools to Build an 8-Figure Company",
+              "publishedAt": "2026-03-03T17:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rtrafyAEm6I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rtrafyAEm6I",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -739,90 +755,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-02-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "QWzLPn164w0",
-              "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
-              "publishedAt": "2026-02-24T15:00:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QWzLPn164w0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QWzLPn164w0",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "WJc2Ugkruss",
-              "title": "Why Everyone’s Buying Mac Minis",
-              "publishedAt": "2026-02-24T14:47:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WJc2Ugkruss/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/WJc2Ugkruss",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "7bQXrf2jbZY",
-              "title": "Gemini 3.1 Pro + Claude Opus 4.6 = Ultimate AI Coding Workflow! Incredible Coding Results + FREE!",
-              "publishedAt": "2026-02-24T08:35:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7bQXrf2jbZY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7bQXrf2jbZY",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "3110hx3ygp0",
-              "title": "I've spent 5 BILLION tokens perfecting OpenClaw...",
-              "publishedAt": "2026-02-24T23:59:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3110hx3ygp0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3110hx3ygp0",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "mI1d1WqIQWQ",
-              "title": "ways to use ai",
-              "publishedAt": "2026-02-24T16:18:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mI1d1WqIQWQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mI1d1WqIQWQ",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: AILABS-393, matthew_berman, ColeMedin, NateBJones, MetalSole, intheworldofai"
+    ]
   }
 }
