@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-03-04T07:40:45Z",
+  "lastUpdated": "2026-03-04T10:38:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-04",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "9V_HoF662sw",
+              "title": "Gemini 3.1 Flash-Lite Is Google's FASTEST & Cheapest Model Ever! Decent At Coding! (Fully Tested)",
+              "publishedAt": "2026-03-04T08:31:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9V_HoF662sw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9V_HoF662sw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-03",
       "dailyDigest": "",
@@ -86,6 +108,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "KO2rv1YbwpQ",
+              "title": "teens made out like bandits",
+              "publishedAt": "2026-03-03T18:55:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KO2rv1YbwpQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KO2rv1YbwpQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "deEri629Nnw",
               "title": "They spent MILLIONS on this...",
@@ -758,9 +790,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: AILABS-393, matthew_berman, ColeMedin, NateBJones, MetalSole, intheworldofai"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
