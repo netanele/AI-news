@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T10:41:22Z",
+  "lastUpdated": "2026-03-05T15:44:50Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "MOCIjmX16uo",
+              "title": "Is Software Engineering Finally Dead?!?",
+              "publishedAt": "2026-03-05T13:30:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MOCIjmX16uo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/MOCIjmX16uo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "tjBpm91ZQM0",
               "title": "Is Software Engineering Finally Dead?",
@@ -28,6 +38,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "JYcidOS9ozU",
+              "title": "Your Engineers Just Built Your Most Valuable Asset on a Platform Nobody Approved (Why It Matters)",
+              "publishedAt": "2026-03-05T15:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JYcidOS9ozU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JYcidOS9ozU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "13izTHRNAtQ",
               "title": "Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai",
