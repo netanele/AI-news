@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-03-04T15:34:22Z",
+  "lastUpdated": "2026-03-05T07:38:35Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-05",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "tjBpm91ZQM0",
+              "title": "Is Software Engineering Finally Dead?",
+              "publishedAt": "2026-03-05T01:00:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tjBpm91ZQM0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tjBpm91ZQM0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "13izTHRNAtQ",
+              "title": "Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai",
+              "publishedAt": "2026-03-05T04:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/13izTHRNAtQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/13izTHRNAtQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "6UfitKQf6SU",
+              "title": "GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context & Excels at Coding! (Fully Tested)",
+              "publishedAt": "2026-03-05T07:17:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6UfitKQf6SU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6UfitKQf6SU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-04",
       "dailyDigest": "",
@@ -13,12 +67,48 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "aVJLn1atPHc",
+              "title": "Big tech stopped buying startups — here's what changed #nvidia #groq #ai",
+              "publishedAt": "2026-03-04T22:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aVJLn1atPHc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/aVJLn1atPHc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "O7SSQfiPDXA",
               "title": "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)",
               "publishedAt": "2026-03-04T15:00:47+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/O7SSQfiPDXA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=O7SSQfiPDXA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "62lUVDi4RuA",
+              "title": "He Vibe-Coded Palantir For Free Using AI",
+              "publishedAt": "2026-03-04T20:27:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/62lUVDi4RuA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/62lUVDi4RuA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "qpyhrrCAOro",
+              "title": "Google Just Made Deploying AI Agents 10x Easier",
+              "publishedAt": "2026-03-04T15:34:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qpyhrrCAOro/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qpyhrrCAOro",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -35,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/9V_HoF662sw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=9V_HoF662sw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "dscgpwF1RvA",
+              "title": "self-driving cars EVERYWHERE",
+              "publishedAt": "2026-03-04T16:59:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dscgpwF1RvA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dscgpwF1RvA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -665,138 +771,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/HNGVhlfWlyU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/HNGVhlfWlyU",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-02-25",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "romGzY0Xu0s",
-              "title": "This Just Fixed 90% Of AI Coding",
-              "publishedAt": "2026-02-25T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/romGzY0Xu0s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=romGzY0Xu0s",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "tHUohQJvHvI",
-              "title": "Gemini 3.1 Pro Faltered — And Revealed Something Bigger",
-              "publishedAt": "2026-02-25T19:32:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tHUohQJvHvI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=tHUohQJvHvI",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "0v9ixCWNhPo",
-              "title": "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)",
-              "publishedAt": "2026-02-25T15:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0v9ixCWNhPo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0v9ixCWNhPo",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "tM0XYas3MgM",
-              "title": "How to Get Your Business to Show Up on ChatGPT",
-              "publishedAt": "2026-02-25T18:50:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tM0XYas3MgM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/tM0XYas3MgM",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "qDLzZB5fB_s",
-              "title": "How to Run Your Entire Business With Claude Code (No Coding Required)",
-              "publishedAt": "2026-02-25T16:21:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qDLzZB5fB_s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qDLzZB5fB_s",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "g3D3yYVCSYQ",
-              "title": "Mercury 2: The World's Fastest Reasoning Model! Fast, Cheap, & Powerful! Beats Claude & Gemini!",
-              "publishedAt": "2026-02-25T04:09:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/g3D3yYVCSYQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=g3D3yYVCSYQ",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "KVSdEJyQc9M",
-              "title": "secret cameras in your house",
-              "publishedAt": "2026-02-25T21:12:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KVSdEJyQc9M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KVSdEJyQc9M",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "VmEa3fVvZDw",
-              "title": "They Got Caught...",
-              "publishedAt": "2026-02-25T17:58:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VmEa3fVvZDw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VmEa3fVvZDw",
-              "summary": "Transcript not available for this video.",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5wPI9wSCL3A",
-              "title": "no one felt sorry for them",
-              "publishedAt": "2026-02-25T14:44:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5wPI9wSCL3A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5wPI9wSCL3A",
               "summary": "Transcript not available for this video.",
               "transcriptAvailable": false
             }
