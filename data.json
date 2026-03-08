@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T07:33:32Z",
+  "lastUpdated": "2026-03-08T10:27:35Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/uk_lQIHv2dI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/uk_lQIHv2dI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "yLi7e8-Nvbg",
+              "title": "Claude Code Just Got ANOTHER MASSIVE Upgrade with /Loop - Automate AI Coding!",
+              "publishedAt": "2026-03-08T07:53:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yLi7e8-Nvbg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yLi7e8-Nvbg",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -57,6 +73,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/-_vL1KXd2rc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=-_vL1KXd2rc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "6SIJXB0laKY",
+              "title": "Claude Code Explained Like You’re 7 Years Old",
+              "publishedAt": "2026-03-07T22:03:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6SIJXB0laKY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6SIJXB0laKY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "4J_Xf_SogBk",
+              "title": "Claude Skills 2.0: The Right Way to Build Them",
+              "publishedAt": "2026-03-07T19:33:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4J_Xf_SogBk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4J_Xf_SogBk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -137,6 +179,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/uadBkzaXHQc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/uadBkzaXHQc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "5dFywI8rpYE",
+              "title": "You Don’t Have To Instruct Your AI Anymore",
+              "publishedAt": "2026-03-06T20:57:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5dFywI8rpYE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5dFywI8rpYE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "exms9uhYtAQ",
+              "title": "I Now Run 90% of My Business From My Phone (Claude Code Remote Control)",
+              "publishedAt": "2026-03-06T14:40:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/exms9uhYtAQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=exms9uhYtAQ",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -654,9 +722,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: NicholasPuru"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
