@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T10:48:37Z",
+  "lastUpdated": "2026-03-09T15:53:10Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "yq8_Q5z-Geo",
+              "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
+              "publishedAt": "2026-03-09T15:09:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yq8_Q5z-Geo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/yq8_Q5z-Geo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "iY7BDpZWJbE",
+              "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
+              "publishedAt": "2026-03-09T14:01:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iY7BDpZWJbE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=iY7BDpZWJbE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "3Mx9XPC3zPc",
               "title": "2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3Mx9XPC3zPc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/3Mx9XPC3zPc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "NkQaCGJHkNs",
+              "title": "How I Build Agentic Workflows Without Typing a Single Word",
+              "publishedAt": "2026-03-09T14:49:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NkQaCGJHkNs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NkQaCGJHkNs",
               "summary": "",
               "transcriptAvailable": false
             }
