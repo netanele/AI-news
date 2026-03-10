@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-09T15:53:10Z",
+  "lastUpdated": "2026-03-10T07:34:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "2Ilk1Nk5Ux4",
+              "title": "The Best AI Won't Sit There. It'll Interrupt You at Exactly the Right Moment. #futureofwork #ai",
+              "publishedAt": "2026-03-10T03:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2Ilk1Nk5Ux4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2Ilk1Nk5Ux4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "td_lTMVV-ak",
+              "title": "Claude Code Code Review, Deepseek v4, Gemma 4, OpenClaw Update, Copilot Cowork, & More! HUGE AI News",
+              "publishedAt": "2026-03-10T04:10:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/td_lTMVV-ak/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=td_lTMVV-ak",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-09",
       "dailyDigest": "",
@@ -55,6 +93,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "sd4nMkIjG1w",
+              "title": "The AI System Recovering Medical Clinics $1,000’s in Lost Revenue",
+              "publishedAt": "2026-03-09T18:27:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sd4nMkIjG1w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/sd4nMkIjG1w",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "NkQaCGJHkNs",
               "title": "How I Build Agentic Workflows Without Typing a Single Word",
               "publishedAt": "2026-03-09T14:49:14+00:00",
@@ -77,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7cOAayWzYDY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=7cOAayWzYDY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "E5B0cS6XRkg",
+              "title": "Dylan Patel: They Don't See It Coming",
+              "publishedAt": "2026-03-09T17:07:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/E5B0cS6XRkg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=E5B0cS6XRkg",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -659,112 +723,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/deEri629Nnw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=deEri629Nnw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "SLeFoPuwMh0",
-              "title": "Use Your Local LLMs From Anywhere (Fully Private)",
-              "publishedAt": "2026-03-02T21:12:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SLeFoPuwMh0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SLeFoPuwMh0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "m3fqyXZ4k4I",
-              "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
-              "publishedAt": "2026-03-02T15:01:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/m3fqyXZ4k4I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=m3fqyXZ4k4I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "SyTDaIg-xbk",
-              "title": "AI Is Improving Your Code and Destroying What Made It Yours",
-              "publishedAt": "2026-03-02T13:00:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SyTDaIg-xbk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SyTDaIg-xbk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2JiMmye2ezg",
-              "title": "Open Brain: I Built an AI Brain in 45 Minutes. It Costs $0.10-$0.30/Mo. It Works With Every Model.",
-              "publishedAt": "2026-03-02T15:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2JiMmye2ezg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2JiMmye2ezg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "4H_an5xtyr0",
-              "title": "NEW Claude Code & OpenCode KILLER! This Just Fixed 90% of AI Coding! (Open Source)",
-              "publishedAt": "2026-03-02T07:13:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4H_an5xtyr0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4H_an5xtyr0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "YmUNXNNTApg",
-              "title": "🫠 oh nooo",
-              "publishedAt": "2026-03-02T18:28:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YmUNXNNTApg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/YmUNXNNTApg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "YPLNjxMLDDA",
-              "title": "you can just do things!!",
-              "publishedAt": "2026-03-02T17:02:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YPLNjxMLDDA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/YPLNjxMLDDA",
               "summary": "",
               "transcriptAvailable": false
             }
