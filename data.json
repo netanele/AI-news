@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T10:41:30Z",
+  "lastUpdated": "2026-03-11T15:41:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-03-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "LO0Ws-l6brg",
+              "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
+              "publishedAt": "2026-03-11T14:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LO0Ws-l6brg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LO0Ws-l6brg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "nJ-uRyqZFFg",
+              "title": "Anthropic's New Plugin Lets You Control AI Visually (Playground)",
+              "publishedAt": "2026-03-11T14:59:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nJ-uRyqZFFg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nJ-uRyqZFFg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
