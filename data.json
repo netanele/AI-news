@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-03-10T15:55:11Z",
+  "lastUpdated": "2026-03-11T07:37:11Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "mN2VUw5Fb3E",
+              "title": "Claude Code + Ollama = FULLY FREE AI Coding FOREVER! (Tutorial)",
+              "publishedAt": "2026-03-11T06:09:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mN2VUw5Fb3E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mN2VUw5Fb3E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-10",
       "dailyDigest": "",
@@ -67,6 +89,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2A1ztO0YKvU",
+              "title": "Claude Can Now Generate Leads For You",
+              "publishedAt": "2026-03-10T17:12:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2A1ztO0YKvU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2A1ztO0YKvU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -86,6 +124,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "N2ccho6ug1w",
+              "title": "Does This Fly Prove We're In a Simulation?",
+              "publishedAt": "2026-03-10T17:54:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/N2ccho6ug1w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=N2ccho6ug1w",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "AeKzjFVTYuI",
               "title": "craziest \"can it play DOOM\" yet",
@@ -124,6 +172,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "AZ-ACn6dOIY",
+              "title": "Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai",
+              "publishedAt": "2026-03-09T21:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AZ-ACn6dOIY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AZ-ACn6dOIY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "iY7BDpZWJbE",
               "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
@@ -320,6 +378,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "UfDy26r84sk",
+              "title": "Humans hesitate — AI agents don't. Now what? #agenticai #agent #futureofwork",
+              "publishedAt": "2026-03-07T22:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UfDy26r84sk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/UfDy26r84sk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "-_vL1KXd2rc",
               "title": "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)",
@@ -675,112 +743,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dscgpwF1RvA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/dscgpwF1RvA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "cop_G65D7PA",
-              "title": "This Just Changed How I Work With AI Agents",
-              "publishedAt": "2026-03-03T14:15:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cop_G65D7PA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=cop_G65D7PA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "pTtueIqrg0Q",
-              "title": "Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.",
-              "publishedAt": "2026-03-03T15:15:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pTtueIqrg0Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pTtueIqrg0Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AMwNQlkyBrc",
-              "title": "One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai",
-              "publishedAt": "2026-03-03T04:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AMwNQlkyBrc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AMwNQlkyBrc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "rtrafyAEm6I",
-              "title": "The AI Tools to Build an 8-Figure Company",
-              "publishedAt": "2026-03-03T17:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rtrafyAEm6I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/rtrafyAEm6I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "TWoX1yH7Kf0",
-              "title": "Gemini Super Agents: Supercharge AI Agents To Do Anything! (Opensource)",
-              "publishedAt": "2026-03-03T03:48:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TWoX1yH7Kf0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TWoX1yH7Kf0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "KO2rv1YbwpQ",
-              "title": "teens made out like bandits",
-              "publishedAt": "2026-03-03T18:55:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KO2rv1YbwpQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KO2rv1YbwpQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "deEri629Nnw",
-              "title": "They spent MILLIONS on this...",
-              "publishedAt": "2026-03-03T02:17:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/deEri629Nnw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=deEri629Nnw",
               "summary": "",
               "transcriptAvailable": false
             }
