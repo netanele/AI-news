@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T10:41:06Z",
+  "lastUpdated": "2026-03-12T15:53:45Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/NMWgXvm--to/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=NMWgXvm--to",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "lbfoNxoHl2o",
+              "title": "The Coordination Tax: Why 60% Of Your Calendar Disappears — And Why The Rest Is More Interesting.",
+              "publishedAt": "2026-03-12T14:01:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lbfoNxoHl2o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lbfoNxoHl2o",
               "summary": "",
               "transcriptAvailable": false
             }
