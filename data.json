@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-11T15:41:49Z",
+  "lastUpdated": "2026-03-12T07:39:48Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "NMWgXvm--to",
+              "title": "Stripe's Coding Agents Ship 1,300 PRs EVERY Week - Here's How They Do It",
+              "publishedAt": "2026-03-12T00:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NMWgXvm--to/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NMWgXvm--to",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "S8aVegyvWhY",
+              "title": "Deepseek V4 LEAKED? NEW Frontier Agentic 1T AI Model! (Tested)",
+              "publishedAt": "2026-03-12T02:30:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S8aVegyvWhY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=S8aVegyvWhY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-11",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "KbNRNxBawIg",
+              "title": "Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork",
+              "publishedAt": "2026-03-11T21:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KbNRNxBawIg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KbNRNxBawIg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "LO0Ws-l6brg",
               "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
@@ -51,6 +99,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/mN2VUw5Fb3E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=mN2VUw5Fb3E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "1roSPMSnCBw",
+              "title": "Claude just got caught...",
+              "publishedAt": "2026-03-11T17:30:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1roSPMSnCBw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1roSPMSnCBw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -320,6 +384,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "ZKLxZpa5tOk",
+              "title": "From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork",
+              "publishedAt": "2026-03-08T21:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZKLxZpa5tOk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZKLxZpa5tOk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "hnwM01CpzmA",
               "title": "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.",
@@ -685,96 +759,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6UfitKQf6SU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6UfitKQf6SU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "aVJLn1atPHc",
-              "title": "Big tech stopped buying startups — here's what changed #nvidia #groq #ai",
-              "publishedAt": "2026-03-04T22:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aVJLn1atPHc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/aVJLn1atPHc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "O7SSQfiPDXA",
-              "title": "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)",
-              "publishedAt": "2026-03-04T15:00:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/O7SSQfiPDXA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=O7SSQfiPDXA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "62lUVDi4RuA",
-              "title": "He Vibe-Coded Palantir For Free Using AI",
-              "publishedAt": "2026-03-04T20:27:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/62lUVDi4RuA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/62lUVDi4RuA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "qpyhrrCAOro",
-              "title": "Google Just Made Deploying AI Agents 10x Easier",
-              "publishedAt": "2026-03-04T15:34:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qpyhrrCAOro/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qpyhrrCAOro",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "9V_HoF662sw",
-              "title": "Gemini 3.1 Flash-Lite Is Google's FASTEST & Cheapest Model Ever! Decent At Coding! (Fully Tested)",
-              "publishedAt": "2026-03-04T08:31:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9V_HoF662sw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9V_HoF662sw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "dscgpwF1RvA",
-              "title": "self-driving cars EVERYWHERE",
-              "publishedAt": "2026-03-04T16:59:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dscgpwF1RvA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dscgpwF1RvA",
               "summary": "",
               "transcriptAvailable": false
             }
