@@ -1,9 +1,259 @@
 {
-  "lastUpdated": "2026-03-12T15:53:45Z",
+  "lastUpdated": "2026-03-15T07:38:21Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "V9fLkJpR7AI",
+              "title": "Why AI-powered dashboards are lying to leadership #futureofwork #ai",
+              "publishedAt": "2026-03-15T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/V9fLkJpR7AI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/V9fLkJpR7AI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Ra67DuOgUuI",
+              "title": "MaxClaw IS THE NEW OpenClaw Alternative That Is BETTER & Can Automate Your Life!",
+              "publishedAt": "2026-03-15T04:02:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ra67DuOgUuI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ra67DuOgUuI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "fnRD78auKQ8",
+              "title": "Stripe's Coding Agents Ship 1,300 PRs EVERY Week - Here's How They Do It",
+              "publishedAt": "2026-03-14T15:36:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fnRD78auKQ8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fnRD78auKQ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "1E6AqyUr0gQ",
+              "title": "Don't mistake AI visibility for actual control #ai #futureofwork",
+              "publishedAt": "2026-03-14T21:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1E6AqyUr0gQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1E6AqyUr0gQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "u-giatW9mYU",
+              "title": "AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.",
+              "publishedAt": "2026-03-14T15:01:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u-giatW9mYU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=u-giatW9mYU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "RUvDTpS2aoQ",
+              "title": "Transfer Your Memory to Claude in Seconds",
+              "publishedAt": "2026-03-14T16:43:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RUvDTpS2aoQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/RUvDTpS2aoQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Dp7v5Rh1X7Q",
+              "title": "10 OpenClaw Automations I Use to Run My Business",
+              "publishedAt": "2026-03-14T13:04:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Dp7v5Rh1X7Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Dp7v5Rh1X7Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "i3FOFgimXn0",
+              "title": "NEW Antigravity AgentKit 2.0 Supercharges Your AI 100x",
+              "publishedAt": "2026-03-14T04:15:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i3FOFgimXn0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i3FOFgimXn0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Cqfh7QBbQw4",
+              "title": "New Speedreading Method (Harder)",
+              "publishedAt": "2026-03-14T19:30:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Cqfh7QBbQw4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Cqfh7QBbQw4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "5dfu6NvnTZM",
+              "title": "The Future Live | 03.13.26 | Guests from Slack, Giga, Letta, and Microsoft AI!",
+              "publishedAt": "2026-03-14T07:08:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5dfu6NvnTZM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5dfu6NvnTZM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "LqN_ItMqovA",
+              "title": "I Didn't Know This Was Possible Until Now",
+              "publishedAt": "2026-03-13T15:03:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LqN_ItMqovA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LqN_ItMqovA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "LkA6Qbt9LTM",
+              "title": "Postman Went Git-native and it Changes Everything for Building APIs",
+              "publishedAt": "2026-03-13T23:03:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LkA6Qbt9LTM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LkA6Qbt9LTM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "japT66frdhM",
+              "title": "One Simple System Gave All My AI Tools a Memory. Here's How.",
+              "publishedAt": "2026-03-13T14:01:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/japT66frdhM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=japT66frdhM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "ShTxTquBDxY",
+              "title": "Claude Code 2.0 MASSIVE Upgrade! (Game Changer)",
+              "publishedAt": "2026-03-13T06:42:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ShTxTquBDxY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ShTxTquBDxY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "lJhBWsnETFM",
+              "title": "Why Rivian Uses BOTH Cameras and LiDAR",
+              "publishedAt": "2026-03-13T17:10:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lJhBWsnETFM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lJhBWsnETFM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "YiFC3Z_bCDU",
+              "title": "DGX Spark Giveaway from Nvidia!",
+              "publishedAt": "2026-03-13T15:05:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YiFC3Z_bCDU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/YiFC3Z_bCDU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-12",
       "dailyDigest": "",
@@ -29,12 +279,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "SuQ1aroNGzg",
+              "title": "Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork",
+              "publishedAt": "2026-03-12T21:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SuQ1aroNGzg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SuQ1aroNGzg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "lbfoNxoHl2o",
               "title": "The Coordination Tax: Why 60% Of Your Calendar Disappears — And Why The Rest Is More Interesting.",
               "publishedAt": "2026-03-12T14:01:20+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/lbfoNxoHl2o/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=lbfoNxoHl2o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "RFmRhC-4uAc",
+              "title": "Claude Code vs ChatGPT - Differences Explained",
+              "publishedAt": "2026-03-12T16:30:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RFmRhC-4uAc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/RFmRhC-4uAc",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -51,6 +327,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/S8aVegyvWhY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=S8aVegyvWhY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "LnsPK0ZOPkg",
+              "title": "a REAL fruit fly in a virtual world",
+              "publishedAt": "2026-03-12T19:01:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LnsPK0ZOPkg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LnsPK0ZOPkg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "nsmGQ7tPSds",
+              "title": "RJ Scaringe: Self-Driving Cars, Next 10 years Changes EVERYTHING, Robots, AI impacts Society MORE",
+              "publishedAt": "2026-03-12T17:14:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nsmGQ7tPSds/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nsmGQ7tPSds",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -469,312 +771,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/yLi7e8-Nvbg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=yLi7e8-Nvbg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "JC53AcoFh-Q",
-              "title": "7 Agent Tools To Use With OpenClaw",
-              "publishedAt": "2026-03-07T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JC53AcoFh-Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JC53AcoFh-Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "UfDy26r84sk",
-              "title": "Humans hesitate — AI agents don't. Now what? #agenticai #agent #futureofwork",
-              "publishedAt": "2026-03-07T22:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UfDy26r84sk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/UfDy26r84sk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "-_vL1KXd2rc",
-              "title": "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)",
-              "publishedAt": "2026-03-07T16:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-_vL1KXd2rc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-_vL1KXd2rc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "6SIJXB0laKY",
-              "title": "Claude Code Explained Like You’re 7 Years Old",
-              "publishedAt": "2026-03-07T22:03:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6SIJXB0laKY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6SIJXB0laKY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4J_Xf_SogBk",
-              "title": "Claude Skills 2.0: The Right Way to Build Them",
-              "publishedAt": "2026-03-07T19:33:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4J_Xf_SogBk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4J_Xf_SogBk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Zeyw-Ge_6BU",
-              "title": "Claude Code + NotebookLM = GOD MODE! Can Build and Automate EVERYTHING!",
-              "publishedAt": "2026-03-07T10:05:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Zeyw-Ge_6BU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Zeyw-Ge_6BU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "dYk-bt9BFIs",
-              "title": "The Future Live | 03.06.26 | Guests from Augment Code, NEAR Protocol, and Modular!",
-              "publishedAt": "2026-03-07T07:59:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dYk-bt9BFIs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dYk-bt9BFIs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "FcWi9j0FiYk",
-              "title": "My Biggest AI Unlock — It Does Everything",
-              "publishedAt": "2026-03-06T14:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FcWi9j0FiYk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FcWi9j0FiYk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "09sFAO7pklo",
-              "title": "Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About",
-              "publishedAt": "2026-03-06T15:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/09sFAO7pklo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=09sFAO7pklo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uadBkzaXHQc",
-              "title": "Perpetual AI agents are here — and they don't forget #ai #agents #futureofwork",
-              "publishedAt": "2026-03-06T04:00:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uadBkzaXHQc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/uadBkzaXHQc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "5dFywI8rpYE",
-              "title": "You Don’t Have To Instruct Your AI Anymore",
-              "publishedAt": "2026-03-06T20:57:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5dFywI8rpYE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5dFywI8rpYE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "exms9uhYtAQ",
-              "title": "I Now Run 90% of My Business From My Phone (Claude Code Remote Control)",
-              "publishedAt": "2026-03-06T14:40:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/exms9uhYtAQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=exms9uhYtAQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WtMTUSpl1Fc",
-              "title": "Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More!",
-              "publishedAt": "2026-03-06T08:09:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WtMTUSpl1Fc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WtMTUSpl1Fc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "vG_5QnX1JBY",
-              "title": "Bop It! from scratch",
-              "publishedAt": "2026-03-06T19:24:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vG_5QnX1JBY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vG_5QnX1JBY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rvdUBieefR0",
-              "title": "OpenAI just dropped GPT-5.4 and WOW....",
-              "publishedAt": "2026-03-06T01:11:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rvdUBieefR0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rvdUBieefR0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "MOCIjmX16uo",
-              "title": "Is Software Engineering Finally Dead?!?",
-              "publishedAt": "2026-03-05T13:30:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MOCIjmX16uo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/MOCIjmX16uo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "tjBpm91ZQM0",
-              "title": "Is Software Engineering Finally Dead?",
-              "publishedAt": "2026-03-05T01:00:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tjBpm91ZQM0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=tjBpm91ZQM0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "aS18xgCIsx8",
-              "title": "The AI talent grab big tech doesn't want you to see #futureofwork #ai #groq #nvidia",
-              "publishedAt": "2026-03-05T22:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aS18xgCIsx8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/aS18xgCIsx8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "JYcidOS9ozU",
-              "title": "Your Engineers Just Built Your Most Valuable Asset on a Platform Nobody Approved (Why It Matters)",
-              "publishedAt": "2026-03-05T15:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JYcidOS9ozU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JYcidOS9ozU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "13izTHRNAtQ",
-              "title": "Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai",
-              "publishedAt": "2026-03-05T04:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/13izTHRNAtQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/13izTHRNAtQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "6UfitKQf6SU",
-              "title": "GPT-5.4 Is INSANE! OpenAI's BEST Model Yet! 1 Million Context & Excels at Coding! (Fully Tested)",
-              "publishedAt": "2026-03-05T07:17:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6UfitKQf6SU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6UfitKQf6SU",
               "summary": "",
               "transcriptAvailable": false
             }
