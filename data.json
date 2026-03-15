@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T07:38:21Z",
+  "lastUpdated": "2026-03-15T10:32:40Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "t-yWIK-4KEI",
+              "title": "Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt",
+              "publishedAt": "2026-03-15T09:01:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t-yWIK-4KEI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/t-yWIK-4KEI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "V9fLkJpR7AI",
               "title": "Why AI-powered dashboards are lying to leadership #futureofwork #ai",
