@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T10:54:52Z",
+  "lastUpdated": "2026-03-16T16:00:14Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-03-16",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "8lwnJZy4cO0",
+              "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
+              "publishedAt": "2026-03-16T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8lwnJZy4cO0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8lwnJZy4cO0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
