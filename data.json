@@ -1,17 +1,81 @@
 {
-  "lastUpdated": "2026-03-15T15:23:28Z",
+  "lastUpdated": "2026-03-16T08:01:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-03-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "srqWFT_TUec",
+              "title": "Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem!",
+              "publishedAt": "2026-03-16T07:30:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/srqWFT_TUec/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=srqWFT_TUec",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "I0me2uEbfuE",
+              "title": "Every AI Model Explained in 20 Minutes",
+              "publishedAt": "2026-03-16T01:05:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/I0me2uEbfuE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=I0me2uEbfuE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-03-15",
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "pux0EMMe4J4",
+              "title": "I Asked GPT-5 to Rebuild My 100K Line App. Its First Move Changed Everything.",
+              "publishedAt": "2026-03-15T22:47:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pux0EMMe4J4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pux0EMMe4J4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "zCW-k5fFRgQ",
+              "title": "She quit, picked up AI, and shipped in 30 days what her team planned for Q3.",
+              "publishedAt": "2026-03-15T18:00:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zCW-k5fFRgQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zCW-k5fFRgQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "t-yWIK-4KEI",
               "title": "Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt",
@@ -29,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/V9fLkJpR7AI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/V9fLkJpR7AI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "4ZG9m2FbgSA",
+              "title": "How I’d Learn AI",
+              "publishedAt": "2026-03-15T16:25:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4ZG9m2FbgSA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4ZG9m2FbgSA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -681,106 +761,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/E5B0cS6XRkg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=E5B0cS6XRkg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "OcTMwjqje5Q",
-              "title": "The Complete AI Transformation Blueprint - Live Workshop",
-              "publishedAt": "2026-03-08T21:23:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OcTMwjqje5Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OcTMwjqje5Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "ZKLxZpa5tOk",
-              "title": "From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork",
-              "publishedAt": "2026-03-08T21:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZKLxZpa5tOk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZKLxZpa5tOk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hnwM01CpzmA",
-              "title": "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.",
-              "publishedAt": "2026-03-08T18:00:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hnwM01CpzmA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hnwM01CpzmA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uk_lQIHv2dI",
-              "title": "Front-End Engineering Didn't Die. It Finally Grew Up. #engineering #ai #futureofwork",
-              "publishedAt": "2026-03-08T04:00:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uk_lQIHv2dI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/uk_lQIHv2dI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "P6j4o0ChidI",
-              "title": "Watch Your AI Agents Work in a Virtual Office",
-              "publishedAt": "2026-03-08T19:15:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/P6j4o0ChidI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/P6j4o0ChidI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EZm05Hx2vWc",
-              "title": "Claude Code Just Replaced OpenClaw (Here's How)",
-              "publishedAt": "2026-03-08T18:22:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EZm05Hx2vWc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EZm05Hx2vWc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "yLi7e8-Nvbg",
-              "title": "Claude Code Just Got ANOTHER MASSIVE Upgrade with /Loop - Automate AI Coding!",
-              "publishedAt": "2026-03-08T07:53:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yLi7e8-Nvbg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yLi7e8-Nvbg",
               "summary": "",
               "transcriptAvailable": false
             }
