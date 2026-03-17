@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T10:53:34Z",
+  "lastUpdated": "2026-03-17T15:59:28Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-03-17",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "QT7W_uHjqWE",
+              "title": "Anthropic Didn't Build a New Browser. They Did Something Smarter.",
+              "publishedAt": "2026-03-17T14:00:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QT7W_uHjqWE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QT7W_uHjqWE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
