@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-03-16T16:00:14Z",
+  "lastUpdated": "2026-03-17T07:47:25Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-03-17",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "GVrEX3-uIE0",
+              "title": "Codex Subagents, Minimax M2.7, Claude Code Update, NVIDIA GTC, AI CMO, Google AI Tool! HUGE AI News",
+              "publishedAt": "2026-03-17T05:59:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GVrEX3-uIE0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GVrEX3-uIE0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-03-16",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "nxHKBq5ZU9U",
+              "title": "I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It",
+              "publishedAt": "2026-03-16T19:15:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nxHKBq5ZU9U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nxHKBq5ZU9U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -19,6 +57,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/8lwnJZy4cO0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=8lwnJZy4cO0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "42x8PwhsxkM",
+              "title": "How to Get Infinite Leads From AI",
+              "publishedAt": "2026-03-16T19:09:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/42x8PwhsxkM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/42x8PwhsxkM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "ZW_n45Tz2FA",
+              "title": "Y Combinator Says Start THIS Business in 2026",
+              "publishedAt": "2026-03-16T15:55:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZW_n45Tz2FA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZW_n45Tz2FA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -44,6 +108,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "eKaAaj4tv3Y",
+              "title": "Nvidia showed up at my house",
+              "publishedAt": "2026-03-16T22:01:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eKaAaj4tv3Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/eKaAaj4tv3Y",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "I0me2uEbfuE",
               "title": "Every AI Model Explained in 20 Minutes",
@@ -661,122 +735,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AeKzjFVTYuI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/AeKzjFVTYuI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "yq8_Q5z-Geo",
-              "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
-              "publishedAt": "2026-03-09T15:09:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yq8_Q5z-Geo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/yq8_Q5z-Geo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "AZ-ACn6dOIY",
-              "title": "Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai",
-              "publishedAt": "2026-03-09T21:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AZ-ACn6dOIY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AZ-ACn6dOIY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "iY7BDpZWJbE",
-              "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
-              "publishedAt": "2026-03-09T14:01:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/iY7BDpZWJbE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=iY7BDpZWJbE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "3Mx9XPC3zPc",
-              "title": "2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork",
-              "publishedAt": "2026-03-09T03:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3Mx9XPC3zPc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3Mx9XPC3zPc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "sd4nMkIjG1w",
-              "title": "The AI System Recovering Medical Clinics $1,000’s in Lost Revenue",
-              "publishedAt": "2026-03-09T18:27:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sd4nMkIjG1w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/sd4nMkIjG1w",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "NkQaCGJHkNs",
-              "title": "How I Build Agentic Workflows Without Typing a Single Word",
-              "publishedAt": "2026-03-09T14:49:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NkQaCGJHkNs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=NkQaCGJHkNs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "7cOAayWzYDY",
-              "title": "Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)",
-              "publishedAt": "2026-03-09T06:49:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7cOAayWzYDY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7cOAayWzYDY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "E5B0cS6XRkg",
-              "title": "Dylan Patel: They Don't See It Coming",
-              "publishedAt": "2026-03-09T17:07:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/E5B0cS6XRkg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=E5B0cS6XRkg",
               "summary": "",
               "transcriptAvailable": false
             }
