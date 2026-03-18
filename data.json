@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-03-17T15:59:28Z",
+  "lastUpdated": "2026-03-18T07:45:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-03-18",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "F_M5VRp6vVU",
+              "title": "AI Agents That Control Your Computer! Automate Your Life With AI FOR FREE!",
+              "publishedAt": "2026-03-18T04:19:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/F_M5VRp6vVU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=F_M5VRp6vVU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-03-17",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "uEit1oOJK0w",
+              "title": "GSD Is the Missing Piece For Claude Code",
+              "publishedAt": "2026-03-17T16:13:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uEit1oOJK0w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uEit1oOJK0w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -25,6 +63,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "jKBHY7Dya6c",
+              "title": "The Most Vulnerable Jobs to AI",
+              "publishedAt": "2026-03-17T17:58:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jKBHY7Dya6c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jKBHY7Dya6c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -35,6 +89,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/GVrEX3-uIE0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=GVrEX3-uIE0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "jjKgsmMwcoQ",
+              "title": "Every model that matters",
+              "publishedAt": "2026-03-17T19:30:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jjKgsmMwcoQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jjKgsmMwcoQ",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -629,128 +699,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1roSPMSnCBw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=1roSPMSnCBw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-10",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "X4vAlWtsJD4",
-              "title": "90% of Your AI Agent's Design Process Is Dead",
-              "publishedAt": "2026-03-10T14:08:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/X4vAlWtsJD4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=X4vAlWtsJD4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "it8g45WERAQ",
-              "title": "GPT-5.4 Got the Best Score I've Ever Seen — Then I Found Something Stranger",
-              "publishedAt": "2026-03-10T14:05:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/it8g45WERAQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=it8g45WERAQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "-FhtPUkXKO4",
-              "title": "I say \"NO\" to AI more than I say yes. That's the whole strategy. This is why you should too.",
-              "publishedAt": "2026-03-10T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-FhtPUkXKO4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-FhtPUkXKO4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2Ilk1Nk5Ux4",
-              "title": "The Best AI Won't Sit There. It'll Interrupt You at Exactly the Right Moment. #futureofwork #ai",
-              "publishedAt": "2026-03-10T03:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2Ilk1Nk5Ux4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2Ilk1Nk5Ux4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "2A1ztO0YKvU",
-              "title": "Claude Can Now Generate Leads For You",
-              "publishedAt": "2026-03-10T17:12:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2A1ztO0YKvU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2A1ztO0YKvU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "td_lTMVV-ak",
-              "title": "Claude Code Code Review, Deepseek v4, Gemma 4, OpenClaw Update, Copilot Cowork, & More! HUGE AI News",
-              "publishedAt": "2026-03-10T04:10:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/td_lTMVV-ak/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=td_lTMVV-ak",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "N2ccho6ug1w",
-              "title": "Does This Fly Prove We're In a Simulation?",
-              "publishedAt": "2026-03-10T17:54:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/N2ccho6ug1w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=N2ccho6ug1w",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AeKzjFVTYuI",
-              "title": "craziest \"can it play DOOM\" yet",
-              "publishedAt": "2026-03-10T14:51:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AeKzjFVTYuI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AeKzjFVTYuI",
               "summary": "",
               "transcriptAvailable": false
             }
