@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-18T16:04:21Z",
+  "lastUpdated": "2026-03-19T07:40:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-19",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "GX_EsbcXfw8",
+              "title": "The Subagent Era Is Officially Here - Learn this Now",
+              "publishedAt": "2026-03-19T00:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GX_EsbcXfw8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GX_EsbcXfw8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "S8DKnN61WTA",
+              "title": "AI agents work while you rest—if you do this #ai #futureofwork #agenticai",
+              "publishedAt": "2026-03-19T03:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S8DKnN61WTA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/S8DKnN61WTA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-18",
       "dailyDigest": "",
@@ -25,9 +63,45 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2IFWlVgw0_0",
+              "title": "I Automated My Entire Inbox in 10 Minutes with AI",
+              "publishedAt": "2026-03-18T21:21:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2IFWlVgw0_0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2IFWlVgw0_0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "CCiKorsMM0c",
+              "title": "Why Every Business NEEDS Claude Code & How to Set it Up Safely",
+              "publishedAt": "2026-03-18T17:34:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CCiKorsMM0c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CCiKorsMM0c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
+            {
+              "id": "8gkFn5Z-IvY",
+              "title": "Google's NEW AI Vibe Design Tool IS INSANE! The Greatest AI Design System I've Ever Used! (Stitch)",
+              "publishedAt": "2026-03-18T18:01:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8gkFn5Z-IvY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8gkFn5Z-IvY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "F_M5VRp6vVU",
               "title": "AI Agents That Control Your Computer! Automate Your Life With AI FOR FREE!",
@@ -35,6 +109,42 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/F_M5VRp6vVU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=F_M5VRp6vVU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "M-3w1wEv0M0",
+              "title": "Do THIS with OpenClaw so you don't fall behind... (14 Use Cases)",
+              "publishedAt": "2026-03-18T21:48:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M-3w1wEv0M0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=M-3w1wEv0M0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "T1UjW--GDpI",
+              "title": "the secret GOATed AI",
+              "publishedAt": "2026-03-18T18:51:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/T1UjW--GDpI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/T1UjW--GDpI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "bVNWLlJ7OYs",
+              "title": "What ChatGPT charges",
+              "publishedAt": "2026-03-18T17:17:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bVNWLlJ7OYs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bVNWLlJ7OYs",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -635,86 +745,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nsmGQ7tPSds/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=nsmGQ7tPSds",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-11",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "KbNRNxBawIg",
-              "title": "Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork",
-              "publishedAt": "2026-03-11T21:00:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KbNRNxBawIg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KbNRNxBawIg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "LO0Ws-l6brg",
-              "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
-              "publishedAt": "2026-03-11T14:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LO0Ws-l6brg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LO0Ws-l6brg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "nJ-uRyqZFFg",
-              "title": "Anthropic's New Plugin Lets You Control AI Visually (Playground)",
-              "publishedAt": "2026-03-11T14:59:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nJ-uRyqZFFg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nJ-uRyqZFFg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "mN2VUw5Fb3E",
-              "title": "Claude Code + Ollama = FULLY FREE AI Coding FOREVER! (Tutorial)",
-              "publishedAt": "2026-03-11T06:09:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mN2VUw5Fb3E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mN2VUw5Fb3E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "1roSPMSnCBw",
-              "title": "Claude just got caught...",
-              "publishedAt": "2026-03-11T17:30:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1roSPMSnCBw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1roSPMSnCBw",
               "summary": "",
               "transcriptAvailable": false
             }
