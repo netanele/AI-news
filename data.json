@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T10:42:13Z",
+  "lastUpdated": "2026-03-19T15:46:54Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "3FbqaD1MCUA",
+              "title": "$690 Billion Is Squeezing AI Companies From Both Sides. Most Don't See It Coming.",
+              "publishedAt": "2026-03-19T14:50:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3FbqaD1MCUA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3FbqaD1MCUA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "S8DKnN61WTA",
               "title": "AI agents work while you rest—if you do this #ai #futureofwork #agenticai",
