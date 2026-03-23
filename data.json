@@ -1,9 +1,85 @@
 {
-  "lastUpdated": "2026-03-22T15:20:16Z",
+  "lastUpdated": "2026-03-23T07:55:30Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "7P1pQ5xNb_U",
+              "title": "Stop executing, start delegating to LLMs! #ai #futureofwork #llm",
+              "publishedAt": "2026-03-23T03:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7P1pQ5xNb_U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7P1pQ5xNb_U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "rrsHKGSyXm4",
+              "title": "Claude Code + Stitch Is The Greatest AI Design System I've Ever Used! (RIP  FIGMA)",
+              "publishedAt": "2026-03-23T05:44:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rrsHKGSyXm4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rrsHKGSyXm4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "BE4RclIGDmY",
+              "title": "McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.",
+              "publishedAt": "2026-03-22T18:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BE4RclIGDmY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BE4RclIGDmY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Q-ETqmH0HLk",
+              "title": "This New AI Tool Can PREDICT The Future",
+              "publishedAt": "2026-03-22T16:21:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Q-ETqmH0HLk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Q-ETqmH0HLk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-21",
       "dailyDigest": "",
@@ -108,6 +184,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "JDAIOSWfPn0",
+              "title": "Force AI to actually finish tasks with this hack! #ai #futureofwork #prompting",
+              "publishedAt": "2026-03-20T21:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JDAIOSWfPn0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JDAIOSWfPn0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "vqnAOV8NMZ4",
               "title": "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.",
@@ -539,100 +625,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-03-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "pux0EMMe4J4",
-              "title": "I Asked GPT-5 to Rebuild My 100K Line App. Its First Move Changed Everything.",
-              "publishedAt": "2026-03-15T22:47:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pux0EMMe4J4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pux0EMMe4J4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "zCW-k5fFRgQ",
-              "title": "She quit, picked up AI, and shipped in 30 days what her team planned for Q3.",
-              "publishedAt": "2026-03-15T18:00:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zCW-k5fFRgQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zCW-k5fFRgQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "t-yWIK-4KEI",
-              "title": "Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt",
-              "publishedAt": "2026-03-15T09:01:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t-yWIK-4KEI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/t-yWIK-4KEI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "V9fLkJpR7AI",
-              "title": "Why AI-powered dashboards are lying to leadership #futureofwork #ai",
-              "publishedAt": "2026-03-15T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/V9fLkJpR7AI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/V9fLkJpR7AI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "4ZG9m2FbgSA",
-              "title": "How I’d Learn AI",
-              "publishedAt": "2026-03-15T16:25:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4ZG9m2FbgSA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4ZG9m2FbgSA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Ra67DuOgUuI",
-              "title": "MaxClaw IS THE NEW OpenClaw Alternative That Is BETTER & Can Automate Your Life!",
-              "publishedAt": "2026-03-15T04:02:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ra67DuOgUuI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ra67DuOgUuI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: MetalSole"
+    ]
   }
 }
