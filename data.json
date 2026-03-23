@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T10:53:50Z",
+  "lastUpdated": "2026-03-23T15:55:34Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "NyxksiuF124",
+              "title": "I Designed a Full App in Pencil — Then Claude Code Built It",
+              "publishedAt": "2026-03-23T12:00:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NyxksiuF124/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NyxksiuF124",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "b7IS4C9QALc",
+              "title": "Lovable Was the Most Copied AI Product of 2025. Then a Lobster Changed Everything.",
+              "publishedAt": "2026-03-23T14:00:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/b7IS4C9QALc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=b7IS4C9QALc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "7P1pQ5xNb_U",
               "title": "Stop executing, start delegating to LLMs! #ai #futureofwork #llm",
@@ -628,9 +654,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: MetalSole"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
