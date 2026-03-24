@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T10:53:54Z",
+  "lastUpdated": "2026-03-24T16:00:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "7AO4w4Y_L24",
+              "title": "Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.",
+              "publishedAt": "2026-03-24T14:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7AO4w4Y_L24/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7AO4w4Y_L24",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "AckkntfOvz8",
               "title": "Why even Andrej Karpathy feels behind with AI! #ai #futureofwork",
