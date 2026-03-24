@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-03-23T15:55:34Z",
+  "lastUpdated": "2026-03-24T07:46:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-03-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "AckkntfOvz8",
+              "title": "Why even Andrej Karpathy feels behind with AI! #ai #futureofwork",
+              "publishedAt": "2026-03-24T03:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AckkntfOvz8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AckkntfOvz8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "hWDXS35B15A",
+              "title": "Claude Code MASSIVE Update! Claude Code OS, Computer Use, /Schedule, & More!",
+              "publishedAt": "2026-03-24T03:49:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hWDXS35B15A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hWDXS35B15A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-03-23",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "uegyRTOrXSU",
+              "title": "You're Hardly Using What Claude Code Has to Offer, it's Insane",
+              "publishedAt": "2026-03-23T16:37:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uegyRTOrXSU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uegyRTOrXSU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "MetalSole",
           "channelUrl": "https://www.youtube.com/@MetalSole",
@@ -45,6 +99,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7P1pQ5xNb_U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/7P1pQ5xNb_U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "PG6w8_HEn-o",
+              "title": "I Made Claude My Co-Founder — Here's the Entire System",
+              "publishedAt": "2026-03-23T17:58:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PG6w8_HEn-o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PG6w8_HEn-o",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -539,112 +609,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/jjKgsmMwcoQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/jjKgsmMwcoQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-16",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "nxHKBq5ZU9U",
-              "title": "I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It",
-              "publishedAt": "2026-03-16T19:15:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nxHKBq5ZU9U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nxHKBq5ZU9U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "8lwnJZy4cO0",
-              "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
-              "publishedAt": "2026-03-16T14:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8lwnJZy4cO0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8lwnJZy4cO0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "42x8PwhsxkM",
-              "title": "How to Get Infinite Leads From AI",
-              "publishedAt": "2026-03-16T19:09:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/42x8PwhsxkM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/42x8PwhsxkM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZW_n45Tz2FA",
-              "title": "Y Combinator Says Start THIS Business in 2026",
-              "publishedAt": "2026-03-16T15:55:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZW_n45Tz2FA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZW_n45Tz2FA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "srqWFT_TUec",
-              "title": "Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem!",
-              "publishedAt": "2026-03-16T07:30:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/srqWFT_TUec/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=srqWFT_TUec",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "eKaAaj4tv3Y",
-              "title": "Nvidia showed up at my house",
-              "publishedAt": "2026-03-16T22:01:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eKaAaj4tv3Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/eKaAaj4tv3Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "I0me2uEbfuE",
-              "title": "Every AI Model Explained in 20 Minutes",
-              "publishedAt": "2026-03-16T01:05:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/I0me2uEbfuE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=I0me2uEbfuE",
               "summary": "",
               "transcriptAvailable": false
             }
