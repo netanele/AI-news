@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-03-24T16:00:52Z",
+  "lastUpdated": "2026-03-25T07:45:44Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "hMJaH17ukxA",
+              "title": "Supercharge Antigravity To Do Anything! 100x Your AI Agents /w Memory, Skills, Etc!",
+              "publishedAt": "2026-03-25T04:15:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hMJaH17ukxA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hMJaH17ukxA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-24",
       "dailyDigest": "",
@@ -35,6 +57,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ILpkAqCxv1o",
+              "title": "Perplexity Just Released a Super AI Computer",
+              "publishedAt": "2026-03-24T17:57:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ILpkAqCxv1o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ILpkAqCxv1o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -45,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/hWDXS35B15A/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=hWDXS35B15A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "mhoFqhLXc3g",
+              "title": "Hard Takeoff has started",
+              "publishedAt": "2026-03-24T17:51:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mhoFqhLXc3g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mhoFqhLXc3g",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -533,92 +587,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/bVNWLlJ7OYs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/bVNWLlJ7OYs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "uEit1oOJK0w",
-              "title": "GSD Is the Missing Piece For Claude Code",
-              "publishedAt": "2026-03-17T16:13:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uEit1oOJK0w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uEit1oOJK0w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "QT7W_uHjqWE",
-              "title": "Anthropic Didn't Build a New Browser. They Did Something Smarter.",
-              "publishedAt": "2026-03-17T14:00:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QT7W_uHjqWE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QT7W_uHjqWE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "jKBHY7Dya6c",
-              "title": "The Most Vulnerable Jobs to AI",
-              "publishedAt": "2026-03-17T17:58:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jKBHY7Dya6c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jKBHY7Dya6c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "GVrEX3-uIE0",
-              "title": "Codex Subagents, Minimax M2.7, Claude Code Update, NVIDIA GTC, AI CMO, Google AI Tool! HUGE AI News",
-              "publishedAt": "2026-03-17T05:59:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GVrEX3-uIE0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GVrEX3-uIE0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "jjKgsmMwcoQ",
-              "title": "Every model that matters",
-              "publishedAt": "2026-03-17T19:30:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jjKgsmMwcoQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jjKgsmMwcoQ",
               "summary": "",
               "transcriptAvailable": false
             }
