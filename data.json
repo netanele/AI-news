@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-25T16:04:38Z",
+  "lastUpdated": "2026-03-26T07:54:42Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "gmaHRwijOXs",
+              "title": "Everything You Thought About Building AI Agents is Wrong",
+              "publishedAt": "2026-03-26T00:00:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gmaHRwijOXs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gmaHRwijOXs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "cq6GGKKZRJE",
+              "title": "Claude Code + OpenRouter = Free UNLIMITED AI Coding (No Local Setup)",
+              "publishedAt": "2026-03-26T05:21:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cq6GGKKZRJE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=cq6GGKKZRJE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-25",
       "dailyDigest": "",
@@ -41,6 +79,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ok3ICuivyKE",
+              "title": "Claude Just Dropped Their OpenClaw Competitor",
+              "publishedAt": "2026-03-25T20:57:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ok3ICuivyKE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ok3ICuivyKE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -51,6 +105,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/hMJaH17ukxA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=hMJaH17ukxA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "GtTXMQOnM50",
+              "title": "Sora is DONE",
+              "publishedAt": "2026-03-25T19:37:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GtTXMQOnM50/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/GtTXMQOnM50",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -281,6 +351,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "p7x7CwSYeqg",
+              "title": "The AI career coach execs pay millions for! #ai #futureofwork",
+              "publishedAt": "2026-03-21T21:00:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/p7x7CwSYeqg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/p7x7CwSYeqg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "awV2kJzh8zk",
               "title": "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.",
               "publishedAt": "2026-03-21T15:00:03+00:00",
@@ -509,116 +589,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/S8DKnN61WTA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/S8DKnN61WTA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "4HeS_C02yAE",
-              "title": "ChatGPT Health Identified Respiratory Failure. Then It Said Wait.",
-              "publishedAt": "2026-03-18T14:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4HeS_C02yAE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4HeS_C02yAE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "2IFWlVgw0_0",
-              "title": "I Automated My Entire Inbox in 10 Minutes with AI",
-              "publishedAt": "2026-03-18T21:21:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2IFWlVgw0_0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2IFWlVgw0_0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "CCiKorsMM0c",
-              "title": "Why Every Business NEEDS Claude Code & How to Set it Up Safely",
-              "publishedAt": "2026-03-18T17:34:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CCiKorsMM0c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CCiKorsMM0c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "8gkFn5Z-IvY",
-              "title": "Google's NEW AI Vibe Design Tool IS INSANE! The Greatest AI Design System I've Ever Used! (Stitch)",
-              "publishedAt": "2026-03-18T18:01:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8gkFn5Z-IvY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8gkFn5Z-IvY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "F_M5VRp6vVU",
-              "title": "AI Agents That Control Your Computer! Automate Your Life With AI FOR FREE!",
-              "publishedAt": "2026-03-18T04:19:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/F_M5VRp6vVU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=F_M5VRp6vVU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "M-3w1wEv0M0",
-              "title": "Do THIS with OpenClaw so you don't fall behind... (14 Use Cases)",
-              "publishedAt": "2026-03-18T21:48:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/M-3w1wEv0M0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=M-3w1wEv0M0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "T1UjW--GDpI",
-              "title": "the secret GOATed AI",
-              "publishedAt": "2026-03-18T18:51:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/T1UjW--GDpI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/T1UjW--GDpI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "bVNWLlJ7OYs",
-              "title": "What ChatGPT charges",
-              "publishedAt": "2026-03-18T17:17:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bVNWLlJ7OYs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bVNWLlJ7OYs",
               "summary": "",
               "transcriptAvailable": false
             }
