@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T10:53:23Z",
+  "lastUpdated": "2026-03-26T16:07:24Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/gmaHRwijOXs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=gmaHRwijOXs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "1NnpC6NlNmg",
+              "title": "Claude Code Channels — Build Your Own Claude Code Experience",
+              "publishedAt": "2026-03-26T13:27:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1NnpC6NlNmg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1NnpC6NlNmg",
               "summary": "",
               "transcriptAvailable": false
             }
