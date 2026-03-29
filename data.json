@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T10:36:14Z",
+  "lastUpdated": "2026-03-29T15:25:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-03-29",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "DbkU2KcS5Lk",
+              "title": "AI Changes Everything — Here's Where I'd Start",
+              "publishedAt": "2026-03-29T14:37:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DbkU2KcS5Lk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DbkU2KcS5Lk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
