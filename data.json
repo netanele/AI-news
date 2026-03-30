@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T11:03:51Z",
+  "lastUpdated": "2026-03-30T16:02:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "iPHofrSJtQQ",
+              "title": "This n8n Node Makes Powerful RAG SUPER Easy",
+              "publishedAt": "2026-03-30T14:00:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iPHofrSJtQQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/iPHofrSJtQQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "0cVuMHaYEHE",
+              "title": "Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.",
+              "publishedAt": "2026-03-30T14:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0cVuMHaYEHE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0cVuMHaYEHE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "5I5Y6fVSqrk",
               "title": "Your brain isn't storage—let AI handle it! #ai #futureofwork",
@@ -35,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/yuaBPLNdNSU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=yuaBPLNdNSU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "TmgGH21Tl_E",
+              "title": "Futuristic Movies Tier List",
+              "publishedAt": "2026-03-30T13:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TmgGH21Tl_E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TmgGH21Tl_E",
               "summary": "",
               "transcriptAvailable": false
             }
