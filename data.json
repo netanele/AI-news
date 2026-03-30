@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-29T15:25:38Z",
+  "lastUpdated": "2026-03-30T08:15:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-30",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "5I5Y6fVSqrk",
+              "title": "Your brain isn't storage—let AI handle it! #ai #futureofwork",
+              "publishedAt": "2026-03-30T03:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5I5Y6fVSqrk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5I5Y6fVSqrk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "yuaBPLNdNSU",
+              "title": "Turn Antigravity Into AN AI Autonomous Engineering Team! Automate Your Code with Subagents!",
+              "publishedAt": "2026-03-30T04:40:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yuaBPLNdNSU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yuaBPLNdNSU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-29",
       "dailyDigest": "",
@@ -19,6 +57,48 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DbkU2KcS5Lk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DbkU2KcS5Lk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "sTkqCREdMXo",
+              "title": "48 Days. That's How Long Before the Helium Runs Out for AI Chips.",
+              "publishedAt": "2026-03-29T18:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sTkqCREdMXo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sTkqCREdMXo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "bm7P4Fe2VUU",
+              "title": "How to actually use ai in your business",
+              "publishedAt": "2026-03-29T20:38:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bm7P4Fe2VUU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bm7P4Fe2VUU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "mFMTK52_q_0",
+              "title": "I Set Up Claude Code for 20+ Businesses. Here's What Happened.",
+              "publishedAt": "2026-03-29T19:35:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mFMTK52_q_0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mFMTK52_q_0",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -619,44 +699,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/rrsHKGSyXm4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=rrsHKGSyXm4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "BE4RclIGDmY",
-              "title": "McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.",
-              "publishedAt": "2026-03-22T18:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BE4RclIGDmY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BE4RclIGDmY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Q-ETqmH0HLk",
-              "title": "This New AI Tool Can PREDICT The Future",
-              "publishedAt": "2026-03-22T16:21:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Q-ETqmH0HLk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Q-ETqmH0HLk",
               "summary": "",
               "transcriptAvailable": false
             }
