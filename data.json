@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-03-30T16:02:29Z",
+  "lastUpdated": "2026-03-31T08:01:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-03-31",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "KiywNP4b0aw",
+              "title": "Claude Code Computer Use Can Control Your ENTIRE Computer! Automate Your Life!",
+              "publishedAt": "2026-03-31T06:12:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KiywNP4b0aw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KiywNP4b0aw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "61JUHDK-em8",
+              "title": "AI Self EVOLUTION (Meta Harness)",
+              "publishedAt": "2026-03-31T02:01:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/61JUHDK-em8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=61JUHDK-em8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-30",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "HAkSUBdsd6M",
+              "title": "Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)",
+              "publishedAt": "2026-03-30T16:30:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HAkSUBdsd6M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=HAkSUBdsd6M",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "iPHofrSJtQQ",
               "title": "This n8n Node Makes Powerful RAG SUPER Easy",
@@ -45,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/5I5Y6fVSqrk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/5I5Y6fVSqrk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "W_VEJx_KbTo",
+              "title": "This Tool Does EVERYTHING For You",
+              "publishedAt": "2026-03-30T16:34:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/W_VEJx_KbTo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/W_VEJx_KbTo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -645,102 +709,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/mhoFqhLXc3g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=mhoFqhLXc3g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "uegyRTOrXSU",
-              "title": "You're Hardly Using What Claude Code Has to Offer, it's Insane",
-              "publishedAt": "2026-03-23T16:37:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uegyRTOrXSU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uegyRTOrXSU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "NyxksiuF124",
-              "title": "I Designed a Full App in Pencil — Then Claude Code Built It",
-              "publishedAt": "2026-03-23T12:00:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NyxksiuF124/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=NyxksiuF124",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "b7IS4C9QALc",
-              "title": "Lovable Was the Most Copied AI Product of 2025. Then a Lobster Changed Everything.",
-              "publishedAt": "2026-03-23T14:00:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/b7IS4C9QALc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=b7IS4C9QALc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7P1pQ5xNb_U",
-              "title": "Stop executing, start delegating to LLMs! #ai #futureofwork #llm",
-              "publishedAt": "2026-03-23T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7P1pQ5xNb_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7P1pQ5xNb_U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "PG6w8_HEn-o",
-              "title": "I Made Claude My Co-Founder — Here's the Entire System",
-              "publishedAt": "2026-03-23T17:58:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PG6w8_HEn-o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PG6w8_HEn-o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "rrsHKGSyXm4",
-              "title": "Claude Code + Stitch Is The Greatest AI Design System I've Ever Used! (RIP  FIGMA)",
-              "publishedAt": "2026-03-23T05:44:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rrsHKGSyXm4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rrsHKGSyXm4",
               "summary": "",
               "transcriptAvailable": false
             }
