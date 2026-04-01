@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T10:58:53Z",
+  "lastUpdated": "2026-04-01T16:03:39Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "hV5_XSEBZNg",
+              "title": "Claude Mythos Changes Everything. Your AI Stack Isn't Ready.",
+              "publishedAt": "2026-04-01T14:00:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hV5_XSEBZNg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hV5_XSEBZNg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "hFRQb2e5cJs",
               "title": "The AI workflow that replaces your to do list! #ai #futureofwork",
               "publishedAt": "2026-04-01T03:00:28+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/hFRQb2e5cJs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/hFRQb2e5cJs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "y2cr1bRTcgc",
+              "title": "Anthropic Leaked Their Entire Source Code. Here's What They Were Hiding",
+              "publishedAt": "2026-04-01T15:09:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/y2cr1bRTcgc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=y2cr1bRTcgc",
               "summary": "",
               "transcriptAvailable": false
             }
