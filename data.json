@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-03-31T16:02:12Z",
+  "lastUpdated": "2026-04-01T08:08:57Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "hFRQb2e5cJs",
+              "title": "The AI workflow that replaces your to do list! #ai #futureofwork",
+              "publishedAt": "2026-04-01T03:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hFRQb2e5cJs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hFRQb2e5cJs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "OIfRt1oyAss",
+              "title": "Claude Opus 4.7 + Sonnet 4.8 + Mythos 5 ALL Leaked & New Claude Code Features!",
+              "publishedAt": "2026-04-01T06:28:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OIfRt1oyAss/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OIfRt1oyAss",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "TMbGHKcuxPk",
+              "title": "One on One with Marc Benioff",
+              "publishedAt": "2026-04-01T08:07:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TMbGHKcuxPk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TMbGHKcuxPk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "dYG8JxtSgmM",
+              "title": "Claude Code was just leaked... (WOAH)",
+              "publishedAt": "2026-04-01T01:20:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dYG8JxtSgmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dYG8JxtSgmM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-03-31",
       "dailyDigest": "",
@@ -19,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nBH07G-zayk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=nBH07G-zayk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "hdCZUNQ40VY",
+              "title": "I Taught My Second Brain to Run Multi-Agent Coding Workflows (Live Session)",
+              "publishedAt": "2026-03-31T17:30:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hdCZUNQ40VY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hdCZUNQ40VY",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -60,6 +140,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "a57BWTyvBhw",
+              "title": "Claude Code Just Got Leaked",
+              "publishedAt": "2026-03-31T20:24:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a57BWTyvBhw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/a57BWTyvBhw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8T3lMCfZHQM",
               "title": "I Built a Self-Improving AI Agent (Auto Research Explained)",
@@ -693,86 +783,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/GtTXMQOnM50/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/GtTXMQOnM50",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7AO4w4Y_L24",
-              "title": "Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.",
-              "publishedAt": "2026-03-24T14:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7AO4w4Y_L24/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7AO4w4Y_L24",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AckkntfOvz8",
-              "title": "Why even Andrej Karpathy feels behind with AI! #ai #futureofwork",
-              "publishedAt": "2026-03-24T03:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AckkntfOvz8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AckkntfOvz8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ILpkAqCxv1o",
-              "title": "Perplexity Just Released a Super AI Computer",
-              "publishedAt": "2026-03-24T17:57:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ILpkAqCxv1o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ILpkAqCxv1o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "hWDXS35B15A",
-              "title": "Claude Code MASSIVE Update! Claude Code OS, Computer Use, /Schedule, & More!",
-              "publishedAt": "2026-03-24T03:49:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hWDXS35B15A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hWDXS35B15A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "mhoFqhLXc3g",
-              "title": "Hard Takeoff has started",
-              "publishedAt": "2026-03-24T17:51:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mhoFqhLXc3g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mhoFqhLXc3g",
               "summary": "",
               "transcriptAvailable": false
             }
