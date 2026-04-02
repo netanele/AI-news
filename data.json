@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T10:52:35Z",
+  "lastUpdated": "2026-04-02T15:55:11Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1FiER-40zng/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=1FiER-40zng",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "5ztI_dbj6ek",
+              "title": "Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.",
+              "publishedAt": "2026-04-02T14:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5ztI_dbj6ek/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5ztI_dbj6ek",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "SrYGq9e3ifQ",
+              "title": "I Automated My Entire Post-Meeting Workflow (My Team Thinks I'm a Genius)",
+              "publishedAt": "2026-04-02T15:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SrYGq9e3ifQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SrYGq9e3ifQ",
               "summary": "",
               "transcriptAvailable": false
             }
