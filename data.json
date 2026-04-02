@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-04-01T16:03:39Z",
+  "lastUpdated": "2026-04-02T07:59:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "1FiER-40zng",
+              "title": "Full Guide - Build Your Own AI Second Brain with Claude Code",
+              "publishedAt": "2026-04-02T00:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1FiER-40zng/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1FiER-40zng",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "AL_7VqZEqD4",
+              "title": "NEW Hidden Features You MUST Enable In Your Claude Code Setup!",
+              "publishedAt": "2026-04-02T07:05:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AL_7VqZEqD4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=AL_7VqZEqD4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-01",
       "dailyDigest": "",
@@ -38,6 +76,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "f_o-_LZyldo",
+              "title": "Claude Can Now Control Your Computer (This Changes Everything)",
+              "publishedAt": "2026-04-01T20:57:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f_o-_LZyldo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/f_o-_LZyldo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "y2cr1bRTcgc",
               "title": "Anthropic Leaked Their Entire Source Code. Here's What They Were Hiding",
@@ -723,92 +771,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Rjk98M25-iA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Rjk98M25-iA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-25",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "pDoBe4qbFPE",
-              "title": "Your Claude Code Setup Is Incomplete Without This",
-              "publishedAt": "2026-03-25T15:21:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pDoBe4qbFPE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pDoBe4qbFPE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "YpPcDHc3e9U",
-              "title": "\"Agents\" Means 4 Different Things and Almost Nobody Knows Which One They Need.",
-              "publishedAt": "2026-03-25T14:00:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YpPcDHc3e9U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YpPcDHc3e9U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ok3ICuivyKE",
-              "title": "Claude Just Dropped Their OpenClaw Competitor",
-              "publishedAt": "2026-03-25T20:57:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ok3ICuivyKE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ok3ICuivyKE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "hMJaH17ukxA",
-              "title": "Supercharge Antigravity To Do Anything! 100x Your AI Agents /w Memory, Skills, Etc!",
-              "publishedAt": "2026-03-25T04:15:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hMJaH17ukxA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hMJaH17ukxA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "GtTXMQOnM50",
-              "title": "Sora is DONE",
-              "publishedAt": "2026-03-25T19:37:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GtTXMQOnM50/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/GtTXMQOnM50",
               "summary": "",
               "transcriptAvailable": false
             }
