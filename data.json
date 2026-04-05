@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T10:36:36Z",
+  "lastUpdated": "2026-04-05T15:25:54Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-04-05",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "HEq7vYw-hx4",
+              "title": "I Asked Claude Cowork About My Email. It Became a Running System",
+              "publishedAt": "2026-04-05T12:30:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HEq7vYw-hx4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=HEq7vYw-hx4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
