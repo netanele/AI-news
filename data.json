@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-04-05T15:25:54Z",
+  "lastUpdated": "2026-04-06T08:17:17Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-06",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "TKG1V7pNWbs",
+              "title": "Why AI crushes some businesses but protects others! #ai #futureofwork",
+              "publishedAt": "2026-04-06T03:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TKG1V7pNWbs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TKG1V7pNWbs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "9iWTRMjbBvo",
+              "title": "Claude Code + Karpathy's NEW Self-Evolving System = 10x Code Generation",
+              "publishedAt": "2026-04-06T07:22:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9iWTRMjbBvo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9iWTRMjbBvo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-05",
       "dailyDigest": "",
@@ -29,12 +67,48 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "7xuCYbsp-xI",
+              "title": "The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork",
+              "publishedAt": "2026-04-05T21:00:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7xuCYbsp-xI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7xuCYbsp-xI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "kVPVmz0qJvY",
+              "title": "Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.",
+              "publishedAt": "2026-04-05T18:00:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kVPVmz0qJvY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kVPVmz0qJvY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "suNE_u6fBVQ",
               "title": "The 3 layers AI can and cannot replace in business! #ai #futureofwork",
               "publishedAt": "2026-04-05T03:01:00+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/suNE_u6fBVQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/suNE_u6fBVQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "J-kSdzHr9Ek",
+              "title": "I am Switching to Hermes Agent",
+              "publishedAt": "2026-04-05T18:44:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/J-kSdzHr9Ek/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=J-kSdzHr9Ek",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -51,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3ZGIw8tmlGs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=3ZGIw8tmlGs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "OzUqfN4mcrM",
+              "title": "Salesforce CEO on Microsoft Blocking OpenAI Investment, AI Scapegoating, OpenClaw, and Regulation",
+              "publishedAt": "2026-04-05T21:48:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OzUqfN4mcrM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OzUqfN4mcrM",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -661,86 +751,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TmgGH21Tl_E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/TmgGH21Tl_E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-29",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "DbkU2KcS5Lk",
-              "title": "AI Changes Everything — Here's Where I'd Start",
-              "publishedAt": "2026-03-29T14:37:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DbkU2KcS5Lk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DbkU2KcS5Lk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "sTkqCREdMXo",
-              "title": "48 Days. That's How Long Before the Helium Runs Out for AI Chips.",
-              "publishedAt": "2026-03-29T18:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sTkqCREdMXo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sTkqCREdMXo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "bm7P4Fe2VUU",
-              "title": "How to actually use ai in your business",
-              "publishedAt": "2026-03-29T20:38:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bm7P4Fe2VUU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bm7P4Fe2VUU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "mFMTK52_q_0",
-              "title": "I Set Up Claude Code for 20+ Businesses. Here's What Happened.",
-              "publishedAt": "2026-03-29T19:35:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mFMTK52_q_0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mFMTK52_q_0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "1abLcL33eKA",
-              "title": "Gemini 3.5? NEW Gemini Stealth Model Is POWERFUL & Fast! (Fully Tested)",
-              "publishedAt": "2026-03-29T05:46:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1abLcL33eKA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1abLcL33eKA",
               "summary": "",
               "transcriptAvailable": false
             }
