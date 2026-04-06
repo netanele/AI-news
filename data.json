@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T10:58:38Z",
+  "lastUpdated": "2026-04-06T15:40:27Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "7HP1jFJ9W1c",
+              "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)",
+              "publishedAt": "2026-04-06T14:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7HP1jFJ9W1c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7HP1jFJ9W1c",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "TKG1V7pNWbs",
               "title": "Why AI crushes some businesses but protects others! #ai #futureofwork",
@@ -35,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/9iWTRMjbBvo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=9iWTRMjbBvo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "8uPMM8HhRUc",
+              "title": "This Website is not for Humans",
+              "publishedAt": "2026-04-06T15:01:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8uPMM8HhRUc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8uPMM8HhRUc",
               "summary": "",
               "transcriptAvailable": false
             }
