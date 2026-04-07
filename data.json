@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-04-06T15:40:27Z",
+  "lastUpdated": "2026-04-07T08:05:09Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-04-07",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Bx-fhbBXL5E",
+              "title": "Why judgment and taste are now your only real edge! #ai #futureofwork",
+              "publishedAt": "2026-04-07T03:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Bx-fhbBXL5E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Bx-fhbBXL5E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "cu2fgknmemA",
+              "title": "Hermes Agent The 24/7 Self-Evolving AI Agent!",
+              "publishedAt": "2026-04-07T07:01:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cu2fgknmemA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=cu2fgknmemA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-04-06",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "7huCP6RkcY4",
+              "title": "I Built Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases",
+              "publishedAt": "2026-04-06T20:47:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7huCP6RkcY4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7huCP6RkcY4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -29,6 +83,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TKG1V7pNWbs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/TKG1V7pNWbs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "yk7Vhv6EfmM",
+              "title": "I Used AI to Generate a Medical Practice $10,000",
+              "publishedAt": "2026-04-06T17:25:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yk7Vhv6EfmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/yk7Vhv6EfmM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Yp5KiHBSpZo",
+              "title": "Paperclip AI Explained: The Truth About “Zero Human Companies\"",
+              "publishedAt": "2026-04-06T15:56:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Yp5KiHBSpZo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Yp5KiHBSpZo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -671,112 +751,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/61JUHDK-em8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=61JUHDK-em8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-30",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "HAkSUBdsd6M",
-              "title": "Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)",
-              "publishedAt": "2026-03-30T16:30:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HAkSUBdsd6M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=HAkSUBdsd6M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "iPHofrSJtQQ",
-              "title": "This n8n Node Makes Powerful RAG SUPER Easy",
-              "publishedAt": "2026-03-30T14:00:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/iPHofrSJtQQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/iPHofrSJtQQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "0cVuMHaYEHE",
-              "title": "Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.",
-              "publishedAt": "2026-03-30T14:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0cVuMHaYEHE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0cVuMHaYEHE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5I5Y6fVSqrk",
-              "title": "Your brain isn't storage—let AI handle it! #ai #futureofwork",
-              "publishedAt": "2026-03-30T03:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5I5Y6fVSqrk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5I5Y6fVSqrk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "W_VEJx_KbTo",
-              "title": "This Tool Does EVERYTHING For You",
-              "publishedAt": "2026-03-30T16:34:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W_VEJx_KbTo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/W_VEJx_KbTo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "yuaBPLNdNSU",
-              "title": "Turn Antigravity Into AN AI Autonomous Engineering Team! Automate Your Code with Subagents!",
-              "publishedAt": "2026-03-30T04:40:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yuaBPLNdNSU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yuaBPLNdNSU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "TmgGH21Tl_E",
-              "title": "Futuristic Movies Tier List",
-              "publishedAt": "2026-03-30T13:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TmgGH21Tl_E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/TmgGH21Tl_E",
               "summary": "",
               "transcriptAvailable": false
             }
