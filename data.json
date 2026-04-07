@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T10:57:37Z",
+  "lastUpdated": "2026-04-07T16:07:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "YsdQE6juGXY",
+              "title": "The Claude Code Limits Problem Is Finally Solved",
+              "publishedAt": "2026-04-07T14:12:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YsdQE6juGXY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YsdQE6juGXY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "BiqG3it0gY0",
+              "title": "A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.",
+              "publishedAt": "2026-04-07T14:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BiqG3it0gY0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BiqG3it0gY0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Bx-fhbBXL5E",
               "title": "Why judgment and taste are now your only real edge! #ai #futureofwork",
