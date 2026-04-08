@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T08:06:04Z",
+  "lastUpdated": "2026-04-08T10:58:34Z",
   "config": {
     "daysToShow": 7
   },
@@ -590,6 +590,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "hdCZUNQ40VY",
+              "title": "I Taught My Second Brain to Run Multi-Agent Coding Workflows (Live Session)",
+              "publishedAt": "2026-04-02T16:41:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hdCZUNQ40VY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hdCZUNQ40VY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "1FiER-40zng",
               "title": "Full Guide - Build Your Own AI Second Brain with Claude Code",
