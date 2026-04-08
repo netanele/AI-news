@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-04-07T16:07:18Z",
+  "lastUpdated": "2026-04-08T08:06:04Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-08",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "nJnx4Da9Xt4",
+              "title": "AI data centers must bring their own power now! #ai #futureofwork",
+              "publishedAt": "2026-04-08T03:00:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nJnx4Da9Xt4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/nJnx4Da9Xt4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "G7WIFq8jnOA",
+              "title": "Claude Mythos Preview Will Change The World! Deepseek V4 Demos, & GLM 5.1! AI NEWS!",
+              "publishedAt": "2026-04-08T04:33:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/G7WIFq8jnOA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=G7WIFq8jnOA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "a4hdPWSUzsE",
+              "title": "Anthropic banned OpenClaw...",
+              "publishedAt": "2026-04-08T00:39:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a4hdPWSUzsE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a4hdPWSUzsE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "a-IOrLvd9B4",
+              "title": "Earth SHATTERING New AI Model",
+              "publishedAt": "2026-04-08T00:11:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a-IOrLvd9B4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/a-IOrLvd9B4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-07",
       "dailyDigest": "",
@@ -19,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/YsdQE6juGXY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=YsdQE6juGXY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "srx9iwnjK2M",
+              "title": "Full Archon Guide - Build AI Coding Harnesses That Actually Ship (LIVE)",
+              "publishedAt": "2026-04-07T20:14:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/srx9iwnjK2M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=srx9iwnjK2M",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -61,6 +141,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/cu2fgknmemA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=cu2fgknmemA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "ThJxXHzlzvI",
+              "title": "I made a website for agents",
+              "publishedAt": "2026-04-07T19:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ThJxXHzlzvI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ThJxXHzlzvI",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -649,134 +745,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dYG8JxtSgmM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=dYG8JxtSgmM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-03-31",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "nBH07G-zayk",
-              "title": "Anthropic Just Killed Your AI Agent Harnesses",
-              "publishedAt": "2026-03-31T15:15:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nBH07G-zayk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nBH07G-zayk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "hdCZUNQ40VY",
-              "title": "I Taught My Second Brain to Run Multi-Agent Coding Workflows (Live Session)",
-              "publishedAt": "2026-03-31T17:30:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hdCZUNQ40VY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hdCZUNQ40VY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "aWzv8kb1oLw",
-              "title": "Claude Code Is Shipping So Fast I Almost Missed the Pattern",
-              "publishedAt": "2026-03-31T12:30:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aWzv8kb1oLw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aWzv8kb1oLw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "BhXNtvZvziY",
-              "title": "Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.",
-              "publishedAt": "2026-03-31T14:01:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BhXNtvZvziY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BhXNtvZvziY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "a57BWTyvBhw",
-              "title": "Claude Code Just Got Leaked",
-              "publishedAt": "2026-03-31T20:24:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a57BWTyvBhw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/a57BWTyvBhw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8T3lMCfZHQM",
-              "title": "I Built a Self-Improving AI Agent (Auto Research Explained)",
-              "publishedAt": "2026-03-31T15:58:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8T3lMCfZHQM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8T3lMCfZHQM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "KiywNP4b0aw",
-              "title": "Claude Code Computer Use Can Control Your ENTIRE Computer! Automate Your Life!",
-              "publishedAt": "2026-03-31T06:12:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KiywNP4b0aw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KiywNP4b0aw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "61JUHDK-em8",
-              "title": "AI Self EVOLUTION (Meta Harness)",
-              "publishedAt": "2026-03-31T02:01:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/61JUHDK-em8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=61JUHDK-em8",
               "summary": "",
               "transcriptAvailable": false
             }
