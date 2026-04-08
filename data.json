@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T10:58:34Z",
+  "lastUpdated": "2026-04-08T16:11:56Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "ro5jpbi5uYc",
+              "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
+              "publishedAt": "2026-04-08T14:01:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ro5jpbi5uYc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ro5jpbi5uYc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "nJnx4Da9Xt4",
               "title": "AI data centers must bring their own power now! #ai #futureofwork",
               "publishedAt": "2026-04-08T03:00:59+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nJnx4Da9Xt4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/nJnx4Da9Xt4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "DMA7HcHdjuI",
+              "title": "Claude Mythos: The Most Capable AI You'll Never Get to Use",
+              "publishedAt": "2026-04-08T13:15:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DMA7HcHdjuI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DMA7HcHdjuI",
               "summary": "",
               "transcriptAvailable": false
             }
