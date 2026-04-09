@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-08T16:11:56Z",
+  "lastUpdated": "2026-04-09T08:11:04Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-09",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "qMnClynCAmM",
+              "title": "The Next Evolution of AI Coding Is Harnesses - Here's How to Build Them",
+              "publishedAt": "2026-04-09T00:01:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qMnClynCAmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qMnClynCAmM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ZmyQxBnf3g8",
+              "title": "Anthropic Just Launched The n8n Killer (Managed Agents",
+              "publishedAt": "2026-04-09T01:49:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZmyQxBnf3g8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZmyQxBnf3g8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "BkHnzW7vWaA",
+              "title": "Claude Managed Agents Just Automated EVERY Job! AI Agent OS!",
+              "publishedAt": "2026-04-09T05:25:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BkHnzW7vWaA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BkHnzW7vWaA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-08",
       "dailyDigest": "",
@@ -12,6 +66,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "I7X2XoYR3jQ",
+              "title": "The business layer AI can't touch and it's not what you think",
+              "publishedAt": "2026-04-08T15:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/I7X2XoYR3jQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/I7X2XoYR3jQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ro5jpbi5uYc",
               "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
@@ -70,6 +134,26 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "ROKgDeeFAnk",
+              "title": "New BEST AI Memory System",
+              "publishedAt": "2026-04-08T22:53:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ROKgDeeFAnk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ROKgDeeFAnk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "SQhfkWdxVvE",
+              "title": "Mythos is real and it scares me...",
+              "publishedAt": "2026-04-08T18:56:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SQhfkWdxVvE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SQhfkWdxVvE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "a4hdPWSUzsE",
               "title": "Anthropic banned OpenClaw...",
@@ -681,106 +765,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AL_7VqZEqD4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=AL_7VqZEqD4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-01",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "hV5_XSEBZNg",
-              "title": "Claude Mythos Changes Everything. Your AI Stack Isn't Ready.",
-              "publishedAt": "2026-04-01T14:00:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hV5_XSEBZNg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hV5_XSEBZNg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hFRQb2e5cJs",
-              "title": "The AI workflow that replaces your to do list! #ai #futureofwork",
-              "publishedAt": "2026-04-01T03:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hFRQb2e5cJs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hFRQb2e5cJs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "f_o-_LZyldo",
-              "title": "Claude Can Now Control Your Computer (This Changes Everything)",
-              "publishedAt": "2026-04-01T20:57:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/f_o-_LZyldo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/f_o-_LZyldo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "y2cr1bRTcgc",
-              "title": "Anthropic Leaked Their Entire Source Code. Here's What They Were Hiding",
-              "publishedAt": "2026-04-01T15:09:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/y2cr1bRTcgc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=y2cr1bRTcgc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "OIfRt1oyAss",
-              "title": "Claude Opus 4.7 + Sonnet 4.8 + Mythos 5 ALL Leaked & New Claude Code Features!",
-              "publishedAt": "2026-04-01T06:28:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OIfRt1oyAss/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OIfRt1oyAss",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "TMbGHKcuxPk",
-              "title": "One on One with Marc Benioff",
-              "publishedAt": "2026-04-01T08:07:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TMbGHKcuxPk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TMbGHKcuxPk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dYG8JxtSgmM",
-              "title": "Claude Code was just leaked... (WOAH)",
-              "publishedAt": "2026-04-01T01:20:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dYG8JxtSgmM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dYG8JxtSgmM",
               "summary": "",
               "transcriptAvailable": false
             }
