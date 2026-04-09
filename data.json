@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T11:00:32Z",
+  "lastUpdated": "2026-04-09T16:14:47Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "9N7qXkmntlU",
+              "title": "A $3 Trillion IPO Is Coming. Your Retirement Account Pays for It.",
+              "publishedAt": "2026-04-09T14:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9N7qXkmntlU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9N7qXkmntlU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "8lLKnkvH56U",
+              "title": "I just 10x'd My claude code setup with this new method",
+              "publishedAt": "2026-04-09T15:38:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8lLKnkvH56U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8lLKnkvH56U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ZmyQxBnf3g8",
               "title": "Anthropic Just Launched The n8n Killer (Managed Agents",
