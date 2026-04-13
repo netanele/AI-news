@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-04-12T15:31:02Z",
+  "lastUpdated": "2026-04-13T08:57:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "F368zITpbeI",
+              "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
+              "publishedAt": "2026-04-13T00:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/F368zITpbeI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/F368zITpbeI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "1tLQC-i3c7Y",
+              "title": "NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai",
+              "publishedAt": "2026-04-13T00:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1tLQC-i3c7Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1tLQC-i3c7Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "MXZ9cfkYuRI",
+              "title": "Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS",
+              "publishedAt": "2026-04-13T06:40:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MXZ9cfkYuRI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MXZ9cfkYuRI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-12",
       "dailyDigest": "",
@@ -13,12 +61,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "zhXgkQ3nYeE",
+              "title": "I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.",
+              "publishedAt": "2026-04-12T17:01:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zhXgkQ3nYeE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zhXgkQ3nYeE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "f_OmLWjWgNA",
               "title": "Big firms are safe  Startups are weak  The middle is doomed",
               "publishedAt": "2026-04-12T03:00:51+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/f_OmLWjWgNA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/f_OmLWjWgNA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "i5qw6DsxUug",
+              "title": "Stop Paying for ChatGPT and Claude. Use This Instead",
+              "publishedAt": "2026-04-12T16:41:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i5qw6DsxUug/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i5qw6DsxUug",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -591,112 +665,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/8uPMM8HhRUc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/8uPMM8HhRUc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "HEq7vYw-hx4",
-              "title": "I Asked Claude Cowork About My Email. It Became a Running System",
-              "publishedAt": "2026-04-05T12:30:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HEq7vYw-hx4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=HEq7vYw-hx4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7xuCYbsp-xI",
-              "title": "The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork",
-              "publishedAt": "2026-04-05T21:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7xuCYbsp-xI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7xuCYbsp-xI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "kVPVmz0qJvY",
-              "title": "Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.",
-              "publishedAt": "2026-04-05T18:00:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kVPVmz0qJvY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=kVPVmz0qJvY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "suNE_u6fBVQ",
-              "title": "The 3 layers AI can and cannot replace in business! #ai #futureofwork",
-              "publishedAt": "2026-04-05T03:01:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/suNE_u6fBVQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/suNE_u6fBVQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "J-kSdzHr9Ek",
-              "title": "I am Switching to Hermes Agent",
-              "publishedAt": "2026-04-05T18:44:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/J-kSdzHr9Ek/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=J-kSdzHr9Ek",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "3ZGIw8tmlGs",
-              "title": "OpenAI Spud (GPT 6), Claude Conway, GPT Image 2, Cursor 3, Claude Code Ultra, & More! AI NEWS!",
-              "publishedAt": "2026-04-05T08:02:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3ZGIw8tmlGs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3ZGIw8tmlGs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "OzUqfN4mcrM",
-              "title": "Salesforce CEO on Microsoft Blocking OpenAI Investment, AI Scapegoating, OpenClaw, and Regulation",
-              "publishedAt": "2026-04-05T21:48:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OzUqfN4mcrM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OzUqfN4mcrM",
               "summary": "",
               "transcriptAvailable": false
             }
