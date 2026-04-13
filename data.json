@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T11:19:19Z",
+  "lastUpdated": "2026-04-13T16:08:19Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "E1idsrv79tI",
+              "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
+              "publishedAt": "2026-04-13T14:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/E1idsrv79tI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=E1idsrv79tI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "F368zITpbeI",
               "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
@@ -29,6 +39,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1tLQC-i3c7Y/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/1tLQC-i3c7Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2jBRUgHNmgE",
+              "title": "I Built an System That Reads My Emails and Replies For Me",
+              "publishedAt": "2026-04-13T15:10:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2jBRUgHNmgE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2jBRUgHNmgE",
               "summary": "",
               "transcriptAvailable": false
             }
