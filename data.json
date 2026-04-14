@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-04-13T16:08:19Z",
+  "lastUpdated": "2026-04-14T08:20:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-04-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "e3inUUQsKsc",
+              "title": "Why AI skills are now table stakes #ai #work #future",
+              "publishedAt": "2026-04-14T03:00:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e3inUUQsKsc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/e3inUUQsKsc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-04-13",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Xg0tNz9pICI",
+              "title": "Building an AI Dark Factory:  A Codebase That Writes Its Own Code, Live",
+              "publishedAt": "2026-04-13T19:38:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xg0tNz9pICI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Xg0tNz9pICI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -49,6 +87,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "ygVru_Ho1vs",
+              "title": "I Made Claude My Social Media Manager",
+              "publishedAt": "2026-04-13T17:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ygVru_Ho1vs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ygVru_Ho1vs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "2jBRUgHNmgE",
               "title": "I Built an System That Reads My Emails and Replies For Me",
               "publishedAt": "2026-04-13T15:10:02+00:00",
@@ -71,6 +119,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/MXZ9cfkYuRI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=MXZ9cfkYuRI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "nt7dWOEFUB4",
+              "title": "\"But OpenClaw is expensive...\"",
+              "publishedAt": "2026-04-13T16:53:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nt7dWOEFUB4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nt7dWOEFUB4",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -585,112 +649,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ThJxXHzlzvI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ThJxXHzlzvI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "7huCP6RkcY4",
-              "title": "I Built Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases",
-              "publishedAt": "2026-04-06T20:47:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7huCP6RkcY4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7huCP6RkcY4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7HP1jFJ9W1c",
-              "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)",
-              "publishedAt": "2026-04-06T14:00:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7HP1jFJ9W1c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7HP1jFJ9W1c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "TKG1V7pNWbs",
-              "title": "Why AI crushes some businesses but protects others! #ai #futureofwork",
-              "publishedAt": "2026-04-06T03:00:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TKG1V7pNWbs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/TKG1V7pNWbs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "yk7Vhv6EfmM",
-              "title": "I Used AI to Generate a Medical Practice $10,000",
-              "publishedAt": "2026-04-06T17:25:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yk7Vhv6EfmM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/yk7Vhv6EfmM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Yp5KiHBSpZo",
-              "title": "Paperclip AI Explained: The Truth About “Zero Human Companies\"",
-              "publishedAt": "2026-04-06T15:56:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Yp5KiHBSpZo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Yp5KiHBSpZo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "9iWTRMjbBvo",
-              "title": "Claude Code + Karpathy's NEW Self-Evolving System = 10x Code Generation",
-              "publishedAt": "2026-04-06T07:22:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9iWTRMjbBvo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9iWTRMjbBvo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "8uPMM8HhRUc",
-              "title": "This Website is not for Humans",
-              "publishedAt": "2026-04-06T15:01:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8uPMM8HhRUc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8uPMM8HhRUc",
               "summary": "",
               "transcriptAvailable": false
             }
