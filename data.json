@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T11:04:54Z",
+  "lastUpdated": "2026-04-14T16:03:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,51 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "sncxStbRSwI",
+              "title": "This Huge Update Changed The Way I Use Claude Code",
+              "publishedAt": "2026-04-14T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sncxStbRSwI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sncxStbRSwI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "sgQAoCrsn9Q",
+              "title": "Why Getting Good at AI Made Everything Harder",
+              "publishedAt": "2026-04-14T12:31:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sgQAoCrsn9Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sgQAoCrsn9Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "0vdlwOK_Qdk",
+              "title": "3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.",
+              "publishedAt": "2026-04-14T14:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0vdlwOK_Qdk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0vdlwOK_Qdk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "e3inUUQsKsc",
               "title": "Why AI skills are now table stakes #ai #work #future",
@@ -19,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/e3inUUQsKsc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/e3inUUQsKsc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "kjucWw_7WHw",
+              "title": "I Built a $10,000 Website in 45 Minutes Using Free AI Tools",
+              "publishedAt": "2026-04-14T14:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kjucWw_7WHw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kjucWw_7WHw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -658,9 +716,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: MetalSole"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
