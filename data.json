@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T08:21:37Z",
+  "lastUpdated": "2026-04-15T11:01:02Z",
   "config": {
     "daysToShow": 7
   },
@@ -338,6 +338,22 @@
       "date": "2026-04-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "srx9iwnjK2M",
+              "title": "Full Archon Guide - Build AI Coding Harnesses That Actually Ship (LIVE)",
+              "publishedAt": "2026-04-11T17:46:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/srx9iwnjK2M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=srx9iwnjK2M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
