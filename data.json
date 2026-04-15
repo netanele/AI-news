@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T11:01:02Z",
+  "lastUpdated": "2026-04-15T16:01:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "2PWJu6uAaoU",
+              "title": "The Real Problem With AI Agents Nobody's Talking About",
+              "publishedAt": "2026-04-15T14:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2PWJu6uAaoU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2PWJu6uAaoU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ku94gbN7lNo",
               "title": "How top performers dodge AI replacement #AI #CareerStrategy",
