@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-14T16:03:04Z",
+  "lastUpdated": "2026-04-15T08:21:37Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ku94gbN7lNo",
+              "title": "How top performers dodge AI replacement #AI #CareerStrategy",
+              "publishedAt": "2026-04-15T03:00:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ku94gbN7lNo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ku94gbN7lNo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "RjtdN-rCaho",
+              "title": "Claude Routines Just Dropped And It KILLS n8n",
+              "publishedAt": "2026-04-15T02:07:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RjtdN-rCaho/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RjtdN-rCaho",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CdtJyjCWISI",
+              "title": "Claude Code 2.0: New Desktop/CLI App, Routines + Opus 4.7 This Week!",
+              "publishedAt": "2026-04-15T05:05:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CdtJyjCWISI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CdtJyjCWISI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-14",
       "dailyDigest": "",
@@ -77,6 +131,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/kjucWw_7WHw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=kjucWw_7WHw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Br7a0jBgMS4",
+              "title": "Mythos... I can't sleep",
+              "publishedAt": "2026-04-14T16:56:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Br7a0jBgMS4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Br7a0jBgMS4",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -611,102 +681,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/a-IOrLvd9B4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/a-IOrLvd9B4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "YsdQE6juGXY",
-              "title": "The Claude Code Limits Problem Is Finally Solved",
-              "publishedAt": "2026-04-07T14:12:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YsdQE6juGXY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YsdQE6juGXY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "srx9iwnjK2M",
-              "title": "Full Archon Guide - Build AI Coding Harnesses That Actually Ship (LIVE)",
-              "publishedAt": "2026-04-07T20:14:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/srx9iwnjK2M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=srx9iwnjK2M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "BiqG3it0gY0",
-              "title": "A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.",
-              "publishedAt": "2026-04-07T14:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BiqG3it0gY0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BiqG3it0gY0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Bx-fhbBXL5E",
-              "title": "Why judgment and taste are now your only real edge! #ai #futureofwork",
-              "publishedAt": "2026-04-07T03:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Bx-fhbBXL5E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Bx-fhbBXL5E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "cu2fgknmemA",
-              "title": "Hermes Agent The 24/7 Self-Evolving AI Agent!",
-              "publishedAt": "2026-04-07T07:01:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cu2fgknmemA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=cu2fgknmemA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "ThJxXHzlzvI",
-              "title": "I made a website for agents",
-              "publishedAt": "2026-04-07T19:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ThJxXHzlzvI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ThJxXHzlzvI",
               "summary": "",
               "transcriptAvailable": false
             }
