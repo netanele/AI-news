@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-15T16:01:00Z",
+  "lastUpdated": "2026-04-16T08:21:40Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "6woc6ii-zoE",
+              "title": "I'm Building an AI Dark Factory That Ships Its Own Code (Public Experiment)",
+              "publishedAt": "2026-04-16T00:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6woc6ii-zoE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6woc6ii-zoE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "WcH97reWDMQ",
+              "title": "How the Red Queen memo exposed who will actually survive #tech #AI",
+              "publishedAt": "2026-04-16T03:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WcH97reWDMQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/WcH97reWDMQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "mqnWsUggIk8",
+              "title": "I Built an AI Agent To Automate My Life!",
+              "publishedAt": "2026-04-16T02:29:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mqnWsUggIk8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mqnWsUggIk8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-15",
       "dailyDigest": "",
@@ -39,6 +93,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "uqQTxpv_zcw",
+              "title": "AI Makes Me Money While I sleep",
+              "publishedAt": "2026-04-15T19:31:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uqQTxpv_zcw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/uqQTxpv_zcw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "RjtdN-rCaho",
               "title": "Claude Routines Just Dropped And It KILLS n8n",
               "publishedAt": "2026-04-15T02:07:52+00:00",
@@ -61,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/CdtJyjCWISI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=CdtJyjCWISI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "MDtxVSyz3rw",
+              "title": "Turns out nowhere is safe",
+              "publishedAt": "2026-04-15T16:12:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MDtxVSyz3rw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/MDtxVSyz3rw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -587,126 +667,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/BkHnzW7vWaA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=BkHnzW7vWaA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "I7X2XoYR3jQ",
-              "title": "The business layer AI can't touch and it's not what you think",
-              "publishedAt": "2026-04-08T15:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/I7X2XoYR3jQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/I7X2XoYR3jQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ro5jpbi5uYc",
-              "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
-              "publishedAt": "2026-04-08T14:01:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ro5jpbi5uYc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ro5jpbi5uYc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "nJnx4Da9Xt4",
-              "title": "AI data centers must bring their own power now! #ai #futureofwork",
-              "publishedAt": "2026-04-08T03:00:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nJnx4Da9Xt4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/nJnx4Da9Xt4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "DMA7HcHdjuI",
-              "title": "Claude Mythos: The Most Capable AI You'll Never Get to Use",
-              "publishedAt": "2026-04-08T13:15:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DMA7HcHdjuI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DMA7HcHdjuI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "G7WIFq8jnOA",
-              "title": "Claude Mythos Preview Will Change The World! Deepseek V4 Demos, & GLM 5.1! AI NEWS!",
-              "publishedAt": "2026-04-08T04:33:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/G7WIFq8jnOA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=G7WIFq8jnOA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "ROKgDeeFAnk",
-              "title": "New BEST AI Memory System",
-              "publishedAt": "2026-04-08T22:53:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ROKgDeeFAnk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ROKgDeeFAnk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SQhfkWdxVvE",
-              "title": "Mythos is real and it scares me...",
-              "publishedAt": "2026-04-08T18:56:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SQhfkWdxVvE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SQhfkWdxVvE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "a4hdPWSUzsE",
-              "title": "Anthropic banned OpenClaw...",
-              "publishedAt": "2026-04-08T00:39:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a4hdPWSUzsE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=a4hdPWSUzsE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "a-IOrLvd9B4",
-              "title": "Earth SHATTERING New AI Model",
-              "publishedAt": "2026-04-08T00:11:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a-IOrLvd9B4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/a-IOrLvd9B4",
               "summary": "",
               "transcriptAvailable": false
             }
