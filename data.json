@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T11:05:12Z",
+  "lastUpdated": "2026-04-16T16:18:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "2pIBS1aWlNc",
+              "title": "AI Tools Setup From Scratch — The Complete Walkthrough",
+              "publishedAt": "2026-04-16T12:30:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2pIBS1aWlNc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2pIBS1aWlNc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "XlfumXPPrLY",
+              "title": "Google's Chief Scientist Says Infinitely Fast AI Won't Help You.",
+              "publishedAt": "2026-04-16T14:01:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XlfumXPPrLY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XlfumXPPrLY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "WcH97reWDMQ",
               "title": "How the Red Queen memo exposed who will actually survive #tech #AI",
@@ -35,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/WcH97reWDMQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/WcH97reWDMQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "4_a0Z6OsJlA",
+              "title": "OpenClaw Is Broken… Until You Add This Tool",
+              "publishedAt": "2026-04-16T14:46:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4_a0Z6OsJlA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4_a0Z6OsJlA",
               "summary": "",
               "transcriptAvailable": false
             }
