@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T10:40:32Z",
+  "lastUpdated": "2026-04-19T15:32:25Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Gmbj8sTJsRo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Gmbj8sTJsRo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "GTuwZT10gPg",
+              "title": "How to Use Claude Code 100% Free Forever",
+              "publishedAt": "2026-04-19T14:44:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GTuwZT10gPg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GTuwZT10gPg",
               "summary": "",
               "transcriptAvailable": false
             }
