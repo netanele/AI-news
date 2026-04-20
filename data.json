@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T11:19:37Z",
+  "lastUpdated": "2026-04-20T16:02:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "zNOunnM1jTs",
+              "title": "Vibe Coded Apps That Are Making Founders Millionaires",
+              "publishedAt": "2026-04-20T15:04:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zNOunnM1jTs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zNOunnM1jTs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "-dJ9WrTG6zQ",
+              "title": "Nobody Knows What You're Worth Anymore | The AI Job Market Reality",
+              "publishedAt": "2026-04-20T14:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-dJ9WrTG6zQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-dJ9WrTG6zQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "VYC5WrlRlmw",
               "title": "Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/VYC5WrlRlmw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/VYC5WrlRlmw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "mJTLS3Sp5so",
+              "title": "How Claude Code Skills Actually Work (And Why You're Using Them Wrong)",
+              "publishedAt": "2026-04-20T14:58:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mJTLS3Sp5so/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mJTLS3Sp5so",
               "summary": "",
               "transcriptAvailable": false
             }
