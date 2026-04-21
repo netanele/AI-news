@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T11:08:43Z",
+  "lastUpdated": "2026-04-21T16:06:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "tJB_8mfRgCo",
+              "title": "Your Prompts Didn't Change. Opus 4.7 Did.",
+              "publishedAt": "2026-04-21T14:01:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tJB_8mfRgCo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tJB_8mfRgCo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "kp4quCdtvXI",
               "title": "AI Tools Got Faster But Developers Didn't #ai #productivity #shorts",
               "publishedAt": "2026-04-21T03:00:45+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/kp4quCdtvXI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/kp4quCdtvXI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "egsAzuHxkew",
+              "title": "The Biggest Day in the History of AI",
+              "publishedAt": "2026-04-21T15:54:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/egsAzuHxkew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=egsAzuHxkew",
               "summary": "",
               "transcriptAvailable": false
             }
