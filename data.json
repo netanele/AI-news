@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T08:26:29Z",
+  "lastUpdated": "2026-04-21T11:08:43Z",
   "config": {
     "daysToShow": 7
   },
@@ -681,6 +681,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/sncxStbRSwI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=sncxStbRSwI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Xg0tNz9pICI",
+              "title": "Building an AI Dark Factory:  A Codebase That Writes Its Own Code, Live",
+              "publishedAt": "2026-04-14T18:51:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xg0tNz9pICI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Xg0tNz9pICI",
               "summary": "",
               "transcriptAvailable": false
             }
