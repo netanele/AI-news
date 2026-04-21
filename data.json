@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-04-20T16:02:32Z",
+  "lastUpdated": "2026-04-21T08:26:29Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "kp4quCdtvXI",
+              "title": "AI Tools Got Faster But Developers Didn't #ai #productivity #shorts",
+              "publishedAt": "2026-04-21T03:00:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kp4quCdtvXI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/kp4quCdtvXI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "F1POR_pzsew",
+              "title": "Kimi K2.6, GPT 5.5, Deepseek V4, Codex Superapp, Gemini 3.5, Grok 5 = AGI, & More! Huge AI NEWS!",
+              "publishedAt": "2026-04-21T07:17:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/F1POR_pzsew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=F1POR_pzsew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-20",
       "dailyDigest": "",
@@ -19,6 +57,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zNOunnM1jTs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zNOunnM1jTs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "XSmI7OYd7iM",
+              "title": "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat)",
+              "publishedAt": "2026-04-20T21:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XSmI7OYd7iM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XSmI7OYd7iM",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -701,122 +755,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Br7a0jBgMS4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Br7a0jBgMS4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "Xg0tNz9pICI",
-              "title": "Building an AI Dark Factory:  A Codebase That Writes Its Own Code, Live",
-              "publishedAt": "2026-04-13T19:38:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Xg0tNz9pICI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Xg0tNz9pICI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "E1idsrv79tI",
-              "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
-              "publishedAt": "2026-04-13T14:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/E1idsrv79tI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=E1idsrv79tI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "F368zITpbeI",
-              "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
-              "publishedAt": "2026-04-13T00:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/F368zITpbeI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/F368zITpbeI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1tLQC-i3c7Y",
-              "title": "NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai",
-              "publishedAt": "2026-04-13T00:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1tLQC-i3c7Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1tLQC-i3c7Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ygVru_Ho1vs",
-              "title": "I Made Claude My Social Media Manager",
-              "publishedAt": "2026-04-13T17:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ygVru_Ho1vs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ygVru_Ho1vs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2jBRUgHNmgE",
-              "title": "I Built an System That Reads My Emails and Replies For Me",
-              "publishedAt": "2026-04-13T15:10:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2jBRUgHNmgE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2jBRUgHNmgE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "MXZ9cfkYuRI",
-              "title": "Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS",
-              "publishedAt": "2026-04-13T06:40:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MXZ9cfkYuRI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MXZ9cfkYuRI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "nt7dWOEFUB4",
-              "title": "\"But OpenClaw is expensive...\"",
-              "publishedAt": "2026-04-13T16:53:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nt7dWOEFUB4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nt7dWOEFUB4",
               "summary": "",
               "transcriptAvailable": false
             }
