@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-21T16:06:49Z",
+  "lastUpdated": "2026-04-22T08:24:16Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "_iWauZ6KL6I",
+              "title": "Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing",
+              "publishedAt": "2026-04-22T03:00:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_iWauZ6KL6I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_iWauZ6KL6I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "nD24henxjT8",
+              "title": "Bart Mode + Claude Code: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Tutorial)",
+              "publishedAt": "2026-04-22T05:59:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nD24henxjT8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nD24henxjT8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "uvdRGC4cFhY",
+              "title": "ChatGPT Image 2 just dropped... (WOAH)",
+              "publishedAt": "2026-04-22T00:54:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uvdRGC4cFhY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uvdRGC4cFhY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-21",
       "dailyDigest": "",
@@ -39,6 +93,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "FQZsCzEBDEs",
+              "title": "I Just Cloned Myself And Put It On My Website",
+              "publishedAt": "2026-04-21T20:39:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FQZsCzEBDEs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FQZsCzEBDEs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "egsAzuHxkew",
               "title": "The Biggest Day in the History of AI",
               "publishedAt": "2026-04-21T15:54:34+00:00",
@@ -61,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/F1POR_pzsew/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=F1POR_pzsew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "0yTL0LBjj-g",
+              "title": "GPT Image 2, AI Psychosis, and more",
+              "publishedAt": "2026-04-21T20:45:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0yTL0LBjj-g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0yTL0LBjj-g",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -685,118 +765,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/MDtxVSyz3rw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/MDtxVSyz3rw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "sncxStbRSwI",
-              "title": "This Huge Update Changed The Way I Use Claude Code",
-              "publishedAt": "2026-04-14T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sncxStbRSwI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sncxStbRSwI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "Xg0tNz9pICI",
-              "title": "Building an AI Dark Factory:  A Codebase That Writes Its Own Code, Live",
-              "publishedAt": "2026-04-14T18:51:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Xg0tNz9pICI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Xg0tNz9pICI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "sgQAoCrsn9Q",
-              "title": "Why Getting Good at AI Made Everything Harder",
-              "publishedAt": "2026-04-14T12:31:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sgQAoCrsn9Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sgQAoCrsn9Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "0vdlwOK_Qdk",
-              "title": "3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.",
-              "publishedAt": "2026-04-14T14:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0vdlwOK_Qdk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0vdlwOK_Qdk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "e3inUUQsKsc",
-              "title": "Why AI skills are now table stakes #ai #work #future",
-              "publishedAt": "2026-04-14T03:00:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/e3inUUQsKsc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/e3inUUQsKsc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "kjucWw_7WHw",
-              "title": "I Built a $10,000 Website in 45 Minutes Using Free AI Tools",
-              "publishedAt": "2026-04-14T14:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kjucWw_7WHw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=kjucWw_7WHw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Br7a0jBgMS4",
-              "title": "Mythos... I can't sleep",
-              "publishedAt": "2026-04-14T16:56:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Br7a0jBgMS4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Br7a0jBgMS4",
               "summary": "",
               "transcriptAvailable": false
             }
