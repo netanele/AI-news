@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T11:07:28Z",
+  "lastUpdated": "2026-04-22T16:05:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "dxq7WtWxi44",
+              "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
+              "publishedAt": "2026-04-22T14:01:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dxq7WtWxi44/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dxq7WtWxi44",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "_iWauZ6KL6I",
               "title": "Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing",
               "publishedAt": "2026-04-22T03:00:42+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_iWauZ6KL6I/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_iWauZ6KL6I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "L32w1lWyvyQ",
+              "title": "All the past 3 month update of Claude code",
+              "publishedAt": "2026-04-22T14:31:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L32w1lWyvyQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=L32w1lWyvyQ",
               "summary": "",
               "transcriptAvailable": false
             }
