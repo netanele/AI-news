@@ -1,13 +1,99 @@
 {
-  "lastUpdated": "2026-04-22T16:05:18Z",
+  "lastUpdated": "2026-04-23T08:28:14Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-04-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "rFGlJ4oIlhw",
+              "title": "Parallel Claude Code + Git Worktrees: This Setup Will Change How You Ship",
+              "publishedAt": "2026-04-23T00:01:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rFGlJ4oIlhw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rFGlJ4oIlhw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "pXxl_-B81b8",
+              "title": "Dark factories vs everyone else: the real AI divide #ai #engineering",
+              "publishedAt": "2026-04-23T03:01:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pXxl_-B81b8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/pXxl_-B81b8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "_9zecUHs21c",
+              "title": "Kimi K2.6: BEST Opensource AI Model That Beats Opus 4.6 and Gemini 3.1 Pro (Fully Tested)",
+              "publishedAt": "2026-04-23T06:18:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_9zecUHs21c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=_9zecUHs21c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "aO5k3haUz9Q",
+              "title": "WTF is Anthropic doing???",
+              "publishedAt": "2026-04-23T02:26:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aO5k3haUz9Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=aO5k3haUz9Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-04-22",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "O1XLCh-uA_E",
+              "title": "Anthropic Finally Fixed The 1M Context Window Problem",
+              "publishedAt": "2026-04-22T16:15:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/O1XLCh-uA_E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=O1XLCh-uA_E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -38,6 +124,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "-CO3ohQqloA",
+              "title": "5 Secret Claude Hacks You NEED To Know",
+              "publishedAt": "2026-04-22T19:41:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-CO3ohQqloA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/-CO3ohQqloA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "L32w1lWyvyQ",
               "title": "All the past 3 month update of Claude code",
@@ -70,6 +166,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "ZenJ0VCbYNI",
+              "title": "Wtf Anthropic",
+              "publishedAt": "2026-04-22T19:31:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZenJ0VCbYNI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZenJ0VCbYNI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "uvdRGC4cFhY",
               "title": "ChatGPT Image 2 just dropped... (WOAH)",
@@ -701,96 +807,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/N4ZWCc_Fr3U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=N4ZWCc_Fr3U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2PWJu6uAaoU",
-              "title": "The Real Problem With AI Agents Nobody's Talking About",
-              "publishedAt": "2026-04-15T14:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2PWJu6uAaoU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2PWJu6uAaoU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ku94gbN7lNo",
-              "title": "How top performers dodge AI replacement #AI #CareerStrategy",
-              "publishedAt": "2026-04-15T03:00:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ku94gbN7lNo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ku94gbN7lNo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "uqQTxpv_zcw",
-              "title": "AI Makes Me Money While I sleep",
-              "publishedAt": "2026-04-15T19:31:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uqQTxpv_zcw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/uqQTxpv_zcw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "RjtdN-rCaho",
-              "title": "Claude Routines Just Dropped And It KILLS n8n",
-              "publishedAt": "2026-04-15T02:07:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RjtdN-rCaho/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RjtdN-rCaho",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "CdtJyjCWISI",
-              "title": "Claude Code 2.0: New Desktop/CLI App, Routines + Opus 4.7 This Week!",
-              "publishedAt": "2026-04-15T05:05:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CdtJyjCWISI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CdtJyjCWISI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "MDtxVSyz3rw",
-              "title": "Turns out nowhere is safe",
-              "publishedAt": "2026-04-15T16:12:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MDtxVSyz3rw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/MDtxVSyz3rw",
               "summary": "",
               "transcriptAvailable": false
             }
