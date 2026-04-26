@@ -1,9 +1,221 @@
 {
-  "lastUpdated": "2026-04-23T11:11:31Z",
+  "lastUpdated": "2026-04-26T08:11:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CEVSgJIYSqs",
+              "title": "Qwen 3.6 Max: NEW Powerful AI Model EVER! Beats Opus 4.5, Gemini 3, Deepseek v4! (Fully Tested)",
+              "publishedAt": "2026-04-26T06:01:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CEVSgJIYSqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CEVSgJIYSqs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "BGpYeE1dKI8",
+              "title": "Pushing My Dark Factory Further with Kimi K2.6: A Codebase That Writes Its Own Code, Live",
+              "publishedAt": "2026-04-25T17:29:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BGpYeE1dKI8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BGpYeE1dKI8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "eY1u8Ni9ClQ",
+              "title": "StrongDM's three person team ships with zero human code review #ai #engineering",
+              "publishedAt": "2026-04-25T21:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eY1u8Ni9ClQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/eY1u8Ni9ClQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "brBPsPPyuQM",
+              "title": "ChatGPT Images Just Replaced Three People on Your Team.",
+              "publishedAt": "2026-04-25T15:00:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/brBPsPPyuQM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=brBPsPPyuQM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "7j0ttVwJrow",
+              "title": "Experienced developers took 19% longer with AI #aicoding #study #reality",
+              "publishedAt": "2026-04-25T03:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7j0ttVwJrow/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7j0ttVwJrow",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "3WJEjldSfYk",
+              "title": "The BEST Way to Use Claude",
+              "publishedAt": "2026-04-25T22:21:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3WJEjldSfYk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3WJEjldSfYk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "r_CLYDdBdmM",
+              "title": "The Real Reason You Keep Hitting Claude Limits (And How to Fix It)",
+              "publishedAt": "2026-04-25T14:49:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/r_CLYDdBdmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=r_CLYDdBdmM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "UV1WDNe4J5w",
+              "title": "My Honest Thoughts about Deepseek",
+              "publishedAt": "2026-04-25T16:30:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UV1WDNe4J5w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "KlPxWaY91rE",
+              "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
+              "publishedAt": "2026-04-24T14:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KlPxWaY91rE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KlPxWaY91rE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "9_cafmjIvMs",
+              "title": "Claude Code + Data For SEO Just Changed SEO Forever",
+              "publishedAt": "2026-04-24T14:35:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9_cafmjIvMs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9_cafmjIvMs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "eV3lAY77IpU",
+              "title": "Deepseek v4: Best Opensource Model Ever? (Fully Tested)",
+              "publishedAt": "2026-04-24T07:31:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eV3lAY77IpU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eV3lAY77IpU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "rYisztODPSY",
+              "title": "Google's in a CRAZY position",
+              "publishedAt": "2026-04-24T18:34:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rYisztODPSY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rYisztODPSY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "bNdiBwXbLNw",
+              "title": "Google Cloud CEO: Anthropic, TPUs, Mythos, NVIDIA and more",
+              "publishedAt": "2026-04-24T17:40:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bNdiBwXbLNw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bNdiBwXbLNw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "KJrqRJzSErw",
+              "title": "Anthropic is in trouble",
+              "publishedAt": "2026-04-24T13:00:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KJrqRJzSErw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KJrqRJzSErw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-23",
       "dailyDigest": "",
@@ -29,6 +241,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "2d9ZmA-4QzU",
+              "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
+              "publishedAt": "2026-04-23T14:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2d9ZmA-4QzU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2d9ZmA-4QzU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "pXxl_-B81b8",
               "title": "Dark factories vs everyone else: the real AI divide #ai #engineering",
               "publishedAt": "2026-04-23T03:01:00+00:00",
@@ -41,9 +263,45 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "FvD-Uc4fO4Q",
+              "title": "GPT-5.5 Is Here, Is it the Best Model Yet?",
+              "publishedAt": "2026-04-23T23:30:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FvD-Uc4fO4Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FvD-Uc4fO4Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "JiD0QC_tKiw",
+              "title": "GPT 5.5 is Here and I Tested it Against Opus 4.7",
+              "publishedAt": "2026-04-23T22:15:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JiD0QC_tKiw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JiD0QC_tKiw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
+            {
+              "id": "v4M9hy_JY5E",
+              "title": "OpenAI GPT-5.5: BEST AI Model Ever! Beats Opus 4.7 & Gemini 3.1! Powerful & Fast! (Fully Tested)",
+              "publishedAt": "2026-04-23T22:40:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/v4M9hy_JY5E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=v4M9hy_JY5E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "_9zecUHs21c",
               "title": "Kimi K2.6: BEST Opensource AI Model That Beats Opus 4.6 and Gemini 3.1 Pro (Fully Tested)",
@@ -60,6 +318,36 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "tNV9_I-zLO0",
+              "title": "OpenAI just dropped GPT-5.5... (WOAH)",
+              "publishedAt": "2026-04-23T23:47:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tNV9_I-zLO0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tNV9_I-zLO0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "s6H4QF5K9MM",
+              "title": "GPT-5.5 is HERE!",
+              "publishedAt": "2026-04-23T19:33:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/s6H4QF5K9MM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=s6H4QF5K9MM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Xx_-YU-4_LA",
+              "title": "Removing paid features (no warning)",
+              "publishedAt": "2026-04-23T16:21:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xx_-YU-4_LA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Xx_-YU-4_LA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "aO5k3haUz9Q",
               "title": "WTF is Anthropic doing???",
@@ -455,368 +743,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-04-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "PQTpkQIwBDE",
-              "title": "Why Claude Design Is Already My Favorite",
-              "publishedAt": "2026-04-18T03:15:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PQTpkQIwBDE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PQTpkQIwBDE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "diXrk5gp4XI",
-              "title": "OpenAI Just Gave Agents the Ability to Do Everything—The Consequences Are Massive #AI #OpenAI",
-              "publishedAt": "2026-04-18T21:00:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/diXrk5gp4XI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/diXrk5gp4XI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "xnG8h3UnNFI",
-              "title": "Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.",
-              "publishedAt": "2026-04-18T15:01:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xnG8h3UnNFI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xnG8h3UnNFI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7wmoB-J1fFE",
-              "title": "Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure",
-              "publishedAt": "2026-04-18T03:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7wmoB-J1fFE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7wmoB-J1fFE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "xzH785ry6V0",
-              "title": "Here’s 5 Secret ChatGPT Tricks You NEED To Know",
-              "publishedAt": "2026-04-18T22:14:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xzH785ry6V0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/xzH785ry6V0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1SXBFN6ytmU",
-              "title": "Claude Design Could Disrupt the Entire Design Industry (Full Demo)",
-              "publishedAt": "2026-04-18T06:24:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1SXBFN6ytmU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1SXBFN6ytmU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "uhQfErAzdiA",
-              "title": "Claude Design Is INCREDIBLE! RIP Frontend Developers...",
-              "publishedAt": "2026-04-18T00:16:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uhQfErAzdiA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uhQfErAzdiA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "qQ5uObNKBOU",
-              "title": "I Didn't Expect It To Work This Well",
-              "publishedAt": "2026-04-17T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qQ5uObNKBOU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qQ5uObNKBOU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "Bbh8ldDwz3g",
-              "title": "Opus 4.7 Hit 97% on My Hardest Benchmark",
-              "publishedAt": "2026-04-17T02:24:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Bbh8ldDwz3g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Bbh8ldDwz3g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "4KAF72BTyCE",
-              "title": "Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.",
-              "publishedAt": "2026-04-17T14:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4KAF72BTyCE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4KAF72BTyCE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "PcmFGurjfFo",
-              "title": "Tech talent is about to get ugly thanks to this memo #ai #tech #competition",
-              "publishedAt": "2026-04-17T03:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PcmFGurjfFo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/PcmFGurjfFo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "IL9hKr8hB_U",
-              "title": "This New AI Can Run Your ENTIRE Team",
-              "publishedAt": "2026-04-17T20:55:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IL9hKr8hB_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IL9hKr8hB_U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4cm6F6TNe0g",
-              "title": "How to Use Claude Co-Work Better Than 99% of People",
-              "publishedAt": "2026-04-17T14:43:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4cm6F6TNe0g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4cm6F6TNe0g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "JyvKwKMS6SU",
-              "title": "Seeing if Opus 4.7 sucks [LIVE]",
-              "publishedAt": "2026-04-17T20:07:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JyvKwKMS6SU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JyvKwKMS6SU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "XG3ksRWsUJ8",
-              "title": "I messed up...",
-              "publishedAt": "2026-04-17T19:04:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XG3ksRWsUJ8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XG3ksRWsUJ8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "6woc6ii-zoE",
-              "title": "I'm Building an AI Dark Factory That Ships Its Own Code (Public Experiment)",
-              "publishedAt": "2026-04-16T00:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6woc6ii-zoE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6woc6ii-zoE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "2pIBS1aWlNc",
-              "title": "AI Tools Setup From Scratch — The Complete Walkthrough",
-              "publishedAt": "2026-04-16T12:30:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2pIBS1aWlNc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2pIBS1aWlNc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "XlfumXPPrLY",
-              "title": "Google's Chief Scientist Says Infinitely Fast AI Won't Help You.",
-              "publishedAt": "2026-04-16T14:01:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XlfumXPPrLY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XlfumXPPrLY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "WcH97reWDMQ",
-              "title": "How the Red Queen memo exposed who will actually survive #tech #AI",
-              "publishedAt": "2026-04-16T03:00:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WcH97reWDMQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/WcH97reWDMQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "m_6YVXvRpfQ",
-              "title": "Opus 4.7 is Here!",
-              "publishedAt": "2026-04-16T18:17:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/m_6YVXvRpfQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/m_6YVXvRpfQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "JKNaPBcr0e0",
-              "title": "I Tested Claude Opus 4.7. Here's What Anthropic Isn't Telling You",
-              "publishedAt": "2026-04-16T18:10:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JKNaPBcr0e0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JKNaPBcr0e0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4_a0Z6OsJlA",
-              "title": "OpenClaw Is Broken… Until You Add This Tool",
-              "publishedAt": "2026-04-16T14:46:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4_a0Z6OsJlA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4_a0Z6OsJlA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "lzdmb_Z-yZc",
-              "title": "Claude Opus 4.7: Most Powerful Coding Model Ever! Beats EVERYTHING! (Fully Tested)",
-              "publishedAt": "2026-04-16T23:27:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lzdmb_Z-yZc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lzdmb_Z-yZc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "mqnWsUggIk8",
-              "title": "I Built an AI Agent To Automate My Life!",
-              "publishedAt": "2026-04-16T02:29:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mqnWsUggIk8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mqnWsUggIk8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "N4ZWCc_Fr3U",
-              "title": "Opus 4.7 just dropped... and I'm confused.",
-              "publishedAt": "2026-04-16T21:07:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/N4ZWCc_Fr3U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=N4ZWCc_Fr3U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: MetalSole"
+    ]
   }
 }
