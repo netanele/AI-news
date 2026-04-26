@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T10:47:25Z",
+  "lastUpdated": "2026-04-26T15:36:54Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-04-26",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "GbuwosWEvHo",
+              "title": "Claude Design Is Actually A Trap",
+              "publishedAt": "2026-04-26T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GbuwosWEvHo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GbuwosWEvHo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
