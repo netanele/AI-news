@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-27T11:44:57Z",
+  "lastUpdated": "2026-04-27T16:22:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "qSs8hC2Cz8k",
+              "title": "Shipping the AI Dark Factory's First Real Application Live",
+              "publishedAt": "2026-04-27T14:01:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qSs8hC2Cz8k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qSs8hC2Cz8k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "QrvVkm-8Jx4",
+              "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch.",
+              "publishedAt": "2026-04-27T14:00:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QrvVkm-8Jx4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QrvVkm-8Jx4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "laHR24tiXXg",
+              "title": "We Deployed Claude Code in 42+ Businesses. Here’s What Changed",
+              "publishedAt": "2026-04-27T14:50:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/laHR24tiXXg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=laHR24tiXXg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-26",
       "dailyDigest": "",
