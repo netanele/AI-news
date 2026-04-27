@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T15:36:54Z",
+  "lastUpdated": "2026-04-27T09:12:42Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,64 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/GbuwosWEvHo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=GbuwosWEvHo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "C93cXyQ3NYQ",
+              "title": "Shipping the AI Dark Factory's First Real Application Live",
+              "publishedAt": "2026-04-26T20:37:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C93cXyQ3NYQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=C93cXyQ3NYQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "RaAFquzj5B8",
+              "title": "Apple Just Positioned Itself for the Next Trillion Dollars",
+              "publishedAt": "2026-04-26T17:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RaAFquzj5B8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RaAFquzj5B8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2Kbi2V8SFdU",
+              "title": "Claude But For Beginner’s",
+              "publishedAt": "2026-04-26T20:03:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2Kbi2V8SFdU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2Kbi2V8SFdU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "K-_rH5M7KL0",
+              "title": "I Combined Claude Design and ChatGPT Images 2.0… This Happened",
+              "publishedAt": "2026-04-26T16:08:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/K-_rH5M7KL0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=K-_rH5M7KL0",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -673,86 +731,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/UfUBW9QcTjU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=UfUBW9QcTjU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "0PgB3EQ74OM",
-              "title": "The AI Dark Factory is ALIVE:  A Codebase That Writes Its Own Code, Live",
-              "publishedAt": "2026-04-19T04:39:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0PgB3EQ74OM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0PgB3EQ74OM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "fm6mYqFAM5c",
-              "title": "Block Laid Off Half Its Company for AI. AI Can't Do the Job.",
-              "publishedAt": "2026-04-19T17:00:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fm6mYqFAM5c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fm6mYqFAM5c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Gmbj8sTJsRo",
-              "title": "The web is about to look completely different #AI #WebDevelopment #FutureOfTech",
-              "publishedAt": "2026-04-19T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Gmbj8sTJsRo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Gmbj8sTJsRo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "GTuwZT10gPg",
-              "title": "How to Use Claude Code 100% Free Forever",
-              "publishedAt": "2026-04-19T14:44:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GTuwZT10gPg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GTuwZT10gPg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "OfEcMXLOAtE",
-              "title": "Full AI Agent Tutorial for Beginners 2026 - How to Build AI Agents in Minutes",
-              "publishedAt": "2026-04-19T04:45:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OfEcMXLOAtE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OfEcMXLOAtE",
               "summary": "",
               "transcriptAvailable": false
             }
