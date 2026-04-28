@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-04-27T16:22:26Z",
+  "lastUpdated": "2026-04-28T09:13:43Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "popj1l3LA-I",
+              "title": "Xiaomi MiMo V2.5 Pro IS INSANE! New Opensource Frontier AI Model Beats Deepseek v4! (Fully Tested)",
+              "publishedAt": "2026-04-28T06:39:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/popj1l3LA-I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=popj1l3LA-I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-27",
       "dailyDigest": "",
@@ -45,12 +67,38 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "8s5YqzkT47I",
+              "title": "I Built a 12 Person AI Team hat Does EVERYTHING For You",
+              "publishedAt": "2026-04-27T22:32:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8s5YqzkT47I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8s5YqzkT47I",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "laHR24tiXXg",
               "title": "We Deployed Claude Code in 42+ Businesses. Here’s What Changed",
               "publishedAt": "2026-04-27T14:50:44+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/laHR24tiXXg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=laHR24tiXXg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "cVqdbXlmXqs",
+              "title": "China Takes Over",
+              "publishedAt": "2026-04-27T21:07:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cVqdbXlmXqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/cVqdbXlmXqs",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -689,102 +737,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/0yTL0LBjj-g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=0yTL0LBjj-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "zNOunnM1jTs",
-              "title": "Vibe Coded Apps That Are Making Founders Millionaires",
-              "publishedAt": "2026-04-20T15:04:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zNOunnM1jTs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zNOunnM1jTs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "XSmI7OYd7iM",
-              "title": "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat)",
-              "publishedAt": "2026-04-20T21:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XSmI7OYd7iM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XSmI7OYd7iM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "-dJ9WrTG6zQ",
-              "title": "Nobody Knows What You're Worth Anymore | The AI Job Market Reality",
-              "publishedAt": "2026-04-20T14:00:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-dJ9WrTG6zQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-dJ9WrTG6zQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "VYC5WrlRlmw",
-              "title": "Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications",
-              "publishedAt": "2026-04-20T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VYC5WrlRlmw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/VYC5WrlRlmw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "mJTLS3Sp5so",
-              "title": "How Claude Code Skills Actually Work (And Why You're Using Them Wrong)",
-              "publishedAt": "2026-04-20T14:58:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mJTLS3Sp5so/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mJTLS3Sp5so",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "UfUBW9QcTjU",
-              "title": "OpenAI GPT-5.5 Leaked: Super Powerful AI Model! Beats Opus 4.7, Gemini 3.1! Cheap & Fast! (Tested)",
-              "publishedAt": "2026-04-20T06:23:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UfUBW9QcTjU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UfUBW9QcTjU",
               "summary": "",
               "transcriptAvailable": false
             }
