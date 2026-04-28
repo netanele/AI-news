@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T11:46:47Z",
+  "lastUpdated": "2026-04-28T16:48:25Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-04-28",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "fMY5Sdj2DMk",
+              "title": "This Is Why Claude Code Fails In AI Coding",
+              "publishedAt": "2026-04-28T14:30:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fMY5Sdj2DMk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fMY5Sdj2DMk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "9aIYhjeYxzM",
+              "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
+              "publishedAt": "2026-04-28T14:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9aIYhjeYxzM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9aIYhjeYxzM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -19,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/popj1l3LA-I/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=popj1l3LA-I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "H1OsV7FnhZc",
+              "title": "Reddit is leaking again",
+              "publishedAt": "2026-04-28T16:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H1OsV7FnhZc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=H1OsV7FnhZc",
               "summary": "",
               "transcriptAvailable": false
             }
