@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T11:38:56Z",
+  "lastUpdated": "2026-04-29T16:24:42Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/BUhaXIVbRT4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=BUhaXIVbRT4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "dQK_pTXrGDk",
+              "title": "Salesforce Killed The Browser. Every Agent Runs Your CRM Now.",
+              "publishedAt": "2026-04-29T14:01:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dQK_pTXrGDk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dQK_pTXrGDk",
               "summary": "",
               "transcriptAvailable": false
             }
