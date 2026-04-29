@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-04-28T16:48:25Z",
+  "lastUpdated": "2026-04-29T09:04:53Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "OcTMwjqje5Q",
+              "title": "The Complete AI Transformation Blueprint - Live Workshop",
+              "publishedAt": "2026-04-29T04:46:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OcTMwjqje5Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OcTMwjqje5Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "BUhaXIVbRT4",
+              "title": "GPT-5.5 vs Opus 4.7: OpenAI Finally Closed the Gap",
+              "publishedAt": "2026-04-29T00:20:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BUhaXIVbRT4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BUhaXIVbRT4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "3TIL611HgvE",
+              "title": "Gemini 4.0 Soon, GPT 5.6 Spotted, NEW Open AI Labs, Codex Model, AI Robots & More! HUGE AI NEWS!",
+              "publishedAt": "2026-04-29T05:51:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3TIL611HgvE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3TIL611HgvE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-28",
       "dailyDigest": "",
@@ -35,6 +89,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/9aIYhjeYxzM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=9aIYhjeYxzM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "6tU2GJ0_5I0",
+              "title": "3 Claude Secret Resources To Best Learn EVERYTHING",
+              "publishedAt": "2026-04-28T21:55:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6tU2GJ0_5I0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6tU2GJ0_5I0",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -701,102 +771,10 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-04-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "tJB_8mfRgCo",
-              "title": "Your Prompts Didn't Change. Opus 4.7 Did.",
-              "publishedAt": "2026-04-21T14:01:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tJB_8mfRgCo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=tJB_8mfRgCo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "kp4quCdtvXI",
-              "title": "AI Tools Got Faster But Developers Didn't #ai #productivity #shorts",
-              "publishedAt": "2026-04-21T03:00:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kp4quCdtvXI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/kp4quCdtvXI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "FQZsCzEBDEs",
-              "title": "I Just Cloned Myself And Put It On My Website",
-              "publishedAt": "2026-04-21T20:39:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FQZsCzEBDEs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FQZsCzEBDEs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "egsAzuHxkew",
-              "title": "The Biggest Day in the History of AI",
-              "publishedAt": "2026-04-21T15:54:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/egsAzuHxkew/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=egsAzuHxkew",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "F1POR_pzsew",
-              "title": "Kimi K2.6, GPT 5.5, Deepseek V4, Codex Superapp, Gemini 3.5, Grok 5 = AGI, & More! Huge AI NEWS!",
-              "publishedAt": "2026-04-21T07:17:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/F1POR_pzsew/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=F1POR_pzsew",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "0yTL0LBjj-g",
-              "title": "GPT Image 2, AI Psychosis, and more",
-              "publishedAt": "2026-04-21T20:45:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0yTL0LBjj-g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0yTL0LBjj-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: MetalSole"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
