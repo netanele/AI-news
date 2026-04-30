@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T11:37:54Z",
+  "lastUpdated": "2026-04-30T16:15:02Z",
   "config": {
     "daysToShow": 7
   },
@@ -29,6 +29,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "JvCtGjrn_N0",
+              "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
+              "publishedAt": "2026-04-30T14:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JvCtGjrn_N0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JvCtGjrn_N0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "Dd-471nYilU",
               "title": "Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai",
               "publishedAt": "2026-04-30T03:00:11+00:00",
@@ -45,6 +55,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/eXhG0boQM_0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/eXhG0boQM_0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "gCizF3dtBXU",
+              "title": "Claude Code’s Last 90 Days Changed Everything",
+              "publishedAt": "2026-04-30T15:27:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gCizF3dtBXU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gCizF3dtBXU",
               "summary": "",
               "transcriptAvailable": false
             }
