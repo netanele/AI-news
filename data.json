@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-04-29T16:24:42Z",
+  "lastUpdated": "2026-04-30T09:06:52Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-04-30",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "luBkbzjo-TA",
+              "title": "FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)",
+              "publishedAt": "2026-04-30T00:00:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/luBkbzjo-TA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=luBkbzjo-TA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Dd-471nYilU",
+              "title": "Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai",
+              "publishedAt": "2026-04-30T03:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Dd-471nYilU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Dd-471nYilU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "eXhG0boQM_0",
+              "title": "Boring beats brilliant when scope explodes #effort #reality",
+              "publishedAt": "2026-04-30T00:00:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eXhG0boQM_0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/eXhG0boQM_0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "8rXugE921aY",
+              "title": "Codex + GPT-5.5 = SUPER APP! Build and Do ANYTHING!",
+              "publishedAt": "2026-04-30T07:57:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8rXugE921aY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8rXugE921aY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "dailyDigest": "",
@@ -57,6 +121,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "NCzV-CerZuI",
+              "title": "Claude Just Replaced My Bookkeeper, Here’s How",
+              "publishedAt": "2026-04-29T18:55:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NCzV-CerZuI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NCzV-CerZuI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -67,6 +147,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3TIL611HgvE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=3TIL611HgvE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "epzzALZ8oYo",
+              "title": "Deepseek is a problem",
+              "publishedAt": "2026-04-29T23:53:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/epzzALZ8oYo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=epzzALZ8oYo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -665,122 +761,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/aO5k3haUz9Q/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=aO5k3haUz9Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "O1XLCh-uA_E",
-              "title": "Anthropic Finally Fixed The 1M Context Window Problem",
-              "publishedAt": "2026-04-22T16:15:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/O1XLCh-uA_E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=O1XLCh-uA_E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "dxq7WtWxi44",
-              "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
-              "publishedAt": "2026-04-22T14:01:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dxq7WtWxi44/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dxq7WtWxi44",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_iWauZ6KL6I",
-              "title": "Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing",
-              "publishedAt": "2026-04-22T03:00:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_iWauZ6KL6I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_iWauZ6KL6I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "-CO3ohQqloA",
-              "title": "5 Secret Claude Hacks You NEED To Know",
-              "publishedAt": "2026-04-22T19:41:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-CO3ohQqloA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/-CO3ohQqloA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "L32w1lWyvyQ",
-              "title": "All the past 3 month update of Claude code",
-              "publishedAt": "2026-04-22T14:31:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L32w1lWyvyQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=L32w1lWyvyQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "nD24henxjT8",
-              "title": "Bart Mode + Claude Code: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Tutorial)",
-              "publishedAt": "2026-04-22T05:59:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nD24henxjT8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nD24henxjT8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "ZenJ0VCbYNI",
-              "title": "Wtf Anthropic",
-              "publishedAt": "2026-04-22T19:31:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZenJ0VCbYNI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZenJ0VCbYNI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uvdRGC4cFhY",
-              "title": "ChatGPT Image 2 just dropped... (WOAH)",
-              "publishedAt": "2026-04-22T00:54:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uvdRGC4cFhY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uvdRGC4cFhY",
               "summary": "",
               "transcriptAvailable": false
             }
