@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T11:50:04Z",
+  "lastUpdated": "2026-05-04T16:27:21Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Pk4pBrBQrxo",
+              "title": "🔴LIVE - What's Next for Archon - Live Roadmap Session",
+              "publishedAt": "2026-05-04T12:43:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Pk4pBrBQrxo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Pk4pBrBQrxo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "rYqt6mMlv7o",
+              "title": "Don't Get Blindsided: Understanding AI's Subtle Impact on Your Daily Work",
+              "publishedAt": "2026-05-04T14:01:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rYqt6mMlv7o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rYqt6mMlv7o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "zqJKDFQvSzA",
               "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zqJKDFQvSzA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/zqJKDFQvSzA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "W8H0XUkt_yg",
+              "title": "I Fixed NotebookLM’s Biggest Problem (Now It Watches Videos)",
+              "publishedAt": "2026-05-04T15:10:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/W8H0XUkt_yg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=W8H0XUkt_yg",
               "summary": "",
               "transcriptAvailable": false
             }
