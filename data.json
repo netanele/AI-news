@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-05-03T15:40:37Z",
+  "lastUpdated": "2026-05-04T09:11:07Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-04",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "zqJKDFQvSzA",
+              "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
+              "publishedAt": "2026-05-04T03:01:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zqJKDFQvSzA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/zqJKDFQvSzA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "EibhUi-FnTs",
+              "title": "DeepSeek V4 + Claude Code = BEST AI Coder!",
+              "publishedAt": "2026-05-04T07:30:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EibhUi-FnTs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EibhUi-FnTs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "dailyDigest": "",
@@ -29,6 +67,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "XGvDbeoSN3E",
+              "title": "Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.",
+              "publishedAt": "2026-05-03T17:00:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XGvDbeoSN3E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XGvDbeoSN3E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "YRiPVdPqTlk",
               "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
               "publishedAt": "2026-05-03T03:00:36+00:00",
@@ -51,6 +99,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Xto3fdA-93Y",
+              "title": "Google's Free AI Works Without Internet (Could Save Your Life)",
+              "publishedAt": "2026-05-03T20:05:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xto3fdA-93Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Xto3fdA-93Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -61,6 +125,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2dayUh6KeZU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2dayUh6KeZU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Co6Z0K6-aI0",
+              "title": "Next MOST IMPORTANT App Ever",
+              "publishedAt": "2026-05-03T18:21:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Co6Z0K6-aI0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Co6Z0K6-aI0",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -671,102 +751,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/cVqdbXlmXqs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/cVqdbXlmXqs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-26",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "GbuwosWEvHo",
-              "title": "Claude Design Is Actually A Trap",
-              "publishedAt": "2026-04-26T14:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GbuwosWEvHo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GbuwosWEvHo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "C93cXyQ3NYQ",
-              "title": "Shipping the AI Dark Factory's First Real Application Live",
-              "publishedAt": "2026-04-26T20:37:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/C93cXyQ3NYQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=C93cXyQ3NYQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "RaAFquzj5B8",
-              "title": "Apple Just Positioned Itself for the Next Trillion Dollars",
-              "publishedAt": "2026-04-26T17:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RaAFquzj5B8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RaAFquzj5B8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "2Kbi2V8SFdU",
-              "title": "Claude But For Beginner’s",
-              "publishedAt": "2026-04-26T20:03:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2Kbi2V8SFdU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2Kbi2V8SFdU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "K-_rH5M7KL0",
-              "title": "I Combined Claude Design and ChatGPT Images 2.0… This Happened",
-              "publishedAt": "2026-04-26T16:08:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K-_rH5M7KL0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=K-_rH5M7KL0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "CEVSgJIYSqs",
-              "title": "Qwen 3.6 Max: NEW Powerful AI Model EVER! Beats Opus 4.5, Gemini 3, Deepseek v4! (Fully Tested)",
-              "publishedAt": "2026-04-26T06:01:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CEVSgJIYSqs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CEVSgJIYSqs",
               "summary": "",
               "transcriptAvailable": false
             }
