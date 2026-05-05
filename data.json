@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T11:15:57Z",
+  "lastUpdated": "2026-05-05T16:20:24Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "KQDVDtklf34",
+              "title": "You Need To Change How You Use Your Claude Code Sessions",
+              "publishedAt": "2026-05-05T14:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KQDVDtklf34/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KQDVDtklf34",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "Z0HizICooiw",
+              "title": "Consumer AI Has a Problem Nobody's Naming.",
+              "publishedAt": "2026-05-05T14:00:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Z0HizICooiw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Z0HizICooiw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "X1h75jqeD0Q",
               "title": "This Is Why Distilled Models Collapse #AIShorts #LLM",
