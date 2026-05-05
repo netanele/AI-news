@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-05-04T16:27:21Z",
+  "lastUpdated": "2026-05-05T09:03:25Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-05",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "X1h75jqeD0Q",
+              "title": "This Is Why Distilled Models Collapse #AIShorts #LLM",
+              "publishedAt": "2026-05-05T03:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/X1h75jqeD0Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/X1h75jqeD0Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "tb466sawkQM",
+              "title": "ChatGPT Recommends My Business, Here’s How",
+              "publishedAt": "2026-05-05T02:35:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tb466sawkQM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tb466sawkQM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "8XcbyliBwc4",
+              "title": "Open Design - Open Source Claude Design! Fully Free AI Design System!",
+              "publishedAt": "2026-05-05T06:52:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8XcbyliBwc4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8XcbyliBwc4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "dailyDigest": "",
@@ -713,86 +767,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/H1OsV7FnhZc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=H1OsV7FnhZc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-27",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "qSs8hC2Cz8k",
-              "title": "Shipping the AI Dark Factory's First Real Application Live",
-              "publishedAt": "2026-04-27T14:01:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qSs8hC2Cz8k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qSs8hC2Cz8k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "QrvVkm-8Jx4",
-              "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch.",
-              "publishedAt": "2026-04-27T14:00:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QrvVkm-8Jx4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QrvVkm-8Jx4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "8s5YqzkT47I",
-              "title": "I Built a 12 Person AI Team hat Does EVERYTHING For You",
-              "publishedAt": "2026-04-27T22:32:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8s5YqzkT47I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8s5YqzkT47I",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "laHR24tiXXg",
-              "title": "We Deployed Claude Code in 42+ Businesses. Here’s What Changed",
-              "publishedAt": "2026-04-27T14:50:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/laHR24tiXXg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=laHR24tiXXg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "cVqdbXlmXqs",
-              "title": "China Takes Over",
-              "publishedAt": "2026-04-27T21:07:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cVqdbXlmXqs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/cVqdbXlmXqs",
               "summary": "",
               "transcriptAvailable": false
             }
