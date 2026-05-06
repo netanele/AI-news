@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-05-05T16:20:24Z",
+  "lastUpdated": "2026-05-06T09:14:48Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-06",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "caULlNzJGj0",
+              "title": "Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear",
+              "publishedAt": "2026-05-06T03:00:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/caULlNzJGj0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/caULlNzJGj0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "JFgD4c3Tab0",
+              "title": "Gemini Omni, Gemini 3.2 Flash, a 12M Context Window Model, Claude Replaces Analysts, & More! AI NEWS",
+              "publishedAt": "2026-05-06T06:30:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JFgD4c3Tab0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JFgD4c3Tab0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "dailyDigest": "",
@@ -54,6 +92,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "0wH0xY6qP84",
+              "title": "How to Use Claude Code Completely FREE",
+              "publishedAt": "2026-05-05T20:40:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0wH0xY6qP84/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0wH0xY6qP84",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "tb466sawkQM",
               "title": "ChatGPT Recommends My Business, Here’s How",
@@ -707,92 +755,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/epzzALZ8oYo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=epzzALZ8oYo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-28",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "fMY5Sdj2DMk",
-              "title": "This Is Why Claude Code Fails In AI Coding",
-              "publishedAt": "2026-04-28T14:30:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fMY5Sdj2DMk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fMY5Sdj2DMk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "9aIYhjeYxzM",
-              "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
-              "publishedAt": "2026-04-28T14:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9aIYhjeYxzM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9aIYhjeYxzM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "6tU2GJ0_5I0",
-              "title": "3 Claude Secret Resources To Best Learn EVERYTHING",
-              "publishedAt": "2026-04-28T21:55:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6tU2GJ0_5I0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6tU2GJ0_5I0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "popj1l3LA-I",
-              "title": "Xiaomi MiMo V2.5 Pro IS INSANE! New Opensource Frontier AI Model Beats Deepseek v4! (Fully Tested)",
-              "publishedAt": "2026-04-28T06:39:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/popj1l3LA-I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=popj1l3LA-I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "H1OsV7FnhZc",
-              "title": "Reddit is leaking again",
-              "publishedAt": "2026-04-28T16:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/H1OsV7FnhZc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=H1OsV7FnhZc",
               "summary": "",
               "transcriptAvailable": false
             }
