@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T11:48:40Z",
+  "lastUpdated": "2026-05-06T16:24:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "RSk6R_2GYZo",
+              "title": "🔴LIVE - My AI Coding Workflow has 10x'd Again with Archon - See it in Action",
+              "publishedAt": "2026-05-06T13:20:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RSk6R_2GYZo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RSk6R_2GYZo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "b1fxYGPbHeo",
+              "title": "Your AI Fails At Real Work. The Model Isn't Why.",
+              "publishedAt": "2026-05-06T14:01:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/b1fxYGPbHeo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=b1fxYGPbHeo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "caULlNzJGj0",
               "title": "Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear",
