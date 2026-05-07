@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T11:48:50Z",
+  "lastUpdated": "2026-05-07T16:45:34Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "85Q9htV2CBE",
+              "title": "Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.",
+              "publishedAt": "2026-05-07T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/85Q9htV2CBE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=85Q9htV2CBE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "MfO_Edrgy0w",
               "title": "16 Million Fake Accounts Stealing AI Capabilities #ai #news",
@@ -67,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xXLjeP_AyOg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=xXLjeP_AyOg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "P3jYJutGqWs",
+              "title": "How to Generate those AI videos",
+              "publishedAt": "2026-05-07T15:31:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/P3jYJutGqWs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/P3jYJutGqWs",
               "summary": "",
               "transcriptAvailable": false
             }
