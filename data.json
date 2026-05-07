@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-05-06T16:24:08Z",
+  "lastUpdated": "2026-05-07T09:25:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-07",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "rlsP-T_IxVE",
+              "title": "AI YouTube Is Only Claude Hype Now",
+              "publishedAt": "2026-05-07T00:01:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rlsP-T_IxVE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rlsP-T_IxVE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "MfO_Edrgy0w",
+              "title": "16 Million Fake Accounts Stealing AI Capabilities #ai #news",
+              "publishedAt": "2026-05-07T03:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MfO_Edrgy0w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/MfO_Edrgy0w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "JqqwVgpJSpM",
+              "title": "Claude 2.0 is Here, What You Need to Know",
+              "publishedAt": "2026-05-07T02:04:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JqqwVgpJSpM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JqqwVgpJSpM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "xXLjeP_AyOg",
+              "title": "Claude's New \"Infinite\" Context Window Model, Doubled Rate Limits, Multi-Agent Cordination, & More!",
+              "publishedAt": "2026-05-07T06:44:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xXLjeP_AyOg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xXLjeP_AyOg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "dailyDigest": "",
@@ -61,6 +131,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/JFgD4c3Tab0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=JFgD4c3Tab0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "fa3mUy9DHcs",
+              "title": "Anthropic x SpaceX!!!!",
+              "publishedAt": "2026-05-06T18:36:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fa3mUy9DHcs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fa3mUy9DHcs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "gSeXcfDybHo",
+              "title": "Anthropic scares me.",
+              "publishedAt": "2026-05-06T18:27:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gSeXcfDybHo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gSeXcfDybHo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -679,108 +775,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/8rXugE921aY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=8rXugE921aY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-04-29",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "OcTMwjqje5Q",
-              "title": "The Complete AI Transformation Blueprint - Live Workshop",
-              "publishedAt": "2026-04-29T04:46:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OcTMwjqje5Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OcTMwjqje5Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "BUhaXIVbRT4",
-              "title": "GPT-5.5 vs Opus 4.7: OpenAI Finally Closed the Gap",
-              "publishedAt": "2026-04-29T00:20:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BUhaXIVbRT4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BUhaXIVbRT4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "dQK_pTXrGDk",
-              "title": "Salesforce Killed The Browser. Every Agent Runs Your CRM Now.",
-              "publishedAt": "2026-04-29T14:01:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dQK_pTXrGDk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dQK_pTXrGDk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "NCzV-CerZuI",
-              "title": "Claude Just Replaced My Bookkeeper, Here’s How",
-              "publishedAt": "2026-04-29T18:55:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NCzV-CerZuI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/NCzV-CerZuI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "3TIL611HgvE",
-              "title": "Gemini 4.0 Soon, GPT 5.6 Spotted, NEW Open AI Labs, Codex Model, AI Robots & More! HUGE AI NEWS!",
-              "publishedAt": "2026-04-29T05:51:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3TIL611HgvE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3TIL611HgvE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "epzzALZ8oYo",
-              "title": "Deepseek is a problem",
-              "publishedAt": "2026-04-29T23:53:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/epzzALZ8oYo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=epzzALZ8oYo",
               "summary": "",
               "transcriptAvailable": false
             }
