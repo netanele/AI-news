@@ -1,17 +1,65 @@
 {
-  "lastUpdated": "2026-05-10T15:45:12Z",
+  "lastUpdated": "2026-05-11T10:27:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-05-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "dLk2Imx-0uk",
+              "title": "Hermes Agentic OS is The Future",
+              "publishedAt": "2026-05-11T07:07:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dLk2Imx-0uk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dLk2Imx-0uk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-05-10",
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "4azVjKhqDzw",
+              "title": "Building the App Store for Agentic Engineering",
+              "publishedAt": "2026-05-10T18:06:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4azVjKhqDzw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4azVjKhqDzw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "EpJ0CjTJSag",
+              "title": "Anthropic And OpenAI Just Admitted The Model Isn't Enough.",
+              "publishedAt": "2026-05-10T18:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EpJ0CjTJSag/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EpJ0CjTJSag",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "lNX4m6KmX4U",
               "title": "Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts",
@@ -29,6 +77,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/BXb4AovU-VY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/BXb4AovU-VY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "yUDSPI5O-tU",
+              "title": "The 29 Free Claude Skills That Run Marketing For You",
+              "publishedAt": "2026-05-10T20:43:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yUDSPI5O-tU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/yUDSPI5O-tU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "qDaoP8ObaTo",
+              "title": "Claude Desktop Just Got Every Open-Source Model",
+              "publishedAt": "2026-05-10T15:54:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qDaoP8ObaTo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qDaoP8ObaTo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -627,112 +701,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/EibhUi-FnTs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=EibhUi-FnTs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "vhbaZJtW2Hg",
-              "title": "🔴LIVE - Full AI Video Generation Workflow Using Claude Code + Remotion + Archon",
-              "publishedAt": "2026-05-03T03:33:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vhbaZJtW2Hg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=vhbaZJtW2Hg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "XGvDbeoSN3E",
-              "title": "Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.",
-              "publishedAt": "2026-05-03T17:00:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XGvDbeoSN3E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XGvDbeoSN3E",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "YRiPVdPqTlk",
-              "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
-              "publishedAt": "2026-05-03T03:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YRiPVdPqTlk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/YRiPVdPqTlk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "J-lOw3au-0E",
-              "title": "The $60M AI Win That Wasn't #ai #shorts",
-              "publishedAt": "2026-05-03T00:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/J-lOw3au-0E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/J-lOw3au-0E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Xto3fdA-93Y",
-              "title": "Google's Free AI Works Without Internet (Could Save Your Life)",
-              "publishedAt": "2026-05-03T20:05:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Xto3fdA-93Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Xto3fdA-93Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "2dayUh6KeZU",
-              "title": "Gemini 3.5 Flash In Arena! POWERFUL, Cheap, & Fast NEW AI Model! (Fully Tested)",
-              "publishedAt": "2026-05-03T06:44:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2dayUh6KeZU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2dayUh6KeZU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Co6Z0K6-aI0",
-              "title": "Next MOST IMPORTANT App Ever",
-              "publishedAt": "2026-05-03T18:21:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Co6Z0K6-aI0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Co6Z0K6-aI0",
               "summary": "",
               "transcriptAvailable": false
             }
