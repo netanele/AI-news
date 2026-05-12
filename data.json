@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-05-11T17:21:13Z",
+  "lastUpdated": "2026-05-12T09:29:16Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "OhtcvogXtok",
+              "title": "While Execs Panic, This Skill Gets Rare #ai #career",
+              "publishedAt": "2026-05-12T00:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OhtcvogXtok/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/OhtcvogXtok",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "-jINRoST0mk",
+              "title": "Claude Code Agent View IS INSANE! Huge New Update Introduces /goal, sessions, & More!",
+              "publishedAt": "2026-05-12T07:03:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-jINRoST0mk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-jINRoST0mk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "dailyDigest": "",
@@ -19,6 +57,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/SX1myuPEDFg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=SX1myuPEDFg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "NW4pIYA1gFs",
+              "title": "Meta's New AI Feature Killed a $500M Industry Overnight",
+              "publishedAt": "2026-05-11T23:16:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NW4pIYA1gFs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NW4pIYA1gFs",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -637,86 +691,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/8XcbyliBwc4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=8XcbyliBwc4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "Pk4pBrBQrxo",
-              "title": "🔴LIVE - What's Next for Archon - Live Roadmap Session",
-              "publishedAt": "2026-05-04T12:43:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Pk4pBrBQrxo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Pk4pBrBQrxo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "rYqt6mMlv7o",
-              "title": "Don't Get Blindsided: Understanding AI's Subtle Impact on Your Daily Work",
-              "publishedAt": "2026-05-04T14:01:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rYqt6mMlv7o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rYqt6mMlv7o",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "zqJKDFQvSzA",
-              "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
-              "publishedAt": "2026-05-04T03:01:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zqJKDFQvSzA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/zqJKDFQvSzA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "W8H0XUkt_yg",
-              "title": "I Fixed NotebookLM’s Biggest Problem (Now It Watches Videos)",
-              "publishedAt": "2026-05-04T15:10:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W8H0XUkt_yg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=W8H0XUkt_yg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "EibhUi-FnTs",
-              "title": "DeepSeek V4 + Claude Code = BEST AI Coder!",
-              "publishedAt": "2026-05-04T07:30:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EibhUi-FnTs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EibhUi-FnTs",
               "summary": "",
               "transcriptAvailable": false
             }
