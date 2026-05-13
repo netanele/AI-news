@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T12:06:15Z",
+  "lastUpdated": "2026-05-13T17:11:40Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "lqiwQiDglGk",
+              "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
+              "publishedAt": "2026-05-13T14:01:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lqiwQiDglGk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lqiwQiDglGk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "fsFxiXzwvp8",
               "title": "I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering",
@@ -45,6 +55,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Gx2joHxUhgg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Gx2joHxUhgg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "mR2Rh9RtyR4",
+              "title": "Turns out, HTML is King",
+              "publishedAt": "2026-05-13T13:46:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mR2Rh9RtyR4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mR2Rh9RtyR4",
               "summary": "",
               "transcriptAvailable": false
             }
