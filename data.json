@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T11:53:31Z",
+  "lastUpdated": "2026-05-14T16:57:16Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "O3ALG38xEDU",
+              "title": "The Thing GPT and Claude Quietly Drop in Every Conversation",
+              "publishedAt": "2026-05-14T12:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/O3ALG38xEDU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=O3ALG38xEDU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "jwtpMSRAPAQ",
+              "title": "The Trillion Dollar Agentic Workflow Opportunity Is Here",
+              "publishedAt": "2026-05-14T14:01:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jwtpMSRAPAQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jwtpMSRAPAQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8n4OV0jotDs",
               "title": "Professors Notice Something's Drastically Wrong #college #teacher",
