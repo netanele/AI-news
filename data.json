@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T09:26:01Z",
+  "lastUpdated": "2026-05-14T11:53:31Z",
   "config": {
     "daysToShow": 7
   },
@@ -317,6 +317,16 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/4azVjKhqDzw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=4azVjKhqDzw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "RSk6R_2GYZo",
+              "title": "🔴LIVE - My AI Coding Workflow has 10x'd Again with Archon - See it in Action",
+              "publishedAt": "2026-05-10T05:56:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RSk6R_2GYZo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RSk6R_2GYZo",
               "summary": "",
               "transcriptAvailable": false
             }
