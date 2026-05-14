@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-05-13T17:11:40Z",
+  "lastUpdated": "2026-05-14T09:26:01Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Ya51a1EJPZk",
+              "title": "Make the PERFECT Videos with Claude Code (Full Workflow)",
+              "publishedAt": "2026-05-14T00:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ya51a1EJPZk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ya51a1EJPZk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "8n4OV0jotDs",
+              "title": "Professors Notice Something's Drastically Wrong #college #teacher",
+              "publishedAt": "2026-05-14T03:00:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8n4OV0jotDs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8n4OV0jotDs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "xK8Xom50e1k",
+              "title": "Anthropic’s Downfall? GPT-5.6, Gemini 3.2, Robots Running A Full 8-hr Shift, & Qwen 3.6 Plus FREE!",
+              "publishedAt": "2026-05-14T06:39:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xK8Xom50e1k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xK8Xom50e1k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "dailyDigest": "",
@@ -64,6 +118,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "hAzhVloGkOw",
+              "title": "Everyone's getting hacked",
+              "publishedAt": "2026-05-13T18:50:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hAzhVloGkOw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hAzhVloGkOw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "mR2Rh9RtyR4",
               "title": "Turns out, HTML is King",
@@ -653,96 +717,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/P3jYJutGqWs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/P3jYJutGqWs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "RSk6R_2GYZo",
-              "title": "🔴LIVE - My AI Coding Workflow has 10x'd Again with Archon - See it in Action",
-              "publishedAt": "2026-05-06T13:20:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RSk6R_2GYZo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RSk6R_2GYZo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "b1fxYGPbHeo",
-              "title": "Your AI Fails At Real Work. The Model Isn't Why.",
-              "publishedAt": "2026-05-06T14:01:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/b1fxYGPbHeo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=b1fxYGPbHeo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "caULlNzJGj0",
-              "title": "Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear",
-              "publishedAt": "2026-05-06T03:00:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/caULlNzJGj0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/caULlNzJGj0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "JFgD4c3Tab0",
-              "title": "Gemini Omni, Gemini 3.2 Flash, a 12M Context Window Model, Claude Replaces Analysts, & More! AI NEWS",
-              "publishedAt": "2026-05-06T06:30:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JFgD4c3Tab0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JFgD4c3Tab0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "fa3mUy9DHcs",
-              "title": "Anthropic x SpaceX!!!!",
-              "publishedAt": "2026-05-06T18:36:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fa3mUy9DHcs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fa3mUy9DHcs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "gSeXcfDybHo",
-              "title": "Anthropic scares me.",
-              "publishedAt": "2026-05-06T18:27:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gSeXcfDybHo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=gSeXcfDybHo",
               "summary": "",
               "transcriptAvailable": false
             }
