@@ -1,9 +1,221 @@
 {
-  "lastUpdated": "2026-05-14T16:57:16Z",
+  "lastUpdated": "2026-05-17T08:57:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-17",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "lK9o5Wu2upU",
+              "title": "Pi is INCREDIBLE - Building a Custom Coding Agent Live",
+              "publishedAt": "2026-05-17T03:42:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lK9o5Wu2upU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lK9o5Wu2upU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "D0Lc4HF5pzE",
+              "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
+              "publishedAt": "2026-05-17T03:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D0Lc4HF5pzE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/D0Lc4HF5pzE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "tpmCddboe74",
+              "title": "GPT-5.5 vs 1000 Piece Lego Set #ai #challenge",
+              "publishedAt": "2026-05-17T00:00:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tpmCddboe74/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tpmCddboe74",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "WxjviB1pJbk",
+              "title": "Stop Paying $200/Month for Claude Code! Here's a FREE Option!",
+              "publishedAt": "2026-05-17T05:59:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WxjviB1pJbk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WxjviB1pJbk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "dm3_Z-5PYnQ",
+              "title": "Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking",
+              "publishedAt": "2026-05-16T15:01:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dm3_Z-5PYnQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dm3_Z-5PYnQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "9bA49Yc3dlw",
+              "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
+              "publishedAt": "2026-05-16T00:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9bA49Yc3dlw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/9bA49Yc3dlw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "oekV5AQGRCY",
+              "title": "Gemini 3.5 Flash + Pro: Powerful, Cheap, & Fast NEW AI Model! (Fully Tested)",
+              "publishedAt": "2026-05-16T06:11:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oekV5AQGRCY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oekV5AQGRCY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "x2pRavsHdls",
+              "title": "Claude Code Just Killed Every Shopify Agency",
+              "publishedAt": "2026-05-15T14:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/x2pRavsHdls/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=x2pRavsHdls",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "adNErrz2aA0",
+              "title": "Your SaaS Bill Just Got a Second Meter. You're About to Pay It.",
+              "publishedAt": "2026-05-15T14:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/adNErrz2aA0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=adNErrz2aA0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "IQ5zojQHHKE",
+              "title": "The Secret Behind GPT's Simplicity #chatgpt #ai",
+              "publishedAt": "2026-05-15T03:45:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IQ5zojQHHKE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IQ5zojQHHKE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "qo40REk9wNU",
+              "title": "Codex + Ollama = Free Unlimited Coding AI",
+              "publishedAt": "2026-05-15T06:48:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qo40REk9wNU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qo40REk9wNU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "NksViNo3n08",
+              "title": "anthropic vs. openai",
+              "publishedAt": "2026-05-15T17:51:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NksViNo3n08/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NksViNo3n08",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "5-7PJLCw8JA",
+              "title": "$400,000 from Claude Code",
+              "publishedAt": "2026-05-15T13:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5-7PJLCw8JA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5-7PJLCw8JA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "ak6fQ2Yjwy0",
+              "title": "We only have 2 years...",
+              "publishedAt": "2026-05-15T01:10:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ak6fQ2Yjwy0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ak6fQ2Yjwy0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "dailyDigest": "",
@@ -45,6 +257,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "oWIXee9h3nU",
+              "title": "Codex Just Valued A Random House In India. I Wasn't Ready. #codex",
+              "publishedAt": "2026-05-14T22:01:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oWIXee9h3nU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/oWIXee9h3nU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "jwtpMSRAPAQ",
               "title": "The Trillion Dollar Agentic Workflow Opportunity Is Here",
               "publishedAt": "2026-05-14T14:01:09+00:00",
@@ -77,6 +299,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xK8Xom50e1k/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=xK8Xom50e1k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "cLuoF9nZwKE",
+              "title": "Robot sets the sorting record",
+              "publishedAt": "2026-05-14T19:56:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cLuoF9nZwKE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/cLuoF9nZwKE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -431,328 +669,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/YBp_PXBbe80/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=YBp_PXBbe80",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-09",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "mkH4N6IXnic",
-              "title": "How I Actually Used AI Agents to Build a Benchmark",
-              "publishedAt": "2026-05-09T01:39:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mkH4N6IXnic/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mkH4N6IXnic",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "647pSnX5H_Y",
-              "title": "You're Wasting 40% Of Your AI Time On Something Fixable",
-              "publishedAt": "2026-05-09T15:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/647pSnX5H_Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=647pSnX5H_Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "cUo-QtAectY",
-              "title": "Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career",
-              "publishedAt": "2026-05-09T03:00:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cUo-QtAectY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/cUo-QtAectY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "vN3GtpdIRsc",
-              "title": "5 Hidden Claude Hacks You NEED To Know",
-              "publishedAt": "2026-05-09T22:22:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vN3GtpdIRsc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vN3GtpdIRsc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "-cBwLx7Mcbk",
-              "title": "Openclaw Just Made Someone Rich",
-              "publishedAt": "2026-05-09T22:21:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-cBwLx7Mcbk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/-cBwLx7Mcbk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "t5UtgnjQST8",
-              "title": "Codex Super App, OpenAI Chaos Drama, Gemini 3.2 Pro In Arena, GPT-Realtime-2, & NotebookLM Update!",
-              "publishedAt": "2026-05-09T07:19:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t5UtgnjQST8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=t5UtgnjQST8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "1a_k48eco2c",
-              "title": "AI is taking over video games",
-              "publishedAt": "2026-05-09T18:04:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1a_k48eco2c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1a_k48eco2c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "qkc1j3_k8gs",
-              "title": "This One Command Fixed The Biggest Problem Of AI Coding",
-              "publishedAt": "2026-05-08T14:10:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qkc1j3_k8gs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qkc1j3_k8gs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "W79FW7iUkro",
-              "title": "271 Vulnerabilities: What Mozilla's AI Found Changes Everything",
-              "publishedAt": "2026-05-08T14:00:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W79FW7iUkro/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=W79FW7iUkro",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5FLfz7KzV50",
-              "title": "While Markets Panic, This Happens #ai #opportunity",
-              "publishedAt": "2026-05-08T03:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5FLfz7KzV50/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5FLfz7KzV50",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "qk0yiCS2nv0",
-              "title": "OpenClaw + Hermes = 50% Cheaper AI Bill",
-              "publishedAt": "2026-05-08T13:45:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qk0yiCS2nv0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qk0yiCS2nv0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "JZIf-HiutvY",
-              "title": "NEW Open Claude Code Is A FULLY FREE AI Coding Agent! (Tutorial)",
-              "publishedAt": "2026-05-08T05:57:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JZIf-HiutvY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JZIf-HiutvY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "rlsP-T_IxVE",
-              "title": "AI YouTube Is Only Claude Hype Now",
-              "publishedAt": "2026-05-07T00:01:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rlsP-T_IxVE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rlsP-T_IxVE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "85Q9htV2CBE",
-              "title": "Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.",
-              "publishedAt": "2026-05-07T14:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/85Q9htV2CBE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=85Q9htV2CBE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "MfO_Edrgy0w",
-              "title": "16 Million Fake Accounts Stealing AI Capabilities #ai #news",
-              "publishedAt": "2026-05-07T03:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MfO_Edrgy0w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/MfO_Edrgy0w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Cd9wV4EWoPA",
-              "title": "Claude SECRET Fix for Forgetting Everything",
-              "publishedAt": "2026-05-07T22:01:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Cd9wV4EWoPA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Cd9wV4EWoPA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "JqqwVgpJSpM",
-              "title": "Claude 2.0 is Here, What You Need to Know",
-              "publishedAt": "2026-05-07T02:04:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JqqwVgpJSpM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/JqqwVgpJSpM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "xXLjeP_AyOg",
-              "title": "Claude's New \"Infinite\" Context Window Model, Doubled Rate Limits, Multi-Agent Cordination, & More!",
-              "publishedAt": "2026-05-07T06:44:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xXLjeP_AyOg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xXLjeP_AyOg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "g31LEVJyGQI",
-              "title": "GPT-Realtime-2, Directionally Bad and Agent Memory",
-              "publishedAt": "2026-05-07T19:05:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/g31LEVJyGQI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=g31LEVJyGQI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Gtt-xnzoIDc",
-              "title": "The Anthropic Situation is INSANE",
-              "publishedAt": "2026-05-07T18:58:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Gtt-xnzoIDc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Gtt-xnzoIDc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SGg9jNrWmOQ",
-              "title": "Everyone's holding their laptops open",
-              "publishedAt": "2026-05-07T18:33:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SGg9jNrWmOQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SGg9jNrWmOQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "P3jYJutGqWs",
-              "title": "How to Generate those AI videos",
-              "publishedAt": "2026-05-07T15:31:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/P3jYJutGqWs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/P3jYJutGqWs",
               "summary": "",
               "transcriptAvailable": false
             }
