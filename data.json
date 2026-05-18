@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T10:55:58Z",
+  "lastUpdated": "2026-05-18T13:47:47Z",
   "config": {
     "daysToShow": 7
   },
@@ -495,6 +495,16 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Iq442C9IeF0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Iq442C9IeF0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "4azVjKhqDzw",
+              "title": "Building the App Store for Agentic Engineering",
+              "publishedAt": "2026-05-12T04:02:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4azVjKhqDzw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4azVjKhqDzw",
               "summary": "",
               "transcriptAvailable": false
             }
