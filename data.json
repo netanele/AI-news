@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-05-17T15:53:37Z",
+  "lastUpdated": "2026-05-18T10:55:58Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-18",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "WwpDswEjTXg",
+              "title": "How teams accidentally sabotage AI adoption #ai #aitools",
+              "publishedAt": "2026-05-18T03:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WwpDswEjTXg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/WwpDswEjTXg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "uZIijUyMT20",
+              "title": "Hermes Agent Foundation Update: Real-Time Agents, DeepSeek V4 FREE, Native Windows Support, & More!",
+              "publishedAt": "2026-05-18T06:16:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uZIijUyMT20/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uZIijUyMT20",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "qGm6gtHpJq0",
+              "title": "Pushing My AI Dark Factory to Its Limits with Opus + Kimi Combined",
+              "publishedAt": "2026-05-17T17:25:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qGm6gtHpJq0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qGm6gtHpJq0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "lK9o5Wu2upU",
               "title": "Pi is INCREDIBLE - Building a Custom Coding Agent Live",
@@ -28,6 +76,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "LIkYVsxMpS8",
+              "title": "5 Levers That Separate Winning AI Investments from Disasters",
+              "publishedAt": "2026-05-17T18:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LIkYVsxMpS8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LIkYVsxMpS8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "D0Lc4HF5pzE",
               "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
@@ -559,116 +617,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dLk2Imx-0uk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=dLk2Imx-0uk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-10",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "4azVjKhqDzw",
-              "title": "Building the App Store for Agentic Engineering",
-              "publishedAt": "2026-05-10T18:06:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4azVjKhqDzw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4azVjKhqDzw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "RSk6R_2GYZo",
-              "title": "🔴LIVE - My AI Coding Workflow has 10x'd Again with Archon - See it in Action",
-              "publishedAt": "2026-05-10T05:56:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RSk6R_2GYZo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RSk6R_2GYZo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "EpJ0CjTJSag",
-              "title": "Anthropic And OpenAI Just Admitted The Model Isn't Enough.",
-              "publishedAt": "2026-05-10T18:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EpJ0CjTJSag/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EpJ0CjTJSag",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "lNX4m6KmX4U",
-              "title": "Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts",
-              "publishedAt": "2026-05-10T03:00:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lNX4m6KmX4U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/lNX4m6KmX4U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "BXb4AovU-VY",
-              "title": "How Fast Can We Actually Replace Workers with AI? #AI #jobs #career",
-              "publishedAt": "2026-05-10T00:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BXb4AovU-VY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/BXb4AovU-VY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "yUDSPI5O-tU",
-              "title": "The 29 Free Claude Skills That Run Marketing For You",
-              "publishedAt": "2026-05-10T20:43:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yUDSPI5O-tU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/yUDSPI5O-tU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "qDaoP8ObaTo",
-              "title": "Claude Desktop Just Got Every Open-Source Model",
-              "publishedAt": "2026-05-10T15:54:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qDaoP8ObaTo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qDaoP8ObaTo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "YBp_PXBbe80",
-              "title": "Hermes Agent NEW Desktop App - The 24/7 Self-Evolving AI Agent!",
-              "publishedAt": "2026-05-10T06:27:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YBp_PXBbe80/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YBp_PXBbe80",
               "summary": "",
               "transcriptAvailable": false
             }
