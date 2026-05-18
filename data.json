@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T13:47:47Z",
+  "lastUpdated": "2026-05-18T17:27:31Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "aMBQB_IJ0dQ",
+              "title": "ADLC: Claude Code's New Lifecycle for AI Coding",
+              "publishedAt": "2026-05-18T14:10:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aMBQB_IJ0dQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=aMBQB_IJ0dQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "725QE_LNXT4",
+              "title": "The Prove-It Economy is Here | And Most Marketers Aren't Ready",
+              "publishedAt": "2026-05-18T14:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/725QE_LNXT4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=725QE_LNXT4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "WwpDswEjTXg",
               "title": "How teams accidentally sabotage AI adoption #ai #aitools",
@@ -35,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/uZIijUyMT20/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=uZIijUyMT20",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "IMHqGNLLoxo",
+              "title": "So Anthropic is just winning now",
+              "publishedAt": "2026-05-18T16:30:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IMHqGNLLoxo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IMHqGNLLoxo",
               "summary": "",
               "transcriptAvailable": false
             }
