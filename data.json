@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-05-18T17:27:31Z",
+  "lastUpdated": "2026-05-19T10:31:11Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-19",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "hYDJnwgJr4Y",
+              "title": "40% growth nobody saw coming #expansion #tech",
+              "publishedAt": "2026-05-19T03:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hYDJnwgJr4Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hYDJnwgJr4Y",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "_rLgj8VcaVU",
+              "title": "To schedule   Surface of Bubble Grows",
+              "publishedAt": "2026-05-19T00:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_rLgj8VcaVU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_rLgj8VcaVU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "o714FSWjc0g",
+              "title": "Google I/O LEAKED! Gemini Desktop App, Veo 4, Qwen 3.7, Composer 2.5, Mythos Soon, & More! AI NEWS",
+              "publishedAt": "2026-05-19T06:45:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/o714FSWjc0g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=o714FSWjc0g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "dailyDigest": "",
@@ -621,64 +669,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-05-11",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "SX1myuPEDFg",
-              "title": "LLM Agents: The Security Breach Pattern Nobody's Talking About",
-              "publishedAt": "2026-05-11T14:00:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SX1myuPEDFg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SX1myuPEDFg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "NW4pIYA1gFs",
-              "title": "Meta's New AI Feature Killed a $500M Industry Overnight",
-              "publishedAt": "2026-05-11T23:16:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NW4pIYA1gFs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/NW4pIYA1gFs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "dLk2Imx-0uk",
-              "title": "Hermes Agentic OS is The Future",
-              "publishedAt": "2026-05-11T07:07:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dLk2Imx-0uk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dLk2Imx-0uk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: NicholasPuru"
+    ]
   }
 }
