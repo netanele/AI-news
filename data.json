@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T12:40:29Z",
+  "lastUpdated": "2026-05-19T17:34:28Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "zP6TnEiueEc",
+              "title": "Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.",
+              "publishedAt": "2026-05-19T14:01:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zP6TnEiueEc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zP6TnEiueEc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "hYDJnwgJr4Y",
               "title": "40% growth nobody saw coming #expansion #tech",
