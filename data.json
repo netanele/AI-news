@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T12:25:52Z",
+  "lastUpdated": "2026-05-20T17:50:26Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "woGB2vr5wTg",
+              "title": "These 5 Companies Secretly Control AI",
+              "publishedAt": "2026-05-20T14:01:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/woGB2vr5wTg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=woGB2vr5wTg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "OQlf4UwugBg",
               "title": "How ChatGPT Became Teenagers' Best Friend #AI #Psychology",
@@ -29,6 +39,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/a6GOGmzJ-OU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/a6GOGmzJ-OU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "MlwR2GkZg5Q",
+              "title": "MCPs Are Dead. Claude Code Wants CLIs",
+              "publishedAt": "2026-05-20T15:34:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MlwR2GkZg5Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MlwR2GkZg5Q",
               "summary": "",
               "transcriptAvailable": false
             }
