@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:17:36Z",
+  "lastUpdated": "2026-05-20T12:25:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -363,6 +363,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/x2pRavsHdls/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=x2pRavsHdls",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Iq442C9IeF0",
+              "title": "🔴 The AI Coding Marketplace is Finally LIVE!",
+              "publishedAt": "2026-05-15T03:17:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Iq442C9IeF0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Iq442C9IeF0",
               "summary": "",
               "transcriptAvailable": false
             }
