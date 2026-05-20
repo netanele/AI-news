@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-05-19T17:34:28Z",
+  "lastUpdated": "2026-05-20T10:17:36Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "OQlf4UwugBg",
+              "title": "How ChatGPT Became Teenagers' Best Friend #AI #Psychology",
+              "publishedAt": "2026-05-20T03:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OQlf4UwugBg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/OQlf4UwugBg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "a6GOGmzJ-OU",
+              "title": "The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting",
+              "publishedAt": "2026-05-20T00:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a6GOGmzJ-OU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/a6GOGmzJ-OU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CZxW1gdTecw",
+              "title": "Gemini 3.5 Flash: Google's Most Powerful Model Ever! Beats Opus 4.7 & GPT 5.5? (Fully Tested)",
+              "publishedAt": "2026-05-20T06:43:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CZxW1gdTecw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CZxW1gdTecw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "dailyDigest": "",
@@ -39,6 +87,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_rLgj8VcaVU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_rLgj8VcaVU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "3ZJdyhH_zGg",
+              "title": "OpenAI & Anthropic Just Launched Their Own AI Consulting Firms",
+              "publishedAt": "2026-05-19T20:11:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3ZJdyhH_zGg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3ZJdyhH_zGg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "pqBsudNQkFU",
+              "title": "I Built a Company of 147 AI Agents (Here’s How)",
+              "publishedAt": "2026-05-19T18:44:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pqBsudNQkFU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pqBsudNQkFU",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -563,128 +637,10 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-05-12",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "PJ9CmTODmVo",
-              "title": "This Is Insane... The Google Stitch VS Claude Design Debate Is Finally Over",
-              "publishedAt": "2026-05-12T14:05:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PJ9CmTODmVo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PJ9CmTODmVo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "Iq442C9IeF0",
-              "title": "🔴 The AI Coding Marketplace is Finally LIVE!",
-              "publishedAt": "2026-05-12T16:34:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Iq442C9IeF0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Iq442C9IeF0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4azVjKhqDzw",
-              "title": "Building the App Store for Agentic Engineering",
-              "publishedAt": "2026-05-12T04:02:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4azVjKhqDzw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4azVjKhqDzw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "j5_wcDifNko",
-              "title": "ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.",
-              "publishedAt": "2026-05-12T14:01:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/j5_wcDifNko/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=j5_wcDifNko",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "OhtcvogXtok",
-              "title": "While Execs Panic, This Skill Gets Rare #ai #career",
-              "publishedAt": "2026-05-12T00:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OhtcvogXtok/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/OhtcvogXtok",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "-jINRoST0mk",
-              "title": "Claude Code Agent View IS INSANE! Huge New Update Introduces /goal, sessions, & More!",
-              "publishedAt": "2026-05-12T07:03:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-jINRoST0mk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-jINRoST0mk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "5H3LGJSyaHM",
-              "title": "this is really bad...",
-              "publishedAt": "2026-05-12T19:45:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5H3LGJSyaHM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5H3LGJSyaHM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "q4rDAu9ggKU",
-              "title": "What happened to Anthropic?",
-              "publishedAt": "2026-05-12T19:07:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/q4rDAu9ggKU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: NicholasPuru"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
