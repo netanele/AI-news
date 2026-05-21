@@ -1,13 +1,83 @@
 {
-  "lastUpdated": "2026-05-20T17:50:26Z",
+  "lastUpdated": "2026-05-21T10:29:41Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-05-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "efRIrLXoOVA",
+              "title": "Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)",
+              "publishedAt": "2026-05-21T00:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/efRIrLXoOVA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=efRIrLXoOVA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "CgsOqhYgl1E",
+              "title": "Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting",
+              "publishedAt": "2026-05-21T00:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CgsOqhYgl1E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/CgsOqhYgl1E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "msd_APlIsRk",
+              "title": "Antigravity 2.0 UPDATE: NEW Agentic AI Coding Agent + Gemini Desktop App!",
+              "publishedAt": "2026-05-21T07:15:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/msd_APlIsRk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=msd_APlIsRk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "C1dS-oFoyhk",
+              "title": "Plan with Claude Opus, Build with Kimi K2.6? LIVE Mixed-Provider Benchmark",
+              "publishedAt": "2026-05-20T22:52:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C1dS-oFoyhk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=C1dS-oFoyhk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -49,6 +119,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "9tYqaBb4X4o",
+              "title": "Watch this if you haven’t figured out how to make money with ai yet",
+              "publishedAt": "2026-05-20T22:19:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9tYqaBb4X4o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/9tYqaBb4X4o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "MlwR2GkZg5Q",
               "title": "MCPs Are Dead. Claude Code Wants CLIs",
               "publishedAt": "2026-05-20T15:34:16+00:00",
@@ -71,6 +151,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/CZxW1gdTecw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=CZxW1gdTecw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "IB7IW6zX-H0",
+              "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
+              "publishedAt": "2026-05-20T18:55:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IB7IW6zX-H0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -589,90 +685,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/cLuoF9nZwKE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/cLuoF9nZwKE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "lqiwQiDglGk",
-              "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
-              "publishedAt": "2026-05-13T14:01:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lqiwQiDglGk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lqiwQiDglGk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "fsFxiXzwvp8",
-              "title": "I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering",
-              "publishedAt": "2026-05-13T03:00:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fsFxiXzwvp8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/fsFxiXzwvp8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "x8Y404We8O8",
-              "title": "2025 Prompting vs 2026 Prompting #ai #comparison #shorts",
-              "publishedAt": "2026-05-13T00:00:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/x8Y404We8O8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/x8Y404We8O8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Gx2joHxUhgg",
-              "title": "Hermes Agent v2.0! Huge New Updates: WebUI, Qwen 3.6 Plus FREE, Computer Use, & More!",
-              "publishedAt": "2026-05-13T05:08:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Gx2joHxUhgg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Gx2joHxUhgg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "hAzhVloGkOw",
-              "title": "Everyone's getting hacked",
-              "publishedAt": "2026-05-13T18:50:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hAzhVloGkOw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hAzhVloGkOw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "mR2Rh9RtyR4",
-              "title": "Turns out, HTML is King",
-              "publishedAt": "2026-05-13T13:46:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mR2Rh9RtyR4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mR2Rh9RtyR4",
               "summary": "",
               "transcriptAvailable": false
             }
