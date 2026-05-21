@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T10:29:41Z",
+  "lastUpdated": "2026-05-21T12:45:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -694,7 +694,9 @@
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: MetalSole"
+    ]
   }
 }
