@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T12:45:38Z",
+  "lastUpdated": "2026-05-21T17:27:42Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-05-21",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "lGalJmyI78w",
+              "title": "Big Projects Always Fail... Anthropic Is Fixing That",
+              "publishedAt": "2026-05-21T15:13:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lGalJmyI78w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lGalJmyI78w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -29,12 +45,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "ogTLWGBc3cE",
+              "title": "Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.",
+              "publishedAt": "2026-05-21T14:01:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ogTLWGBc3cE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ogTLWGBc3cE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "CgsOqhYgl1E",
               "title": "Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting",
               "publishedAt": "2026-05-21T00:00:11+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/CgsOqhYgl1E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/CgsOqhYgl1E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "WLcjI826hKI",
+              "title": "How I run Claude Code with Deepseek 100x cheaper",
+              "publishedAt": "2026-05-21T15:15:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WLcjI826hKI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WLcjI826hKI",
               "summary": "",
               "transcriptAvailable": false
             }
