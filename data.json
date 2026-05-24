@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T11:18:05Z",
+  "lastUpdated": "2026-05-24T15:57:11Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-05-24",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "5lycYTOYbPM",
+              "title": "The Third Level Actually Separates Your AI Design From The Rest",
+              "publishedAt": "2026-05-24T14:50:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5lycYTOYbPM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5lycYTOYbPM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
