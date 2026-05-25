@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T11:03:28Z",
+  "lastUpdated": "2026-05-25T13:30:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -590,6 +590,22 @@
       "date": "2026-05-19",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "qGm6gtHpJq0",
+              "title": "Pushing My AI Dark Factory to Its Limits with Opus + Kimi Combined",
+              "publishedAt": "2026-05-19T03:35:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qGm6gtHpJq0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qGm6gtHpJq0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
