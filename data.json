@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-05-24T15:57:11Z",
+  "lastUpdated": "2026-05-25T11:03:28Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "DVS-cTSVKv4",
+              "title": "How to build a 10-cent AI brain #ai #programming #tech",
+              "publishedAt": "2026-05-25T03:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DVS-cTSVKv4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/DVS-cTSVKv4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "hF-0roN-DxQ",
+              "title": "I Rebuilt My Entire AI Agent Stack After Anthropic Broke It",
+              "publishedAt": "2026-05-25T10:27:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hF-0roN-DxQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hF-0roN-DxQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "DUQZi6jYsLk",
+              "title": "Hermes Agent + DeepSeek V4 (FREE) = GOD TIER",
+              "publishedAt": "2026-05-25T07:02:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DUQZi6jYsLk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DUQZi6jYsLk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "dailyDigest": "",
@@ -45,12 +99,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "Poyi6X7rOwY",
+              "title": "Why the AI boom is about to hit a wall",
+              "publishedAt": "2026-05-24T17:00:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Poyi6X7rOwY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Poyi6X7rOwY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "xkC_WDLmfS8",
               "title": "Why switching AI models is now impossible 😳 #chatgpt #ai #tech",
               "publishedAt": "2026-05-24T03:00:38+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xkC_WDLmfS8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/xkC_WDLmfS8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "eeBw87HIwko",
+              "title": "Steal This Claude AI Tip From The Creator Of Claude Code",
+              "publishedAt": "2026-05-24T22:38:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eeBw87HIwko/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/eeBw87HIwko",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -663,90 +743,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/IMHqGNLLoxo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/IMHqGNLLoxo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "qGm6gtHpJq0",
-              "title": "Pushing My AI Dark Factory to Its Limits with Opus + Kimi Combined",
-              "publishedAt": "2026-05-17T17:25:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qGm6gtHpJq0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qGm6gtHpJq0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "lK9o5Wu2upU",
-              "title": "Pi is INCREDIBLE - Building a Custom Coding Agent Live",
-              "publishedAt": "2026-05-17T03:42:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lK9o5Wu2upU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lK9o5Wu2upU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "LIkYVsxMpS8",
-              "title": "5 Levers That Separate Winning AI Investments from Disasters",
-              "publishedAt": "2026-05-17T18:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LIkYVsxMpS8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LIkYVsxMpS8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "D0Lc4HF5pzE",
-              "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
-              "publishedAt": "2026-05-17T03:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/D0Lc4HF5pzE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/D0Lc4HF5pzE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "tpmCddboe74",
-              "title": "GPT-5.5 vs 1000 Piece Lego Set #ai #challenge",
-              "publishedAt": "2026-05-17T00:00:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tpmCddboe74/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/tpmCddboe74",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WxjviB1pJbk",
-              "title": "Stop Paying $200/Month for Claude Code! Here's a FREE Option!",
-              "publishedAt": "2026-05-17T05:59:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WxjviB1pJbk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WxjviB1pJbk",
               "summary": "",
               "transcriptAvailable": false
             }
