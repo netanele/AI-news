@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T10:40:03Z",
+  "lastUpdated": "2026-05-26T17:53:33Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "NRBQmwlILjk",
+              "title": "Shopify CEO Reveals Their Secret AI Developer",
+              "publishedAt": "2026-05-26T14:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NRBQmwlILjk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NRBQmwlILjk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "rg6xNfwHYUU",
               "title": "Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech",
@@ -35,6 +45,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "wPosIoJ0-2A",
+              "title": "How to Automate Your Entire Business with AI (The Complete Playbook)",
+              "publishedAt": "2026-05-26T15:47:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wPosIoJ0-2A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wPosIoJ0-2A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -45,6 +71,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/MMYWE_HkSGg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=MMYWE_HkSGg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "GBISeUYMzoU",
+              "title": "Cursor just beat EVERYONE.",
+              "publishedAt": "2026-05-26T16:40:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GBISeUYMzoU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GBISeUYMzoU",
               "summary": "",
               "transcriptAvailable": false
             }
