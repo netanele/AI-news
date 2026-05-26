@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-05-25T17:02:52Z",
+  "lastUpdated": "2026-05-26T10:40:03Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-05-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "rg6xNfwHYUU",
+              "title": "Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech",
+              "publishedAt": "2026-05-26T03:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rg6xNfwHYUU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rg6xNfwHYUU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "dSUkYOUX0fc",
+              "title": "Why you should never trust ChatGPT's memory #ai #tech #chatgpt",
+              "publishedAt": "2026-05-26T00:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dSUkYOUX0fc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dSUkYOUX0fc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "MMYWE_HkSGg",
+              "title": "OpenHuman Is The Hermes Agent Killer?",
+              "publishedAt": "2026-05-26T07:16:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MMYWE_HkSGg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MMYWE_HkSGg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-05-25",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "KBmwP20jgqQ",
+              "title": "Think Bigger to Climb the 4 Levels of AI",
+              "publishedAt": "2026-05-25T23:09:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KBmwP20jgqQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KBmwP20jgqQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -38,6 +102,36 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "cR3G-AJhC_0",
+              "title": "How to Use Claude Better Than 99% of People",
+              "publishedAt": "2026-05-25T22:55:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cR3G-AJhC_0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/cR3G-AJhC_0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "lKTWsrs6qXc",
+              "title": "Anthropic Just Screwed EVERY Claude User",
+              "publishedAt": "2026-05-25T18:20:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lKTWsrs6qXc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lKTWsrs6qXc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "wzmxzUcxRxg",
+              "title": "Hermes Agent’s Biggest Update Yet",
+              "publishedAt": "2026-05-25T17:53:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wzmxzUcxRxg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wzmxzUcxRxg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "hF-0roN-DxQ",
               "title": "I Rebuilt My Entire AI Agent Stack After Anthropic Broke It",
@@ -689,86 +783,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/o714FSWjc0g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=o714FSWjc0g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "aMBQB_IJ0dQ",
-              "title": "ADLC: Claude Code's New Lifecycle for AI Coding",
-              "publishedAt": "2026-05-18T14:10:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aMBQB_IJ0dQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aMBQB_IJ0dQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "725QE_LNXT4",
-              "title": "The Prove-It Economy is Here | And Most Marketers Aren't Ready",
-              "publishedAt": "2026-05-18T14:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/725QE_LNXT4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=725QE_LNXT4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "WwpDswEjTXg",
-              "title": "How teams accidentally sabotage AI adoption #ai #aitools",
-              "publishedAt": "2026-05-18T03:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WwpDswEjTXg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/WwpDswEjTXg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "uZIijUyMT20",
-              "title": "Hermes Agent Foundation Update: Real-Time Agents, DeepSeek V4 FREE, Native Windows Support, & More!",
-              "publishedAt": "2026-05-18T06:16:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uZIijUyMT20/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uZIijUyMT20",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "IMHqGNLLoxo",
-              "title": "So Anthropic is just winning now",
-              "publishedAt": "2026-05-18T16:30:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IMHqGNLLoxo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IMHqGNLLoxo",
               "summary": "",
               "transcriptAvailable": false
             }
