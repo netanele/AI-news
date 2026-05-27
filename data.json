@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-05-26T17:53:33Z",
+  "lastUpdated": "2026-05-27T10:45:08Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "6_7Tk0ZH9bU",
+              "title": "Why you're using Claude completely wrong #ai #claude #chatgpt",
+              "publishedAt": "2026-05-27T03:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6_7Tk0ZH9bU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6_7Tk0ZH9bU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "C9BfGswIRnk",
+              "title": "The mistake everyone makes switching to Claude #ai #claude",
+              "publishedAt": "2026-05-27T00:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C9BfGswIRnk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/C9BfGswIRnk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "UbzkazAtjv0",
+              "title": "Gemini 3.5 Pro X-High, MiniMax M3, DeepSwe, New Claude Models, MiMO-v2.5 Upgrade, & More! AI NEWS",
+              "publishedAt": "2026-05-27T07:13:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UbzkazAtjv0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UbzkazAtjv0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-26",
       "dailyDigest": "",
@@ -48,6 +96,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "ubptnuSfpB0",
+              "title": "Turn Claude into a Team of AI Employees",
+              "publishedAt": "2026-05-26T19:26:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ubptnuSfpB0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ubptnuSfpB0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "wPosIoJ0-2A",
               "title": "How to Automate Your Entire Business with AI (The Complete Playbook)",
@@ -725,106 +783,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/IB7IW6zX-H0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "qGm6gtHpJq0",
-              "title": "Pushing My AI Dark Factory to Its Limits with Opus + Kimi Combined",
-              "publishedAt": "2026-05-19T03:35:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qGm6gtHpJq0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qGm6gtHpJq0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "zP6TnEiueEc",
-              "title": "Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.",
-              "publishedAt": "2026-05-19T14:01:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zP6TnEiueEc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zP6TnEiueEc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hYDJnwgJr4Y",
-              "title": "40% growth nobody saw coming #expansion #tech",
-              "publishedAt": "2026-05-19T03:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hYDJnwgJr4Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hYDJnwgJr4Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_rLgj8VcaVU",
-              "title": "To schedule   Surface of Bubble Grows",
-              "publishedAt": "2026-05-19T00:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_rLgj8VcaVU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_rLgj8VcaVU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "3ZJdyhH_zGg",
-              "title": "OpenAI & Anthropic Just Launched Their Own AI Consulting Firms",
-              "publishedAt": "2026-05-19T20:11:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3ZJdyhH_zGg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3ZJdyhH_zGg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "pqBsudNQkFU",
-              "title": "I Built a Company of 147 AI Agents (Here’s How)",
-              "publishedAt": "2026-05-19T18:44:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pqBsudNQkFU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pqBsudNQkFU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "o714FSWjc0g",
-              "title": "Google I/O LEAKED! Gemini Desktop App, Veo 4, Qwen 3.7, Composer 2.5, Mythos Soon, & More! AI NEWS",
-              "publishedAt": "2026-05-19T06:45:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/o714FSWjc0g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=o714FSWjc0g",
               "summary": "",
               "transcriptAvailable": false
             }
