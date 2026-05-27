@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T12:53:46Z",
+  "lastUpdated": "2026-05-27T17:54:21Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "B44bXmzU60s",
+              "title": "AI Coding Agents Don't Need Tools Anymore",
+              "publishedAt": "2026-05-27T14:19:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/B44bXmzU60s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=B44bXmzU60s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "MFzxIT88zfg",
+              "title": "I Built a Deck With AI, Then Made a Second AI Attack It.",
+              "publishedAt": "2026-05-27T14:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MFzxIT88zfg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MFzxIT88zfg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "6_7Tk0ZH9bU",
               "title": "Why you're using Claude completely wrong #ai #claude #chatgpt",
@@ -35,6 +61,32 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2BKbTFBps-w",
+              "title": "How I Made $100K Using THIS AI Tool",
+              "publishedAt": "2026-05-27T15:12:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2BKbTFBps-w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2BKbTFBps-w",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "duFNlO07IkM",
+              "title": "Google Just Shipped 100 Things. I Found the 5 That Matter",
+              "publishedAt": "2026-05-27T13:57:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/duFNlO07IkM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=duFNlO07IkM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -45,6 +97,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/UbzkazAtjv0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=UbzkazAtjv0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "6LwQ8RbU9as",
+              "title": "Finally a good benchmark (DeepSWE)",
+              "publishedAt": "2026-05-27T16:03:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6LwQ8RbU9as/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
               "summary": "",
               "transcriptAvailable": false
             }
