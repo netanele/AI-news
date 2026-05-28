@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-05-27T17:54:21Z",
+  "lastUpdated": "2026-05-28T10:43:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-05-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "ulNsa0sD8N0",
+              "title": "Harness Engineering: What Separates Top Agentic Engineers Right Now",
+              "publishedAt": "2026-05-28T00:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ulNsa0sD8N0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ulNsa0sD8N0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "LDb0mXNowF4",
+              "title": "The ultimate Claude AI prompting trick #ai #claude #aitools",
+              "publishedAt": "2026-05-28T03:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LDb0mXNowF4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LDb0mXNowF4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "pW6JKTf95lo",
+              "title": "Why millions are switching to Claude #ai #claude #tech",
+              "publishedAt": "2026-05-28T00:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pW6JKTf95lo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/pW6JKTf95lo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "BGqjbP7XaEs",
+              "title": "Claude Mythos 1 Preview Leaked...",
+              "publishedAt": "2026-05-28T07:08:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BGqjbP7XaEs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BGqjbP7XaEs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "dailyDigest": "",
@@ -735,122 +799,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Td2TaMWNUtA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "C1dS-oFoyhk",
-              "title": "Plan with Claude Opus, Build with Kimi K2.6? LIVE Mixed-Provider Benchmark",
-              "publishedAt": "2026-05-20T22:52:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/C1dS-oFoyhk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=C1dS-oFoyhk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "woGB2vr5wTg",
-              "title": "These 5 Companies Secretly Control AI",
-              "publishedAt": "2026-05-20T14:01:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/woGB2vr5wTg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=woGB2vr5wTg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "OQlf4UwugBg",
-              "title": "How ChatGPT Became Teenagers' Best Friend #AI #Psychology",
-              "publishedAt": "2026-05-20T03:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OQlf4UwugBg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/OQlf4UwugBg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "a6GOGmzJ-OU",
-              "title": "The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting",
-              "publishedAt": "2026-05-20T00:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a6GOGmzJ-OU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/a6GOGmzJ-OU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "9tYqaBb4X4o",
-              "title": "Watch this if you haven’t figured out how to make money with ai yet",
-              "publishedAt": "2026-05-20T22:19:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9tYqaBb4X4o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/9tYqaBb4X4o",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "MlwR2GkZg5Q",
-              "title": "MCPs Are Dead. Claude Code Wants CLIs",
-              "publishedAt": "2026-05-20T15:34:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MlwR2GkZg5Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MlwR2GkZg5Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "CZxW1gdTecw",
-              "title": "Gemini 3.5 Flash: Google's Most Powerful Model Ever! Beats Opus 4.7 & GPT 5.5? (Fully Tested)",
-              "publishedAt": "2026-05-20T06:43:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CZxW1gdTecw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CZxW1gdTecw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "IB7IW6zX-H0",
-              "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
-              "publishedAt": "2026-05-20T18:55:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IB7IW6zX-H0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
               "summary": "",
               "transcriptAvailable": false
             }
