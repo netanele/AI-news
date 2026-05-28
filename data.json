@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T10:43:26Z",
+  "lastUpdated": "2026-05-28T13:53:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -588,6 +588,22 @@
       "date": "2026-05-22",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "C1dS-oFoyhk",
+              "title": "Plan with Claude Opus, Build with Kimi K2.6? LIVE Mixed-Provider Benchmark",
+              "publishedAt": "2026-05-22T03:36:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C1dS-oFoyhk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=C1dS-oFoyhk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "MetalSole",
           "channelUrl": "https://www.youtube.com/@MetalSole",
