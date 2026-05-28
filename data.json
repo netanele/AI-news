@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T13:53:00Z",
+  "lastUpdated": "2026-05-28T17:59:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "Xh1z23uBZo0",
+              "title": "Claude Plans, Gemini Designs: One Workflow for Beautiful Frontends (LIVE)",
+              "publishedAt": "2026-05-28T14:21:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xh1z23uBZo0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Xh1z23uBZo0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ulNsa0sD8N0",
               "title": "Harness Engineering: What Separates Top Agentic Engineers Right Now",
@@ -28,6 +38,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "n0nC1kmztSk",
+              "title": "A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.",
+              "publishedAt": "2026-05-28T14:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/n0nC1kmztSk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=n0nC1kmztSk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "LDb0mXNowF4",
               "title": "The ultimate Claude AI prompting trick #ai #claude #aitools",
@@ -61,6 +81,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/BGqjbP7XaEs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=BGqjbP7XaEs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "4n_pxHZfTC8",
+              "title": "OPUS 4.8!!! (also maybe GPT5.6??)",
+              "publishedAt": "2026-05-28T17:02:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4n_pxHZfTC8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
               "summary": "",
               "transcriptAvailable": false
             }
