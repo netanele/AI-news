@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T11:41:16Z",
+  "lastUpdated": "2026-05-31T16:01:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-05-31",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "q7Am0pV6FjQ",
+              "title": "Forget Codex vs Claude Code, This Finally Fixes Both",
+              "publishedAt": "2026-05-31T14:32:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/q7Am0pV6FjQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=q7Am0pV6FjQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -29,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Kb7FxKgUWvo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Kb7FxKgUWvo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "0zKYLCgyjbQ",
+              "title": "Caveman Using AI",
+              "publishedAt": "2026-05-31T15:35:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0zKYLCgyjbQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0zKYLCgyjbQ",
               "summary": "",
               "transcriptAvailable": false
             }
