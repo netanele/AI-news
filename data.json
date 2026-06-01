@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-05-31T16:01:03Z",
+  "lastUpdated": "2026-06-01T12:27:53Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "KWCZWFDOapk",
+              "title": "This is how AI agents actually take over enterprises #ai #business #tech",
+              "publishedAt": "2026-06-01T03:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KWCZWFDOapk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KWCZWFDOapk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "p6Npi-HBoRU",
+              "title": "MiniMax M3 IS INSANE! BEST Opensource AI Model! Beats Opus 4.7 and 50x Cheaper! (Fully Tested)",
+              "publishedAt": "2026-06-01T07:36:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/p6Npi-HBoRU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=p6Npi-HBoRU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "dailyDigest": "",
@@ -28,6 +66,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "UsCgEuIAclE",
+              "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
+              "publishedAt": "2026-05-31T17:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UsCgEuIAclE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UsCgEuIAclE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "oTTVQt4IjPI",
               "title": "The Compound Risk of AI Agents ⚠️ #ai #risk #software",
@@ -54,6 +102,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "4xDTGazlYHM",
+              "title": "Stop Using Hermes Agent. Start Using OpenHuman Instead",
+              "publishedAt": "2026-05-31T16:52:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4xDTGazlYHM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4xDTGazlYHM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "0zKYLCgyjbQ",
               "title": "Caveman Using AI",
@@ -707,102 +765,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DUQZi6jYsLk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DUQZi6jYsLk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "5lycYTOYbPM",
-              "title": "The Third Level Actually Separates Your AI Design From The Rest",
-              "publishedAt": "2026-05-24T14:50:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5lycYTOYbPM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5lycYTOYbPM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "qyB52HIiou8",
-              "title": "Archon + Jira: Drag a Ticket, Get a Pull Request (Live Build)",
-              "publishedAt": "2026-05-24T04:41:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qyB52HIiou8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qyB52HIiou8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "Poyi6X7rOwY",
-              "title": "Why the AI boom is about to hit a wall",
-              "publishedAt": "2026-05-24T17:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Poyi6X7rOwY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Poyi6X7rOwY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "xkC_WDLmfS8",
-              "title": "Why switching AI models is now impossible 😳 #chatgpt #ai #tech",
-              "publishedAt": "2026-05-24T03:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xkC_WDLmfS8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/xkC_WDLmfS8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "eeBw87HIwko",
-              "title": "Steal This Claude AI Tip From The Creator Of Claude Code",
-              "publishedAt": "2026-05-24T22:38:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eeBw87HIwko/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/eeBw87HIwko",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "rmXvS69ELvc",
-              "title": "Claude Opus 4.8 Leaked, GPT 5.6 Spotted, Mythos 1 Preview, & Deepseek v4 Pro UPDATE! AI NEWS",
-              "publishedAt": "2026-05-24T06:54:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rmXvS69ELvc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rmXvS69ELvc",
               "summary": "",
               "transcriptAvailable": false
             }
