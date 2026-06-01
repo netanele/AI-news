@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T15:57:51Z",
+  "lastUpdated": "2026-06-01T19:53:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "UAanebcmBFI",
+              "title": "The death of traditional databases #ai #tech #saas",
+              "publishedAt": "2026-06-01T18:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UAanebcmBFI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/UAanebcmBFI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "KWCZWFDOapk",
               "title": "This is how AI agents actually take over enterprises #ai #business #tech",
