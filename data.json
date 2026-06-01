@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T12:27:53Z",
+  "lastUpdated": "2026-06-01T15:57:51Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,6 +25,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "sJrz5Qokbbo",
+              "title": "Anthropic Just Fixed Claude Code’s Biggest Problem",
+              "publishedAt": "2026-06-01T15:29:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sJrz5Qokbbo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sJrz5Qokbbo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -35,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/p6Npi-HBoRU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=p6Npi-HBoRU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "l2r3aWn96K8",
+              "title": "SWEbench is done.",
+              "publishedAt": "2026-06-01T15:23:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/l2r3aWn96K8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/l2r3aWn96K8",
               "summary": "",
               "transcriptAvailable": false
             }
