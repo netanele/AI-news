@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T14:04:19Z",
+  "lastUpdated": "2026-06-02T18:35:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "f17qpYQkA6c",
+              "title": "Opus 4.8 Tops Every Model. So Why Am I Worried?",
+              "publishedAt": "2026-06-02T16:56:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f17qpYQkA6c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=f17qpYQkA6c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "LVmijkrVti0",
+              "title": "Why you only have 150 friends #psychology #science",
+              "publishedAt": "2026-06-02T18:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LVmijkrVti0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LVmijkrVti0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "hlGWME2hsl4",
               "title": "Why your meetings are actually destroying your output #productivity #work",
@@ -39,6 +65,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "BFgIEaYqp_g",
+              "title": "This is the EASIEST way to setup Hermes Agent",
+              "publishedAt": "2026-06-02T14:32:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BFgIEaYqp_g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BFgIEaYqp_g",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "5My8Bfi72c4",
               "title": "I Fixed Claude Being a Yes Man",
               "publishedAt": "2026-06-02T02:24:50+00:00",
@@ -61,6 +97,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3SZ0oCDSVbM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=3SZ0oCDSVbM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "gyXjvzMDV7s",
+              "title": "Is AI actually helping?",
+              "publishedAt": "2026-06-02T18:15:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gyXjvzMDV7s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -780,9 +832,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: MetalSole"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
