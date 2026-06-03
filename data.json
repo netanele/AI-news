@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T11:49:20Z",
+  "lastUpdated": "2026-06-03T14:40:59Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "5LnwJyi1il4",
+              "title": "Anthropic Just Made Your Claude Claude Workflow Extremely Autonomous",
+              "publishedAt": "2026-06-03T14:10:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5LnwJyi1il4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5LnwJyi1il4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "z73yuF14udI",
+              "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
+              "publishedAt": "2026-06-03T14:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z73yuF14udI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=z73yuF14udI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "IZjbq7cGqqs",
               "title": "AI didn't fix your meetings, it broke your team size #productivity",
