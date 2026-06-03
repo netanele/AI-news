@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-06-02T18:35:32Z",
+  "lastUpdated": "2026-06-03T11:49:20Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-03",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "IZjbq7cGqqs",
+              "title": "AI didn't fix your meetings, it broke your team size #productivity",
+              "publishedAt": "2026-06-03T03:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IZjbq7cGqqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IZjbq7cGqqs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "rdYgKhgnWrg",
+              "title": "AI didn't fix your meetings, it broke them #management #ai",
+              "publishedAt": "2026-06-03T00:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rdYgKhgnWrg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rdYgKhgnWrg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "3Z5opS1E0bg",
+              "title": "Founders who figure out Claude Code will look like geniuses",
+              "publishedAt": "2026-06-03T01:43:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3Z5opS1E0bg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3Z5opS1E0bg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "GJAgh8isVLk",
+              "title": "GPT-5.6 Leaked, Mythos Benchmark Leaks, Hermes Desktop App, Qwen 3.7 Plus, & More! AI NEWS",
+              "publishedAt": "2026-06-03T07:08:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GJAgh8isVLk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GJAgh8isVLk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "dailyDigest": "",
@@ -106,6 +170,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "fdkwkmZrpEU",
+              "title": "Everyone's holding their laptops open",
+              "publishedAt": "2026-06-02T21:42:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fdkwkmZrpEU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fdkwkmZrpEU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "gyXjvzMDV7s",
               "title": "Is AI actually helping?",
@@ -723,106 +797,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6LwQ8RbU9as/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-26",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "NRBQmwlILjk",
-              "title": "Shopify CEO Reveals Their Secret AI Developer",
-              "publishedAt": "2026-05-26T14:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NRBQmwlILjk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=NRBQmwlILjk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rg6xNfwHYUU",
-              "title": "Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech",
-              "publishedAt": "2026-05-26T03:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rg6xNfwHYUU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/rg6xNfwHYUU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dSUkYOUX0fc",
-              "title": "Why you should never trust ChatGPT's memory #ai #tech #chatgpt",
-              "publishedAt": "2026-05-26T00:00:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dSUkYOUX0fc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dSUkYOUX0fc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ubptnuSfpB0",
-              "title": "Turn Claude into a Team of AI Employees",
-              "publishedAt": "2026-05-26T19:26:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ubptnuSfpB0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ubptnuSfpB0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "wPosIoJ0-2A",
-              "title": "How to Automate Your Entire Business with AI (The Complete Playbook)",
-              "publishedAt": "2026-05-26T15:47:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/wPosIoJ0-2A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=wPosIoJ0-2A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "MMYWE_HkSGg",
-              "title": "OpenHuman Is The Hermes Agent Killer?",
-              "publishedAt": "2026-05-26T07:16:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MMYWE_HkSGg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MMYWE_HkSGg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "GBISeUYMzoU",
-              "title": "Cursor just beat EVERYONE.",
-              "publishedAt": "2026-05-26T16:40:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GBISeUYMzoU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GBISeUYMzoU",
               "summary": "",
               "transcriptAvailable": false
             }
