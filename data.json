@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-06-03T18:40:43Z",
+  "lastUpdated": "2026-06-04T10:32:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-04",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "iICZTWcryac",
+              "title": "Claude Plans, Gemini Designs: The Workflow to Build BEAUTIFUL Frontends",
+              "publishedAt": "2026-06-04T00:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iICZTWcryac/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=iICZTWcryac",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "qhxeK8z9VL4",
+              "title": "The 4 AI Agency Offers Actually Working and Selling Right Now (Live Training)",
+              "publishedAt": "2026-06-04T00:51:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qhxeK8z9VL4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qhxeK8z9VL4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "nb5ALoAGAbE",
+              "title": "Hermes Agent Official NEW Desktop App - The 24/7 Self-Evolving AI Agent!",
+              "publishedAt": "2026-06-04T04:54:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nb5ALoAGAbE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nb5ALoAGAbE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "dailyDigest": "",
@@ -64,6 +118,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "Xgc_9SvCCjc",
+              "title": "Claude Just Changed The Stock Market",
+              "publishedAt": "2026-06-03T21:17:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xgc_9SvCCjc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Xgc_9SvCCjc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "3Z5opS1E0bg",
               "title": "Founders who figure out Claude Code will look like geniuses",
@@ -707,122 +771,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/4n_pxHZfTC8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-27",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "B44bXmzU60s",
-              "title": "AI Coding Agents Don't Need Tools Anymore",
-              "publishedAt": "2026-05-27T14:19:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/B44bXmzU60s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=B44bXmzU60s",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "MFzxIT88zfg",
-              "title": "I Built a Deck With AI, Then Made a Second AI Attack It.",
-              "publishedAt": "2026-05-27T14:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MFzxIT88zfg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MFzxIT88zfg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "6_7Tk0ZH9bU",
-              "title": "Why you're using Claude completely wrong #ai #claude #chatgpt",
-              "publishedAt": "2026-05-27T03:00:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6_7Tk0ZH9bU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6_7Tk0ZH9bU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "C9BfGswIRnk",
-              "title": "The mistake everyone makes switching to Claude #ai #claude",
-              "publishedAt": "2026-05-27T00:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/C9BfGswIRnk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/C9BfGswIRnk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "2BKbTFBps-w",
-              "title": "How I Made $100K Using THIS AI Tool",
-              "publishedAt": "2026-05-27T15:12:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2BKbTFBps-w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2BKbTFBps-w",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "duFNlO07IkM",
-              "title": "Google Just Shipped 100 Things. I Found the 5 That Matter",
-              "publishedAt": "2026-05-27T13:57:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/duFNlO07IkM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=duFNlO07IkM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "UbzkazAtjv0",
-              "title": "Gemini 3.5 Pro X-High, MiniMax M3, DeepSwe, New Claude Models, MiMO-v2.5 Upgrade, & More! AI NEWS",
-              "publishedAt": "2026-05-27T07:13:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UbzkazAtjv0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UbzkazAtjv0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "6LwQ8RbU9as",
-              "title": "Finally a good benchmark (DeepSWE)",
-              "publishedAt": "2026-05-27T16:03:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6LwQ8RbU9as/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
               "summary": "",
               "transcriptAvailable": false
             }
