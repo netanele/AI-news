@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T12:45:03Z",
+  "lastUpdated": "2026-06-04T17:40:16Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "wKWt8Cq4oDs",
+              "title": "Don't let your AI output go to waste #strategy #ai",
+              "publishedAt": "2026-06-04T16:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wKWt8Cq4oDs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/wKWt8Cq4oDs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "M5tBN-I8AYo",
+              "title": "I Copied the Creator of Claude Code's Entire Agent Setup",
+              "publishedAt": "2026-06-04T15:22:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M5tBN-I8AYo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=M5tBN-I8AYo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "qhxeK8z9VL4",
               "title": "The 4 AI Agency Offers Actually Working and Selling Right Now (Live Training)",
@@ -51,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nb5ALoAGAbE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=nb5ALoAGAbE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "a56T6OQtwEg",
+              "title": "Anthopic did a thing...",
+              "publishedAt": "2026-06-04T17:16:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a56T6OQtwEg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a56T6OQtwEg",
               "summary": "",
               "transcriptAvailable": false
             }
