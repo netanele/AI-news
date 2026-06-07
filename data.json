@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T11:48:36Z",
+  "lastUpdated": "2026-06-07T16:09:36Z",
   "config": {
     "daysToShow": 7
   },
@@ -44,6 +44,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "rsXeVAjYWTA",
+              "title": "I Cancelled GPT-5.5 After Testing Opus 4.8 (Here's Why)",
+              "publishedAt": "2026-06-07T14:16:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rsXeVAjYWTA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rsXeVAjYWTA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Jl_NBJrcABQ",
               "title": "Claude’s New Plugin is INSANE (Changes Small Businesses Forever)",
