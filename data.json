@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T14:08:17Z",
+  "lastUpdated": "2026-06-08T17:46:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -29,6 +29,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "hzAcDU1FYDo",
+              "title": "Meta Cut 8,000 People. It Has Nothing To Do With AI Working.",
+              "publishedAt": "2026-06-08T14:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hzAcDU1FYDo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hzAcDU1FYDo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "76ovBK3lJ2U",
               "title": "Fix your AI pipeline or lose your budget #ai #strategy",
               "publishedAt": "2026-06-08T03:30:37+00:00",
@@ -45,6 +55,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/vXBB1YX7BDA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/vXBB1YX7BDA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "OMyLzJYJKzg",
+              "title": "I Built an AI Second Brain That Fixes Its Own Mistakes (Karpathy's Method)",
+              "publishedAt": "2026-06-08T16:45:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OMyLzJYJKzg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OMyLzJYJKzg",
               "summary": "",
               "transcriptAvailable": false
             }
