@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-06-07T16:09:36Z",
+  "lastUpdated": "2026-06-08T11:48:13Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-08",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "76ovBK3lJ2U",
+              "title": "Fix your AI pipeline or lose your budget #ai #strategy",
+              "publishedAt": "2026-06-08T03:30:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/76ovBK3lJ2U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/76ovBK3lJ2U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "vXBB1YX7BDA",
+              "title": "How to actually scale AI beyond individual tasks #ai #productivity",
+              "publishedAt": "2026-06-08T00:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vXBB1YX7BDA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/vXBB1YX7BDA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "aSZfNC4ZscM",
+              "title": "DeepSeek NEW Desktop App - The 24/7 Self-Evolving AI Agent!",
+              "publishedAt": "2026-06-08T06:03:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aSZfNC4ZscM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=aSZfNC4ZscM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "dailyDigest": "",
@@ -29,6 +77,26 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "AEnQEupGS_Q",
+              "title": "Fix your AI pipeline: Rethink ownership #ai #tech",
+              "publishedAt": "2026-06-07T20:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AEnQEupGS_Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AEnQEupGS_Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "lggtc9D5e7E",
+              "title": "Uber's massive AI mistake revealed #tech #shorts",
+              "publishedAt": "2026-06-07T16:00:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lggtc9D5e7E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lggtc9D5e7E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "yOGLr2IwAWk",
               "title": "Where AI hits a wall #ai #tech #learning",
               "publishedAt": "2026-06-07T01:00:29+00:00",
@@ -44,6 +112,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "sBvRJGjMq5k",
+              "title": "Claude Just KILLED Data Entry Jobs",
+              "publishedAt": "2026-06-07T23:25:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sBvRJGjMq5k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/sBvRJGjMq5k",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "rsXeVAjYWTA",
               "title": "I Cancelled GPT-5.5 After Testing Opus 4.8 (Here's Why)",
@@ -721,90 +799,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/l2r3aWn96K8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/l2r3aWn96K8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-05-31",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "q7Am0pV6FjQ",
-              "title": "Forget Codex vs Claude Code, This Finally Fixes Both",
-              "publishedAt": "2026-05-31T14:32:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/q7Am0pV6FjQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=q7Am0pV6FjQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "UsCgEuIAclE",
-              "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
-              "publishedAt": "2026-05-31T17:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UsCgEuIAclE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UsCgEuIAclE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "oTTVQt4IjPI",
-              "title": "The Compound Risk of AI Agents ⚠️ #ai #risk #software",
-              "publishedAt": "2026-05-31T03:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oTTVQt4IjPI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/oTTVQt4IjPI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Kb7FxKgUWvo",
-              "title": "OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews",
-              "publishedAt": "2026-05-31T00:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Kb7FxKgUWvo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Kb7FxKgUWvo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "4xDTGazlYHM",
-              "title": "Stop Using Hermes Agent. Start Using OpenHuman Instead",
-              "publishedAt": "2026-05-31T16:52:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4xDTGazlYHM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4xDTGazlYHM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0zKYLCgyjbQ",
-              "title": "Caveman Using AI",
-              "publishedAt": "2026-05-31T15:35:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0zKYLCgyjbQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0zKYLCgyjbQ",
               "summary": "",
               "transcriptAvailable": false
             }
