@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T11:48:13Z",
+  "lastUpdated": "2026-06-08T14:08:17Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-06-08",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "7CVz-0DHrmo",
+              "title": "AI Has Started Building AI — and It's Already Here",
+              "publishedAt": "2026-06-08T12:30:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7CVz-0DHrmo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7CVz-0DHrmo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
