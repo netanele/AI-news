@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-06-08T17:46:32Z",
+  "lastUpdated": "2026-06-09T10:26:38Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-09",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "dfjA49EykLs",
+              "title": "Fix your operating model or lose at AI #ai #strategy",
+              "publishedAt": "2026-06-09T03:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dfjA49EykLs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dfjA49EykLs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "bPYhPxwUyGA",
+              "title": "Claude Fable 5 TOMORROW? GPT 5.6 Kindle, OpenAI IPO News, Gemini 3.5 Pro, Nex-N2, & More! AI NEWS!",
+              "publishedAt": "2026-06-09T07:37:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bPYhPxwUyGA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bPYhPxwUyGA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "dMrm2jAyrKM",
+              "title": "Only the best are using them...",
+              "publishedAt": "2026-06-09T02:01:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dMrm2jAyrKM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "dailyDigest": "",
@@ -64,6 +118,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "XRQ40aHsxh8",
+              "title": "10 Secret ChatGPT Hacks You NEED To Know",
+              "publishedAt": "2026-06-08T20:35:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XRQ40aHsxh8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/XRQ40aHsxh8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "OMyLzJYJKzg",
               "title": "I Built an AI Second Brain That Fixes Its Own Mistakes (Karpathy's Method)",
@@ -751,96 +815,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/gyXjvzMDV7s/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-01",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "UAanebcmBFI",
-              "title": "The death of traditional databases #ai #tech #saas",
-              "publishedAt": "2026-06-01T18:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UAanebcmBFI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/UAanebcmBFI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "KWCZWFDOapk",
-              "title": "This is how AI agents actually take over enterprises #ai #business #tech",
-              "publishedAt": "2026-06-01T03:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KWCZWFDOapk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KWCZWFDOapk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "G-IlVPyFfd4",
-              "title": "Stop Selling AI Agents, Sell THIS Instead",
-              "publishedAt": "2026-06-01T23:06:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/G-IlVPyFfd4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=G-IlVPyFfd4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "sJrz5Qokbbo",
-              "title": "Anthropic Just Fixed Claude Code’s Biggest Problem",
-              "publishedAt": "2026-06-01T15:29:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sJrz5Qokbbo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sJrz5Qokbbo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "p6Npi-HBoRU",
-              "title": "MiniMax M3 IS INSANE! BEST Opensource AI Model! Beats Opus 4.7 and 50x Cheaper! (Fully Tested)",
-              "publishedAt": "2026-06-01T07:36:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/p6Npi-HBoRU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=p6Npi-HBoRU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "l2r3aWn96K8",
-              "title": "SWEbench is done.",
-              "publishedAt": "2026-06-01T15:23:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/l2r3aWn96K8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/l2r3aWn96K8",
               "summary": "",
               "transcriptAvailable": false
             }
