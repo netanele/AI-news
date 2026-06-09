@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T12:38:35Z",
+  "lastUpdated": "2026-06-09T17:20:25Z",
   "config": {
     "daysToShow": 7
   },
@@ -44,6 +44,26 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "e-4xG1U7M70",
+              "title": "MYTHOS is LIVE!!!!",
+              "publishedAt": "2026-06-09T17:06:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e-4xG1U7M70/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=e-4xG1U7M70",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "GaiZvDn_Viw",
+              "title": "Every time I think I've caught up with the AI news...",
+              "publishedAt": "2026-06-09T15:38:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GaiZvDn_Viw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/GaiZvDn_Viw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "dMrm2jAyrKM",
               "title": "Only the best are using them...",
