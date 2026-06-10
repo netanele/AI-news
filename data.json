@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-06-09T17:20:25Z",
+  "lastUpdated": "2026-06-10T10:47:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "KB2aTgqeUMM",
+              "title": "Mythos 5: Why the Public Version is a Lie",
+              "publishedAt": "2026-06-10T00:27:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KB2aTgqeUMM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KB2aTgqeUMM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "54Fky0JpSbw",
+              "title": "Claude Fable 5 IS INCREDIBLE! Greatest AI Model Ever! (Fully Tested)",
+              "publishedAt": "2026-06-10T00:10:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/54Fky0JpSbw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=54Fky0JpSbw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "dailyDigest": "",
@@ -13,12 +51,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "kd_OFLhOOk8",
+              "title": "Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)",
+              "publishedAt": "2026-06-09T19:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kd_OFLhOOk8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/kd_OFLhOOk8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "dfjA49EykLs",
               "title": "Fix your operating model or lose at AI #ai #strategy",
               "publishedAt": "2026-06-09T03:00:35+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dfjA49EykLs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/dfjA49EykLs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "7S-ecZEtsFA",
+              "title": "Claude’s New Mythos Is Here and Its’s INSANE",
+              "publishedAt": "2026-06-09T19:16:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7S-ecZEtsFA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7S-ecZEtsFA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -44,6 +108,26 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "Ou-0vjl6FZo",
+              "title": "MYTHOS MYTHOS MYTHOS",
+              "publishedAt": "2026-06-09T23:02:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ou-0vjl6FZo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ou-0vjl6FZo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "naOUMQt-8pU",
+              "title": "Mythos is officially here.",
+              "publishedAt": "2026-06-09T21:36:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/naOUMQt-8pU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/naOUMQt-8pU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "e-4xG1U7M70",
               "title": "MYTHOS is LIVE!!!!",
@@ -709,132 +793,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/GJAgh8isVLk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=GJAgh8isVLk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "f17qpYQkA6c",
-              "title": "Opus 4.8 Tops Every Model. So Why Am I Worried?",
-              "publishedAt": "2026-06-02T16:56:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/f17qpYQkA6c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=f17qpYQkA6c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "LVmijkrVti0",
-              "title": "Why you only have 150 friends #psychology #science",
-              "publishedAt": "2026-06-02T18:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LVmijkrVti0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LVmijkrVti0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hlGWME2hsl4",
-              "title": "Why your meetings are actually destroying your output #productivity #work",
-              "publishedAt": "2026-06-02T03:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hlGWME2hsl4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hlGWME2hsl4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8Y9IkxyZpHo",
-              "title": "Is your AI team actually efficient? #ai #tech #programming",
-              "publishedAt": "2026-06-02T00:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8Y9IkxyZpHo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8Y9IkxyZpHo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "BFgIEaYqp_g",
-              "title": "This is the EASIEST way to setup Hermes Agent",
-              "publishedAt": "2026-06-02T14:32:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BFgIEaYqp_g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BFgIEaYqp_g",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5My8Bfi72c4",
-              "title": "I Fixed Claude Being a Yes Man",
-              "publishedAt": "2026-06-02T02:24:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5My8Bfi72c4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5My8Bfi72c4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "3SZ0oCDSVbM",
-              "title": "GPT 5.5 vs Opus 4.8 vs Gemini 3.5 - Which Model Should You Use?",
-              "publishedAt": "2026-06-02T07:35:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3SZ0oCDSVbM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3SZ0oCDSVbM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "fdkwkmZrpEU",
-              "title": "Everyone's holding their laptops open",
-              "publishedAt": "2026-06-02T21:42:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fdkwkmZrpEU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/fdkwkmZrpEU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "gyXjvzMDV7s",
-              "title": "Is AI actually helping?",
-              "publishedAt": "2026-06-02T18:15:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gyXjvzMDV7s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
               "summary": "",
               "transcriptAvailable": false
             }
