@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T10:47:26Z",
+  "lastUpdated": "2026-06-10T12:57:46Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-06-10",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "qMEm1bgxnUM",
+              "title": "6 Hermes Use Cases That OpenClaw Never Had",
+              "publishedAt": "2026-06-10T12:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qMEm1bgxnUM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qMEm1bgxnUM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
