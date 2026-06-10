@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T12:57:46Z",
+  "lastUpdated": "2026-06-10T17:53:26Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "R2-Y1Hjwx2U",
+              "title": "Stop Coding. Start Steering. Claude vs Codex",
+              "publishedAt": "2026-06-10T14:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/R2-Y1Hjwx2U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=R2-Y1Hjwx2U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "ZC5l5ED-22Y",
+              "title": "I Tested Claude Fable 5 Against Opus So You Don’t Waste Your Credits",
+              "publishedAt": "2026-06-10T17:25:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZC5l5ED-22Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZC5l5ED-22Y",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "KB2aTgqeUMM",
               "title": "Mythos 5: Why the Public Version is a Lie",
@@ -51,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/54Fky0JpSbw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=54Fky0JpSbw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "GclDWye2kgk",
+              "title": "Supercomputer is the next level of AI video generation",
+              "publishedAt": "2026-06-10T17:10:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GclDWye2kgk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/GclDWye2kgk",
               "summary": "",
               "transcriptAvailable": false
             }
