@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T11:16:40Z",
+  "lastUpdated": "2026-06-11T14:00:05Z",
   "config": {
     "daysToShow": 7
   },
@@ -51,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/n4XMisTcL0k/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=n4XMisTcL0k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "ibnHNoxQOSQ",
+              "title": "I'm making a tamagotchi for my son!",
+              "publishedAt": "2026-06-11T13:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ibnHNoxQOSQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ibnHNoxQOSQ",
               "summary": "",
               "transcriptAvailable": false
             }
