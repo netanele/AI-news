@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T14:00:05Z",
+  "lastUpdated": "2026-06-11T18:08:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "CrLMktzEzmM",
+              "title": "Building with Anthropic's Fable 5 LIVE - Is It Really Worth the Hype?",
+              "publishedAt": "2026-06-11T14:45:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CrLMktzEzmM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CrLMktzEzmM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "1wfY7GCVvh0",
               "title": "Google's Agents CLI: The CLI + Skills Combination to Ship AI Agents EASILY",
@@ -29,12 +39,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "t7L6-fMpxFc",
+              "title": "WWDC Isn't About Siri. It's Jensen Huang's Problem.",
+              "publishedAt": "2026-06-11T14:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t7L6-fMpxFc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t7L6-fMpxFc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "74P-N6JZ5lc",
               "title": "Fable 5 is here—but who is it for? #ai #anthropic #shorts",
               "publishedAt": "2026-06-11T03:00:37+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/74P-N6JZ5lc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/74P-N6JZ5lc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Zt9BpA11dNg",
+              "title": "OpenAI Just Changed How We Build Apps Forever (Codex Sites)",
+              "publishedAt": "2026-06-11T16:13:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Zt9BpA11dNg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Zt9BpA11dNg",
               "summary": "",
               "transcriptAvailable": false
             }
