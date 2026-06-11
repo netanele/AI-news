@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-06-10T17:53:26Z",
+  "lastUpdated": "2026-06-11T11:16:40Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "1wfY7GCVvh0",
+              "title": "Google's Agents CLI: The CLI + Skills Combination to Ship AI Agents EASILY",
+              "publishedAt": "2026-06-11T00:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1wfY7GCVvh0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1wfY7GCVvh0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "74P-N6JZ5lc",
+              "title": "Fable 5 is here—but who is it for? #ai #anthropic #shorts",
+              "publishedAt": "2026-06-11T03:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/74P-N6JZ5lc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/74P-N6JZ5lc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "n4XMisTcL0k",
+              "title": "Nex-N2 Pro IS GREAT! New Opensource Model Beats GPT 5.5, Opus 4,7, & Gemini 3.5? (Fully Tested)",
+              "publishedAt": "2026-06-11T07:18:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/n4XMisTcL0k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=n4XMisTcL0k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "dailyDigest": "",
@@ -44,6 +98,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "tx8qTnAF5Tk",
+              "title": "This Claude Trick Exposed ANY Business Weakness",
+              "publishedAt": "2026-06-10T23:11:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tx8qTnAF5Tk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tx8qTnAF5Tk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ZC5l5ED-22Y",
               "title": "I Tested Claude Fable 5 Against Opus So You Don’t Waste Your Credits",
@@ -751,106 +815,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/a56T6OQtwEg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=a56T6OQtwEg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "5LnwJyi1il4",
-              "title": "Anthropic Just Made Your Claude Claude Workflow Extremely Autonomous",
-              "publishedAt": "2026-06-03T14:10:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5LnwJyi1il4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5LnwJyi1il4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "z73yuF14udI",
-              "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
-              "publishedAt": "2026-06-03T14:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/z73yuF14udI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=z73yuF14udI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "IZjbq7cGqqs",
-              "title": "AI didn't fix your meetings, it broke your team size #productivity",
-              "publishedAt": "2026-06-03T03:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IZjbq7cGqqs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IZjbq7cGqqs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rdYgKhgnWrg",
-              "title": "AI didn't fix your meetings, it broke them #management #ai",
-              "publishedAt": "2026-06-03T00:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rdYgKhgnWrg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/rdYgKhgnWrg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Xgc_9SvCCjc",
-              "title": "Claude Just Changed The Stock Market",
-              "publishedAt": "2026-06-03T21:17:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Xgc_9SvCCjc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Xgc_9SvCCjc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "3Z5opS1E0bg",
-              "title": "Founders who figure out Claude Code will look like geniuses",
-              "publishedAt": "2026-06-03T01:43:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3Z5opS1E0bg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3Z5opS1E0bg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "GJAgh8isVLk",
-              "title": "GPT-5.6 Leaked, Mythos Benchmark Leaks, Hermes Desktop App, Qwen 3.7 Plus, & More! AI NEWS",
-              "publishedAt": "2026-06-03T07:08:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GJAgh8isVLk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GJAgh8isVLk",
               "summary": "",
               "transcriptAvailable": false
             }
