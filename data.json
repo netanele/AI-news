@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-06-14T16:17:34Z",
+  "lastUpdated": "2026-06-15T12:56:03Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Ovj5f0ajDww",
+              "title": "How to Build 24/7 Claude Agents! EASILY!",
+              "publishedAt": "2026-06-15T06:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ovj5f0ajDww/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ovj5f0ajDww",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "dailyDigest": "",
@@ -19,6 +41,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/N459K9wmxcc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=N459K9wmxcc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "7RDK84LLL2U",
+              "title": "OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.",
+              "publishedAt": "2026-06-14T17:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7RDK84LLL2U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7RDK84LLL2U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "52-sCG5xLnk",
+              "title": "Microsoft Just Created Their Own Openclaw!",
+              "publishedAt": "2026-06-14T21:33:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/52-sCG5xLnk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/52-sCG5xLnk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -683,116 +737,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/aSZfNC4ZscM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=aSZfNC4ZscM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "nvW-dTgHAHg",
-              "title": "Live AI Q&A + Crushing it in Chess at the Same Time - Come Hang Out!",
-              "publishedAt": "2026-06-07T04:26:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nvW-dTgHAHg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nvW-dTgHAHg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "AEnQEupGS_Q",
-              "title": "Fix your AI pipeline: Rethink ownership #ai #tech",
-              "publishedAt": "2026-06-07T20:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AEnQEupGS_Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AEnQEupGS_Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "lggtc9D5e7E",
-              "title": "Uber's massive AI mistake revealed #tech #shorts",
-              "publishedAt": "2026-06-07T16:00:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lggtc9D5e7E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/lggtc9D5e7E",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "yOGLr2IwAWk",
-              "title": "Where AI hits a wall #ai #tech #learning",
-              "publishedAt": "2026-06-07T01:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yOGLr2IwAWk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/yOGLr2IwAWk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "sBvRJGjMq5k",
-              "title": "Claude Just KILLED Data Entry Jobs",
-              "publishedAt": "2026-06-07T23:25:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sBvRJGjMq5k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/sBvRJGjMq5k",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rsXeVAjYWTA",
-              "title": "I Cancelled GPT-5.5 After Testing Opus 4.8 (Here's Why)",
-              "publishedAt": "2026-06-07T14:16:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rsXeVAjYWTA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rsXeVAjYWTA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Jl_NBJrcABQ",
-              "title": "Claude’s New Plugin is INSANE (Changes Small Businesses Forever)",
-              "publishedAt": "2026-06-07T02:29:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Jl_NBJrcABQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Jl_NBJrcABQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "fRjWpcA40hs",
-              "title": "Claude Mythos 5 LEAKED & IS Coming Sooner Than Expected & GPT-5.6 Checkpoint Out! Huge AI News!",
-              "publishedAt": "2026-06-07T06:44:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fRjWpcA40hs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fRjWpcA40hs",
               "summary": "",
               "transcriptAvailable": false
             }
