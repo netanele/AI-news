@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T15:46:56Z",
+  "lastUpdated": "2026-06-15T19:00:54Z",
   "config": {
     "daysToShow": 7
   },
@@ -83,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Ovj5f0ajDww/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Ovj5f0ajDww",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "W53XPj4tAyE",
+              "title": "Mythos BANNED (explained)",
+              "publishedAt": "2026-06-15T18:25:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/W53XPj4tAyE",
               "summary": "",
               "transcriptAvailable": false
             }
