@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T12:56:03Z",
+  "lastUpdated": "2026-06-15T15:46:56Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,70 @@
       "date": "2026-06-15",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "AQRDjI5owZI",
+              "title": "Loop Engineering Totally 10x Hermes agents",
+              "publishedAt": "2026-06-15T14:19:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AQRDjI5owZI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=AQRDjI5owZI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "oGE_Dwz-rMk",
+              "title": "Omnigent: The New Meta-Harness for EVERY Coding Agent - Claude Code, Codex, Pi, More",
+              "publishedAt": "2026-06-15T14:42:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oGE_Dwz-rMk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oGE_Dwz-rMk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "mn4XBSBIuag",
+              "title": "Nvidia Sold $194 Billion In Chips. The AI Bubble Story Is A Lie",
+              "publishedAt": "2026-06-15T14:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mn4XBSBIuag/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mn4XBSBIuag",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "oruZKJyBhfE",
+              "title": "The Ultimate Beginner’s Guide To Claude (2026)",
+              "publishedAt": "2026-06-15T14:43:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oruZKJyBhfE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oruZKJyBhfE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
