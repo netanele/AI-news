@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-06-15T19:00:54Z",
+  "lastUpdated": "2026-06-16T12:01:49Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "TJ-KNC-i3SY",
+              "title": "The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech",
+              "publishedAt": "2026-06-16T03:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TJ-KNC-i3SY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TJ-KNC-i3SY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "2LMaQ8EQwxI",
+              "title": "Google Just KILLED SEO (what to do)",
+              "publishedAt": "2026-06-16T01:22:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2LMaQ8EQwxI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2LMaQ8EQwxI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "T-EScj1GEKY",
+              "title": "Fable 5 COMING BACK! Deepseek v4.1, GPT-5.6 Leaks, Fusion API, & Kimi K2.7 Code High Speed! AI NEWS!",
+              "publishedAt": "2026-06-16T06:30:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/T-EScj1GEKY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=T-EScj1GEKY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "dailyDigest": "",
@@ -717,106 +771,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dMrm2jAyrKM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "7CVz-0DHrmo",
-              "title": "AI Has Started Building AI — and It's Already Here",
-              "publishedAt": "2026-06-08T12:30:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7CVz-0DHrmo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7CVz-0DHrmo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "hzAcDU1FYDo",
-              "title": "Meta Cut 8,000 People. It Has Nothing To Do With AI Working.",
-              "publishedAt": "2026-06-08T14:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hzAcDU1FYDo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hzAcDU1FYDo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "76ovBK3lJ2U",
-              "title": "Fix your AI pipeline or lose your budget #ai #strategy",
-              "publishedAt": "2026-06-08T03:30:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/76ovBK3lJ2U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/76ovBK3lJ2U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "vXBB1YX7BDA",
-              "title": "How to actually scale AI beyond individual tasks #ai #productivity",
-              "publishedAt": "2026-06-08T00:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vXBB1YX7BDA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vXBB1YX7BDA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "XRQ40aHsxh8",
-              "title": "10 Secret ChatGPT Hacks You NEED To Know",
-              "publishedAt": "2026-06-08T20:35:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XRQ40aHsxh8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/XRQ40aHsxh8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "OMyLzJYJKzg",
-              "title": "I Built an AI Second Brain That Fixes Its Own Mistakes (Karpathy's Method)",
-              "publishedAt": "2026-06-08T16:45:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OMyLzJYJKzg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OMyLzJYJKzg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "aSZfNC4ZscM",
-              "title": "DeepSeek NEW Desktop App - The 24/7 Self-Evolving AI Agent!",
-              "publishedAt": "2026-06-08T06:03:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aSZfNC4ZscM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aSZfNC4ZscM",
               "summary": "",
               "transcriptAvailable": false
             }
