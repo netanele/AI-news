@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-06-16T18:52:44Z",
+  "lastUpdated": "2026-06-17T11:26:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-17",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "4-luYDWO9f4",
+              "title": "Siri is finally getting an upgrade 🤯 #siri #apple #ios",
+              "publishedAt": "2026-06-17T03:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4-luYDWO9f4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4-luYDWO9f4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "w2hpXlyMrAA",
+              "title": "Kimi K2.7 Code: BEST Open Source Model? REALLY Cheap and Beats Opus 4.8 and GPT 5.5? (Fully Tested)",
+              "publishedAt": "2026-06-17T06:30:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/w2hpXlyMrAA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=w2hpXlyMrAA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "dailyDigest": "",
@@ -29,6 +67,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "ocjeR8-pOoY",
+              "title": "Turn Claude Fable into a Second Brain That Knows EVERYTHING",
+              "publishedAt": "2026-06-16T22:06:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ocjeR8-pOoY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ocjeR8-pOoY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "2LMaQ8EQwxI",
               "title": "Google Just KILLED SEO (what to do)",
               "publishedAt": "2026-06-16T01:22:43+00:00",
@@ -51,6 +99,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/T-EScj1GEKY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=T-EScj1GEKY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "byr-_swPgsE",
+              "title": "Fable 5 is GONE",
+              "publishedAt": "2026-06-16T19:48:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/byr-_swPgsE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/byr-_swPgsE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -651,126 +715,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/GclDWye2kgk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/GclDWye2kgk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "kd_OFLhOOk8",
-              "title": "Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)",
-              "publishedAt": "2026-06-09T19:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kd_OFLhOOk8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/kd_OFLhOOk8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dfjA49EykLs",
-              "title": "Fix your operating model or lose at AI #ai #strategy",
-              "publishedAt": "2026-06-09T03:00:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dfjA49EykLs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dfjA49EykLs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "7S-ecZEtsFA",
-              "title": "Claude’s New Mythos Is Here and Its’s INSANE",
-              "publishedAt": "2026-06-09T19:16:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7S-ecZEtsFA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7S-ecZEtsFA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "bPYhPxwUyGA",
-              "title": "Claude Fable 5 TOMORROW? GPT 5.6 Kindle, OpenAI IPO News, Gemini 3.5 Pro, Nex-N2, & More! AI NEWS!",
-              "publishedAt": "2026-06-09T07:37:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bPYhPxwUyGA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=bPYhPxwUyGA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Ou-0vjl6FZo",
-              "title": "MYTHOS MYTHOS MYTHOS",
-              "publishedAt": "2026-06-09T23:02:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ou-0vjl6FZo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ou-0vjl6FZo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "naOUMQt-8pU",
-              "title": "Mythos is officially here.",
-              "publishedAt": "2026-06-09T21:36:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/naOUMQt-8pU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/naOUMQt-8pU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "e-4xG1U7M70",
-              "title": "MYTHOS is LIVE!!!!",
-              "publishedAt": "2026-06-09T17:06:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/e-4xG1U7M70/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=e-4xG1U7M70",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "GaiZvDn_Viw",
-              "title": "Every time I think I've caught up with the AI news...",
-              "publishedAt": "2026-06-09T15:38:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GaiZvDn_Viw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/GaiZvDn_Viw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dMrm2jAyrKM",
-              "title": "Only the best are using them...",
-              "publishedAt": "2026-06-09T02:01:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dMrm2jAyrKM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
               "summary": "",
               "transcriptAvailable": false
             }
