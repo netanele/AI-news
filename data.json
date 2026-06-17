@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:41:54Z",
+  "lastUpdated": "2026-06-17T17:46:59Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "KiTmBtyaeXg",
+              "title": "Nvidia's New Tool Just Fixed Agent Skills",
+              "publishedAt": "2026-06-17T15:13:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KiTmBtyaeXg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KiTmBtyaeXg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "BOXK2XFLA-E",
+              "title": "Don't build more AI agents until you watch this",
+              "publishedAt": "2026-06-17T14:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BOXK2XFLA-E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BOXK2XFLA-E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "4-luYDWO9f4",
               "title": "Siri is finally getting an upgrade 🤯 #siri #apple #ios",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/4-luYDWO9f4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/4-luYDWO9f4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "0gR7LW1XwNo",
+              "title": "The AI Agent That Runs My Business From WhatsApp",
+              "publishedAt": "2026-06-17T14:04:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0gR7LW1XwNo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0gR7LW1XwNo",
               "summary": "",
               "transcriptAvailable": false
             }
