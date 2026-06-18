@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-06-17T17:46:59Z",
+  "lastUpdated": "2026-06-18T11:03:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-18",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "UztrFXaSWv0",
+              "title": "The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore?!",
+              "publishedAt": "2026-06-18T00:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UztrFXaSWv0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UztrFXaSWv0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "nUoJS6AXoAw",
+              "title": "Don't let your app get left behind #appleintelligence #tech #ai",
+              "publishedAt": "2026-06-18T03:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nUoJS6AXoAw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/nUoJS6AXoAw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "3vgagGeGg1E",
+              "title": "Never Use AI Without This..",
+              "publishedAt": "2026-06-18T01:48:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3vgagGeGg1E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3vgagGeGg1E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "57L3vmQLzwQ",
+              "title": "NotebookLM Agentic AI Update Is HUGE! Agentic Coder Now?",
+              "publishedAt": "2026-06-18T06:30:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/57L3vmQLzwQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=57L3vmQLzwQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "dailyDigest": "",
@@ -651,112 +721,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ibnHNoxQOSQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ibnHNoxQOSQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "qMEm1bgxnUM",
-              "title": "6 Hermes Use Cases That OpenClaw Never Had",
-              "publishedAt": "2026-06-10T12:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qMEm1bgxnUM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qMEm1bgxnUM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "R2-Y1Hjwx2U",
-              "title": "Stop Coding. Start Steering. Claude vs Codex",
-              "publishedAt": "2026-06-10T14:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/R2-Y1Hjwx2U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=R2-Y1Hjwx2U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "tx8qTnAF5Tk",
-              "title": "This Claude Trick Exposed ANY Business Weakness",
-              "publishedAt": "2026-06-10T23:11:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tx8qTnAF5Tk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/tx8qTnAF5Tk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZC5l5ED-22Y",
-              "title": "I Tested Claude Fable 5 Against Opus So You Don’t Waste Your Credits",
-              "publishedAt": "2026-06-10T17:25:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZC5l5ED-22Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZC5l5ED-22Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "KB2aTgqeUMM",
-              "title": "Mythos 5: Why the Public Version is a Lie",
-              "publishedAt": "2026-06-10T00:27:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KB2aTgqeUMM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KB2aTgqeUMM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "54Fky0JpSbw",
-              "title": "Claude Fable 5 IS INCREDIBLE! Greatest AI Model Ever! (Fully Tested)",
-              "publishedAt": "2026-06-10T00:10:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/54Fky0JpSbw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=54Fky0JpSbw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "GclDWye2kgk",
-              "title": "Supercomputer is the next level of AI video generation",
-              "publishedAt": "2026-06-10T17:10:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GclDWye2kgk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/GclDWye2kgk",
               "summary": "",
               "transcriptAvailable": false
             }
