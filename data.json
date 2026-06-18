@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T12:54:15Z",
+  "lastUpdated": "2026-06-18T17:56:37Z",
   "config": {
     "daysToShow": 7
   },
@@ -54,6 +54,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "Wfyd2DWyg2k",
+              "title": "Claude Code Doesn’t Matter. THIS Does",
+              "publishedAt": "2026-06-18T14:16:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Wfyd2DWyg2k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Wfyd2DWyg2k",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "3vgagGeGg1E",
               "title": "Never Use AI Without This..",
