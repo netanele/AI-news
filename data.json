@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T11:03:50Z",
+  "lastUpdated": "2026-06-18T12:54:15Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "fYrPKhHouxs",
+              "title": "The New Kimi K2.7 Model is VERY Impressive",
+              "publishedAt": "2026-06-18T11:26:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fYrPKhHouxs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fYrPKhHouxs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "UztrFXaSWv0",
               "title": "The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore?!",
