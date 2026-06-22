@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T12:41:50Z",
+  "lastUpdated": "2026-06-22T15:24:14Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "h1MxhfZSTjo",
+              "title": "OpenAI Looks Dominant, But Here's What's Really Happening",
+              "publishedAt": "2026-06-22T14:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/h1MxhfZSTjo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=h1MxhfZSTjo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "Dyi4y7o4FB8",
               "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
               "publishedAt": "2026-06-22T01:00:13+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Dyi4y7o4FB8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Dyi4y7o4FB8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "8Q70cqQ3yrE",
+              "title": "Claude Just Made AI Agents That Actually Work in Production",
+              "publishedAt": "2026-06-22T13:50:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8Q70cqQ3yrE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8Q70cqQ3yrE",
               "summary": "",
               "transcriptAvailable": false
             }
