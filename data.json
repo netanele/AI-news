@@ -1,9 +1,69 @@
 {
-  "lastUpdated": "2026-06-21T16:26:34Z",
+  "lastUpdated": "2026-06-22T12:41:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Dyi4y7o4FB8",
+              "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
+              "publishedAt": "2026-06-22T01:00:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Dyi4y7o4FB8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Dyi4y7o4FB8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "rh_PcL26zls",
+              "title": "You Can't Run AI Agents Without This",
+              "publishedAt": "2026-06-21T17:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rh_PcL26zls/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rh_PcL26zls",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "bQ5QV9QZnfM",
+              "title": "5 Steps Before You Use AI in Your Business",
+              "publishedAt": "2026-06-21T22:50:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bQ5QV9QZnfM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bQ5QV9QZnfM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-20",
       "dailyDigest": "",
@@ -551,76 +611,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/W53XPj4tAyE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "N459K9wmxcc",
-              "title": "The US Government Just Banned Anthropic’s New AI Model",
-              "publishedAt": "2026-06-14T03:23:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/N459K9wmxcc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=N459K9wmxcc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7RDK84LLL2U",
-              "title": "OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.",
-              "publishedAt": "2026-06-14T17:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7RDK84LLL2U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7RDK84LLL2U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "52-sCG5xLnk",
-              "title": "Microsoft Just Created Their Own Openclaw!",
-              "publishedAt": "2026-06-14T21:33:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/52-sCG5xLnk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/52-sCG5xLnk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "qVn5BN094Qo",
-              "title": "GLM-5.2, NEW Gemini Model, Mira Murati's New Model, Fable 5 Update, & More! AI NEWS",
-              "publishedAt": "2026-06-14T06:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qVn5BN094Qo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qVn5BN094Qo",
               "summary": "",
               "transcriptAvailable": false
             }
