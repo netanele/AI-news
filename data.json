@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-06-22T18:42:39Z",
+  "lastUpdated": "2026-06-23T10:27:08Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "V4sGSp2VMe4",
+              "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
+              "publishedAt": "2026-06-23T03:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/V4sGSp2VMe4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/V4sGSp2VMe4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-22",
       "dailyDigest": "",
@@ -39,6 +61,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "6nuwKlxJKDM",
+              "title": "I Built an AI Operating System That Does EVERYTHING",
+              "publishedAt": "2026-06-22T23:20:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6nuwKlxJKDM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6nuwKlxJKDM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "8Q70cqQ3yrE",
               "title": "Claude Just Made AI Agents That Actually Work in Production",
               "publishedAt": "2026-06-22T13:50:24+00:00",
@@ -61,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/E17Lb3osqrw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=E17Lb3osqrw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "xyJtjk-WZcA",
+              "title": "Use LOOPS for everything",
+              "publishedAt": "2026-06-22T20:58:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xyJtjk-WZcA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/xyJtjk-WZcA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -551,108 +599,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/byr-_swPgsE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/byr-_swPgsE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "AQRDjI5owZI",
-              "title": "Loop Engineering Totally 10x Hermes agents",
-              "publishedAt": "2026-06-15T14:19:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AQRDjI5owZI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=AQRDjI5owZI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "oGE_Dwz-rMk",
-              "title": "Omnigent: The New Meta-Harness for EVERY Coding Agent - Claude Code, Codex, Pi, More",
-              "publishedAt": "2026-06-15T14:42:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oGE_Dwz-rMk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oGE_Dwz-rMk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "mn4XBSBIuag",
-              "title": "Nvidia Sold $194 Billion In Chips. The AI Bubble Story Is A Lie",
-              "publishedAt": "2026-06-15T14:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mn4XBSBIuag/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mn4XBSBIuag",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "oruZKJyBhfE",
-              "title": "The Ultimate Beginner’s Guide To Claude (2026)",
-              "publishedAt": "2026-06-15T14:43:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oruZKJyBhfE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oruZKJyBhfE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Ovj5f0ajDww",
-              "title": "How to Build 24/7 Claude Agents! EASILY!",
-              "publishedAt": "2026-06-15T06:00:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ovj5f0ajDww/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ovj5f0ajDww",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "W53XPj4tAyE",
-              "title": "Mythos BANNED (explained)",
-              "publishedAt": "2026-06-15T18:25:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/W53XPj4tAyE",
               "summary": "",
               "transcriptAvailable": false
             }
