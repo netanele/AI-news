@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T12:33:37Z",
+  "lastUpdated": "2026-06-23T17:12:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "Ot582-E61ac",
+              "title": "Insane Claude Design Skills You Need To Build Beautiful Websites",
+              "publishedAt": "2026-06-23T15:02:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ot582-E61ac/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ot582-E61ac",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "2w_vwQVvFmc",
+              "title": "Task Imagination is the New Skill. Here's Why Claude Fable 5 Proved It",
+              "publishedAt": "2026-06-23T14:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2w_vwQVvFmc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2w_vwQVvFmc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "V4sGSp2VMe4",
               "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/V4sGSp2VMe4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/V4sGSp2VMe4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "pDwfG5uDItE",
+              "title": "Sakana Fugu Ultra BEATS Fable 5 & GPT-5.5? (Fully Tested)",
+              "publishedAt": "2026-06-23T15:30:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pDwfG5uDItE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pDwfG5uDItE",
               "summary": "",
               "transcriptAvailable": false
             }
