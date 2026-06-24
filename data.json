@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T12:19:41Z",
+  "lastUpdated": "2026-06-24T17:01:12Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "A4zMyjkL0Dc",
+              "title": "I Built One AI Agent That Runs My Other Agents",
+              "publishedAt": "2026-06-24T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/A4zMyjkL0Dc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=A4zMyjkL0Dc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "jrnxOBOW6LQ",
+              "title": "Claude Just Changed Accounting Forever (Tutorial)",
+              "publishedAt": "2026-06-24T13:48:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jrnxOBOW6LQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jrnxOBOW6LQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "_Yx-gBjB0l8",
               "title": "This ChatGPT Trick Gets You FREE Google Traffic",
