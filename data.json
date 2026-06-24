@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-06-23T17:12:04Z",
+  "lastUpdated": "2026-06-24T10:12:31Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "_Yx-gBjB0l8",
+              "title": "This ChatGPT Trick Gets You FREE Google Traffic",
+              "publishedAt": "2026-06-24T00:41:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_Yx-gBjB0l8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_Yx-gBjB0l8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "2lmBj_XQq0I",
+              "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+              "publishedAt": "2026-06-24T00:01:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-23",
       "dailyDigest": "",
@@ -561,86 +599,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/w2hpXlyMrAA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=w2hpXlyMrAA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-16",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "TJ-KNC-i3SY",
-              "title": "The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech",
-              "publishedAt": "2026-06-16T03:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TJ-KNC-i3SY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/TJ-KNC-i3SY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ocjeR8-pOoY",
-              "title": "Turn Claude Fable into a Second Brain That Knows EVERYTHING",
-              "publishedAt": "2026-06-16T22:06:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ocjeR8-pOoY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ocjeR8-pOoY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2LMaQ8EQwxI",
-              "title": "Google Just KILLED SEO (what to do)",
-              "publishedAt": "2026-06-16T01:22:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2LMaQ8EQwxI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2LMaQ8EQwxI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "T-EScj1GEKY",
-              "title": "Fable 5 COMING BACK! Deepseek v4.1, GPT-5.6 Leaks, Fusion API, & Kimi K2.7 Code High Speed! AI NEWS!",
-              "publishedAt": "2026-06-16T06:30:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/T-EScj1GEKY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=T-EScj1GEKY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "byr-_swPgsE",
-              "title": "Fable 5 is GONE",
-              "publishedAt": "2026-06-16T19:48:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/byr-_swPgsE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/byr-_swPgsE",
               "summary": "",
               "transcriptAvailable": false
             }
