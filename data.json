@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-06-24T17:01:12Z",
+  "lastUpdated": "2026-06-25T10:09:56Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "zbmuiaPuiNM",
+              "title": "Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)",
+              "publishedAt": "2026-06-25T00:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zbmuiaPuiNM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zbmuiaPuiNM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "mWT-dBFkQdQ",
+              "title": "The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence",
+              "publishedAt": "2026-06-25T03:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mWT-dBFkQdQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mWT-dBFkQdQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "i5owDT8pges",
+              "title": "Secret Fix For Claude Usage Limits",
+              "publishedAt": "2026-06-25T02:02:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i5owDT8pges/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/i5owDT8pges",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-24",
       "dailyDigest": "",
@@ -54,6 +108,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "EtxdB7gpFqY",
+              "title": "AI can run for days on its own now",
+              "publishedAt": "2026-06-24T20:40:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EtxdB7gpFqY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EtxdB7gpFqY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "2lmBj_XQq0I",
               "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
@@ -545,86 +609,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/wwfJlSF34n8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=wwfJlSF34n8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "KiTmBtyaeXg",
-              "title": "Nvidia's New Tool Just Fixed Agent Skills",
-              "publishedAt": "2026-06-17T15:13:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KiTmBtyaeXg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KiTmBtyaeXg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "BOXK2XFLA-E",
-              "title": "Don't build more AI agents until you watch this",
-              "publishedAt": "2026-06-17T14:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BOXK2XFLA-E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BOXK2XFLA-E",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4-luYDWO9f4",
-              "title": "Siri is finally getting an upgrade 🤯 #siri #apple #ios",
-              "publishedAt": "2026-06-17T03:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4-luYDWO9f4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4-luYDWO9f4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "0gR7LW1XwNo",
-              "title": "The AI Agent That Runs My Business From WhatsApp",
-              "publishedAt": "2026-06-17T14:04:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0gR7LW1XwNo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0gR7LW1XwNo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "w2hpXlyMrAA",
-              "title": "Kimi K2.7 Code: BEST Open Source Model? REALLY Cheap and Beats Opus 4.8 and GPT 5.5? (Fully Tested)",
-              "publishedAt": "2026-06-17T06:30:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/w2hpXlyMrAA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=w2hpXlyMrAA",
               "summary": "",
               "transcriptAvailable": false
             }
