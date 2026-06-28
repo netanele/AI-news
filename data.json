@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T11:47:35Z",
+  "lastUpdated": "2026-06-28T16:05:09Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AdtGNAhVtok/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/AdtGNAhVtok",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "TML-0HmxWCE",
+              "title": "HERMES SETUP IN 2 MINUTES",
+              "publishedAt": "2026-06-28T14:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TML-0HmxWCE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TML-0HmxWCE",
               "summary": "",
               "transcriptAvailable": false
             }
