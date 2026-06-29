@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T14:05:03Z",
+  "lastUpdated": "2026-06-29T17:31:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-06-29",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "ECQA6oOyfIk",
+              "title": "I've Tried Every Claude Code Feature... Only These 8 Matter",
+              "publishedAt": "2026-06-29T15:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ECQA6oOyfIk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ECQA6oOyfIk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "MetalSole",
           "channelUrl": "https://www.youtube.com/@MetalSole",
@@ -29,12 +45,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "H9oNA5IyrXA",
+              "title": "The Real Story Behind the Government GPT 5.6 Freeze.",
+              "publishedAt": "2026-06-29T14:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H9oNA5IyrXA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=H9oNA5IyrXA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "f1Ulp-ZMWy8",
               "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
               "publishedAt": "2026-06-29T03:00:31+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/f1Ulp-ZMWy8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/f1Ulp-ZMWy8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "XOCruXFJZ_s",
+              "title": "GLM 5.2 + Claude Code = Opus-Level Coding for Almost $0",
+              "publishedAt": "2026-06-29T15:14:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XOCruXFJZ_s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XOCruXFJZ_s",
               "summary": "",
               "transcriptAvailable": false
             }
