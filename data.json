@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:51:59Z",
+  "lastUpdated": "2026-06-29T14:05:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-06-29",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "48hEUp3_OMI",
+              "title": "Washington Asked OpenAI to Not Release GPT-5.6 — What's Next?",
+              "publishedAt": "2026-06-29T12:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/48hEUp3_OMI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=48hEUp3_OMI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -606,9 +622,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: MetalSole"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
