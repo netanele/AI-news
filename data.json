@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-06-28T16:05:09Z",
+  "lastUpdated": "2026-06-29T11:51:59Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "f1Ulp-ZMWy8",
+              "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
+              "publishedAt": "2026-06-29T03:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f1Ulp-ZMWy8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/f1Ulp-ZMWy8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "uc4AOydmcaE",
+              "title": "GPT-5.6 IS OUT! GLM 5.5 Is Mythos Level, U.S Governement Banning AI Cause of Dario?, & Grok 4.5!",
+              "publishedAt": "2026-06-29T04:39:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uc4AOydmcaE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uc4AOydmcaE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-28",
       "dailyDigest": "",
@@ -13,12 +51,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "Zp8lr6IzUnQ",
+              "title": "GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?",
+              "publishedAt": "2026-06-28T17:00:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Zp8lr6IzUnQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Zp8lr6IzUnQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "AdtGNAhVtok",
               "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
               "publishedAt": "2026-06-28T03:00:09+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AdtGNAhVtok/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/AdtGNAhVtok",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ymnCet4KOAw",
+              "title": "This Secret Claude Skill Can Predict Your Customers",
+              "publishedAt": "2026-06-28T21:10:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ymnCet4KOAw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ymnCet4KOAw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -533,44 +597,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xyJtjk-WZcA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/xyJtjk-WZcA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "rh_PcL26zls",
-              "title": "You Can't Run AI Agents Without This",
-              "publishedAt": "2026-06-21T17:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rh_PcL26zls/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rh_PcL26zls",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "bQ5QV9QZnfM",
-              "title": "5 Steps Before You Use AI in Your Business",
-              "publishedAt": "2026-06-21T22:50:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bQ5QV9QZnfM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bQ5QV9QZnfM",
               "summary": "",
               "transcriptAvailable": false
             }
