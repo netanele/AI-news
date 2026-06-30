@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-06-29T17:31:08Z",
+  "lastUpdated": "2026-06-30T10:23:24Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-06-30",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "5u318Z3Am7s",
+              "title": "Claude Just Changed Accounting Forever",
+              "publishedAt": "2026-06-30T02:18:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5u318Z3Am7s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5u318Z3Am7s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "dailyDigest": "",
@@ -565,96 +587,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/pDwfG5uDItE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=pDwfG5uDItE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "h1MxhfZSTjo",
-              "title": "OpenAI Looks Dominant, But Here's What's Really Happening",
-              "publishedAt": "2026-06-22T14:00:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/h1MxhfZSTjo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=h1MxhfZSTjo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Dyi4y7o4FB8",
-              "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
-              "publishedAt": "2026-06-22T01:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Dyi4y7o4FB8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Dyi4y7o4FB8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "6nuwKlxJKDM",
-              "title": "I Built an AI Operating System That Does EVERYTHING",
-              "publishedAt": "2026-06-22T23:20:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6nuwKlxJKDM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6nuwKlxJKDM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8Q70cqQ3yrE",
-              "title": "Claude Just Made AI Agents That Actually Work in Production",
-              "publishedAt": "2026-06-22T13:50:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8Q70cqQ3yrE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8Q70cqQ3yrE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "E17Lb3osqrw",
-              "title": "Claude Sonnet 5, Mythos 6 ALREADY?, GPT-5.6 This Thursday, Sakana Fugu Beats Mythos, & More! AI NEWS",
-              "publishedAt": "2026-06-22T15:19:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/E17Lb3osqrw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=E17Lb3osqrw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "xyJtjk-WZcA",
-              "title": "Use LOOPS for everything",
-              "publishedAt": "2026-06-22T20:58:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xyJtjk-WZcA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/xyJtjk-WZcA",
               "summary": "",
               "transcriptAvailable": false
             }
