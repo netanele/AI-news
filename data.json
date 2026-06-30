@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T12:09:53Z",
+  "lastUpdated": "2026-06-30T17:01:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-06-30",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ZUK9fpJsHy8",
+              "title": "Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude",
+              "publishedAt": "2026-06-30T13:18:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZUK9fpJsHy8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZUK9fpJsHy8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
