@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-06-30T17:01:08Z",
+  "lastUpdated": "2026-07-01T10:36:27Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-07-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "SdjhgU3Cpb0",
+              "title": "Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough",
+              "publishedAt": "2026-07-01T03:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SdjhgU3Cpb0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SdjhgU3Cpb0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "VRkkJejseCo",
+              "title": "Anthropic Just Released Claude Sonnet 5 and it's VERY IMPRESSIVE!",
+              "publishedAt": "2026-06-30T20:18:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VRkkJejseCo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/VRkkJejseCo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -29,12 +67,54 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "1eXWLMJuK2I",
+              "title": "It Just Replaced My Marketing Team, Here's How",
+              "publishedAt": "2026-06-30T23:56:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1eXWLMJuK2I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1eXWLMJuK2I",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "5u318Z3Am7s",
               "title": "Claude Just Changed Accounting Forever",
               "publishedAt": "2026-06-30T02:18:22+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/5u318Z3Am7s/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/5u318Z3Am7s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "VuodSALTF9w",
+              "title": "Claude Sonnet 5 IS OUT & ITS HORRIBLE! Worst Model By Anthropic EVER? (Fully Tested)",
+              "publishedAt": "2026-06-30T19:58:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VuodSALTF9w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VuodSALTF9w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "H0QHtVxH5BM",
+              "title": "Telling my chickens that Dario won",
+              "publishedAt": "2026-06-30T19:11:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H0QHtVxH5BM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/H0QHtVxH5BM",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -539,70 +619,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "Ot582-E61ac",
-              "title": "Insane Claude Design Skills You Need To Build Beautiful Websites",
-              "publishedAt": "2026-06-23T15:02:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ot582-E61ac/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ot582-E61ac",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2w_vwQVvFmc",
-              "title": "Task Imagination is the New Skill. Here's Why Claude Fable 5 Proved It",
-              "publishedAt": "2026-06-23T14:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2w_vwQVvFmc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2w_vwQVvFmc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "V4sGSp2VMe4",
-              "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
-              "publishedAt": "2026-06-23T03:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/V4sGSp2VMe4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/V4sGSp2VMe4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "pDwfG5uDItE",
-              "title": "Sakana Fugu Ultra BEATS Fable 5 & GPT-5.5? (Fully Tested)",
-              "publishedAt": "2026-06-23T15:30:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pDwfG5uDItE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pDwfG5uDItE",
               "summary": "",
               "transcriptAvailable": false
             }
