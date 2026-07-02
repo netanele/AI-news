@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-07-01T17:09:11Z",
+  "lastUpdated": "2026-07-02T09:50:48Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "T33iI6izAKw",
+              "title": "Finally, an Open Standard for the Karpathy LLM Wiki is HERE",
+              "publishedAt": "2026-07-02T00:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/T33iI6izAKw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=T33iI6izAKw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "CCOoGvX9bCA",
+              "title": "The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork",
+              "publishedAt": "2026-07-02T03:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CCOoGvX9bCA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/CCOoGvX9bCA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "FGItUP_1t_s",
+              "title": "You can create a perfect UGC ad in just 15 minutes completely",
+              "publishedAt": "2026-07-02T01:35:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FGItUP_1t_s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FGItUP_1t_s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "W7k0Lcs5bZk",
+              "title": "Gemini 4 Flash SOON, Fable 5 is Back, GPT-5.6 Codex Update, Seed Dance 2.5, & More! AI NEWS",
+              "publishedAt": "2026-07-02T06:14:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/W7k0Lcs5bZk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=W7k0Lcs5bZk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "dailyDigest": "",
@@ -571,80 +641,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_gtQJTnWA4E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_gtQJTnWA4E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "A4zMyjkL0Dc",
-              "title": "I Built One AI Agent That Runs My Other Agents",
-              "publishedAt": "2026-06-24T14:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/A4zMyjkL0Dc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=A4zMyjkL0Dc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "jrnxOBOW6LQ",
-              "title": "Claude Just Changed Accounting Forever (Tutorial)",
-              "publishedAt": "2026-06-24T13:48:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jrnxOBOW6LQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jrnxOBOW6LQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_Yx-gBjB0l8",
-              "title": "This ChatGPT Trick Gets You FREE Google Traffic",
-              "publishedAt": "2026-06-24T00:41:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_Yx-gBjB0l8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_Yx-gBjB0l8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "EtxdB7gpFqY",
-              "title": "AI can run for days on its own now",
-              "publishedAt": "2026-06-24T20:40:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EtxdB7gpFqY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EtxdB7gpFqY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2lmBj_XQq0I",
-              "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
-              "publishedAt": "2026-06-24T00:01:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
               "summary": "",
               "transcriptAvailable": false
             }
