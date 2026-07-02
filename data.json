@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T12:09:23Z",
+  "lastUpdated": "2026-07-02T16:46:05Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "lq2fP7wC7d8",
+              "title": "Five Rules for Picking an AI Model That Actually Works",
+              "publishedAt": "2026-07-02T14:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lq2fP7wC7d8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "CCOoGvX9bCA",
               "title": "The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork",
