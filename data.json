@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T13:45:47Z",
+  "lastUpdated": "2026-07-06T17:37:11Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "GM7-ei-4Xc8",
+              "title": "Fable 5 Rules Anthropic Doesn’t Want You to know",
+              "publishedAt": "2026-07-06T14:20:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GM7-ei-4Xc8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GM7-ei-4Xc8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "oOpgmS88pLw",
+              "title": "OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.",
+              "publishedAt": "2026-07-06T14:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oOpgmS88pLw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oOpgmS88pLw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "zs-2gPbQNQ4",
               "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
