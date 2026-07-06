@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-07-05T16:01:41Z",
+  "lastUpdated": "2026-07-06T11:21:04Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-06",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "zs-2gPbQNQ4",
+              "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
+              "publishedAt": "2026-07-06T03:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zs-2gPbQNQ4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/zs-2gPbQNQ4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ag8z3hK55Lc",
+              "title": "The Cheapest AI Just Beat Opus & GPT-5.5",
+              "publishedAt": "2026-07-06T05:54:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ag8z3hK55Lc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ag8z3hK55Lc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "7gmSMFVTRs0",
+              "title": "5 Secret Claude Hacks You NEED To Know",
+              "publishedAt": "2026-07-06T00:38:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7gmSMFVTRs0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7gmSMFVTRs0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "NY_V8mFL1Gg",
+              "title": "Claude Fable 5 Is NERFED?! After Export Ban? The Truth...",
+              "publishedAt": "2026-07-06T05:51:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NY_V8mFL1Gg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NY_V8mFL1Gg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-05",
       "dailyDigest": "",
@@ -29,12 +93,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "1cSNE-ZkDLQ",
+              "title": "You Can't Compete on Cheap Models Anymore",
+              "publishedAt": "2026-07-05T16:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1cSNE-ZkDLQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1cSNE-ZkDLQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "_qiFCABxvpo",
               "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
               "publishedAt": "2026-07-05T03:00:39+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_qiFCABxvpo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_qiFCABxvpo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "odbWTtwt99o",
+              "title": "Claude Code + Loops: The New Way to Use AI",
+              "publishedAt": "2026-07-05T17:20:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/odbWTtwt99o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=odbWTtwt99o",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -519,70 +609,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/uc4AOydmcaE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=uc4AOydmcaE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-28",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "Zp8lr6IzUnQ",
-              "title": "GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?",
-              "publishedAt": "2026-06-28T17:00:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Zp8lr6IzUnQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Zp8lr6IzUnQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AdtGNAhVtok",
-              "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
-              "publishedAt": "2026-06-28T03:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AdtGNAhVtok/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AdtGNAhVtok",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ymnCet4KOAw",
-              "title": "This Secret Claude Skill Can Predict Your Customers",
-              "publishedAt": "2026-06-28T21:10:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ymnCet4KOAw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ymnCet4KOAw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "TML-0HmxWCE",
-              "title": "HERMES SETUP IN 2 MINUTES",
-              "publishedAt": "2026-06-28T14:00:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TML-0HmxWCE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TML-0HmxWCE",
               "summary": "",
               "transcriptAvailable": false
             }
