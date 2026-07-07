@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T10:17:56Z",
+  "lastUpdated": "2026-07-07T12:27:23Z",
   "config": {
     "daysToShow": 7
   },
@@ -60,6 +60,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "zHWco8xg7ME",
+              "title": "Cheap tricks for AI",
+              "publishedAt": "2026-07-07T10:16:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zHWco8xg7ME/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/zHWco8xg7ME",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "1KKB_UiW6ls",
               "title": "Cut your AI cost IN HALF (EASY)",
