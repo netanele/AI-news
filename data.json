@@ -1,9 +1,89 @@
 {
-  "lastUpdated": "2026-07-07T17:08:29Z",
+  "lastUpdated": "2026-07-08T09:19:29Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-08",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ld-2pnxuujg",
+              "title": "THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools",
+              "publishedAt": "2026-07-08T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ld-2pnxuujg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ld-2pnxuujg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "7LNtq6CuFhc",
+              "title": "How to Use AI in Your Business",
+              "publishedAt": "2026-07-08T00:04:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7LNtq6CuFhc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7LNtq6CuFhc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "xjt7ulpGTZ4",
+              "title": "China's AI BAN?!, Qwen 4, GPT-5.6 Thursday, Grok 4.5 Today, Deepseek AI Chip, & Claude AGI! AI NEWS",
+              "publishedAt": "2026-07-08T05:50:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xjt7ulpGTZ4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xjt7ulpGTZ4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "9D_UxabscdI",
+              "title": "So AI is \"thinking\" for real",
+              "publishedAt": "2026-07-08T08:13:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9D_UxabscdI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/9D_UxabscdI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "bjHuGNo3spk",
+              "title": "We just figured out how AI actually works (J-Space)",
+              "publishedAt": "2026-07-08T02:58:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bjHuGNo3spk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bjHuGNo3spk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "dailyDigest": "",
@@ -60,6 +140,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "3g4JBjNSbio",
+              "title": "Fable 5 EXTENDED",
+              "publishedAt": "2026-07-07T21:05:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3g4JBjNSbio/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3g4JBjNSbio",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "zHWco8xg7ME",
               "title": "Cheap tricks for AI",
@@ -523,102 +613,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/SdjhgU3Cpb0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/SdjhgU3Cpb0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-30",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "VRkkJejseCo",
-              "title": "Anthropic Just Released Claude Sonnet 5 and it's VERY IMPRESSIVE!",
-              "publishedAt": "2026-06-30T20:18:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VRkkJejseCo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/VRkkJejseCo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "ZUK9fpJsHy8",
-              "title": "Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude",
-              "publishedAt": "2026-06-30T13:18:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZUK9fpJsHy8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZUK9fpJsHy8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "1eXWLMJuK2I",
-              "title": "It Just Replaced My Marketing Team, Here's How",
-              "publishedAt": "2026-06-30T23:56:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1eXWLMJuK2I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1eXWLMJuK2I",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5u318Z3Am7s",
-              "title": "Claude Just Changed Accounting Forever",
-              "publishedAt": "2026-06-30T02:18:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5u318Z3Am7s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5u318Z3Am7s",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "VuodSALTF9w",
-              "title": "Claude Sonnet 5 IS OUT & ITS HORRIBLE! Worst Model By Anthropic EVER? (Fully Tested)",
-              "publishedAt": "2026-06-30T19:58:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VuodSALTF9w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VuodSALTF9w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "H0QHtVxH5BM",
-              "title": "Telling my chickens that Dario won",
-              "publishedAt": "2026-06-30T19:11:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/H0QHtVxH5BM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/H0QHtVxH5BM",
               "summary": "",
               "transcriptAvailable": false
             }
