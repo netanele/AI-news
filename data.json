@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-07-08T16:26:14Z",
+  "lastUpdated": "2026-07-09T10:22:30Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-09",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "R-5_2nsF_ZM",
+              "title": "I Love the Karpathy LLM Wiki but it Doesn't Scale. Here's What Does.",
+              "publishedAt": "2026-07-09T00:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/R-5_2nsF_ZM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=R-5_2nsF_ZM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "s1QIY2AhD5k",
+              "title": "When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech",
+              "publishedAt": "2026-07-09T03:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/s1QIY2AhD5k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/s1QIY2AhD5k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Uhn9Zght9zY",
+              "title": "Grok 4.5 IS REALLY GOOD! Opus & GPT Level BUT Faster, Cheaper, & Smarter! (Fully Tested)",
+              "publishedAt": "2026-07-09T06:52:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Uhn9Zght9zY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Uhn9Zght9zY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "p7eQYMcmZqo",
+              "title": "Grok  just broke the trend",
+              "publishedAt": "2026-07-09T00:02:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/p7eQYMcmZqo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/p7eQYMcmZqo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "dailyDigest": "",
@@ -54,6 +124,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "f0D3Ooxl4L8",
+              "title": "Do This With Fable 5 While You Still Can...",
+              "publishedAt": "2026-07-08T22:28:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f0D3Ooxl4L8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/f0D3Ooxl4L8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "7LNtq6CuFhc",
               "title": "How to Use AI in Your Business",
@@ -591,54 +671,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/W7k0Lcs5bZk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=W7k0Lcs5bZk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-01",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "5d02TYoOzfE",
-              "title": "This Finally Makes Our Hermes Agent Setup 90% Cheaper",
-              "publishedAt": "2026-07-01T14:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5d02TYoOzfE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5d02TYoOzfE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "HgAQOkG_v8c",
-              "title": "Stop Renting Your AI Memory. Build Your Own This Week.",
-              "publishedAt": "2026-07-01T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HgAQOkG_v8c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=HgAQOkG_v8c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SdjhgU3Cpb0",
-              "title": "Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough",
-              "publishedAt": "2026-07-01T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SdjhgU3Cpb0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SdjhgU3Cpb0",
               "summary": "",
               "transcriptAvailable": false
             }
