@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:45:51Z",
+  "lastUpdated": "2026-07-09T17:15:06Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-07-09",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "8wsM0euQOvc",
+              "title": "This Is How You Should Be Actually Using Claude Loops",
+              "publishedAt": "2026-07-09T15:00:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8wsM0euQOvc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8wsM0euQOvc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
