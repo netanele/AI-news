@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T11:10:27Z",
+  "lastUpdated": "2026-07-12T15:53:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-07-12",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "STczJBYJf7w",
+              "title": "7 Rules To Use GPT 5.6 Sol Better 90% Of People",
+              "publishedAt": "2026-07-12T14:46:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/STczJBYJf7w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=STczJBYJf7w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
