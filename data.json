@@ -1,9 +1,191 @@
 {
-  "lastUpdated": "2026-07-09T17:15:06Z",
+  "lastUpdated": "2026-07-12T08:57:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "CqNBsMlZKa4",
+              "title": "With AI, going slow is the dangerous move #AI #productivity #mindset #technology",
+              "publishedAt": "2026-07-12T03:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CqNBsMlZKa4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/CqNBsMlZKa4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "mkWz2MOCTv8",
+              "title": "Claude Opus 5 LEAKS, GPT-6 ALREADY, Kimi K3 Soon, Fable 5.1, NEO Hands, & More! AI NEWS",
+              "publishedAt": "2026-07-12T06:03:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mkWz2MOCTv8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mkWz2MOCTv8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "gROqcBXoz_c",
+              "title": "The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech",
+              "publishedAt": "2026-07-11T03:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gROqcBXoz_c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/gROqcBXoz_c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Dcc3CaC_oWQ",
+              "title": "Use Fable 5 + GPT 5.6 Together for 10x Better Outputs",
+              "publishedAt": "2026-07-11T20:14:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Dcc3CaC_oWQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Dcc3CaC_oWQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "jEa_rEUL-vA",
+              "title": "I Combined GPT 5.6 Sol + Fable 5 (INSANE Results)",
+              "publishedAt": "2026-07-11T14:37:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jEa_rEUL-vA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jEa_rEUL-vA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "sztx56CxgCE",
+              "title": "Claude Code - Document Parser Will Revolutionise Complex PDF Data Extraction!",
+              "publishedAt": "2026-07-11T05:16:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sztx56CxgCE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sztx56CxgCE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "PY7xIxybYNc",
+              "title": "Pydantic AI 2.0: The New Best Way to Build AI Agents is Composing Capabilities",
+              "publishedAt": "2026-07-10T14:00:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PY7xIxybYNc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PY7xIxybYNc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "PRqiGS6fnIM",
+              "title": "1.6M agents registered for OpenClaw and did NOTHING.",
+              "publishedAt": "2026-07-10T14:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PRqiGS6fnIM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PRqiGS6fnIM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "SvMFPKLqYSU",
+              "title": "The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech",
+              "publishedAt": "2026-07-10T03:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SvMFPKLqYSU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SvMFPKLqYSU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "vTUAFE1fNY0",
+              "title": "5 Hidden Claude Features You NEED To Know",
+              "publishedAt": "2026-07-10T21:33:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vTUAFE1fNY0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/vTUAFE1fNY0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "FU0cl9_3DUQ",
+              "title": "GPT-5.6 IS HERE! BEST AI Model Ever? Beats Fable, Faster, & Cheaper! (Fully Tested)",
+              "publishedAt": "2026-07-10T06:44:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FU0cl9_3DUQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FU0cl9_3DUQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "dailyDigest": "",
@@ -57,6 +239,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "kN1zK0LfuvY",
+              "title": "Before You Automate Your Business with AI, Do This First",
+              "publishedAt": "2026-07-09T17:45:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kN1zK0LfuvY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kN1zK0LfuvY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -76,6 +274,36 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "roGmNXASYOM",
+              "title": "GPT-5.6 SOL is HERE",
+              "publishedAt": "2026-07-09T20:49:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/roGmNXASYOM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=roGmNXASYOM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "mD1F5DsC5tc",
+              "title": "GPT-5.6 is FINALLY HERE (WOAH)",
+              "publishedAt": "2026-07-09T18:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mD1F5DsC5tc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "3IudC2n8jvQ",
+              "title": "Minecraft made by GPT-5.6",
+              "publishedAt": "2026-07-09T17:39:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3IudC2n8jvQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3IudC2n8jvQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "p7eQYMcmZqo",
               "title": "Grok  just broke the trend",
@@ -459,234 +687,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/-z2QiGjtOzk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=-z2QiGjtOzk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "RtxUdvSTQGc",
-              "title": "Free Fable 5 tokens this weekend? Here's how to max them",
-              "publishedAt": "2026-07-04T16:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RtxUdvSTQGc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RtxUdvSTQGc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "-HEdqzzYKco",
-              "title": "Facebook Just Released Their Internal Design System",
-              "publishedAt": "2026-07-03T15:00:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-HEdqzzYKco/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-HEdqzzYKco",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "muwRbfuKbR4",
-              "title": "The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-              "publishedAt": "2026-07-03T15:23:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/muwRbfuKbR4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "RUuU1UrTOe0",
-              "title": "Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech",
-              "publishedAt": "2026-07-03T14:30:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RUuU1UrTOe0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/RUuU1UrTOe0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "U4TmrlWEY4M",
-              "title": "Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.",
-              "publishedAt": "2026-07-03T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/U4TmrlWEY4M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=U4TmrlWEY4M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Ug9O-VOEjUs",
-              "title": "Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork",
-              "publishedAt": "2026-07-03T03:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ug9O-VOEjUs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Ug9O-VOEjUs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "lCGB4gzHk8c",
-              "title": "Asana is the operating system for human-agent teams.",
-              "publishedAt": "2026-07-03T16:09:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lCGB4gzHk8c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/lCGB4gzHk8c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "qD2Bi8oXN1g",
-              "title": "$100M AI Companies Are Officially Cooked (Fable 5)",
-              "publishedAt": "2026-07-03T03:13:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qD2Bi8oXN1g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qD2Bi8oXN1g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "T33iI6izAKw",
-              "title": "Finally, an Open Standard for the Karpathy LLM Wiki is HERE",
-              "publishedAt": "2026-07-02T00:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/T33iI6izAKw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=T33iI6izAKw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "_Djk9umjQdo",
-              "title": "Fable 5 is back — Fable vs Sonnet 5, same app, one shot",
-              "publishedAt": "2026-07-02T20:22:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_Djk9umjQdo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=_Djk9umjQdo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "lq2fP7wC7d8",
-              "title": "Five Rules for Picking an AI Model That Actually Works",
-              "publishedAt": "2026-07-02T14:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lq2fP7wC7d8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "CCOoGvX9bCA",
-              "title": "The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork",
-              "publishedAt": "2026-07-02T03:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CCOoGvX9bCA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/CCOoGvX9bCA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "4f-2ZURsi3U",
-              "title": "Do NOT Use Claude Fable Without This Secret Fix",
-              "publishedAt": "2026-07-02T19:21:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4f-2ZURsi3U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4f-2ZURsi3U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FGItUP_1t_s",
-              "title": "You can create a perfect UGC ad in just 15 minutes completely",
-              "publishedAt": "2026-07-02T01:35:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FGItUP_1t_s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FGItUP_1t_s",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "W7k0Lcs5bZk",
-              "title": "Gemini 4 Flash SOON, Fable 5 is Back, GPT-5.6 Codex Update, Seed Dance 2.5, & More! AI NEWS",
-              "publishedAt": "2026-07-02T06:14:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/W7k0Lcs5bZk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=W7k0Lcs5bZk",
               "summary": "",
               "transcriptAvailable": false
             }
