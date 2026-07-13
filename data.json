@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-07-12T15:53:08Z",
+  "lastUpdated": "2026-07-13T10:15:06Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "EzVeeD_j8ko",
+              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
+              "publishedAt": "2026-07-13T03:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EzVeeD_j8ko/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EzVeeD_j8ko",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "xvIICzK3jhc",
+              "title": "Do This with Fable 5 While You Still Can",
+              "publishedAt": "2026-07-13T01:32:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xvIICzK3jhc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/xvIICzK3jhc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "LgGJz528Boo",
+              "title": "DeepSeek V4.1 GA Soon, GPT-5.6 SOL Nerfed? HUGE Fable Update, US AI BAN Protests, & More! AI NEWS",
+              "publishedAt": "2026-07-13T06:53:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LgGJz528Boo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LgGJz528Boo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "mlc9JSTQoxc",
+              "title": "Codex is GONE",
+              "publishedAt": "2026-07-13T07:20:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mlc9JSTQoxc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mlc9JSTQoxc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "dailyDigest": "",
@@ -25,9 +95,35 @@
           ]
         },
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "deeOA6YVfqw",
+              "title": "I Turned Claude Code Into a Complete Video Generation System (with Archon)",
+              "publishedAt": "2026-07-12T18:51:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/deeOA6YVfqw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=deeOA6YVfqw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "hYcOFTMesGc",
+              "title": "Your Roadmap Is Why You're Losing to AI-Native Teams.",
+              "publishedAt": "2026-07-12T16:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hYcOFTMesGc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hYcOFTMesGc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "CqNBsMlZKa4",
               "title": "With AI, going slow is the dangerous move #AI #productivity #mindset #technology",
@@ -623,86 +719,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/NY_V8mFL1Gg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=NY_V8mFL1Gg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "uWauLhx6pWk",
-              "title": "GPT-5.5 vs Opus 4.8: The Real Winner Was /goal Mode",
-              "publishedAt": "2026-07-05T12:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uWauLhx6pWk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uWauLhx6pWk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "1cSNE-ZkDLQ",
-              "title": "You Can't Compete on Cheap Models Anymore",
-              "publishedAt": "2026-07-05T16:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1cSNE-ZkDLQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1cSNE-ZkDLQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_qiFCABxvpo",
-              "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
-              "publishedAt": "2026-07-05T03:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_qiFCABxvpo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_qiFCABxvpo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "odbWTtwt99o",
-              "title": "Claude Code + Loops: The New Way to Use AI",
-              "publishedAt": "2026-07-05T17:20:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/odbWTtwt99o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=odbWTtwt99o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "-z2QiGjtOzk",
-              "title": "NEW Gemini 3.5 Pro LEAKS! Google Is Back and Will Rival Fable 5 & GPT-5.6!",
-              "publishedAt": "2026-07-05T06:25:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-z2QiGjtOzk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-z2QiGjtOzk",
               "summary": "",
               "transcriptAvailable": false
             }
