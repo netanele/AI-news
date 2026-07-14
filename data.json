@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-07-13T17:09:13Z",
+  "lastUpdated": "2026-07-14T08:58:14Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "VOLWSC_XeZY",
+              "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
+              "publishedAt": "2026-07-14T03:30:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VOLWSC_XeZY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/VOLWSC_XeZY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "gI5d2czu9JE",
+              "title": "Meta Muse Spark 1.1 IS UNDERRATED! Beats Opus 4.8 & Grok 4.5! (Fully Tested)",
+              "publishedAt": "2026-07-14T07:53:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gI5d2czu9JE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gI5d2czu9JE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "dailyDigest": "",
@@ -54,6 +92,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "MA-BFwwY7SU",
+              "title": "GLM 5.2 Just Replaced Your Claude Subscription",
+              "publishedAt": "2026-07-13T23:36:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MA-BFwwY7SU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/MA-BFwwY7SU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "xvIICzK3jhc",
               "title": "Do This with Fable 5 While You Still Can",
@@ -655,96 +703,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1KKB_UiW6ls/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "GM7-ei-4Xc8",
-              "title": "Fable 5 Rules Anthropic Doesn’t Want You to know",
-              "publishedAt": "2026-07-06T14:20:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GM7-ei-4Xc8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GM7-ei-4Xc8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "oOpgmS88pLw",
-              "title": "OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.",
-              "publishedAt": "2026-07-06T14:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oOpgmS88pLw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oOpgmS88pLw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "zs-2gPbQNQ4",
-              "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
-              "publishedAt": "2026-07-06T03:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zs-2gPbQNQ4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/zs-2gPbQNQ4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ag8z3hK55Lc",
-              "title": "The Cheapest AI Just Beat Opus & GPT-5.5",
-              "publishedAt": "2026-07-06T05:54:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ag8z3hK55Lc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ag8z3hK55Lc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7gmSMFVTRs0",
-              "title": "5 Secret Claude Hacks You NEED To Know",
-              "publishedAt": "2026-07-06T00:38:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7gmSMFVTRs0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7gmSMFVTRs0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "NY_V8mFL1Gg",
-              "title": "Claude Fable 5 Is NERFED?! After Export Ban? The Truth...",
-              "publishedAt": "2026-07-06T05:51:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NY_V8mFL1Gg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=NY_V8mFL1Gg",
               "summary": "",
               "transcriptAvailable": false
             }
