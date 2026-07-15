@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-07-14T16:09:37Z",
+  "lastUpdated": "2026-07-15T09:04:06Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ZsN4hEtOxzs",
+              "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
+              "publishedAt": "2026-07-15T03:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZsN4hEtOxzs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZsN4hEtOxzs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "0_mIRDIir8E",
+              "title": "Prompting AI Is Dead, Here’s its Replacement",
+              "publishedAt": "2026-07-15T00:00:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0_mIRDIir8E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0_mIRDIir8E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "bVGZd6UsQ0k",
+              "title": "Gemini 3.5 Pro DELAYED Again... BUT Gemini 3.6 Flash Might Drop Soon!",
+              "publishedAt": "2026-07-15T06:36:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bVGZd6UsQ0k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bVGZd6UsQ0k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "R2kkm87o_XM",
+              "title": "China's making their own chips now",
+              "publishedAt": "2026-07-15T03:05:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/R2kkm87o_XM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/R2kkm87o_XM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "dailyDigest": "",
@@ -25,6 +95,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "IB-wGDJqt8M",
+              "title": "5 Insane Claude Fable 5 Use Cases You Must Do NOW (Steal These)",
+              "publishedAt": "2026-07-14T17:14:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IB-wGDJqt8M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IB-wGDJqt8M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -35,6 +121,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/gI5d2czu9JE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=gI5d2czu9JE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "etduwo9Lu3M",
+              "title": "You aren't using Codex like me...",
+              "publishedAt": "2026-07-14T16:15:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/etduwo9Lu3M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=etduwo9Lu3M",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -613,96 +715,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/bjHuGNo3spk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=bjHuGNo3spk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "nFzVuipvxXg",
-              "title": "Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator",
-              "publishedAt": "2026-07-07T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nFzVuipvxXg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/nFzVuipvxXg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Tmb2aPaCrgg",
-              "title": "Replace Your Back Office With Claude",
-              "publishedAt": "2026-07-07T01:14:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Tmb2aPaCrgg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Tmb2aPaCrgg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "twIpCciU7VE",
-              "title": "Tencent HY3 IS REALLY GOOD! Best Open-Weight Model? (FULLY FREE)",
-              "publishedAt": "2026-07-07T04:09:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/twIpCciU7VE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=twIpCciU7VE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "3g4JBjNSbio",
-              "title": "Fable 5 EXTENDED",
-              "publishedAt": "2026-07-07T21:05:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3g4JBjNSbio/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3g4JBjNSbio",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "zHWco8xg7ME",
-              "title": "Cheap tricks for AI",
-              "publishedAt": "2026-07-07T10:16:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zHWco8xg7ME/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/zHWco8xg7ME",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1KKB_UiW6ls",
-              "title": "Cut your AI cost IN HALF (EASY)",
-              "publishedAt": "2026-07-07T00:29:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1KKB_UiW6ls/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
               "summary": "",
               "transcriptAvailable": false
             }
