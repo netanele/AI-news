@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T11:36:12Z",
+  "lastUpdated": "2026-07-15T16:14:39Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "PDJfciNhyHU",
+              "title": "Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.",
+              "publishedAt": "2026-07-15T14:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PDJfciNhyHU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PDJfciNhyHU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ZsN4hEtOxzs",
               "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
@@ -28,6 +38,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "LNDmWfOw6u4",
+              "title": "Get started on @attioCRM today for FREE! #AttioPartner",
+              "publishedAt": "2026-07-15T16:00:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LNDmWfOw6u4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LNDmWfOw6u4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "0_mIRDIir8E",
               "title": "Prompting AI Is Dead, Here’s its Replacement",
@@ -60,6 +80,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "M2WtYYR_Dk0",
+              "title": "Deepseek ban?",
+              "publishedAt": "2026-07-15T13:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M2WtYYR_Dk0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/M2WtYYR_Dk0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "R2kkm87o_XM",
               "title": "China's making their own chips now",
