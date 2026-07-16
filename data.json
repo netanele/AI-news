@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T11:40:13Z",
+  "lastUpdated": "2026-07-16T16:12:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,6 +25,22 @@
           ]
         },
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "DVQ-Y6poojY",
+              "title": "Watch Fable Turn 628 Million Tokens Into a Professional Game",
+              "publishedAt": "2026-07-16T15:37:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DVQ-Y6poojY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DVQ-Y6poojY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -35,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xeid_wnpfJs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/xeid_wnpfJs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Pk6r4vQUlMQ",
+              "title": "Claude just changed tax season forever",
+              "publishedAt": "2026-07-16T14:55:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Pk6r4vQUlMQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Pk6r4vQUlMQ",
               "summary": "",
               "transcriptAvailable": false
             }
