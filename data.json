@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-07-15T16:14:39Z",
+  "lastUpdated": "2026-07-16T09:07:12Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "m8VC2SV2igM",
+              "title": "This Completely Changes the Way We Build Production AI Agents (Vercel Eve)",
+              "publishedAt": "2026-07-16T00:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/m8VC2SV2igM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=m8VC2SV2igM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "xeid_wnpfJs",
+              "title": "The real problem with AI #aiagents #Claude #OpenClaw #productivity",
+              "publishedAt": "2026-07-16T03:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xeid_wnpfJs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/xeid_wnpfJs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "_cUHTq7cCMM",
+              "title": "Fable 5 Designer! Greatest AI Design System I've Ever Used...",
+              "publishedAt": "2026-07-16T05:15:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_cUHTq7cCMM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=_cUHTq7cCMM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "dailyDigest": "",
@@ -80,6 +134,36 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "5HTqWgt6ctk",
+              "title": "AI NEWS LIVE",
+              "publishedAt": "2026-07-15T19:56:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5HTqWgt6ctk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "WMiylHobhBM",
+              "title": "AI NEWS LIVE",
+              "publishedAt": "2026-07-15T18:43:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WMiylHobhBM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WMiylHobhBM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "nxr20lcqagg",
+              "title": "OpenAI vs Anthropic",
+              "publishedAt": "2026-07-15T17:31:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nxr20lcqagg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nxr20lcqagg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "M2WtYYR_Dk0",
               "title": "Deepseek ban?",
@@ -629,122 +713,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/p7eQYMcmZqo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/p7eQYMcmZqo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "RNfMjm8uNyU",
-              "title": "Help AI Finally Understand You — in 13 Minutes",
-              "publishedAt": "2026-07-08T12:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RNfMjm8uNyU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RNfMjm8uNyU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "suY66oTDn0s",
-              "title": "20 AI Agents Rebuilt My Wife's Website For $8. I Never Typed a Word.",
-              "publishedAt": "2026-07-08T14:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/suY66oTDn0s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=suY66oTDn0s",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ld-2pnxuujg",
-              "title": "THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools",
-              "publishedAt": "2026-07-08T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ld-2pnxuujg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ld-2pnxuujg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "f0D3Ooxl4L8",
-              "title": "Do This With Fable 5 While You Still Can...",
-              "publishedAt": "2026-07-08T22:28:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/f0D3Ooxl4L8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/f0D3Ooxl4L8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7LNtq6CuFhc",
-              "title": "How to Use AI in Your Business",
-              "publishedAt": "2026-07-08T00:04:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7LNtq6CuFhc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7LNtq6CuFhc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "xjt7ulpGTZ4",
-              "title": "China's AI BAN?!, Qwen 4, GPT-5.6 Thursday, Grok 4.5 Today, Deepseek AI Chip, & Claude AGI! AI NEWS",
-              "publishedAt": "2026-07-08T05:50:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xjt7ulpGTZ4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xjt7ulpGTZ4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "9D_UxabscdI",
-              "title": "So AI is \"thinking\" for real",
-              "publishedAt": "2026-07-08T08:13:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9D_UxabscdI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/9D_UxabscdI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "bjHuGNo3spk",
-              "title": "We just figured out how AI actually works (J-Space)",
-              "publishedAt": "2026-07-08T02:58:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bjHuGNo3spk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=bjHuGNo3spk",
               "summary": "",
               "transcriptAvailable": false
             }
