@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T12:17:10Z",
+  "lastUpdated": "2026-07-20T16:20:43Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,51 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "qxjII6x2yPY",
+              "title": "Fleet Engineering Is Insane... The Next Evolution Of Vibe Coding",
+              "publishedAt": "2026-07-20T14:02:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qxjII6x2yPY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qxjII6x2yPY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "m6rWKM6RUu0",
+              "title": "Fable vs GPT-5.6 Wasn’t Even Close",
+              "publishedAt": "2026-07-20T13:07:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/m6rWKM6RUu0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=m6rWKM6RUu0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "2ZpZhsjoUK4",
+              "title": "China's K3 Model Reveals the Problem With Open Weights",
+              "publishedAt": "2026-07-20T14:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2ZpZhsjoUK4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2ZpZhsjoUK4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "F7bFbQSTPq8",
               "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
