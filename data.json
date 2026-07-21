@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-07-20T16:20:43Z",
+  "lastUpdated": "2026-07-21T09:21:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "D64_UhhSj6A",
+              "title": "Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools",
+              "publishedAt": "2026-07-21T03:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D64_UhhSj6A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/D64_UhhSj6A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "jdAgk7ziR2M",
+              "title": "U.S. AI Ban INCOMING?! GLM 5.5, Gemini Frozen AI Chip, Gemini 3.6 Flash, & Qwen 3.8 UPGRADE! AI NEWS",
+              "publishedAt": "2026-07-21T06:55:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jdAgk7ziR2M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jdAgk7ziR2M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "dailyDigest": "",
@@ -603,112 +641,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/etduwo9Lu3M/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=etduwo9Lu3M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "4tCIa_fnEIo",
-              "title": "GPT-5.6 Feels Like the Beginning of AI 2.0",
-              "publishedAt": "2026-07-13T15:37:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4tCIa_fnEIo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4tCIa_fnEIo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "jOWXBzP6nNg",
-              "title": "Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.",
-              "publishedAt": "2026-07-13T14:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jOWXBzP6nNg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jOWXBzP6nNg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EzVeeD_j8ko",
-              "title": "Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise",
-              "publishedAt": "2026-07-13T03:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EzVeeD_j8ko/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EzVeeD_j8ko",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "MA-BFwwY7SU",
-              "title": "GLM 5.2 Just Replaced Your Claude Subscription",
-              "publishedAt": "2026-07-13T23:36:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MA-BFwwY7SU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/MA-BFwwY7SU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "xvIICzK3jhc",
-              "title": "Do This with Fable 5 While You Still Can",
-              "publishedAt": "2026-07-13T01:32:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xvIICzK3jhc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/xvIICzK3jhc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "LgGJz528Boo",
-              "title": "DeepSeek V4.1 GA Soon, GPT-5.6 SOL Nerfed? HUGE Fable Update, US AI BAN Protests, & More! AI NEWS",
-              "publishedAt": "2026-07-13T06:53:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LgGJz528Boo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LgGJz528Boo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "mlc9JSTQoxc",
-              "title": "Codex is GONE",
-              "publishedAt": "2026-07-13T07:20:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mlc9JSTQoxc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mlc9JSTQoxc",
               "summary": "",
               "transcriptAvailable": false
             }
