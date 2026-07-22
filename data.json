@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-07-21T16:17:59Z",
+  "lastUpdated": "2026-07-22T09:20:47Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "fKJ_hlvqM2o",
+              "title": "Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️",
+              "publishedAt": "2026-07-22T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fKJ_hlvqM2o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fKJ_hlvqM2o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "WQhYlsQOKhc",
+              "title": "GPT-6 HUGE Leak, Gemini 4, Gemini 3.6 Flash SUCKS, Anthropic's $1.5B Lawsuit, & Laguna S 2.1!",
+              "publishedAt": "2026-07-22T05:28:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WQhYlsQOKhc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WQhYlsQOKhc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "dailyDigest": "",
@@ -25,6 +63,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "o0UOkPRtmuA",
+              "title": "STOP Using Claude to Build Websites. Use This Hidden tool Instead",
+              "publishedAt": "2026-07-21T18:07:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/o0UOkPRtmuA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=o0UOkPRtmuA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -35,6 +89,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/jdAgk7ziR2M/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=jdAgk7ziR2M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "6BtIQIGqGJc",
+              "title": "The Most Important Conversation in AI Right Now",
+              "publishedAt": "2026-07-21T19:57:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -571,76 +641,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/R2kkm87o_XM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/R2kkm87o_XM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "VOLWSC_XeZY",
-              "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
-              "publishedAt": "2026-07-14T03:30:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VOLWSC_XeZY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/VOLWSC_XeZY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "IB-wGDJqt8M",
-              "title": "5 Insane Claude Fable 5 Use Cases You Must Do NOW (Steal These)",
-              "publishedAt": "2026-07-14T17:14:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IB-wGDJqt8M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IB-wGDJqt8M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "gI5d2czu9JE",
-              "title": "Meta Muse Spark 1.1 IS UNDERRATED! Beats Opus 4.8 & Grok 4.5! (Fully Tested)",
-              "publishedAt": "2026-07-14T07:53:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gI5d2czu9JE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=gI5d2czu9JE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "etduwo9Lu3M",
-              "title": "You aren't using Codex like me...",
-              "publishedAt": "2026-07-14T16:15:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/etduwo9Lu3M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=etduwo9Lu3M",
               "summary": "",
               "transcriptAvailable": false
             }
