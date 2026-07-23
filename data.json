@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-07-22T16:16:17Z",
+  "lastUpdated": "2026-07-23T09:17:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "zb2LyMro77M",
+              "title": "How to Actually Run Your Coding Agent Safely (And Avoid the Horror Stories)",
+              "publishedAt": "2026-07-23T00:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zb2LyMro77M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zb2LyMro77M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "ERCdFgTXNY4",
+              "title": "Laguna S 2.1 The BEST LOCAL Model? Open-Weight Model Beats GLM 5.2? (FULLY FREE)",
+              "publishedAt": "2026-07-23T05:48:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ERCdFgTXNY4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ERCdFgTXNY4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "dailyDigest": "",
@@ -29,12 +67,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "m_ZyTNmCDeY",
+              "title": "The AI Slop Problem Nobody's Talking About | Substack CEO Interview",
+              "publishedAt": "2026-07-22T17:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/m_ZyTNmCDeY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=m_ZyTNmCDeY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "fKJ_hlvqM2o",
               "title": "Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️",
               "publishedAt": "2026-07-22T03:00:26+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/fKJ_hlvqM2o/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/fKJ_hlvqM2o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "QoWVP5ncVJk",
+              "title": "Fable 5 + Hermes is META",
+              "publishedAt": "2026-07-22T22:24:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QoWVP5ncVJk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/QoWVP5ncVJk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -51,6 +115,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/WQhYlsQOKhc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=WQhYlsQOKhc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "_X0kRfqGsx8",
+              "title": "WORST AI Mistakes by Companies",
+              "publishedAt": "2026-07-22T23:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_X0kRfqGsx8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_X0kRfqGsx8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "r4H7rx5nn1A",
+              "title": "It Begins: An AI Tried to Escape the Lab",
+              "publishedAt": "2026-07-22T18:14:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/r4H7rx5nn1A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -527,136 +617,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_cUHTq7cCMM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=_cUHTq7cCMM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "PDJfciNhyHU",
-              "title": "Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.",
-              "publishedAt": "2026-07-15T14:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PDJfciNhyHU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PDJfciNhyHU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZsN4hEtOxzs",
-              "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
-              "publishedAt": "2026-07-15T03:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZsN4hEtOxzs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZsN4hEtOxzs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "LNDmWfOw6u4",
-              "title": "Get started on @attioCRM today for FREE! #AttioPartner",
-              "publishedAt": "2026-07-15T16:00:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LNDmWfOw6u4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LNDmWfOw6u4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0_mIRDIir8E",
-              "title": "Prompting AI Is Dead, Here’s its Replacement",
-              "publishedAt": "2026-07-15T00:00:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0_mIRDIir8E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0_mIRDIir8E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "bVGZd6UsQ0k",
-              "title": "Gemini 3.5 Pro DELAYED Again... BUT Gemini 3.6 Flash Might Drop Soon!",
-              "publishedAt": "2026-07-15T06:36:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bVGZd6UsQ0k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=bVGZd6UsQ0k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "5HTqWgt6ctk",
-              "title": "AI NEWS LIVE",
-              "publishedAt": "2026-07-15T19:56:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5HTqWgt6ctk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "WMiylHobhBM",
-              "title": "AI NEWS LIVE",
-              "publishedAt": "2026-07-15T18:43:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WMiylHobhBM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WMiylHobhBM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "nxr20lcqagg",
-              "title": "OpenAI vs Anthropic",
-              "publishedAt": "2026-07-15T17:31:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nxr20lcqagg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nxr20lcqagg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "M2WtYYR_Dk0",
-              "title": "Deepseek ban?",
-              "publishedAt": "2026-07-15T13:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/M2WtYYR_Dk0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/M2WtYYR_Dk0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "R2kkm87o_XM",
-              "title": "China's making their own chips now",
-              "publishedAt": "2026-07-15T03:05:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/R2kkm87o_XM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/R2kkm87o_XM",
               "summary": "",
               "transcriptAvailable": false
             }
