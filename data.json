@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:17:10Z",
+  "lastUpdated": "2026-07-23T11:50:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ERCdFgTXNY4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=ERCdFgTXNY4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Bf-f2XK4Qv0",
+              "title": "Negotiated my ENTIRE return",
+              "publishedAt": "2026-07-23T09:31:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Bf-f2XK4Qv0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
               "summary": "",
               "transcriptAvailable": false
             }
