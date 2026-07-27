@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T12:55:17Z",
+  "lastUpdated": "2026-07-27T16:53:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "JBzz53HqMEs",
+              "title": "US AI Dominance Is Over: Here's Why",
+              "publishedAt": "2026-07-27T14:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JBzz53HqMEs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JBzz53HqMEs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "NRCFWQC6Mx4",
               "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
@@ -626,7 +636,9 @@
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: MetalSole"
+    ]
   }
 }
