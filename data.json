@@ -1,13 +1,83 @@
 {
-  "lastUpdated": "2026-07-26T15:56:58Z",
+  "lastUpdated": "2026-07-27T10:31:41Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-07-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "NRCFWQC6Mx4",
+              "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
+              "publishedAt": "2026-07-27T03:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NRCFWQC6Mx4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NRCFWQC6Mx4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "JJxe1uWmoIA",
+              "title": "3 Claude Opus 5 Tricks You NEED To Know",
+              "publishedAt": "2026-07-27T00:44:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JJxe1uWmoIA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JJxe1uWmoIA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "DYdC-oqLMiY",
+              "title": "Turning Claude Fable 5 Into The Ultimate Second Brain!",
+              "publishedAt": "2026-07-27T06:01:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DYdC-oqLMiY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DYdC-oqLMiY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-26",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "7pqRRxrdr0c",
+              "title": "You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.",
+              "publishedAt": "2026-07-26T17:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7pqRRxrdr0c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7pqRRxrdr0c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -547,96 +617,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/A61WYw5-FLM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=A61WYw5-FLM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "5slsNizN6MQ",
-              "title": "I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.",
-              "publishedAt": "2026-07-19T05:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5slsNizN6MQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5slsNizN6MQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Ng8v439VBms",
-              "title": "Claude Just Changed The Stock Market",
-              "publishedAt": "2026-07-19T23:25:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ng8v439VBms/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Ng8v439VBms",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "VdG2o91D_2k",
-              "title": "How to Run Your Entire Business With Hermes Agent (No Coding Required)",
-              "publishedAt": "2026-07-19T18:30:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VdG2o91D_2k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VdG2o91D_2k",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "kZnNsktDlu8",
-              "title": "ChatGPT’s Newest Feature is INSANE",
-              "publishedAt": "2026-07-19T00:31:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kZnNsktDlu8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/kZnNsktDlu8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "IoqkM8rpVNo",
-              "title": "Qwen 4.0 LEAKED, DeepSeek V4 GA Launching Monday? & GLM 5.3 Soon! HUGE AI NEWS",
-              "publishedAt": "2026-07-19T07:10:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IoqkM8rpVNo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IoqkM8rpVNo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "6ugVjmFsDmc",
-              "title": "Anthropic messed up",
-              "publishedAt": "2026-07-19T23:48:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6ugVjmFsDmc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6ugVjmFsDmc",
               "summary": "",
               "transcriptAvailable": false
             }
