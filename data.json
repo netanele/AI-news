@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-07-27T16:53:49Z",
+  "lastUpdated": "2026-07-28T09:29:41Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "FyYRDeXbfW0",
+              "title": "How to pick an AI model in 2026",
+              "publishedAt": "2026-07-28T03:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FyYRDeXbfW0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FyYRDeXbfW0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "bza99bXUrFE",
+              "title": "AI Just Replaced My Onboarding Process",
+              "publishedAt": "2026-07-28T02:22:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bza99bXUrFE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bza99bXUrFE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "XMpGJXm2_Ts",
+              "title": "Fable 5.1 HUGE Leak, NEW GPT Checkpoints, Anthropic vs China AI, Gemini 4 Soon, & More! AI NEWS",
+              "publishedAt": "2026-07-28T06:52:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XMpGJXm2_Ts/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XMpGJXm2_Ts",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "dailyDigest": "",
@@ -61,6 +115,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DYdC-oqLMiY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DYdC-oqLMiY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "w9cCOUD-qDM",
+              "title": "AI can't READ this",
+              "publishedAt": "2026-07-27T21:17:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/w9cCOUD-qDM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/w9cCOUD-qDM",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -547,86 +617,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "qxjII6x2yPY",
-              "title": "Fleet Engineering Is Insane... The Next Evolution Of Vibe Coding",
-              "publishedAt": "2026-07-20T14:02:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qxjII6x2yPY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qxjII6x2yPY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "m6rWKM6RUu0",
-              "title": "Fable vs GPT-5.6 Wasn’t Even Close",
-              "publishedAt": "2026-07-20T13:07:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/m6rWKM6RUu0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=m6rWKM6RUu0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2ZpZhsjoUK4",
-              "title": "China's K3 Model Reveals the Problem With Open Weights",
-              "publishedAt": "2026-07-20T14:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2ZpZhsjoUK4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2ZpZhsjoUK4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "F7bFbQSTPq8",
-              "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
-              "publishedAt": "2026-07-20T03:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/F7bFbQSTPq8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/F7bFbQSTPq8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "A61WYw5-FLM",
-              "title": "Qwen 3.8 Max IS INSANE! Second To Fable? New Open Model King? (Fully Tested)",
-              "publishedAt": "2026-07-20T04:58:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/A61WYw5-FLM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=A61WYw5-FLM",
               "summary": "",
               "transcriptAvailable": false
             }
