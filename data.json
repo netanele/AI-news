@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-07-28T16:28:58Z",
+  "lastUpdated": "2026-07-29T09:31:40Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "l_060SZwBeo",
+              "title": "The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech",
+              "publishedAt": "2026-07-29T03:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/l_060SZwBeo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/l_060SZwBeo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "g192Vf0OjOk",
+              "title": "Gemini 4 LEAKS! Google's Most Powerful AI Model EVER!",
+              "publishedAt": "2026-07-29T07:25:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/g192Vf0OjOk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=g192Vf0OjOk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "dailyDigest": "",
@@ -61,6 +99,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/XMpGJXm2_Ts/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=XMpGJXm2_Ts",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "_fKCXHH6e74",
+              "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
+              "publishedAt": "2026-07-28T17:29:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_fKCXHH6e74/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_fKCXHH6e74",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -557,76 +611,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/r4H7rx5nn1A/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "D64_UhhSj6A",
-              "title": "Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools",
-              "publishedAt": "2026-07-21T03:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/D64_UhhSj6A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/D64_UhhSj6A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "o0UOkPRtmuA",
-              "title": "STOP Using Claude to Build Websites. Use This Hidden tool Instead",
-              "publishedAt": "2026-07-21T18:07:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/o0UOkPRtmuA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=o0UOkPRtmuA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "jdAgk7ziR2M",
-              "title": "U.S. AI Ban INCOMING?! GLM 5.5, Gemini Frozen AI Chip, Gemini 3.6 Flash, & Qwen 3.8 UPGRADE! AI NEWS",
-              "publishedAt": "2026-07-21T06:55:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jdAgk7ziR2M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jdAgk7ziR2M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "6BtIQIGqGJc",
-              "title": "The Most Important Conversation in AI Right Now",
-              "publishedAt": "2026-07-21T19:57:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
               "summary": "",
               "transcriptAvailable": false
             }
