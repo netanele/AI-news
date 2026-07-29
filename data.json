@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T12:01:05Z",
+  "lastUpdated": "2026-07-29T16:16:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "H7t3uUp3HVw",
+              "title": "Anthropic Just Fixed Graph Engineering's Greatest Flaw",
+              "publishedAt": "2026-07-29T14:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H7t3uUp3HVw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=H7t3uUp3HVw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "Y8vAQ1FgNbM",
+              "title": "Paste This Into Claude, Never Hit a Token Limit Again",
+              "publishedAt": "2026-07-29T14:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Y8vAQ1FgNbM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Y8vAQ1FgNbM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "l_060SZwBeo",
               "title": "The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/l_060SZwBeo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/l_060SZwBeo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "_hgpg91-HGA",
+              "title": "I Built an Entire AI Finance Team With Claude (Full Tutorial)",
+              "publishedAt": "2026-07-29T15:02:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_hgpg91-HGA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=_hgpg91-HGA",
               "summary": "",
               "transcriptAvailable": false
             }
