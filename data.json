@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-07-29T16:16:32Z",
+  "lastUpdated": "2026-07-30T09:24:23Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-07-30",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "8JWhwhxWtJw",
+              "title": "The Ultimate Knowledge Base: Bring YouTube Into Your AI Second Brain",
+              "publishedAt": "2026-07-30T00:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8JWhwhxWtJw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8JWhwhxWtJw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "TN3rglofqmE",
+              "title": "A hack to build cheaper agents #AI #aiagents #automation #productivity",
+              "publishedAt": "2026-07-30T03:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TN3rglofqmE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TN3rglofqmE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "hMb1ivZyFLU",
+              "title": "How to Build Claude Powered Agent Teams That Automate Your Life For FREE!",
+              "publishedAt": "2026-07-30T06:24:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hMb1ivZyFLU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hMb1ivZyFLU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "dailyDigest": "",
@@ -55,6 +109,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "LDMvkodK_s0",
+              "title": "Claude Code is Now Unlimited AND Free",
+              "publishedAt": "2026-07-29T23:52:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LDMvkodK_s0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LDMvkodK_s0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "_hgpg91-HGA",
               "title": "I Built an Entire AI Finance Team With Claude (Full Tutorial)",
               "publishedAt": "2026-07-29T15:02:04+00:00",
@@ -77,6 +141,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/g192Vf0OjOk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=g192Vf0OjOk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "N80TzPCHbNg",
+              "title": "I'm disappointed",
+              "publishedAt": "2026-07-29T17:52:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/N80TzPCHbNg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=N80TzPCHbNg",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -547,112 +627,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Bf-f2XK4Qv0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "m6IXL_YGqBQ",
-              "title": "This New Skill Finally Solves Thinking For AI Agents",
-              "publishedAt": "2026-07-22T15:22:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/m6IXL_YGqBQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=m6IXL_YGqBQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "m_ZyTNmCDeY",
-              "title": "The AI Slop Problem Nobody's Talking About | Substack CEO Interview",
-              "publishedAt": "2026-07-22T17:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/m_ZyTNmCDeY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=m_ZyTNmCDeY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "fKJ_hlvqM2o",
-              "title": "Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️",
-              "publishedAt": "2026-07-22T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fKJ_hlvqM2o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/fKJ_hlvqM2o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "QoWVP5ncVJk",
-              "title": "Fable 5 + Hermes is META",
-              "publishedAt": "2026-07-22T22:24:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QoWVP5ncVJk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/QoWVP5ncVJk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WQhYlsQOKhc",
-              "title": "GPT-6 HUGE Leak, Gemini 4, Gemini 3.6 Flash SUCKS, Anthropic's $1.5B Lawsuit, & Laguna S 2.1!",
-              "publishedAt": "2026-07-22T05:28:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WQhYlsQOKhc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WQhYlsQOKhc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "_X0kRfqGsx8",
-              "title": "WORST AI Mistakes by Companies",
-              "publishedAt": "2026-07-22T23:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_X0kRfqGsx8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_X0kRfqGsx8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "r4H7rx5nn1A",
-              "title": "It Begins: An AI Tried to Escape the Lab",
-              "publishedAt": "2026-07-22T18:14:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/r4H7rx5nn1A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
               "summary": "",
               "transcriptAvailable": false
             }
