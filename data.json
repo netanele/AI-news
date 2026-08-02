@@ -1,9 +1,229 @@
 {
-  "lastUpdated": "2026-07-30T16:21:39Z",
+  "lastUpdated": "2026-08-02T09:04:11Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "lMiHRN8pzn4",
+              "title": "ChatGPT 5.6 is a dumber model. I love it.",
+              "publishedAt": "2026-08-02T03:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lMiHRN8pzn4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lMiHRN8pzn4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "1RGc6gOAb5E",
+              "title": "I Built an AI Startup...",
+              "publishedAt": "2026-08-02T04:03:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1RGc6gOAb5E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1RGc6gOAb5E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "IYvvbM7SKgY",
+              "title": "Hidden Codex Setting",
+              "publishedAt": "2026-08-02T04:51:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IYvvbM7SKgY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IYvvbM7SKgY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "up0Bsf3f0Xc",
+              "title": "I Stopped Installing Claude Skills. Here's What I Do Instead.",
+              "publishedAt": "2026-08-01T15:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/up0Bsf3f0Xc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=up0Bsf3f0Xc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Cy3Rsr1rrFY",
+              "title": "Opus 5 + GPT 5.6 is a CHEAT CODE!",
+              "publishedAt": "2026-08-01T23:43:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Cy3Rsr1rrFY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Cy3Rsr1rrFY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "wT42SgaOPK4",
+              "title": "DeepSeek V4 Flash GA IS INCREDIBLE! Powerful, Cheap, & Fast! (Fully Tested)",
+              "publishedAt": "2026-08-01T08:02:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wT42SgaOPK4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wT42SgaOPK4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "pGro_uKt-_M",
+              "title": "Claude Code Creator's Greatest Tip For Using AI Agents",
+              "publishedAt": "2026-07-31T16:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pGro_uKt-_M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pGro_uKt-_M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "E5qThSVlFzY",
+              "title": "The Complete Local AI System with A Single NPM Install!",
+              "publishedAt": "2026-07-31T14:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/E5qThSVlFzY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/E5qThSVlFzY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "9wBOqiGsQo8",
+              "title": "The AI hype is real #AI #AInews #tech #IPO #business",
+              "publishedAt": "2026-07-31T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9wBOqiGsQo8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/9wBOqiGsQo8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "P5GB6-__Oc4",
+              "title": "3 Secret AI Systems Behind $5M in Profit",
+              "publishedAt": "2026-07-31T21:21:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/P5GB6-__Oc4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/P5GB6-__Oc4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "FMLZSy9EcOo",
+              "title": "Anthropic Just Killed Prompt Engineering (Opus 5 Guide)",
+              "publishedAt": "2026-07-31T17:31:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FMLZSy9EcOo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FMLZSy9EcOo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "F2bWWfAgmdc",
+              "title": "DeepSeek V4 Flash Is OUT, OpenAI \"mewthree\" + GPT-5.6 Price/Speed Update, Qwen 3.8 Kinsley, & More!",
+              "publishedAt": "2026-07-31T08:16:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/F2bWWfAgmdc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=F2bWWfAgmdc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "wAPDmc8e22U",
+              "title": "GPT-5.6 just made itself better...",
+              "publishedAt": "2026-07-31T00:23:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wAPDmc8e22U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wAPDmc8e22U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "dailyDigest": "",
@@ -51,6 +271,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/hMb1ivZyFLU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=hMb1ivZyFLU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "JvkF6ckGy9o",
+              "title": "Which business will \"win\" AI?",
+              "publishedAt": "2026-07-30T20:08:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JvkF6ckGy9o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JvkF6ckGy9o",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -355,278 +591,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7gUV_Wil3Jo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=7gUV_Wil3Jo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "EwTOiqWWqEc",
-              "title": "This Skill Just Made Kimi K3 A 10x Better Designer",
-              "publishedAt": "2026-07-25T17:16:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EwTOiqWWqEc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EwTOiqWWqEc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "nYL2tunaHxA",
-              "title": "Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools",
-              "publishedAt": "2026-07-25T04:30:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nYL2tunaHxA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/nYL2tunaHxA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "EfAcrjmg4ug",
-              "title": "Never Use Fable 5 Without This Secret Setting",
-              "publishedAt": "2026-07-25T23:18:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EfAcrjmg4ug/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EfAcrjmg4ug",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Wf1hgNfGtEs",
-              "title": "Claude Opus 5 Is THE GREATEST AI Model EVER?! Beats Fable & CHEAPER! (Fully Tested)",
-              "publishedAt": "2026-07-25T00:41:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Wf1hgNfGtEs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Wf1hgNfGtEs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "SA3TxPLLB08",
-              "title": "Is Kimi K3 Really That Good?! (Don't Just Believe The Hype)",
-              "publishedAt": "2026-07-24T14:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SA3TxPLLB08/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SA3TxPLLB08",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "EuVvLwWZ5wc",
-              "title": "How to Use AI on Files You're Not Allowed to Upload",
-              "publishedAt": "2026-07-24T14:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EuVvLwWZ5wc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EuVvLwWZ5wc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "p-Y7J2_BZGs",
-              "title": "How to Automate an Accounting Firm",
-              "publishedAt": "2026-07-24T15:37:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/p-Y7J2_BZGs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/p-Y7J2_BZGs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "ao5Q4aCURmc",
-              "title": "HUGE Opus 5 LEAKS! On Par With Fable 5? Mysterious GPT Model, Flux 3, Codex Projects & More! AI NEWS",
-              "publishedAt": "2026-07-24T04:45:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ao5Q4aCURmc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ao5Q4aCURmc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "tHQ34j8_toI",
-              "title": "What did Anthropic do?! (Opus 5)",
-              "publishedAt": "2026-07-24T21:47:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tHQ34j8_toI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=tHQ34j8_toI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1Q7CkLh9GwU",
-              "title": "OPUS 5 CLICK NOW",
-              "publishedAt": "2026-07-24T17:56:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1Q7CkLh9GwU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1Q7CkLh9GwU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "zb2LyMro77M",
-              "title": "How to Actually Run Your Coding Agent Safely (And Avoid the Horror Stories)",
-              "publishedAt": "2026-07-23T00:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zb2LyMro77M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zb2LyMro77M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "X-h3qWWoZiE",
-              "title": "OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.",
-              "publishedAt": "2026-07-23T19:47:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/X-h3qWWoZiE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=X-h3qWWoZiE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "WWvb_S6AQr0",
-              "title": "What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools",
-              "publishedAt": "2026-07-23T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WWvb_S6AQr0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/WWvb_S6AQr0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "my5lXX-cd8Y",
-              "title": "How to Build Your Own Private AI Infrastructure (No Subscriptions or Technical Background)",
-              "publishedAt": "2026-07-23T18:46:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/my5lXX-cd8Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=my5lXX-cd8Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "ERCdFgTXNY4",
-              "title": "Laguna S 2.1 The BEST LOCAL Model? Open-Weight Model Beats GLM 5.2? (FULLY FREE)",
-              "publishedAt": "2026-07-23T05:48:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ERCdFgTXNY4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ERCdFgTXNY4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "QNEo_tl-nhw",
-              "title": "You NEED to do this (HUGE AI SAVINGS)",
-              "publishedAt": "2026-07-23T21:01:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QNEo_tl-nhw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QNEo_tl-nhw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Bf-f2XK4Qv0",
-              "title": "Negotiated my ENTIRE return",
-              "publishedAt": "2026-07-23T09:31:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Bf-f2XK4Qv0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
               "summary": "",
               "transcriptAvailable": false
             }
