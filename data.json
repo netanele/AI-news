@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-08-02T15:55:36Z",
+  "lastUpdated": "2026-08-03T10:31:28Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-03",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "TRIO7lBfgNQ",
+              "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
+              "publishedAt": "2026-08-03T03:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TRIO7lBfgNQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TRIO7lBfgNQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "KbYio-N8_LU",
+              "title": "OpenAI's GPT-6 Astra WILL BE AGI! Greatest AI Model Ever!",
+              "publishedAt": "2026-08-03T05:48:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KbYio-N8_LU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KbYio-N8_LU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-02",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "lewY_0sJaWg",
+              "title": "If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.",
+              "publishedAt": "2026-08-02T17:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lewY_0sJaWg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lewY_0sJaWg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "lMiHRN8pzn4",
               "title": "ChatGPT 5.6 is a dumber model. I love it.",
@@ -553,44 +601,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/w9cCOUD-qDM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/w9cCOUD-qDM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-26",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7pqRRxrdr0c",
-              "title": "You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.",
-              "publishedAt": "2026-07-26T17:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7pqRRxrdr0c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7pqRRxrdr0c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "7gUV_Wil3Jo",
-              "title": "LingBot-World 2.0: You can LIVE and CONTROL an AI WORLD!",
-              "publishedAt": "2026-07-26T06:39:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7gUV_Wil3Jo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7gUV_Wil3Jo",
               "summary": "",
               "transcriptAvailable": false
             }
