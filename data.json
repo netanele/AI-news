@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T12:55:07Z",
+  "lastUpdated": "2026-08-03T17:05:20Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "MtcUDEklLLo",
+              "title": "Leopold Aschenbrenner's Warning Signal Apple Completely Missed",
+              "publishedAt": "2026-08-03T14:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MtcUDEklLLo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MtcUDEklLLo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "TRIO7lBfgNQ",
               "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
               "publishedAt": "2026-08-03T03:00:31+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TRIO7lBfgNQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/TRIO7lBfgNQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "mCnLi18GQwA",
+              "title": "OpenAI Just Admitted Its AI HACKED a Real Company",
+              "publishedAt": "2026-08-03T15:04:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mCnLi18GQwA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mCnLi18GQwA",
               "summary": "",
               "transcriptAvailable": false
             }
