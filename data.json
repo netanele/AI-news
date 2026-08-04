@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-08-03T17:05:20Z",
+  "lastUpdated": "2026-08-04T09:32:04Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-04",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "LnIJ-F1nWMw",
+              "title": "Are Chinese AI models actually catching up?",
+              "publishedAt": "2026-08-04T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LnIJ-F1nWMw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LnIJ-F1nWMw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "vmLwsoVRo30",
+              "title": "Qwen 3.8 Max IS OUT! Best Open Model? (Fully Tested)",
+              "publishedAt": "2026-08-04T06:56:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vmLwsoVRo30/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=vmLwsoVRo30",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "CVlKp9Ld-Zg",
+              "title": "Open-source is WINNING",
+              "publishedAt": "2026-08-04T00:51:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CVlKp9Ld-Zg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CVlKp9Ld-Zg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "dailyDigest": "",
@@ -547,86 +601,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_fKCXHH6e74/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_fKCXHH6e74",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "JBzz53HqMEs",
-              "title": "US AI Dominance Is Over: Here's Why",
-              "publishedAt": "2026-07-27T14:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JBzz53HqMEs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JBzz53HqMEs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "NRCFWQC6Mx4",
-              "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
-              "publishedAt": "2026-07-27T03:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NRCFWQC6Mx4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/NRCFWQC6Mx4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "JJxe1uWmoIA",
-              "title": "3 Claude Opus 5 Tricks You NEED To Know",
-              "publishedAt": "2026-07-27T00:44:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JJxe1uWmoIA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/JJxe1uWmoIA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "DYdC-oqLMiY",
-              "title": "Turning Claude Fable 5 Into The Ultimate Second Brain!",
-              "publishedAt": "2026-07-27T06:01:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DYdC-oqLMiY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DYdC-oqLMiY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "w9cCOUD-qDM",
-              "title": "AI can't READ this",
-              "publishedAt": "2026-07-27T21:17:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/w9cCOUD-qDM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/w9cCOUD-qDM",
               "summary": "",
               "transcriptAvailable": false
             }
