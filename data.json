@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:02:18Z",
+  "lastUpdated": "2026-08-04T16:47:43Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-08-04",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "a8tLTd4q-fU",
+              "title": "Buzz Just Fixed AI Agents... But It Has A Serious Flaw",
+              "publishedAt": "2026-08-04T15:29:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a8tLTd4q-fU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a8tLTd4q-fU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
