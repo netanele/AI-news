@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T11:59:43Z",
+  "lastUpdated": "2026-08-05T16:27:33Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "AWGoOtNgw3c",
+              "title": "AI Slop Is Costing You Hours. Here's How To Stop Sending It.",
+              "publishedAt": "2026-08-05T14:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AWGoOtNgw3c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=AWGoOtNgw3c",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "s6UhfGdwhrM",
               "title": "What AI privacy advice always misses",
