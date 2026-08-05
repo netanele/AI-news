@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-08-04T16:47:43Z",
+  "lastUpdated": "2026-08-05T09:29:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-05",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "s6UhfGdwhrM",
+              "title": "What AI privacy advice always misses",
+              "publishedAt": "2026-08-05T03:00:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/s6UhfGdwhrM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/s6UhfGdwhrM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "JJvSODvTCes",
+              "title": "Grok 4.6 HUGE LEAKS, OpenAI 'mewfour', GLM 5.3, Codex 2.0, SSI Model, Flux 3, & More! AI NEWS",
+              "publishedAt": "2026-08-05T06:09:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JJvSODvTCes/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JJvSODvTCes",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "dailyDigest": "",
@@ -35,6 +73,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/LnIJ-F1nWMw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/LnIJ-F1nWMw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "B28vfQ_8CxI",
+              "title": "Claude Just Killed Web Designers",
+              "publishedAt": "2026-08-04T23:55:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/B28vfQ_8CxI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/B28vfQ_8CxI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Klg88UaNXuc",
+              "title": "Stop Using One AI Model — Make Fable 5 Manage GPT 5.6",
+              "publishedAt": "2026-08-04T20:02:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Klg88UaNXuc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Klg88UaNXuc",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -537,86 +601,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/N80TzPCHbNg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=N80TzPCHbNg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "FyYRDeXbfW0",
-              "title": "How to pick an AI model in 2026",
-              "publishedAt": "2026-07-28T03:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FyYRDeXbfW0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FyYRDeXbfW0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "CrWsUcxPxzI",
-              "title": "Genspark Just Killed the Chatgpt Subscription",
-              "publishedAt": "2026-07-28T16:01:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CrWsUcxPxzI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/CrWsUcxPxzI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "bza99bXUrFE",
-              "title": "AI Just Replaced My Onboarding Process",
-              "publishedAt": "2026-07-28T02:22:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bza99bXUrFE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bza99bXUrFE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "XMpGJXm2_Ts",
-              "title": "Fable 5.1 HUGE Leak, NEW GPT Checkpoints, Anthropic vs China AI, Gemini 4 Soon, & More! AI NEWS",
-              "publishedAt": "2026-07-28T06:52:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XMpGJXm2_Ts/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XMpGJXm2_Ts",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "_fKCXHH6e74",
-              "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
-              "publishedAt": "2026-07-28T17:29:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_fKCXHH6e74/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_fKCXHH6e74",
               "summary": "",
               "transcriptAvailable": false
             }
