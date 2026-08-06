@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-08-05T16:27:33Z",
+  "lastUpdated": "2026-08-06T09:33:37Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-06",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "VnyGs43eiAA",
+              "title": "The Creator of Claude Code Said to Do What Now?!",
+              "publishedAt": "2026-08-06T00:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VnyGs43eiAA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VnyGs43eiAA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "dx-0jU2Y0I4",
+              "title": "Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology",
+              "publishedAt": "2026-08-06T03:45:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dx-0jU2Y0I4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dx-0jU2Y0I4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "M44vZckcjYg",
+              "title": "Clone Yourself For Free!",
+              "publishedAt": "2026-08-06T00:42:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M44vZckcjYg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/M44vZckcjYg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "6J8pE92Biko",
+              "title": "Muse Spark 1.2 - Meta’s New Frontier Model Is 250x Cheaper Than Fable! (Fully Tested)",
+              "publishedAt": "2026-08-06T04:34:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6J8pE92Biko/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6J8pE92Biko",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "dailyDigest": "",
@@ -45,6 +115,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/JJvSODvTCes/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=JJvSODvTCes",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "jGR8LnfVPbA",
+              "title": "Master Codex with these 15 Tips",
+              "publishedAt": "2026-08-05T18:44:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jGR8LnfVPbA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -505,112 +591,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/JvkF6ckGy9o/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/JvkF6ckGy9o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-29",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "H7t3uUp3HVw",
-              "title": "Anthropic Just Fixed Graph Engineering's Greatest Flaw",
-              "publishedAt": "2026-07-29T14:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/H7t3uUp3HVw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=H7t3uUp3HVw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "Y8vAQ1FgNbM",
-              "title": "Paste This Into Claude, Never Hit a Token Limit Again",
-              "publishedAt": "2026-07-29T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Y8vAQ1FgNbM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Y8vAQ1FgNbM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "l_060SZwBeo",
-              "title": "The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech",
-              "publishedAt": "2026-07-29T03:00:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/l_060SZwBeo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/l_060SZwBeo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "LDMvkodK_s0",
-              "title": "Claude Code is Now Unlimited AND Free",
-              "publishedAt": "2026-07-29T23:52:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LDMvkodK_s0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LDMvkodK_s0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_hgpg91-HGA",
-              "title": "I Built an Entire AI Finance Team With Claude (Full Tutorial)",
-              "publishedAt": "2026-07-29T15:02:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_hgpg91-HGA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=_hgpg91-HGA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "g192Vf0OjOk",
-              "title": "Gemini 4 LEAKS! Google's Most Powerful AI Model EVER!",
-              "publishedAt": "2026-07-29T07:25:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/g192Vf0OjOk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=g192Vf0OjOk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "N80TzPCHbNg",
-              "title": "I'm disappointed",
-              "publishedAt": "2026-07-29T17:52:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/N80TzPCHbNg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=N80TzPCHbNg",
               "summary": "",
               "transcriptAvailable": false
             }
