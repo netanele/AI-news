@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T08:20:01Z",
+  "lastUpdated": "2026-08-10T11:09:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/SVNLC4NLXjA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/SVNLC4NLXjA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "X8K1bW-XfL8",
+              "title": "OpenAI's GPT-6 'Doug', Qwen 4.0 WILL BE INSANE, GPT-Image-3.0?, RIP Gemini, & More! HUGE AI NEWS!",
+              "publishedAt": "2026-08-10T08:12:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/X8K1bW-XfL8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=X8K1bW-XfL8",
               "summary": "",
               "transcriptAvailable": false
             }
