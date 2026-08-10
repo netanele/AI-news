@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T11:09:07Z",
+  "lastUpdated": "2026-08-10T15:53:35Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "b9k-AE4v5yI",
+              "title": "Claude Code Never Has To Build From Scratch Again",
+              "publishedAt": "2026-08-10T14:20:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/b9k-AE4v5yI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=b9k-AE4v5yI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "FCRT7M30Wtw",
+              "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",
+              "publishedAt": "2026-08-10T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FCRT7M30Wtw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FCRT7M30Wtw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "SVNLC4NLXjA",
               "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
@@ -35,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/X8K1bW-XfL8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=X8K1bW-XfL8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "mixeobHQ7ao",
+              "title": "AI went rogue in real life...",
+              "publishedAt": "2026-08-10T15:13:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mixeobHQ7ao/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mixeobHQ7ao",
               "summary": "",
               "transcriptAvailable": false
             }
