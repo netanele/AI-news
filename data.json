@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-08-09T15:23:46Z",
+  "lastUpdated": "2026-08-10T08:20:01Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "SVNLC4NLXjA",
+              "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
+              "publishedAt": "2026-08-10T03:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SVNLC4NLXjA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SVNLC4NLXjA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-09",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "JIGaCPv44QI",
+              "title": "Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.",
+              "publishedAt": "2026-08-09T17:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JIGaCPv44QI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JIGaCPv44QI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -457,70 +495,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/KbYio-N8_LU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=KbYio-N8_LU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "lewY_0sJaWg",
-              "title": "If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.",
-              "publishedAt": "2026-08-02T17:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lewY_0sJaWg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lewY_0sJaWg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "lMiHRN8pzn4",
-              "title": "ChatGPT 5.6 is a dumber model. I love it.",
-              "publishedAt": "2026-08-02T03:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lMiHRN8pzn4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/lMiHRN8pzn4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "1RGc6gOAb5E",
-              "title": "I Built an AI Startup...",
-              "publishedAt": "2026-08-02T04:03:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1RGc6gOAb5E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1RGc6gOAb5E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "IYvvbM7SKgY",
-              "title": "Hidden Codex Setting",
-              "publishedAt": "2026-08-02T04:51:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IYvvbM7SKgY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IYvvbM7SKgY",
               "summary": "",
               "transcriptAvailable": false
             }
