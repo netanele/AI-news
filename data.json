@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-08-11T15:53:52Z",
+  "lastUpdated": "2026-08-12T08:07:54Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "51wR7XT_uiA",
+              "title": "Kill the questions ... #AI #2026 #aiautomation",
+              "publishedAt": "2026-08-12T03:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/51wR7XT_uiA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/51wR7XT_uiA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "qBoQZ3Sf3h4",
+              "title": "Muse Glimmer 30B: BEST LOCAL AI Model? Meta AI Beats Qwen 3.6 27B? (Fully Tested)",
+              "publishedAt": "2026-08-12T07:17:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qBoQZ3Sf3h4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qBoQZ3Sf3h4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "ufVDAiBGkew",
+              "title": "Turn Claude into the ULTIMATE Second Brain",
+              "publishedAt": "2026-08-11T22:22:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ufVDAiBGkew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ufVDAiBGkew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -19,6 +73,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/RqPrJ4WxBzA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=RqPrJ4WxBzA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "i_t-99u6pqw",
+              "title": "Faster AND Cheaper AI",
+              "publishedAt": "2026-08-11T18:45:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i_t-99u6pqw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/i_t-99u6pqw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "hZqJvWDI0Rs",
+              "title": "Mark Zuckerberg just called out Dario (and Anthropic)",
+              "publishedAt": "2026-08-11T17:49:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hZqJvWDI0Rs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -441,102 +521,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/jGR8LnfVPbA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "a8tLTd4q-fU",
-              "title": "Buzz Just Fixed AI Agents... But It Has A Serious Flaw",
-              "publishedAt": "2026-08-04T15:29:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a8tLTd4q-fU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=a8tLTd4q-fU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "LnIJ-F1nWMw",
-              "title": "Are Chinese AI models actually catching up?",
-              "publishedAt": "2026-08-04T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LnIJ-F1nWMw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LnIJ-F1nWMw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "B28vfQ_8CxI",
-              "title": "Claude Just Killed Web Designers",
-              "publishedAt": "2026-08-04T23:55:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/B28vfQ_8CxI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/B28vfQ_8CxI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Klg88UaNXuc",
-              "title": "Stop Using One AI Model — Make Fable 5 Manage GPT 5.6",
-              "publishedAt": "2026-08-04T20:02:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Klg88UaNXuc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Klg88UaNXuc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "vmLwsoVRo30",
-              "title": "Qwen 3.8 Max IS OUT! Best Open Model? (Fully Tested)",
-              "publishedAt": "2026-08-04T06:56:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vmLwsoVRo30/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=vmLwsoVRo30",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "CVlKp9Ld-Zg",
-              "title": "Open-source is WINNING",
-              "publishedAt": "2026-08-04T00:51:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CVlKp9Ld-Zg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CVlKp9Ld-Zg",
               "summary": "",
               "transcriptAvailable": false
             }
