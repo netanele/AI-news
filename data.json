@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:00:16Z",
+  "lastUpdated": "2026-08-12T15:53:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "bBlY5YOsKN8",
+              "title": "How To Use Claude Design To Build Beautiful Sites With Opus 5",
+              "publishedAt": "2026-08-12T14:33:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bBlY5YOsKN8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bBlY5YOsKN8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "HZLPhPbw3fM",
+              "title": "Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.",
+              "publishedAt": "2026-08-12T14:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HZLPhPbw3fM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=HZLPhPbw3fM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "51wR7XT_uiA",
               "title": "Kill the questions ... #AI #2026 #aiautomation",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/51wR7XT_uiA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/51wR7XT_uiA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "bwQg2Qz5pxM",
+              "title": "This entire ad is AI. I didn't film a second of it.",
+              "publishedAt": "2026-08-12T14:54:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bwQg2Qz5pxM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bwQg2Qz5pxM",
               "summary": "",
               "transcriptAvailable": false
             }
