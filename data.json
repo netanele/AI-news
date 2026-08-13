@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-08-12T15:53:04Z",
+  "lastUpdated": "2026-08-13T08:10:06Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "MbiMwgbGdxw",
+              "title": "Every Claude Code Skill I Use to Drive My Entire Development Process",
+              "publishedAt": "2026-08-13T00:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MbiMwgbGdxw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MbiMwgbGdxw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "VQqxMITWABU",
+              "title": "Grok 4.6 IS REALLY GOOD Beating GPT-5.6 Sol, Opus 5, & Kimi k3?! (Fully Tested)",
+              "publishedAt": "2026-08-13T05:24:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VQqxMITWABU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VQqxMITWABU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "dailyDigest": "",
@@ -77,6 +115,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/qBoQZ3Sf3h4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=qBoQZ3Sf3h4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "mZM-J7XK5Aw",
+              "title": "Cursor just made something incredible...",
+              "publishedAt": "2026-08-12T20:09:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mZM-J7XK5Aw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -499,70 +553,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6J8pE92Biko/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6J8pE92Biko",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "AWGoOtNgw3c",
-              "title": "AI Slop Is Costing You Hours. Here's How To Stop Sending It.",
-              "publishedAt": "2026-08-05T14:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AWGoOtNgw3c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=AWGoOtNgw3c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "s6UhfGdwhrM",
-              "title": "What AI privacy advice always misses",
-              "publishedAt": "2026-08-05T03:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/s6UhfGdwhrM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/s6UhfGdwhrM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "JJvSODvTCes",
-              "title": "Grok 4.6 HUGE LEAKS, OpenAI 'mewfour', GLM 5.3, Codex 2.0, SSI Model, Flux 3, & More! AI NEWS",
-              "publishedAt": "2026-08-05T06:09:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JJvSODvTCes/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JJvSODvTCes",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "jGR8LnfVPbA",
-              "title": "Master Codex with these 15 Tips",
-              "publishedAt": "2026-08-05T18:44:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jGR8LnfVPbA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
               "summary": "",
               "transcriptAvailable": false
             }
