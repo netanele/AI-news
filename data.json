@@ -1,9 +1,181 @@
 {
-  "lastUpdated": "2026-08-13T15:52:22Z",
+  "lastUpdated": "2026-08-16T07:21:58Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "IPV90it7UYU",
+              "title": "Claude Mythos 6 = Model 2! HUGE Leaks, DeepSeek v4 Pro, Gemini 3.7 Flash, Codex 2.0, & More! AI NEWS",
+              "publishedAt": "2026-08-16T06:43:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IPV90it7UYU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IPV90it7UYU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "IoOn0udpB9E",
+              "title": "Elon’s New AI Agent Kills Openclaw",
+              "publishedAt": "2026-08-15T20:08:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IoOn0udpB9E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IoOn0udpB9E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "J_aqblUWj4k",
+              "title": "Qwen 3.8 27B BLOWS MY MIND! Best Local AI Model Yet! Basically Opus Locally! (Fully Tested)",
+              "publishedAt": "2026-08-15T05:42:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/J_aqblUWj4k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=J_aqblUWj4k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "D_uojDHkbw4",
+              "title": "This Claude Skill Just Fixed The Biggest Problem Of Claude Code And Codex",
+              "publishedAt": "2026-08-14T15:34:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D_uojDHkbw4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=D_uojDHkbw4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "eecUhBpTz_g",
+              "title": "How to Build the Most Powerful System for AI Coding (Full Breakdown)",
+              "publishedAt": "2026-08-14T20:14:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eecUhBpTz_g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eecUhBpTz_g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "LM7Ft7g8qJw",
+              "title": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+              "publishedAt": "2026-08-14T14:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LM7Ft7g8qJw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LM7Ft7g8qJw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "bC2VZlkvWXQ",
+              "title": "Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes",
+              "publishedAt": "2026-08-14T03:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bC2VZlkvWXQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bC2VZlkvWXQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "hqM-IcFmRes",
+              "title": "I Built an AI That Scores My Leads and Writes the Reply",
+              "publishedAt": "2026-08-14T14:15:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hqM-IcFmRes/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hqM-IcFmRes",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "yMoUwyyTe3E",
+              "title": "GLM 5.3 Is INSANE! The BEST Open Source Model EVER? BEATS MYTHOS? (Fully Tested)",
+              "publishedAt": "2026-08-14T08:53:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yMoUwyyTe3E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yMoUwyyTe3E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "9qix4oDB5aw",
+              "title": "AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!",
+              "publishedAt": "2026-08-14T23:34:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9qix4oDB5aw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9qix4oDB5aw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "dailyDigest": "",
@@ -61,6 +233,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/VQqxMITWABU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=VQqxMITWABU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "rdYBjpylJUQ",
+              "title": "xAI actually did it... (Grok 4.6)",
+              "publishedAt": "2026-08-13T18:27:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rdYBjpylJUQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rdYBjpylJUQ",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -365,220 +553,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7wnjIZ70MVk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=7wnjIZ70MVk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ICrDWLyQiuU",
-              "title": "3 AI Secrets to Automating a Business",
-              "publishedAt": "2026-08-08T02:01:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ICrDWLyQiuU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ICrDWLyQiuU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "EHzqlA311R0",
-              "title": "Gemini 3.7 FLASH? GPT-6 Astra DELAYED, RIP Google AI? ByteDance 10T AI Model, & More! AI NEWS",
-              "publishedAt": "2026-08-08T06:12:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EHzqlA311R0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EHzqlA311R0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "AD-EmZ3v6-g",
-              "title": "They Just Taught How To Become A Forward Deployed Engineer",
-              "publishedAt": "2026-08-07T15:54:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AD-EmZ3v6-g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=AD-EmZ3v6-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "xOFkpf9KgKg",
-              "title": "Your AI Second Brain Is Slowly Rotting (Here's How to Fix It)",
-              "publishedAt": "2026-08-07T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xOFkpf9KgKg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xOFkpf9KgKg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2wVvdX0ZxVw",
-              "title": "Your Chatbot Hallucinated in 2024. Your Agent Lies in 2026.",
-              "publishedAt": "2026-08-07T14:21:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2wVvdX0ZxVw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2wVvdX0ZxVw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "E2T_jZC1QC8",
-              "title": "OpenAI's Astra Coming NEXT WEEK! DeepSeek Getting $$$, HUGE ChatGPT Update, & Terafab IS INSANE...",
-              "publishedAt": "2026-08-07T05:45:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/E2T_jZC1QC8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=E2T_jZC1QC8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "LVepOOCtjnQ",
-              "title": "What is Google even doing?",
-              "publishedAt": "2026-08-07T01:33:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LVepOOCtjnQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LVepOOCtjnQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "4vpdYgVjVKw",
-              "title": "The Biggest Cloud Conference in the World Is 70% Hands On",
-              "publishedAt": "2026-08-06T13:27:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4vpdYgVjVKw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4vpdYgVjVKw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "VnyGs43eiAA",
-              "title": "The Creator of Claude Code Said to Do What Now?!",
-              "publishedAt": "2026-08-06T00:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VnyGs43eiAA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VnyGs43eiAA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "dx-0jU2Y0I4",
-              "title": "Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology",
-              "publishedAt": "2026-08-06T03:45:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dx-0jU2Y0I4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dx-0jU2Y0I4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "xiNb_Pnj-dA",
-              "title": "1000+ Hours Automating Businesses with AI in 19 Minutes",
-              "publishedAt": "2026-08-06T17:35:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xiNb_Pnj-dA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xiNb_Pnj-dA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "M44vZckcjYg",
-              "title": "Clone Yourself For Free!",
-              "publishedAt": "2026-08-06T00:42:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/M44vZckcjYg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/M44vZckcjYg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "6J8pE92Biko",
-              "title": "Muse Spark 1.2 - Meta’s New Frontier Model Is 250x Cheaper Than Fable! (Fully Tested)",
-              "publishedAt": "2026-08-06T04:34:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6J8pE92Biko/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6J8pE92Biko",
               "summary": "",
               "transcriptAvailable": false
             }
