@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-08-16T15:14:28Z",
+  "lastUpdated": "2026-08-17T07:42:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-17",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "0QCoAfMzSJE",
+              "title": "Stop overthinking which AI to use. Do this.",
+              "publishedAt": "2026-08-17T03:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0QCoAfMzSJE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0QCoAfMzSJE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "jVM_JrGOfgM",
+              "title": "DeepSeek V4 Pro Is INSANE! Best Open Source AI Model? (Fully Tested)",
+              "publishedAt": "2026-08-17T05:13:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jVM_JrGOfgM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jVM_JrGOfgM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-16",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "a-LF8VhwMeA",
+              "title": "AI Isn't A Bubble. That's How NVIDIA's $500 Billion Push Ends Up In Your Retirement.",
+              "publishedAt": "2026-08-16T17:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a-LF8VhwMeA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a-LF8VhwMeA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -515,44 +569,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/mixeobHQ7ao/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/mixeobHQ7ao",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-09",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "JIGaCPv44QI",
-              "title": "Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.",
-              "publishedAt": "2026-08-09T17:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JIGaCPv44QI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JIGaCPv44QI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "7wnjIZ70MVk",
-              "title": "Kestra IS THE N8N KILLER! Automate Your Life With AI! (Open Source)",
-              "publishedAt": "2026-08-09T04:26:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7wnjIZ70MVk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7wnjIZ70MVk",
               "summary": "",
               "transcriptAvailable": false
             }
