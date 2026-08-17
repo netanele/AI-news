@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:32:27Z",
+  "lastUpdated": "2026-08-17T15:18:25Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Tliio-33w4g",
+              "title": "The Ultimate Guide to Making Your Entire Development Cycle AI Native",
+              "publishedAt": "2026-08-17T12:44:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Tliio-33w4g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Tliio-33w4g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "4f5AJrJPilM",
+              "title": "Your Agent Attacks Real People Now. Nobody Has To Ask It To.",
+              "publishedAt": "2026-08-17T14:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4f5AJrJPilM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4f5AJrJPilM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "0QCoAfMzSJE",
               "title": "Stop overthinking which AI to use. Do this.",
