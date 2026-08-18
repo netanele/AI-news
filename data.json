@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-08-17T15:18:25Z",
+  "lastUpdated": "2026-08-18T07:28:32Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-18",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "toWaoplHKRg",
+              "title": "HUGE GPT-6 'Astra\" UPDATE, DeepSeek V5 Soon, Cursor Origin, Qwen 3.8 27b Better Than GPT ? AI NEWS",
+              "publishedAt": "2026-08-18T05:35:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/toWaoplHKRg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=toWaoplHKRg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "dailyDigest": "",
@@ -61,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/jVM_JrGOfgM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=jVM_JrGOfgM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "1RTq_EWv2Yo",
+              "title": "6 Open-Source AI Projects Trending NOW",
+              "publishedAt": "2026-08-17T19:07:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1RTq_EWv2Yo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1RTq_EWv2Yo",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -489,112 +527,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/hZqJvWDI0Rs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "b9k-AE4v5yI",
-              "title": "Claude Code Never Has To Build From Scratch Again",
-              "publishedAt": "2026-08-10T14:20:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/b9k-AE4v5yI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=b9k-AE4v5yI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "FCRT7M30Wtw",
-              "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",
-              "publishedAt": "2026-08-10T14:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FCRT7M30Wtw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FCRT7M30Wtw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SVNLC4NLXjA",
-              "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
-              "publishedAt": "2026-08-10T03:00:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SVNLC4NLXjA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SVNLC4NLXjA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "EK3K44We9lc",
-              "title": "ChatGPT's New Record Feature is INSANE",
-              "publishedAt": "2026-08-10T21:06:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EK3K44We9lc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EK3K44We9lc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "zIZMxKin4Gk",
-              "title": "This Claude Skill Lets My Whole Team Answer Anything (No Code)",
-              "publishedAt": "2026-08-10T16:26:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zIZMxKin4Gk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zIZMxKin4Gk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "X8K1bW-XfL8",
-              "title": "OpenAI's GPT-6 'Doug', Qwen 4.0 WILL BE INSANE, GPT-Image-3.0?, RIP Gemini, & More! HUGE AI NEWS!",
-              "publishedAt": "2026-08-10T08:12:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/X8K1bW-XfL8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=X8K1bW-XfL8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "mixeobHQ7ao",
-              "title": "AI went rogue in real life...",
-              "publishedAt": "2026-08-10T15:13:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mixeobHQ7ao/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mixeobHQ7ao",
               "summary": "",
               "transcriptAvailable": false
             }
