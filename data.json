@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T10:29:28Z",
+  "lastUpdated": "2026-08-19T15:23:24Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-08-19",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "joRXo6x7Pgk",
+              "title": "Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.",
+              "publishedAt": "2026-08-19T14:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/joRXo6x7Pgk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=joRXo6x7Pgk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "K2BySh6RzRI",
+              "title": "Anthropic Just Dropped Claude for Finance (8 Skills)",
+              "publishedAt": "2026-08-19T13:07:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/K2BySh6RzRI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=K2BySh6RzRI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
