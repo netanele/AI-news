@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-08-18T15:23:53Z",
+  "lastUpdated": "2026-08-19T07:28:53Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-19",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "J5HhFmjB9a4",
+              "title": "Claude Fable 5.1 LEAKS, HUGE Gemini Update, Anthropic To Cure Cancer?, & Qwen 3.8 27B Uncensored!",
+              "publishedAt": "2026-08-19T06:41:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/J5HhFmjB9a4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=J5HhFmjB9a4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-18",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "PLyRe6Zk--8",
+              "title": "Every Level Of Claude Code Loop Engineering",
+              "publishedAt": "2026-08-18T19:10:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PLyRe6Zk--8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PLyRe6Zk--8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "kekMlmcr5kM",
+              "title": "Automate Your ENTIRE Business W/ Claude: The Complete 3-Hour Course",
+              "publishedAt": "2026-08-18T15:34:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kekMlmcr5kM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kekMlmcr5kM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -463,70 +517,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/mZM-J7XK5Aw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-11",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ufVDAiBGkew",
-              "title": "Turn Claude into the ULTIMATE Second Brain",
-              "publishedAt": "2026-08-11T22:22:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ufVDAiBGkew/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ufVDAiBGkew",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "RqPrJ4WxBzA",
-              "title": "MYSTERIOUS New Claude Model, Grok 4.6 TODAY, Muse Glimmer 30B, New OpenAI Model, & More! AI News",
-              "publishedAt": "2026-08-11T07:16:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RqPrJ4WxBzA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RqPrJ4WxBzA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "i_t-99u6pqw",
-              "title": "Faster AND Cheaper AI",
-              "publishedAt": "2026-08-11T18:45:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i_t-99u6pqw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/i_t-99u6pqw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hZqJvWDI0Rs",
-              "title": "Mark Zuckerberg just called out Dario (and Anthropic)",
-              "publishedAt": "2026-08-11T17:49:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hZqJvWDI0Rs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
               "summary": "",
               "transcriptAvailable": false
             }
