@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:31:46Z",
+  "lastUpdated": "2026-08-20T10:30:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/yipfaA-GXPg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=yipfaA-GXPg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Q6ZDUl2FhTU",
+              "title": "DeepSeek V5 LEAKS! Claude Code Concise Mode, Ornith 1.5, & Moderna Using AI To Cure Cancer! AI NEWS!",
+              "publishedAt": "2026-08-20T07:54:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Q6ZDUl2FhTU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Q6ZDUl2FhTU",
               "summary": "",
               "transcriptAvailable": false
             }
