@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:30:49Z",
+  "lastUpdated": "2026-08-20T15:26:10Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-08-20",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "c47uqR7XB_c",
+              "title": "GitHub's #1 Trending Author's New Claude Skill Is Insane",
+              "publishedAt": "2026-08-20T14:16:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/c47uqR7XB_c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=c47uqR7XB_c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
