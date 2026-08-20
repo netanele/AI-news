@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-08-19T15:23:24Z",
+  "lastUpdated": "2026-08-20T07:31:46Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "yipfaA-GXPg",
+              "title": "DeepSeek Just Built the Next Generation of Coding Agents",
+              "publishedAt": "2026-08-20T00:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yipfaA-GXPg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yipfaA-GXPg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "dailyDigest": "",
@@ -28,6 +50,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "1BgJuwcIn-Q",
+              "title": "How to Setup an AI Operating System",
+              "publishedAt": "2026-08-19T15:48:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1BgJuwcIn-Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1BgJuwcIn-Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "K2BySh6RzRI",
               "title": "Anthropic Just Dropped Claude for Finance (8 Skills)",
@@ -453,102 +485,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/rdYBjpylJUQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=rdYBjpylJUQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-12",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "bBlY5YOsKN8",
-              "title": "How To Use Claude Design To Build Beautiful Sites With Opus 5",
-              "publishedAt": "2026-08-12T14:33:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bBlY5YOsKN8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=bBlY5YOsKN8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "HZLPhPbw3fM",
-              "title": "Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.",
-              "publishedAt": "2026-08-12T14:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HZLPhPbw3fM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=HZLPhPbw3fM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "51wR7XT_uiA",
-              "title": "Kill the questions ... #AI #2026 #aiautomation",
-              "publishedAt": "2026-08-12T03:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/51wR7XT_uiA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/51wR7XT_uiA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "bwQg2Qz5pxM",
-              "title": "This entire ad is AI. I didn't film a second of it.",
-              "publishedAt": "2026-08-12T14:54:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bwQg2Qz5pxM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bwQg2Qz5pxM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "qBoQZ3Sf3h4",
-              "title": "Muse Glimmer 30B: BEST LOCAL AI Model? Meta AI Beats Qwen 3.6 27B? (Fully Tested)",
-              "publishedAt": "2026-08-12T07:17:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qBoQZ3Sf3h4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qBoQZ3Sf3h4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "mZM-J7XK5Aw",
-              "title": "Cursor just made something incredible...",
-              "publishedAt": "2026-08-12T20:09:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mZM-J7XK5Aw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
               "summary": "",
               "transcriptAvailable": false
             }
