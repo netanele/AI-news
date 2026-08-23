@@ -1,9 +1,123 @@
 {
-  "lastUpdated": "2026-08-20T15:26:10Z",
+  "lastUpdated": "2026-08-23T07:23:55Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "oBuWXUy7stw",
+              "title": "Claude Code + Codex = AI GOD MODE! (Open source + Free)",
+              "publishedAt": "2026-08-23T06:15:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oBuWXUy7stw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oBuWXUy7stw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "8d7oHIavm40",
+              "title": "Grokbot is the BEST AI Agent Out Now",
+              "publishedAt": "2026-08-22T14:10:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8d7oHIavm40/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8d7oHIavm40",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "pDIve2mdl4k",
+              "title": "HUGE Gemini 4.0 Leaks, DeepSeek V4 Flash Vision + V5 Leaks, Ox Alpha is Minimax? & More! AI NEWS",
+              "publishedAt": "2026-08-22T06:15:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pDIve2mdl4k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pDIve2mdl4k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "4HvFqhtCb-A",
+              "title": "Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.",
+              "publishedAt": "2026-08-21T14:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4HvFqhtCb-A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4HvFqhtCb-A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "QDWFJDY2Rcw",
+              "title": "5 Business Tasks I’ll Never Do Manually Again",
+              "publishedAt": "2026-08-21T14:32:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QDWFJDY2Rcw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QDWFJDY2Rcw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "o3MkojHCJVc",
+              "title": "GLM 5.5 LEAKS? HY4 Soon!, Ox Alpha Stealth Model, GPT-6 Astra Delayed, & More! AI NEWS!",
+              "publishedAt": "2026-08-21T08:34:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/o3MkojHCJVc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=o3MkojHCJVc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "dailyDigest": "",
@@ -51,6 +165,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Q6ZDUl2FhTU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Q6ZDUl2FhTU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "EsgXT6TGY9A",
+              "title": "Grok Bot can shop for you! (I hope it doesn't though)",
+              "publishedAt": "2026-08-20T21:05:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EsgXT6TGY9A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EsgXT6TGY9A",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "5CSXUsljJ_E",
+              "title": "11 Grok Bot Use Cases That Feel Like Cheating",
+              "publishedAt": "2026-08-20T18:28:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5CSXUsljJ_E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5CSXUsljJ_E",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -287,236 +427,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/IPV90it7UYU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=IPV90it7UYU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "IoOn0udpB9E",
-              "title": "Elon’s New AI Agent Kills Openclaw",
-              "publishedAt": "2026-08-15T20:08:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IoOn0udpB9E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IoOn0udpB9E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "J_aqblUWj4k",
-              "title": "Qwen 3.8 27B BLOWS MY MIND! Best Local AI Model Yet! Basically Opus Locally! (Fully Tested)",
-              "publishedAt": "2026-08-15T05:42:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/J_aqblUWj4k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=J_aqblUWj4k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "D_uojDHkbw4",
-              "title": "This Claude Skill Just Fixed The Biggest Problem Of Claude Code And Codex",
-              "publishedAt": "2026-08-14T15:34:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/D_uojDHkbw4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=D_uojDHkbw4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "eecUhBpTz_g",
-              "title": "How to Build the Most Powerful System for AI Coding (Full Breakdown)",
-              "publishedAt": "2026-08-14T20:14:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eecUhBpTz_g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=eecUhBpTz_g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "LM7Ft7g8qJw",
-              "title": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
-              "publishedAt": "2026-08-14T14:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LM7Ft7g8qJw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LM7Ft7g8qJw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "bC2VZlkvWXQ",
-              "title": "Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes",
-              "publishedAt": "2026-08-14T03:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bC2VZlkvWXQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bC2VZlkvWXQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "hqM-IcFmRes",
-              "title": "I Built an AI That Scores My Leads and Writes the Reply",
-              "publishedAt": "2026-08-14T14:15:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hqM-IcFmRes/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hqM-IcFmRes",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "yMoUwyyTe3E",
-              "title": "GLM 5.3 Is INSANE! The BEST Open Source Model EVER? BEATS MYTHOS? (Fully Tested)",
-              "publishedAt": "2026-08-14T08:53:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yMoUwyyTe3E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yMoUwyyTe3E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "9qix4oDB5aw",
-              "title": "AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!",
-              "publishedAt": "2026-08-14T23:34:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9qix4oDB5aw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9qix4oDB5aw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "MbiMwgbGdxw",
-              "title": "Every Claude Code Skill I Use to Drive My Entire Development Process",
-              "publishedAt": "2026-08-13T00:00:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MbiMwgbGdxw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MbiMwgbGdxw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "aWao8F7G1Bg",
-              "title": "Grokbot KILLED Openclaw & Hermes",
-              "publishedAt": "2026-08-13T13:50:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aWao8F7G1Bg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/aWao8F7G1Bg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "QvG79RlTzr4",
-              "title": "I am Switching to GrokBot...",
-              "publishedAt": "2026-08-13T10:46:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QvG79RlTzr4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QvG79RlTzr4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "VQqxMITWABU",
-              "title": "Grok 4.6 IS REALLY GOOD Beating GPT-5.6 Sol, Opus 5, & Kimi k3?! (Fully Tested)",
-              "publishedAt": "2026-08-13T05:24:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VQqxMITWABU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VQqxMITWABU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "rdYBjpylJUQ",
-              "title": "xAI actually did it... (Grok 4.6)",
-              "publishedAt": "2026-08-13T18:27:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rdYBjpylJUQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rdYBjpylJUQ",
               "summary": "",
               "transcriptAvailable": false
             }
