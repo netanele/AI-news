@@ -1,13 +1,83 @@
 {
-  "lastUpdated": "2026-08-23T15:14:48Z",
+  "lastUpdated": "2026-08-24T07:48:53Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "RWp5cejTApU",
+              "title": "NEW DeepSeek Harness Is The Claude Code & Codex Killer? (Open Source)",
+              "publishedAt": "2026-08-24T06:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RWp5cejTApU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RWp5cejTApU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "RUAtrbLa9Q0",
+              "title": "Grok Bot saves so much time and is so easy",
+              "publishedAt": "2026-08-24T07:26:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RUAtrbLa9Q0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/RUAtrbLa9Q0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-23",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "0bLI31EFDDs",
+              "title": "OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.",
+              "publishedAt": "2026-08-23T17:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0bLI31EFDDs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0bLI31EFDDs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "YIwDNoF3R0w",
+              "title": "Claude Just Changed Tax Season Forever",
+              "publishedAt": "2026-08-23T23:01:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YIwDNoF3R0w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/YIwDNoF3R0w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
@@ -389,44 +459,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1RTq_EWv2Yo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=1RTq_EWv2Yo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "a-LF8VhwMeA",
-              "title": "AI Isn't A Bubble. That's How NVIDIA's $500 Billion Push Ends Up In Your Retirement.",
-              "publishedAt": "2026-08-16T17:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a-LF8VhwMeA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=a-LF8VhwMeA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "IPV90it7UYU",
-              "title": "Claude Mythos 6 = Model 2! HUGE Leaks, DeepSeek v4 Pro, Gemini 3.7 Flash, Codex 2.0, & More! AI NEWS",
-              "publishedAt": "2026-08-16T06:43:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IPV90it7UYU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IPV90it7UYU",
               "summary": "",
               "transcriptAvailable": false
             }
