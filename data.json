@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:37:21Z",
+  "lastUpdated": "2026-08-24T15:32:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-08-24",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "Ysr7oNDajJI",
+              "title": "Insane Claude Design Skills You Need To Actually Build Beautiful Sites",
+              "publishedAt": "2026-08-24T15:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ysr7oNDajJI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ysr7oNDajJI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "DgyQ5r6bnmc",
+              "title": "Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.",
+              "publishedAt": "2026-08-24T14:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DgyQ5r6bnmc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DgyQ5r6bnmc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
