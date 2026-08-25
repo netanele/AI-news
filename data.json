@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T10:33:35Z",
+  "lastUpdated": "2026-08-25T15:35:28Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_biYWRU6f34/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_biYWRU6f34",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "L5zQU347z-c",
+              "title": "5 God Skills to Create STUNNING Websites (Claude Design)",
+              "publishedAt": "2026-08-25T14:08:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L5zQU347z-c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=L5zQU347z-c",
               "summary": "",
               "transcriptAvailable": false
             }
