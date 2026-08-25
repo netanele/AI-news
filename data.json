@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-08-24T15:32:29Z",
+  "lastUpdated": "2026-08-25T07:34:38Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "_biYWRU6f34",
+              "title": "This is the best way to choose an AI model",
+              "publishedAt": "2026-08-25T03:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_biYWRU6f34/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_biYWRU6f34",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Mgz4BbVhArc",
+              "title": "Cheapest Way to Run Every Open Weight AI Coding Model!",
+              "publishedAt": "2026-08-25T06:15:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Mgz4BbVhArc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Mgz4BbVhArc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "dailyDigest": "",
@@ -41,6 +79,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "O_mfHQ7trGI",
+              "title": "5 Levels to Claude",
+              "publishedAt": "2026-08-24T23:20:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/O_mfHQ7trGI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/O_mfHQ7trGI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -60,6 +114,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "4qjEgPojjzM",
+              "title": "How to Understand the Next Wave of AI Before Everyone Else | Tibo Interview",
+              "publishedAt": "2026-08-24T18:11:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4qjEgPojjzM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4qjEgPojjzM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "RUAtrbLa9Q0",
               "title": "Grok Bot saves so much time and is so easy",
@@ -411,86 +475,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/toWaoplHKRg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=toWaoplHKRg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "Tliio-33w4g",
-              "title": "The Ultimate Guide to Making Your Entire Development Cycle AI Native",
-              "publishedAt": "2026-08-17T12:44:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Tliio-33w4g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Tliio-33w4g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "4f5AJrJPilM",
-              "title": "Your Agent Attacks Real People Now. Nobody Has To Ask It To.",
-              "publishedAt": "2026-08-17T14:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4f5AJrJPilM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4f5AJrJPilM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0QCoAfMzSJE",
-              "title": "Stop overthinking which AI to use. Do this.",
-              "publishedAt": "2026-08-17T03:00:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0QCoAfMzSJE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0QCoAfMzSJE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "jVM_JrGOfgM",
-              "title": "DeepSeek V4 Pro Is INSANE! Best Open Source AI Model? (Fully Tested)",
-              "publishedAt": "2026-08-17T05:13:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jVM_JrGOfgM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jVM_JrGOfgM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "1RTq_EWv2Yo",
-              "title": "6 Open-Source AI Projects Trending NOW",
-              "publishedAt": "2026-08-17T19:07:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1RTq_EWv2Yo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1RTq_EWv2Yo",
               "summary": "",
               "transcriptAvailable": false
             }
