@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T07:34:38Z",
+  "lastUpdated": "2026-08-25T10:33:35Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Mgz4BbVhArc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Mgz4BbVhArc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "81TlmeCIDWA",
+              "title": "AI, AGI, and ASI",
+              "publishedAt": "2026-08-25T08:01:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/81TlmeCIDWA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/81TlmeCIDWA",
               "summary": "",
               "transcriptAvailable": false
             }
