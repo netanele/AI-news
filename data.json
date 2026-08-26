@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T10:35:35Z",
+  "lastUpdated": "2026-08-26T16:12:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-08-26",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "IpEaSa7tgfc",
+              "title": "Agents Aren't Taking Your Jobs. They're Creating More Work Instead.",
+              "publishedAt": "2026-08-26T14:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IpEaSa7tgfc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IpEaSa7tgfc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
