@@ -1,13 +1,51 @@
 {
-  "lastUpdated": "2026-08-25T15:35:28Z",
+  "lastUpdated": "2026-08-26T07:36:19Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "PbAitmG0-ok",
+              "title": "Gemini Notebook 2.0 Just Got a MASSIVE Upgrade! Full Guide!",
+              "publishedAt": "2026-08-26T06:15:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PbAitmG0-ok/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PbAitmG0-ok",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "6XgSpFdD3EU",
+              "title": "BMAD's Founder on the Future of AI Coding (And the Slop Apocalypse)",
+              "publishedAt": "2026-08-25T16:54:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6XgSpFdD3EU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6XgSpFdD3EU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -60,6 +98,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "KpH-VLrcoQI",
+              "title": "Your Mac can get a job",
+              "publishedAt": "2026-08-25T19:44:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KpH-VLrcoQI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KpH-VLrcoQI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "81TlmeCIDWA",
               "title": "AI, AGI, and ASI",
@@ -453,60 +501,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/J5HhFmjB9a4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=J5HhFmjB9a4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "PLyRe6Zk--8",
-              "title": "Every Level Of Claude Code Loop Engineering",
-              "publishedAt": "2026-08-18T19:10:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PLyRe6Zk--8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PLyRe6Zk--8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "kekMlmcr5kM",
-              "title": "Automate Your ENTIRE Business W/ Claude: The Complete 3-Hour Course",
-              "publishedAt": "2026-08-18T15:34:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kekMlmcr5kM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=kekMlmcr5kM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "toWaoplHKRg",
-              "title": "HUGE GPT-6 'Astra\" UPDATE, DeepSeek V5 Soon, Cursor Origin, Qwen 3.8 27b Better Than GPT ? AI NEWS",
-              "publishedAt": "2026-08-18T05:35:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/toWaoplHKRg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=toWaoplHKRg",
               "summary": "",
               "transcriptAvailable": false
             }
