@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-08-26T16:12:07Z",
+  "lastUpdated": "2026-08-27T17:58:01Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "msfMqW92Y8Q",
+              "title": "Watch This If Your Coding Agent is Ignoring Your Rules (You Need Hooks)",
+              "publishedAt": "2026-08-27T00:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/msfMqW92Y8Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=msfMqW92Y8Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Po7mWmEeEWs",
+              "title": "These are the people AI can't replace #AI #futureofwork",
+              "publishedAt": "2026-08-27T03:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Po7mWmEeEWs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Po7mWmEeEWs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "sIakce3-sPU",
+              "title": "GPT-6 'Bel' HUGE Leaks, Fable 5.1 Today? + Opus 5 Update, Qwen 4, GLM 5.3 Flash, & More! AI News!",
+              "publishedAt": "2026-08-27T06:15:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sIakce3-sPU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sIakce3-sPU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "dailyDigest": "",
@@ -25,6 +79,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "BIHC6IJNO9I",
+              "title": "Don’t Automate Anything Until You Run These 4 Numbers",
+              "publishedAt": "2026-08-26T20:54:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BIHC6IJNO9I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BIHC6IJNO9I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -35,6 +105,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/PbAitmG0-ok/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=PbAitmG0-ok",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "UVBbYplgY2M",
+              "title": "I'll never live this down",
+              "publishedAt": "2026-08-26T22:15:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UVBbYplgY2M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/UVBbYplgY2M",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "2w7ZdceZT-g",
+              "title": "The Most Important Chart In AI Right Now",
+              "publishedAt": "2026-08-26T17:45:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2w7ZdceZT-g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2w7ZdceZT-g",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -453,70 +549,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/5CSXUsljJ_E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=5CSXUsljJ_E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "joRXo6x7Pgk",
-              "title": "Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.",
-              "publishedAt": "2026-08-19T14:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/joRXo6x7Pgk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=joRXo6x7Pgk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "1BgJuwcIn-Q",
-              "title": "How to Setup an AI Operating System",
-              "publishedAt": "2026-08-19T15:48:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1BgJuwcIn-Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1BgJuwcIn-Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "K2BySh6RzRI",
-              "title": "Anthropic Just Dropped Claude for Finance (8 Skills)",
-              "publishedAt": "2026-08-19T13:07:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K2BySh6RzRI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=K2BySh6RzRI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "J5HhFmjB9a4",
-              "title": "Claude Fable 5.1 LEAKS, HUGE Gemini Update, Anthropic To Cure Cancer?, & Qwen 3.8 27B Uncensored!",
-              "publishedAt": "2026-08-19T06:41:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/J5HhFmjB9a4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=J5HhFmjB9a4",
               "summary": "",
               "transcriptAvailable": false
             }
