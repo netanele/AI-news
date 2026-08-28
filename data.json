@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-08-27T20:10:49Z",
+  "lastUpdated": "2026-08-28T00:11:27Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-08-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "8Ks0tMciDrc",
+              "title": "Vibe Coder VS IT Lead",
+              "publishedAt": "2026-08-28T00:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8Ks0tMciDrc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8Ks0tMciDrc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "dailyDigest": "",
@@ -51,6 +73,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/sIakce3-sPU/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=sIakce3-sPU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "z1ez0yWu1P4",
+              "title": "This feels illegal...",
+              "publishedAt": "2026-08-27T21:12:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z1ez0yWu1P4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=z1ez0yWu1P4",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -469,86 +507,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/o3MkojHCJVc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=o3MkojHCJVc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "c47uqR7XB_c",
-              "title": "GitHub's #1 Trending Author's New Claude Skill Is Insane",
-              "publishedAt": "2026-08-20T14:16:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/c47uqR7XB_c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=c47uqR7XB_c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "yipfaA-GXPg",
-              "title": "DeepSeek Just Built the Next Generation of Coding Agents",
-              "publishedAt": "2026-08-20T00:00:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yipfaA-GXPg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yipfaA-GXPg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Q6ZDUl2FhTU",
-              "title": "DeepSeek V5 LEAKS! Claude Code Concise Mode, Ornith 1.5, & Moderna Using AI To Cure Cancer! AI NEWS!",
-              "publishedAt": "2026-08-20T07:54:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Q6ZDUl2FhTU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Q6ZDUl2FhTU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "EsgXT6TGY9A",
-              "title": "Grok Bot can shop for you! (I hope it doesn't though)",
-              "publishedAt": "2026-08-20T21:05:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EsgXT6TGY9A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EsgXT6TGY9A",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5CSXUsljJ_E",
-              "title": "11 Grok Bot Use Cases That Feel Like Cheating",
-              "publishedAt": "2026-08-20T18:28:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5CSXUsljJ_E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5CSXUsljJ_E",
               "summary": "",
               "transcriptAvailable": false
             }
