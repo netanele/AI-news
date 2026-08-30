@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T12:24:17Z",
+  "lastUpdated": "2026-08-30T14:43:10Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-08-30",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "t-EsObfyxzo",
+              "title": "The Hidden Flaw of EVERY Coding Agent Now Has a Solution",
+              "publishedAt": "2026-08-30T14:37:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t-EsObfyxzo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/t-EsObfyxzo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
