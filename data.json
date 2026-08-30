@@ -1,17 +1,203 @@
 {
-  "lastUpdated": "2026-08-28T00:11:27Z",
+  "lastUpdated": "2026-08-30T12:24:17Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
-      "date": "2026-08-28",
+      "date": "2026-08-30",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "8KE4hjghc60",
+              "title": "Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens",
+              "publishedAt": "2026-08-30T03:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8KE4hjghc60/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8KE4hjghc60",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "eKZaB71Y2ts",
+              "title": "GPT-6 Astra Preview: FIRST LOOK, Opus 5.1, Claude's Downfall? & HY4 - Best Open Model?! AI NEWS!",
+              "publishedAt": "2026-08-30T06:15:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eKZaB71Y2ts/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eKZaB71Y2ts",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "GBg_3gEtNYI",
+              "title": "Claude Code 2.0 MASSIVE Upgrade! (NEW UPDATE)",
+              "publishedAt": "2026-08-29T06:15:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GBg_3gEtNYI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GBg_3gEtNYI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "TOWXXhn7ctY",
+              "title": "Cancel your subscriptions, Ox-Alpha is here! (GLM 5.3 Flash)",
+              "publishedAt": "2026-08-29T22:56:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TOWXXhn7ctY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TOWXXhn7ctY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "jwje1JK8Nqs",
+              "title": "How To Never Run Out Of Codex and Claude Usage Limits",
+              "publishedAt": "2026-08-28T15:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jwje1JK8Nqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jwje1JK8Nqs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "hKR1JZ2uvuQ",
+              "title": "Rime Finally Made Voice Agents Good Enough",
+              "publishedAt": "2026-08-28T20:21:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hKR1JZ2uvuQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hKR1JZ2uvuQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "CSCwaqVqHGE",
+              "title": "How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.",
+              "publishedAt": "2026-08-28T14:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CSCwaqVqHGE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CSCwaqVqHGE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "QCSmTnd2TdE",
+              "title": "How I Turned 70K Instagram Followers Into $200,000 With Claude",
+              "publishedAt": "2026-08-28T16:46:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QCSmTnd2TdE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QCSmTnd2TdE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "uqi5n3xqjqo",
+              "title": "I Gave Claude Code Control...",
+              "publishedAt": "2026-08-28T06:15:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uqi5n3xqjqo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uqi5n3xqjqo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "0RqTLAeaVMM",
+              "title": "They sent each other notes...",
+              "publishedAt": "2026-08-28T19:19:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0RqTLAeaVMM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0RqTLAeaVMM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "AUxu-8tYLXo",
+              "title": "MOSQUITO LASER",
+              "publishedAt": "2026-08-28T18:47:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AUxu-8tYLXo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AUxu-8tYLXo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "VN9Hs9w61sk",
+              "title": "AI will have infinite speed, your computer will not",
+              "publishedAt": "2026-08-28T15:25:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VN9Hs9w61sk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/VN9Hs9w61sk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8Ks0tMciDrc",
               "title": "Vibe Coder VS IT Lead",
@@ -415,98 +601,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/oBuWXUy7stw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=oBuWXUy7stw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "8d7oHIavm40",
-              "title": "Grokbot is the BEST AI Agent Out Now",
-              "publishedAt": "2026-08-22T14:10:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8d7oHIavm40/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8d7oHIavm40",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "pDIve2mdl4k",
-              "title": "HUGE Gemini 4.0 Leaks, DeepSeek V4 Flash Vision + V5 Leaks, Ox Alpha is Minimax? & More! AI NEWS",
-              "publishedAt": "2026-08-22T06:15:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pDIve2mdl4k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pDIve2mdl4k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "4HvFqhtCb-A",
-              "title": "Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.",
-              "publishedAt": "2026-08-21T14:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4HvFqhtCb-A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4HvFqhtCb-A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "QDWFJDY2Rcw",
-              "title": "5 Business Tasks I’ll Never Do Manually Again",
-              "publishedAt": "2026-08-21T14:32:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QDWFJDY2Rcw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QDWFJDY2Rcw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "o3MkojHCJVc",
-              "title": "GLM 5.5 LEAKS? HY4 Soon!, Ox Alpha Stealth Model, GPT-6 Astra Delayed, & More! AI NEWS!",
-              "publishedAt": "2026-08-21T08:34:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/o3MkojHCJVc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=o3MkojHCJVc",
               "summary": "",
               "transcriptAvailable": false
             }
