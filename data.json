@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T14:43:10Z",
+  "lastUpdated": "2026-08-30T18:20:28Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "qYe1GsMRElw",
+              "title": "You Never Told Your Agent What Done Means. It Decided For You.",
+              "publishedAt": "2026-08-30T17:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qYe1GsMRElw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qYe1GsMRElw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8KE4hjghc60",
               "title": "Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens",
