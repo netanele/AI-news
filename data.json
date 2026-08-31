@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T14:33:18Z",
+  "lastUpdated": "2026-08-31T17:25:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -29,6 +29,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/L4vlYjFDVSk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/L4vlYjFDVSk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "9kN5HhsnnQ0",
+              "title": "Make Just Dropped Maia and It Builds Automations For You",
+              "publishedAt": "2026-08-31T16:55:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9kN5HhsnnQ0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/9kN5HhsnnQ0",
               "summary": "",
               "transcriptAvailable": false
             }
