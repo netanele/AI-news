@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-08-30T18:20:28Z",
+  "lastUpdated": "2026-08-31T14:33:18Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-08-31",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "1lO8aNSLPJc",
+              "title": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+              "publishedAt": "2026-08-31T14:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1lO8aNSLPJc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1lO8aNSLPJc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "L4vlYjFDVSk",
+              "title": "How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking",
+              "publishedAt": "2026-08-31T03:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L4vlYjFDVSk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/L4vlYjFDVSk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "CWkmZX3yqsQ",
+              "title": "How To Build AI Automations: Ultimate Beginner’s Guide",
+              "publishedAt": "2026-08-31T06:15:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CWkmZX3yqsQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CWkmZX3yqsQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-30",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "WJgxX0Eib6k",
+              "title": "Hermes Agent Skills That Make It 10x More Powerful",
+              "publishedAt": "2026-08-30T18:21:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WJgxX0Eib6k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WJgxX0Eib6k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -573,60 +637,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/RUAtrbLa9Q0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/RUAtrbLa9Q0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "0bLI31EFDDs",
-              "title": "OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.",
-              "publishedAt": "2026-08-23T17:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0bLI31EFDDs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0bLI31EFDDs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "YIwDNoF3R0w",
-              "title": "Claude Just Changed Tax Season Forever",
-              "publishedAt": "2026-08-23T23:01:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YIwDNoF3R0w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/YIwDNoF3R0w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "oBuWXUy7stw",
-              "title": "Claude Code + Codex = AI GOD MODE! (Open source + Free)",
-              "publishedAt": "2026-08-23T06:15:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oBuWXUy7stw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oBuWXUy7stw",
               "summary": "",
               "transcriptAvailable": false
             }
