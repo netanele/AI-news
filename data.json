@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-08-31T20:33:43Z",
+  "lastUpdated": "2026-09-01T12:12:35Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "IHQzN2rFj2k",
+              "title": "Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools",
+              "publishedAt": "2026-09-01T03:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IHQzN2rFj2k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IHQzN2rFj2k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "uZ4VZRPvyX4",
+              "title": "Tencent HY4 IS SOLID! Best Open-Weight Model? (FULLY FREE)",
+              "publishedAt": "2026-09-01T06:15:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uZ4VZRPvyX4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uZ4VZRPvyX4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "dailyDigest": "",
@@ -557,102 +595,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/81TlmeCIDWA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/81TlmeCIDWA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "Ysr7oNDajJI",
-              "title": "Insane Claude Design Skills You Need To Actually Build Beautiful Sites",
-              "publishedAt": "2026-08-24T15:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ysr7oNDajJI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ysr7oNDajJI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "DgyQ5r6bnmc",
-              "title": "Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.",
-              "publishedAt": "2026-08-24T14:00:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DgyQ5r6bnmc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DgyQ5r6bnmc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "O_mfHQ7trGI",
-              "title": "5 Levels to Claude",
-              "publishedAt": "2026-08-24T23:20:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/O_mfHQ7trGI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/O_mfHQ7trGI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "RWp5cejTApU",
-              "title": "NEW DeepSeek Harness Is The Claude Code & Codex Killer? (Open Source)",
-              "publishedAt": "2026-08-24T06:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RWp5cejTApU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RWp5cejTApU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "4qjEgPojjzM",
-              "title": "How to Understand the Next Wave of AI Before Everyone Else | Tibo Interview",
-              "publishedAt": "2026-08-24T18:11:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4qjEgPojjzM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4qjEgPojjzM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "RUAtrbLa9Q0",
-              "title": "Grok Bot saves so much time and is so easy",
-              "publishedAt": "2026-08-24T07:26:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RUAtrbLa9Q0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/RUAtrbLa9Q0",
               "summary": "",
               "transcriptAvailable": false
             }
