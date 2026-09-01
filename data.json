@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T14:35:19Z",
+  "lastUpdated": "2026-09-01T18:05:16Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-09-01",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "jyLKRN36-Dc",
+              "title": "Insane Claude Skills You Need For Your Vibe Coding Setup",
+              "publishedAt": "2026-09-01T15:00:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jyLKRN36-Dc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jyLKRN36-Dc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "UbylWXukvR8",
+              "title": "11 Tiny Coding Agent Fixes With A Stupid Amount Of Payoff",
+              "publishedAt": "2026-09-01T17:06:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UbylWXukvR8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UbylWXukvR8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -35,6 +67,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/uZ4VZRPvyX4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=uZ4VZRPvyX4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "U6Ie2br8lxs",
+              "title": "What's going on with Cursor? (The OpenAI disrespect is insane)",
+              "publishedAt": "2026-09-01T17:46:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/U6Ie2br8lxs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=U6Ie2br8lxs",
               "summary": "",
               "transcriptAvailable": false
             }
