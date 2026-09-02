@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-01T18:05:16Z",
+  "lastUpdated": "2026-09-02T11:49:45Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "43r7AXPDVxg",
+              "title": "Fable 5.1 Just Changed What Frontier AI Costs Forever",
+              "publishedAt": "2026-09-02T00:46:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/43r7AXPDVxg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=43r7AXPDVxg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "eHsuG3bPiJ8",
+              "title": "Stop Paying for ElevenLabs? NEW #1 Realtime AI Voice Inworld TTS-2",
+              "publishedAt": "2026-09-02T06:15:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eHsuG3bPiJ8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eHsuG3bPiJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "dailyDigest": "",
@@ -57,6 +95,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "sBxQfPv0vlA",
+              "title": "You're sleeping on Manus AI",
+              "publishedAt": "2026-09-01T19:22:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sBxQfPv0vlA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/sBxQfPv0vlA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -76,6 +130,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "epogfA_0R4E",
+              "title": "Anthropic went CRAZY (Mythos/Fable 5.1)",
+              "publishedAt": "2026-09-01T23:57:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/epogfA_0R4E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=epogfA_0R4E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "U6Ie2br8lxs",
               "title": "What's going on with Cursor? (The OpenAI disrespect is insane)",
@@ -547,102 +611,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2w7ZdceZT-g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2w7ZdceZT-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-25",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "6XgSpFdD3EU",
-              "title": "BMAD's Founder on the Future of AI Coding (And the Slop Apocalypse)",
-              "publishedAt": "2026-08-25T16:54:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6XgSpFdD3EU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6XgSpFdD3EU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "_biYWRU6f34",
-              "title": "This is the best way to choose an AI model",
-              "publishedAt": "2026-08-25T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_biYWRU6f34/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_biYWRU6f34",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "L5zQU347z-c",
-              "title": "5 God Skills to Create STUNNING Websites (Claude Design)",
-              "publishedAt": "2026-08-25T14:08:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L5zQU347z-c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=L5zQU347z-c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Mgz4BbVhArc",
-              "title": "Cheapest Way to Run Every Open Weight AI Coding Model!",
-              "publishedAt": "2026-08-25T06:15:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Mgz4BbVhArc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Mgz4BbVhArc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "KpH-VLrcoQI",
-              "title": "Your Mac can get a job",
-              "publishedAt": "2026-08-25T19:44:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KpH-VLrcoQI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KpH-VLrcoQI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "81TlmeCIDWA",
-              "title": "AI, AGI, and ASI",
-              "publishedAt": "2026-08-25T08:01:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/81TlmeCIDWA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/81TlmeCIDWA",
               "summary": "",
               "transcriptAvailable": false
             }
