@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T11:49:45Z",
+  "lastUpdated": "2026-09-02T14:08:56Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-02",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "L9xXnPqVfnM",
+              "title": "OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.",
+              "publishedAt": "2026-09-02T14:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L9xXnPqVfnM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=L9xXnPqVfnM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
