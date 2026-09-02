@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T14:08:56Z",
+  "lastUpdated": "2026-09-02T18:18:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -29,6 +29,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "znAPVVnzdfo",
+              "title": "That Entire Phone Call Was AI",
+              "publishedAt": "2026-09-02T15:43:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/znAPVVnzdfo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/znAPVVnzdfo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "43r7AXPDVxg",
               "title": "Fable 5.1 Just Changed What Frontier AI Costs Forever",
               "publishedAt": "2026-09-02T00:46:03+00:00",
@@ -51,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/eHsuG3bPiJ8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=eHsuG3bPiJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "S9vuqw-p8Ig",
+              "title": "Data centers might get solved",
+              "publishedAt": "2026-09-02T17:27:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S9vuqw-p8Ig/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/S9vuqw-p8Ig",
               "summary": "",
               "transcriptAvailable": false
             }
