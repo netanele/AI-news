@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T14:11:48Z",
+  "lastUpdated": "2026-09-03T18:16:44Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-03",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "90pwPVrydHg",
+              "title": "Insane Grok Bot Use Cases You Need To Start Using Right Now",
+              "publishedAt": "2026-09-03T15:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/90pwPVrydHg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=90pwPVrydHg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -19,6 +35,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DcLj_SO8JNk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "mxFEurDj1KA",
+              "title": "You Can Now Run Your Entire Email List From Inside Claude!",
+              "publishedAt": "2026-09-03T16:18:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mxFEurDj1KA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mxFEurDj1KA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "QdsskvceVG0",
+              "title": "Never Pay for AI Again!",
+              "publishedAt": "2026-09-03T15:49:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QdsskvceVG0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QdsskvceVG0",
               "summary": "",
               "transcriptAvailable": false
             }
