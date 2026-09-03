@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-09-02T18:18:52Z",
+  "lastUpdated": "2026-09-03T11:49:31Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-03",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "DcLj_SO8JNk",
+              "title": "AI Software Factories Are the Next Big Thing (And I'm Building You One)",
+              "publishedAt": "2026-09-03T00:00:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DcLj_SO8JNk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "XgM6FRO6Ql4",
+              "title": "Claude Fable 5.1 & Mythos 5.1 - Greatest AI Models EVER! (Fully Tested)",
+              "publishedAt": "2026-09-03T06:15:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XgM6FRO6Ql4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XgM6FRO6Ql4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "uPCcWfiqqEM",
+              "title": "Use Fable 5.1!!",
+              "publishedAt": "2026-09-03T07:39:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uPCcWfiqqEM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/uPCcWfiqqEM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "2uVH2WUYb5E",
+              "title": "GOOGLE IS BACK! (Gemini 3.8 Flash)",
+              "publishedAt": "2026-09-03T06:12:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2uVH2WUYb5E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2uVH2WUYb5E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "dailyDigest": "",
@@ -573,86 +637,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/z1ez0yWu1P4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=z1ez0yWu1P4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "IpEaSa7tgfc",
-              "title": "Agents Aren't Taking Your Jobs. They're Creating More Work Instead.",
-              "publishedAt": "2026-08-26T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IpEaSa7tgfc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IpEaSa7tgfc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "BIHC6IJNO9I",
-              "title": "Don’t Automate Anything Until You Run These 4 Numbers",
-              "publishedAt": "2026-08-26T20:54:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BIHC6IJNO9I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/BIHC6IJNO9I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "PbAitmG0-ok",
-              "title": "Gemini Notebook 2.0 Just Got a MASSIVE Upgrade! Full Guide!",
-              "publishedAt": "2026-08-26T06:15:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PbAitmG0-ok/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PbAitmG0-ok",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "UVBbYplgY2M",
-              "title": "I'll never live this down",
-              "publishedAt": "2026-08-26T22:15:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UVBbYplgY2M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/UVBbYplgY2M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2w7ZdceZT-g",
-              "title": "The Most Important Chart In AI Right Now",
-              "publishedAt": "2026-08-26T17:45:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2w7ZdceZT-g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2w7ZdceZT-g",
               "summary": "",
               "transcriptAvailable": false
             }
