@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T13:26:23Z",
+  "lastUpdated": "2026-09-06T17:27:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -13,12 +13,38 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "1qGH6NwTj3o",
+              "title": "For 3 Years You Gave AI The Method. GPT-6 Astra Went And Found Its Own.",
+              "publishedAt": "2026-09-06T17:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1qGH6NwTj3o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "nW-X5EkOnLw",
               "title": "I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
               "publishedAt": "2026-09-06T03:00:32+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nW-X5EkOnLw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/nW-X5EkOnLw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "VxsBGpSSaNU",
+              "title": "Build a Real-Life JARVIS That Does EVERYTHING for You (Runs My 3 Companies)",
+              "publishedAt": "2026-09-06T14:48:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VxsBGpSSaNU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VxsBGpSSaNU",
               "summary": "",
               "transcriptAvailable": false
             }
