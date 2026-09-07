@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-06T17:27:00Z",
+  "lastUpdated": "2026-09-07T13:06:40Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-07",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "LGKW-nLUkp4",
+              "title": "Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens",
+              "publishedAt": "2026-09-07T03:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LGKW-nLUkp4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LGKW-nLUkp4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "V5NgF_olsTo",
+              "title": "Ponytail Makes Claude Code Write 94% Less Code!",
+              "publishedAt": "2026-09-07T06:15:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/V5NgF_olsTo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=V5NgF_olsTo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "dailyDigest": "",
@@ -595,86 +633,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/CWkmZX3yqsQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=CWkmZX3yqsQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "WJgxX0Eib6k",
-              "title": "Hermes Agent Skills That Make It 10x More Powerful",
-              "publishedAt": "2026-08-30T18:21:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WJgxX0Eib6k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WJgxX0Eib6k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "t-EsObfyxzo",
-              "title": "The Hidden Flaw of EVERY Coding Agent Now Has a Solution",
-              "publishedAt": "2026-08-30T14:37:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t-EsObfyxzo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/t-EsObfyxzo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "qYe1GsMRElw",
-              "title": "You Never Told Your Agent What Done Means. It Decided For You.",
-              "publishedAt": "2026-08-30T17:00:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qYe1GsMRElw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qYe1GsMRElw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8KE4hjghc60",
-              "title": "Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens",
-              "publishedAt": "2026-08-30T03:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8KE4hjghc60/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8KE4hjghc60",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "eKZaB71Y2ts",
-              "title": "GPT-6 Astra Preview: FIRST LOOK, Opus 5.1, Claude's Downfall? & HY4 - Best Open Model?! AI NEWS!",
-              "publishedAt": "2026-08-30T06:15:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eKZaB71Y2ts/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=eKZaB71Y2ts",
               "summary": "",
               "transcriptAvailable": false
             }
