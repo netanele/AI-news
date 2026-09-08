@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-07T18:56:48Z",
+  "lastUpdated": "2026-09-08T11:52:10Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-08",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "zBt__cwsfvQ",
+              "title": "AGI is here. Humans should now decide what to do #astra #openai #ai",
+              "publishedAt": "2026-09-08T03:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zBt__cwsfvQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/zBt__cwsfvQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "zHRX8pURCho",
+              "title": "HUGE Grok 4.7 Leaks! Fable 5.2 Soon, OpenAI's Post Astra Model, Gemini 4.0 Delayed & More! AI NEWS",
+              "publishedAt": "2026-09-08T06:15:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zHRX8pURCho/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zHRX8pURCho",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "dailyDigest": "",
@@ -579,70 +617,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/U6Ie2br8lxs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=U6Ie2br8lxs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "1lO8aNSLPJc",
-              "title": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
-              "publishedAt": "2026-08-31T14:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1lO8aNSLPJc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1lO8aNSLPJc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "L4vlYjFDVSk",
-              "title": "How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking",
-              "publishedAt": "2026-08-31T03:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L4vlYjFDVSk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/L4vlYjFDVSk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "9kN5HhsnnQ0",
-              "title": "Make Just Dropped Maia and It Builds Automations For You",
-              "publishedAt": "2026-08-31T16:55:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9kN5HhsnnQ0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/9kN5HhsnnQ0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "CWkmZX3yqsQ",
-              "title": "How To Build AI Automations: Ultimate Beginner’s Guide",
-              "publishedAt": "2026-08-31T06:15:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CWkmZX3yqsQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CWkmZX3yqsQ",
               "summary": "",
               "transcriptAvailable": false
             }
