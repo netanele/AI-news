@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T12:02:07Z",
+  "lastUpdated": "2026-09-09T14:12:48Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/kxhtmautpHA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/kxhtmautpHA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "i2v5PHMUe0k",
+              "title": "Codex Can Do WAY More Than You Think..",
+              "publishedAt": "2026-09-09T13:52:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i2v5PHMUe0k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i2v5PHMUe0k",
               "summary": "",
               "transcriptAvailable": false
             }
