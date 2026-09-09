@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-09-08T18:13:46Z",
+  "lastUpdated": "2026-09-09T12:02:07Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-09",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "kxhtmautpHA",
+              "title": "Should you ask Astra to do this? #AGI #thisisAGI #openai #astra",
+              "publishedAt": "2026-09-09T03:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kxhtmautpHA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/kxhtmautpHA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "T2dnchLabZQ",
+              "title": "DeepSeek V4.1 Flash Is INSANELY GOOD! Fast, Cheap, Powerful! (Fully Tested)",
+              "publishedAt": "2026-09-09T06:15:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/T2dnchLabZQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=T2dnchLabZQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "RcW8icS4sgA",
+              "title": "ChatGPT solved a $1M Math Problem",
+              "publishedAt": "2026-09-09T05:50:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RcW8icS4sgA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/RcW8icS4sgA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "dailyDigest": "",
@@ -537,118 +591,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/S9vuqw-p8Ig/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/S9vuqw-p8Ig",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "jyLKRN36-Dc",
-              "title": "Insane Claude Skills You Need For Your Vibe Coding Setup",
-              "publishedAt": "2026-09-01T15:00:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jyLKRN36-Dc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jyLKRN36-Dc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "UbylWXukvR8",
-              "title": "11 Tiny Coding Agent Fixes With A Stupid Amount Of Payoff",
-              "publishedAt": "2026-09-01T17:06:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UbylWXukvR8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UbylWXukvR8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "IHQzN2rFj2k",
-              "title": "Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools",
-              "publishedAt": "2026-09-01T03:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IHQzN2rFj2k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/IHQzN2rFj2k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "sBxQfPv0vlA",
-              "title": "You're sleeping on Manus AI",
-              "publishedAt": "2026-09-01T19:22:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sBxQfPv0vlA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/sBxQfPv0vlA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "uZ4VZRPvyX4",
-              "title": "Tencent HY4 IS SOLID! Best Open-Weight Model? (FULLY FREE)",
-              "publishedAt": "2026-09-01T06:15:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uZ4VZRPvyX4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uZ4VZRPvyX4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "epogfA_0R4E",
-              "title": "Anthropic went CRAZY (Mythos/Fable 5.1)",
-              "publishedAt": "2026-09-01T23:57:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/epogfA_0R4E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=epogfA_0R4E",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "U6Ie2br8lxs",
-              "title": "What's going on with Cursor? (The OpenAI disrespect is insane)",
-              "publishedAt": "2026-09-01T17:46:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/U6Ie2br8lxs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=U6Ie2br8lxs",
               "summary": "",
               "transcriptAvailable": false
             }
