@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T14:12:48Z",
+  "lastUpdated": "2026-09-09T18:13:43Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "GZCDiD17sXI",
+              "title": "I Pasted My Website Into This AI and It Ran My Ads",
+              "publishedAt": "2026-09-09T15:31:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GZCDiD17sXI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/GZCDiD17sXI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "i2v5PHMUe0k",
               "title": "Codex Can Do WAY More Than You Think..",
@@ -60,6 +70,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "AmFOvEv_8Gs",
+              "title": "OpenAI responds to the math authorship dispute",
+              "publishedAt": "2026-09-09T16:06:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AmFOvEv_8Gs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AmFOvEv_8Gs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "RcW8icS4sgA",
               "title": "ChatGPT solved a $1M Math Problem",
