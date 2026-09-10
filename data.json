@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-09-09T18:13:43Z",
+  "lastUpdated": "2026-09-10T11:57:09Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "SGodxQHnVxc",
+              "title": "No One Talks Enough About Security for AI Coding. Here's How I Do It in My Workflows",
+              "publishedAt": "2026-09-10T00:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SGodxQHnVxc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SGodxQHnVxc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "is6Z78vNZzI",
+              "title": "Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface",
+              "publishedAt": "2026-09-10T03:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/is6Z78vNZzI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/is6Z78vNZzI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "tbXKZsodiiw",
+              "title": "HUGE GPT-7.0 Bel Leaks! Anthropic's New Model, AI extinction, ChatGPT Images 2.5 & More! AI NEWS",
+              "publishedAt": "2026-09-10T06:15:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tbXKZsodiiw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tbXKZsodiiw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "dailyDigest": "",
@@ -70,6 +124,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "e7t9HU2Z6t8",
+              "title": "We need to talk about this...",
+              "publishedAt": "2026-09-09T18:18:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e7t9HU2Z6t8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=e7t9HU2Z6t8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "AmFOvEv_8Gs",
               "title": "OpenAI responds to the math authorship dispute",
@@ -547,86 +611,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2uVH2WUYb5E/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2uVH2WUYb5E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "L9xXnPqVfnM",
-              "title": "OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.",
-              "publishedAt": "2026-09-02T14:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L9xXnPqVfnM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=L9xXnPqVfnM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "znAPVVnzdfo",
-              "title": "That Entire Phone Call Was AI",
-              "publishedAt": "2026-09-02T15:43:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/znAPVVnzdfo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/znAPVVnzdfo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "43r7AXPDVxg",
-              "title": "Fable 5.1 Just Changed What Frontier AI Costs Forever",
-              "publishedAt": "2026-09-02T00:46:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/43r7AXPDVxg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=43r7AXPDVxg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "eHsuG3bPiJ8",
-              "title": "Stop Paying for ElevenLabs? NEW #1 Realtime AI Voice Inworld TTS-2",
-              "publishedAt": "2026-09-02T06:15:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eHsuG3bPiJ8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=eHsuG3bPiJ8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "S9vuqw-p8Ig",
-              "title": "Data centers might get solved",
-              "publishedAt": "2026-09-02T17:27:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/S9vuqw-p8Ig/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/S9vuqw-p8Ig",
               "summary": "",
               "transcriptAvailable": false
             }
