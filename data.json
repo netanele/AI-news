@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T11:57:09Z",
+  "lastUpdated": "2026-09-10T14:06:54Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "n5bZHETCiJA",
+              "title": "I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.",
+              "publishedAt": "2026-09-10T14:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/n5bZHETCiJA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=n5bZHETCiJA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "is6Z78vNZzI",
               "title": "Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface",
