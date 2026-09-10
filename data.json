@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T14:06:54Z",
+  "lastUpdated": "2026-09-10T17:58:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -45,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/is6Z78vNZzI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/is6Z78vNZzI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "SFyMgicYV9U",
+              "title": "How to make money with GrokBot",
+              "publishedAt": "2026-09-10T14:57:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SFyMgicYV9U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SFyMgicYV9U",
               "summary": "",
               "transcriptAvailable": false
             }
