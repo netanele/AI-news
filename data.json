@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T14:07:17Z",
+  "lastUpdated": "2026-09-13T17:48:57Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "ifgB5u53Ftg",
+              "title": "The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.",
+              "publishedAt": "2026-09-13T16:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ifgB5u53Ftg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ifgB5u53Ftg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "FV8HAq39yxs",
               "title": "We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools",
@@ -44,6 +54,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "OSqR_ISUbXY",
+              "title": "The $1 Million Fluid Problem",
+              "publishedAt": "2026-09-13T17:26:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OSqR_ISUbXY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/OSqR_ISUbXY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "gk6uuwmFVq8",
               "title": "DeepSeek Is INSANELY Fast",
