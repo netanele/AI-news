@@ -1,9 +1,279 @@
 {
-  "lastUpdated": "2026-09-10T17:58:49Z",
+  "lastUpdated": "2026-09-13T12:25:35Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "FV8HAq39yxs",
+              "title": "We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools",
+              "publishedAt": "2026-09-13T03:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FV8HAq39yxs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FV8HAq39yxs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "fyygMxVCAWI",
+              "title": "HUGE Google DeepMind RSI LEAKS! GPT-6 Astra NERFED, Kimi K2.8 Code, & More! AI NEWS",
+              "publishedAt": "2026-09-13T06:15:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fyygMxVCAWI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fyygMxVCAWI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "gk6uuwmFVq8",
+              "title": "DeepSeek Is INSANELY Fast",
+              "publishedAt": "2026-09-13T12:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gk6uuwmFVq8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/gk6uuwmFVq8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "joKb_QMmglM",
+              "title": "GPT-6 Astra Just Made AI Software Factories Real (Here's How to Run One)",
+              "publishedAt": "2026-09-12T13:27:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/joKb_QMmglM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=joKb_QMmglM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "L5Ua3SLAmb0",
+              "title": "I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra",
+              "publishedAt": "2026-09-12T03:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L5Ua3SLAmb0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/L5Ua3SLAmb0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "GEDhKC0fHRo",
+              "title": "The One-Person AI Business Isn't What You Think It Is",
+              "publishedAt": "2026-09-12T18:08:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GEDhKC0fHRo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GEDhKC0fHRo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "ZicPaK_4n7w",
+              "title": "Anthropic Quietly Dropped a Secret Skill",
+              "publishedAt": "2026-09-12T13:07:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZicPaK_4n7w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZicPaK_4n7w",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "hZ6bPDwOTa0",
+              "title": "WTF is JARVIS?",
+              "publishedAt": "2026-09-12T13:03:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hZ6bPDwOTa0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hZ6bPDwOTa0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "5UpS__yl7xA",
+              "title": "DeepSeek Fails the Rubik’s Cube Test",
+              "publishedAt": "2026-09-12T21:57:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5UpS__yl7xA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5UpS__yl7xA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "BwNNcob3-A0",
+              "title": "It's Over... This Just Ended The GPT 6 Astra Vs Fable 5.1 Debate",
+              "publishedAt": "2026-09-11T15:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BwNNcob3-A0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BwNNcob3-A0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "zDPuEPDXCpU",
+              "title": "Is Omarchy The Last Desktop You'll Ever Need?",
+              "publishedAt": "2026-09-11T14:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zDPuEPDXCpU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zDPuEPDXCpU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "z3l7NmmjO18",
+              "title": "5 BORING Grok Bot + Fable 5.1 AI Agents That Can Make $10k+/month!",
+              "publishedAt": "2026-09-11T15:22:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z3l7NmmjO18/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=z3l7NmmjO18",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "LadJAOZ2seU",
+              "title": "GPT-6 'Sol' Soon! Gemini 4.0 Pro Checkpoint, DeepSeek v4.1 Flash, Nano Banana 2.5, & More! AI NEWS!",
+              "publishedAt": "2026-09-11T06:15:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LadJAOZ2seU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LadJAOZ2seU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "IUNrqVtp51U",
+              "title": "A Simulated Fruit Fly Tries to Solve a Rubik's Cube",
+              "publishedAt": "2026-09-11T23:05:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IUNrqVtp51U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IUNrqVtp51U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "U-rsvXds9ck",
+              "title": "Deepseek did it again...",
+              "publishedAt": "2026-09-11T19:01:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/U-rsvXds9ck/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=U-rsvXds9ck",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Szfppy1NdO0",
+              "title": "Anthropic is saving us behind the scenes",
+              "publishedAt": "2026-09-11T16:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Szfppy1NdO0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Szfppy1NdO0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "B50IGSrfpbQ",
+              "title": "A Simulated Fruit Fly Is Learning to Drive",
+              "publishedAt": "2026-09-11T02:45:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/B50IGSrfpbQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/B50IGSrfpbQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "o49wKra_m5E",
+              "title": "AI Is Learning to Improve Itself",
+              "publishedAt": "2026-09-11T01:10:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/o49wKra_m5E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/o49wKra_m5E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "dailyDigest": "",
@@ -77,6 +347,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/tbXKZsodiiw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=tbXKZsodiiw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "jQIeVznGG3k",
+              "title": "We need to talk about this...",
+              "publishedAt": "2026-09-10T20:34:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jQIeVznGG3k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jQIeVznGG3k",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "NGf7kBEBNIc",
+              "title": "Why Hyperagent is serious",
+              "publishedAt": "2026-09-10T18:12:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NGf7kBEBNIc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NGf7kBEBNIc",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -359,284 +655,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/slpv4sVUN5o/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=slpv4sVUN5o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "7au4tWVG8a0",
-              "title": "This Is Preventing You From Using Claude Fable 5.1's True Potential",
-              "publishedAt": "2026-09-05T19:02:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7au4tWVG8a0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7au4tWVG8a0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "qibRvfnvDMM",
-              "title": "Gemini 3.8 Flash IS INSANE! Google's BEST AI Model EVER! (Fully Tested)",
-              "publishedAt": "2026-09-05T06:15:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qibRvfnvDMM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qibRvfnvDMM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "55rDzRkUVdE",
-              "title": "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
-              "publishedAt": "2026-09-04T14:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/55rDzRkUVdE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=55rDzRkUVdE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "amZ6kRkc4z8",
-              "title": "Why you still need human feedback",
-              "publishedAt": "2026-09-04T03:00:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/amZ6kRkc4z8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/amZ6kRkc4z8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Zkuxcd7SKAI",
-              "title": "How to Clone Your Smartest Employee",
-              "publishedAt": "2026-09-04T22:05:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Zkuxcd7SKAI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Zkuxcd7SKAI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "K-PH9TMKW6w",
-              "title": "GPT-6 Astra Just Broke the Economics of AI",
-              "publishedAt": "2026-09-04T14:35:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K-PH9TMKW6w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=K-PH9TMKW6w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "ZTgFyP0PZJo",
-              "title": "I've had early access to Astra... it's INSANE",
-              "publishedAt": "2026-09-04T19:03:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZTgFyP0PZJo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZTgFyP0PZJo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "KU6DcnEC93A",
-              "title": "3 Things to Try With GPT-6 Astra",
-              "publishedAt": "2026-09-04T18:04:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KU6DcnEC93A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KU6DcnEC93A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "90pwPVrydHg",
-              "title": "Insane Grok Bot Use Cases You Need To Start Using Right Now",
-              "publishedAt": "2026-09-03T15:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/90pwPVrydHg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=90pwPVrydHg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "DcLj_SO8JNk",
-              "title": "AI Software Factories Are the Next Big Thing (And I'm Building You One)",
-              "publishedAt": "2026-09-03T00:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DcLj_SO8JNk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "mxFEurDj1KA",
-              "title": "You Can Now Run Your Entire Email List From Inside Claude!",
-              "publishedAt": "2026-09-03T16:18:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mxFEurDj1KA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mxFEurDj1KA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "QdsskvceVG0",
-              "title": "Never Pay for AI Again!",
-              "publishedAt": "2026-09-03T15:49:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QdsskvceVG0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QdsskvceVG0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "gyArDlsWHQM",
-              "title": "GPT-6 Astra IS AGI - Greatest AI Model Ever (Fully Tested)",
-              "publishedAt": "2026-09-03T21:56:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gyArDlsWHQM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=gyArDlsWHQM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "XgM6FRO6Ql4",
-              "title": "Claude Fable 5.1 & Mythos 5.1 - Greatest AI Models EVER! (Fully Tested)",
-              "publishedAt": "2026-09-03T06:15:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XgM6FRO6Ql4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XgM6FRO6Ql4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "V2lEbLzmq8M",
-              "title": "What GPT-6 Astra Can Do",
-              "publishedAt": "2026-09-03T20:44:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/V2lEbLzmq8M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/V2lEbLzmq8M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "9xa7RTC5pzo",
-              "title": "GPT-6 IS HERE!!! (ASTRA)",
-              "publishedAt": "2026-09-03T20:43:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9xa7RTC5pzo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9xa7RTC5pzo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AnxsdyKH-QQ",
-              "title": "GPT-6 is HERE!",
-              "publishedAt": "2026-09-03T19:42:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AnxsdyKH-QQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AnxsdyKH-QQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "xdXLzFzxA9Q",
-              "title": "ASTRA IS HERE (GPT-6 RELEASED)",
-              "publishedAt": "2026-09-03T19:32:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xdXLzFzxA9Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xdXLzFzxA9Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uPCcWfiqqEM",
-              "title": "Use Fable 5.1!!",
-              "publishedAt": "2026-09-03T07:39:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uPCcWfiqqEM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/uPCcWfiqqEM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2uVH2WUYb5E",
-              "title": "GOOGLE IS BACK! (Gemini 3.8 Flash)",
-              "publishedAt": "2026-09-03T06:12:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2uVH2WUYb5E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2uVH2WUYb5E",
               "summary": "",
               "transcriptAvailable": false
             }
