@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T12:31:43Z",
+  "lastUpdated": "2026-09-14T13:27:57Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "0nU4lQnnSz0",
+              "title": "I Replaced Myself With 4 AI Agents... It Actually Worked",
+              "publishedAt": "2026-09-14T13:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0nU4lQnnSz0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0nU4lQnnSz0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "3sqgtMXOUHE",
               "title": "Don't Just Collect AI Certifications — Do This Instead",
