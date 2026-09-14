@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T13:27:57Z",
+  "lastUpdated": "2026-09-14T16:12:10Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,54 @@
       "date": "2026-09-14",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "Ua0APTMVcb8",
+              "title": "8 Insane GitHub Repos That 10x Your Claude Code Setup",
+              "publishedAt": "2026-09-14T15:53:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ua0APTMVcb8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ua0APTMVcb8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "XIt87tJHm-g",
+              "title": "Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.",
+              "publishedAt": "2026-09-14T14:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XIt87tJHm-g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XIt87tJHm-g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "z3kot_j4et8",
+              "title": "Stop Learning to Build Websites. Learn to Sell Them",
+              "publishedAt": "2026-09-14T15:12:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z3kot_j4et8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=z3kot_j4et8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
@@ -54,6 +102,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "LyUoP_5QQOA",
+              "title": "Can You Read 1,200 Words Per Minute?",
+              "publishedAt": "2026-09-14T13:29:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LyUoP_5QQOA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LyUoP_5QQOA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ypNekbQpT5U",
               "title": "GPT-6 Made a Fall Guys Game",
