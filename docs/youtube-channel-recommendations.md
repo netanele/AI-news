@@ -2,7 +2,7 @@
 
 **Period analyzed:** Mar 14 – Sep 14, 2026 (last 6 months)
 **Sources:** your YouTube watch history (3,196 videos) and your subscriptions (~230 channels)
-**Currently fetched:** 13 channels in `config.json` (updated Sep 14, 2026)
+**Currently fetched:** 14 channels in `config.json` (updated Sep 14, 2026)
 
 How to read the numbers:
 - **Watched** is the number of different videos you watched from that channel. In brackets is the total, which includes rewatches.
@@ -13,7 +13,7 @@ How to read the numbers:
 ## Summary
 
 - You watch **far more AI channels than we originally fetched** (7). About 45 AI channels showed up in your history.
-- On Sep 14, 2026, **7 channels were added** (David Ondrej, Tech With Tim, Simon Scrapes, Eric Tech, Claude, BMad Code, Ray Amjad) and **WorldofAI was removed**.
+- On Sep 14, 2026, **7 channels were added** (David Ondrej, Tech With Tim, Simon Scrapes, Eric Tech, Claude, BMad Code, Ray Amjad). WorldofAI was briefly removed, then re-added.
 - **Cloud Codes**, your second most-watched AI channel, is still not in the config.
 - **Matt Maher** is still fetched, but you watched only 1 video in 6 months, so consider removing it.
 - Your AI viewing centers on **Claude Code, agentic coding, AI automation, and AI news**.
@@ -21,7 +21,7 @@ How to read the numbers:
 
 ---
 
-## Current channels (13)
+## Current channels (14)
 
 | Channel | Watched (6 mo) | Status |
 |---|---|---|
@@ -30,6 +30,7 @@ How to read the numbers:
 | [Nick Puru, AI Automation](https://www.youtube.com/@NicholasPuru) | 14 (18) | Original |
 | [AI News & Strategy Daily, Nate B Jones](https://www.youtube.com/@NateBJones) | 11 (13) | Original |
 | [Tech With Tim](https://www.youtube.com/@TechWithTim) | 11 (11) | Added Sep 14 |
+| [WorldofAI](https://www.youtube.com/@intheworldofai) | 11 (11) | Original |
 | [Cole Medin](https://www.youtube.com/@ColeMedin) | 10 (13) | Original |
 | [Simon Scrapes](https://www.youtube.com/@simonscrapes) | 10 (13) | Added Sep 14 |
 | [Eric Tech](https://www.youtube.com/@EricWTech) | 10 (13) | Added Sep 14 |
@@ -38,9 +39,6 @@ How to read the numbers:
 | [Matthew Berman](https://www.youtube.com/@matthew_berman) | 5 (6) | Original |
 | [Ray Amjad](https://www.youtube.com/@RAmjad) | 5 (7) | Added Sep 14 |
 | [Matt Maher](https://www.youtube.com/@MetalSole) | 1 (1) | Original — consider removing |
-
-**Removed:** [WorldofAI](https://www.youtube.com/@intheworldofai), 11 (11) watched, on Sep 14.
-
 ---
 
 ## Tier 1: Strongly recommended (watched 6 or more videos)
