@@ -3,6 +3,8 @@
 (function () {
   "use strict";
 
+  var summariesEnabled = true;
+
   // --- Theme ---
 
   function initTheme() {
@@ -146,10 +148,20 @@
       totalEl.textContent = "(" + total + ")";
     }
 
+    // Transcripts/summaries are disabled in the pipeline when no video has one
+    summariesEnabled = (data.days || []).some(function (day) {
+      return day.channels.some(function (channel) {
+        return channel.videos.some(function (video) { return video.transcriptAvailable; });
+      });
+    });
+
     // Last updated + pipeline status
     var updatedEl = document.getElementById("last-updated");
     if (updatedEl && data.lastUpdated) {
       var statusText = "Updated " + formatRelativeTime(data.lastUpdated);
+      if (!summariesEnabled) {
+        statusText += " · Transcripts and AI summaries are off";
+      }
       if (data.pipelineStatus && data.pipelineStatus.status !== "ok") {
         statusText += " (partial \u2014 " + data.pipelineStatus.issues.join("; ") + ")";
         updatedEl.classList.add("status-warning");
@@ -255,10 +267,12 @@
     title.textContent = video.title;
     content.appendChild(title);
 
-    // Summary
+    // Summary (omitted entirely while summaries are off — the header says so)
     var summaryEl = document.createElement("div");
     summaryEl.className = "video-summary";
-    if (!video.transcriptAvailable) {
+    if (!summariesEnabled) {
+      summaryEl = null;
+    } else if (!video.transcriptAvailable) {
       summaryEl.classList.add("fallback-text");
       summaryEl.textContent = "Transcript not available for this video.";
     } else if (
@@ -270,7 +284,7 @@
     } else {
       summaryEl.textContent = video.summary || "";
     }
-    content.appendChild(summaryEl);
+    if (summaryEl) content.appendChild(summaryEl);
 
     // Watch button
     var watchBtn = document.createElement("button");
