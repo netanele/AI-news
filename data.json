@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T12:10:31Z",
+  "lastUpdated": "2026-09-14T12:21:23Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3sqgtMXOUHE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/3sqgtMXOUHE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "TKkdTyT6FlA",
+              "title": "NEW Opus 5.2 LEAKS, AI Development To Be Slowed Down, GPT-6 Sol Preview, DeepSeek Code 2.0, & More!",
+              "publishedAt": "2026-09-14T06:15:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TKkdTyT6FlA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TKkdTyT6FlA",
               "summary": "",
               "transcriptAvailable": false
             }
