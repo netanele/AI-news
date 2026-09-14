@@ -2,7 +2,7 @@
 
 **Period analyzed:** Mar 14 – Sep 14, 2026 (last 6 months)
 **Sources:** your YouTube watch history (3,196 videos) and your subscriptions (~230 channels)
-**Currently fetched:** 7 channels in `config.json`
+**Currently fetched:** 13 channels in `config.json` (updated Sep 14, 2026)
 
 How to read the numbers:
 - **Watched** is the number of different videos you watched from that channel. In brackets is the total, which includes rewatches.
@@ -12,55 +12,57 @@ How to read the numbers:
 
 ## Summary
 
-- You watch **far more AI channels than we fetch**. About 45 AI channels showed up in your history.
-- The channels you watch most, **David Ondrej** and **Cloud Codes**, are not in the config.
-- 6 of the 7 current channels are still active in your history. **Matt Maher** is the exception, with only 1 video watched in 6 months, so consider removing it.
+- You watch **far more AI channels than we originally fetched** (7). About 45 AI channels showed up in your history.
+- On Sep 14, 2026, **7 channels were added** (David Ondrej, Tech With Tim, Simon Scrapes, Eric Tech, Claude, BMad Code, Ray Amjad) and **WorldofAI was removed**.
+- **Cloud Codes**, your second most-watched AI channel, is still not in the config.
+- **Matt Maher** is still fetched, but you watched only 1 video in 6 months, so consider removing it.
 - Your AI viewing centers on **Claude Code, agentic coding, AI automation, and AI news**.
 - Many AI channels you subscribed to are never watched, such as CrewAI, n8n, Langflow and Liam Ottley. Those aren't worth adding.
 
 ---
 
-## Current channels: how much you watch them
+## Current channels (13)
 
-| Channel | Watched (6 mo) | Verdict |
+| Channel | Watched (6 mo) | Status |
 |---|---|---|
-| [AI LABS](https://www.youtube.com/@AILABS-393) | 15 (16) | Keep |
-| [Nick Puru, AI Automation](https://www.youtube.com/@NicholasPuru) | 14 (18) | Keep |
-| [AI News & Strategy Daily, Nate B Jones](https://www.youtube.com/@NateBJones) | 11 (13) | Keep |
-| [WorldofAI](https://www.youtube.com/@intheworldofai) | 11 (11) | Keep |
-| [Cole Medin](https://www.youtube.com/@ColeMedin) | 10 (13) | Keep |
-| [Matthew Berman](https://www.youtube.com/@matthew_berman) | 5 (6) | Keep |
-| [Matt Maher](https://www.youtube.com/@MetalSole) | 1 (1) | Consider removing |
+| [David Ondrej](https://www.youtube.com/@DavidOndrej) | 20 (26) | Added Sep 14 |
+| [AI LABS](https://www.youtube.com/@AILABS-393) | 15 (16) | Original |
+| [Nick Puru, AI Automation](https://www.youtube.com/@NicholasPuru) | 14 (18) | Original |
+| [AI News & Strategy Daily, Nate B Jones](https://www.youtube.com/@NateBJones) | 11 (13) | Original |
+| [Tech With Tim](https://www.youtube.com/@TechWithTim) | 11 (11) | Added Sep 14 |
+| [Cole Medin](https://www.youtube.com/@ColeMedin) | 10 (13) | Original |
+| [Simon Scrapes](https://www.youtube.com/@simonscrapes) | 10 (13) | Added Sep 14 |
+| [Eric Tech](https://www.youtube.com/@EricWTech) | 10 (13) | Added Sep 14 |
+| [Claude (official)](https://www.youtube.com/@claude) | 8 (8) | Added Sep 14 |
+| [BMad Code](https://www.youtube.com/@BMadCode) | 6 (13) | Added Sep 14 |
+| [Matthew Berman](https://www.youtube.com/@matthew_berman) | 5 (6) | Original |
+| [Ray Amjad](https://www.youtube.com/@RAmjad) | 5 (7) | Added Sep 14 |
+| [Matt Maher](https://www.youtube.com/@MetalSole) | 1 (1) | Original — consider removing |
+
+**Removed:** [WorldofAI](https://www.youtube.com/@intheworldofai), 11 (11) watched, on Sep 14.
 
 ---
 
 ## Tier 1: Strongly recommended (watched 6 or more videos)
 
-You already watch these as much as, or more than, the channels we fetch.
+You already watch these as much as, or more than, the channels we fetch. Channels that were added are no longer listed here.
 
 | Channel | Watched | Sub? | Subscribers | Focus |
 |---|---|---|---|---|
-| [David Ondrej](https://www.youtube.com/@DavidOndrej) | 20 (26) | Yes | 416K | AI agents, agentic engineering |
 | [Cloud Codes](https://www.youtube.com/@Cloud-Codes) | 21 (24) | Yes | 39K | Claude Code, coding models |
 | [Austin Marchese](https://www.youtube.com/@austin.marchese) | 12 (14) | Yes | 89K | Building with Claude |
 | [Nate Herk, AI Automation](https://www.youtube.com/@nateherk) | 11 (15) | No | 1.01M | Claude Code workflows, agent loops |
-| [Tech With Tim](https://www.youtube.com/@TechWithTim) | 11 (11) | Yes | — | AI and dev tutorials |
-| [Simon Scrapes](https://www.youtube.com/@simonscrapes) | 10 (13) | No | 98K | Claude Code tips, prompting |
-| [Eric Tech](https://www.youtube.com/@EricWTech) | 10 (13) | Yes | 79K | Claude Code skills and setups |
 | [Chase AI](https://www.youtube.com/@Chase-H-AI) | 10 (10) | No | 171K | Claude and Codex use cases |
 | [Better Stack](https://www.youtube.com/@betterstack) | 8 (10) | No | 204K | Dev tools, agents, Claude.md |
 | [Hyperautomation Labs](https://www.youtube.com/@hyperautomationlabs1045) | 8 (11) | No | 22K | Agent system design |
-| [Claude (official)](https://www.youtube.com/@claude) | 8 (8) | No | 574K | Official launches and features |
 | [AI Revolution](https://www.youtube.com/@airevolutionx) | 8 (8) | Yes | 568K | Daily AI news |
 | [Brock Mesarich, AI for Non Techies](https://www.youtube.com/@BrockMesarich) | 7 (9) | No | 142K | Anthropic release breakdowns |
 | [Dream Labs AI](https://www.youtube.com/@DreamLabs_AI) | 7 (9) | No | 14K | AI levels, Boris Cherny talks |
-| [BMad Code](https://www.youtube.com/@BMadCode) | 6 (13) | Yes | 35K | BMAD method, AI dev process |
 
 ## Tier 2: Worth a look (watched 3 to 5 videos)
 
 | Channel | Watched | Sub? | Subscribers | Focus |
 |---|---|---|---|---|
-| [Ray Amjad](https://www.youtube.com/@RAmjad) | 5 (7) | No | 49K | Agentic coding, subagents |
 | [The AI Automators](https://www.youtube.com/@TheAIAutomators) | 5 (6) | No | 64K | RAG, local models, Claude.md |
 | [DIY Smart Code](https://www.youtube.com/@DIYSmartCode) | 5 (6) | No | 29K | Fine-tuning, small models |
 | [Mansel Scheffel](https://www.youtube.com/@mansel.scheffel) | 5 (5) | No | 10K | Claude skills |
@@ -106,8 +108,8 @@ You already watch these as much as, or more than, the channels we fetch.
 
 ## Suggested action
 
-1. **Add the Tier 1 channels** (15 channels). Together with the current 7, that's 22 channels.
+1. **Consider adding Cloud Codes**. It's your most-watched AI channel that isn't fetched yet.
 2. **Consider removing Matt Maher**, since you haven't watched it in 6 months.
-3. Pick any Tier 2 channels that match what you want in the feed.
+3. Pick any other Tier 1 or Tier 2 channels that match what you want in the feed.
 
 Note: more channels means more transcripts to summarize per run, which raises Gemini API usage.

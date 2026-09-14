@@ -36,18 +36,41 @@
       var response = await fetch("data.json");
       if (!response.ok) throw new Error("HTTP " + response.status);
       var data = await response.json();
-      renderDashboard(data);
+      var configChannels = await loadConfigChannels();
+      renderDashboard(data, configChannels);
     } catch (e) {
       dashboard.innerHTML =
         '<div class="fallback-message">Data unavailable \u2014 check back later.</div>';
     }
   }
 
+  // Channel URLs from config.json, so channels with no recent videos still appear.
+  async function loadConfigChannels() {
+    try {
+      var response = await fetch("config.json");
+      if (!response.ok) return [];
+      var config = await response.json();
+      return Array.isArray(config.channels) ? config.channels : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  // Mirrors pipeline/channel_resolver.py _extract_channel_name
+  function channelNameFromUrl(url) {
+    var match = url.match(/@([\w-]+)/) || url.match(/\/c\/([\w-]+)/) || url.match(/\/channel\/([\w-]+)/);
+    return match ? match[1] : url;
+  }
+
   // --- Sidebar ---
 
-  function extractUniqueChannels(data) {
+  function extractUniqueChannels(data, configChannels) {
     var channelMap = {};
-    if (!data.days) return [];
+    (configChannels || []).forEach(function (url) {
+      var name = channelNameFromUrl(url);
+      channelMap[name] = { channelName: name, channelUrl: url, videoCount: 0 };
+    });
+    if (!data.days) data.days = [];
 
     var daysFilter = parseInt(localStorage.getItem("daysFilter"), 10);
     var days = data.days;
@@ -96,6 +119,7 @@
 
       var countSpan = document.createElement("span");
       countSpan.className = "channel-video-count";
+      if (channel.videoCount === 0) li.classList.add("channel-empty");
       countSpan.textContent = channel.videoCount;
       a.appendChild(countSpan);
 
@@ -106,12 +130,12 @@
 
   // --- Rendering ---
 
-  function renderDashboard(data) {
+  function renderDashboard(data, configChannels) {
     var dashboard = document.getElementById("dashboard");
     dashboard.innerHTML = "";
 
     // Render channel sidebar
-    renderSidebar(extractUniqueChannels(data));
+    renderSidebar(extractUniqueChannels(data, configChannels));
 
     // Last updated + pipeline status
     var updatedEl = document.getElementById("last-updated");
