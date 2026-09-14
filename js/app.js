@@ -135,7 +135,15 @@
     dashboard.innerHTML = "";
 
     // Render channel sidebar
-    renderSidebar(extractUniqueChannels(data, configChannels));
+    var sidebarChannels = extractUniqueChannels(data, configChannels);
+    renderSidebar(sidebarChannels);
+
+    // Number of channels being fetched (falls back to sidebar count if config.json is unavailable)
+    var totalEl = document.getElementById("channel-total");
+    if (totalEl) {
+      var total = configChannels && configChannels.length ? configChannels.length : sidebarChannels.length;
+      totalEl.textContent = "(" + total + ")";
+    }
 
     // Last updated + pipeline status
     var updatedEl = document.getElementById("last-updated");
