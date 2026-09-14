@@ -64,11 +64,10 @@ def run_pipeline(config_path="config.json", data_path="data.json"):
 
         # Stage 4: Fetch RSS feeds
         logger.info("Stage 4: Fetching RSS feeds")
-        all_videos = rss_fetcher.fetch_videos(channels, config["display"]["daysToShow"])
+        rss_failed = []
+        all_videos = rss_fetcher.fetch_videos(channels, config["display"]["daysToShow"], failed=rss_failed)
         logger.info("Found %d total videos in RSS feeds", len(all_videos))
 
-        rss_channels = set(v["channelName"] for v in all_videos)
-        rss_failed = [c["channel_name"] for c in channels if c["channel_name"] not in rss_channels]
         if rss_failed:
             status.warn(f"RSS unavailable for: {', '.join(rss_failed)}")
 

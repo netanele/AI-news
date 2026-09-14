@@ -21,10 +21,13 @@ _HEADERS = {
 }
 
 
-def fetch_videos(channels, days_to_show):
+def fetch_videos(channels, days_to_show, failed=None):
     """Fetch recent videos from YouTube RSS feeds for all channels.
 
     Returns a flat list of video dicts within the date window.
+    If `failed` is a list, names of channels whose feed could not be fetched
+    after all retries are appended to it. Channels with no recent videos are
+    not failures.
     """
     cutoff = datetime.now(timezone.utc) - timedelta(days=days_to_show)
     all_videos = []
@@ -64,6 +67,8 @@ def fetch_videos(channels, days_to_show):
     if failed_channels:
         names = ", ".join(c["channel_name"] for c in failed_channels)
         logger.warning("RSS permanently failed for: %s", names)
+        if failed is not None:
+            failed.extend(c["channel_name"] for c in failed_channels)
 
     return all_videos
 

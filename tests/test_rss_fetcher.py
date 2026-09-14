@@ -118,6 +118,28 @@ class TestFetchVideos:
         assert mock_get.call_count == 4
 
     @patch("pipeline.rss_fetcher.time.sleep")
+    @patch("pipeline.rss_fetcher.requests.get")
+    def test_permanent_failure_reported_in_failed_list(self, mock_get, mock_sleep):
+        mock_get.return_value = _mock_response(404)
+        failed = []
+        fetch_videos([_make_channel("Broken")], days_to_show=7, failed=failed)
+        assert failed == ["Broken"]
+
+    @patch("pipeline.rss_fetcher.time.sleep")
+    @patch("pipeline.rss_fetcher.feedparser.parse")
+    @patch("pipeline.rss_fetcher.requests.get")
+    def test_no_recent_videos_is_not_a_failure(self, mock_get, mock_parse, mock_sleep):
+        """A working feed with only old videos should not be reported as failed."""
+        mock_get.return_value = _mock_response(200)
+        now = datetime.now(timezone.utc)
+        mock_parse.return_value = _mock_feed([_make_entry("old", "Old", now - timedelta(days=30))])
+
+        failed = []
+        result = fetch_videos([_make_channel("Quiet")], days_to_show=7, failed=failed)
+        assert result == []
+        assert failed == []
+
+    @patch("pipeline.rss_fetcher.time.sleep")
     @patch("pipeline.rss_fetcher.feedparser.parse")
     @patch("pipeline.rss_fetcher.requests.get")
     def test_retry_succeeds_on_second_attempt(self, mock_get, mock_parse, mock_sleep):
