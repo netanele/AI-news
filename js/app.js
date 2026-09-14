@@ -33,7 +33,8 @@
   async function loadData() {
     var dashboard = document.getElementById("dashboard");
     try {
-      var response = await fetch("data.json");
+      // no-cache: revalidate so GitHub Pages' 10-minute cache doesn't show stale data
+      var response = await fetch("data.json", { cache: "no-cache" });
       if (!response.ok) throw new Error("HTTP " + response.status);
       var data = await response.json();
       var configChannels = await loadConfigChannels();
@@ -47,7 +48,7 @@
   // Channel URLs from config.json, so channels with no recent videos still appear.
   async function loadConfigChannels() {
     try {
-      var response = await fetch("config.json");
+      var response = await fetch("config.json", { cache: "no-cache" });
       if (!response.ok) return [];
       var config = await response.json();
       return Array.isArray(config.channels) ? config.channels : [];
