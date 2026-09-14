@@ -1,13 +1,67 @@
 {
-  "lastUpdated": "2026-09-13T17:48:57Z",
+  "lastUpdated": "2026-09-14T12:10:31Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-09-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "3sqgtMXOUHE",
+              "title": "Don't Just Collect AI Certifications — Do This Instead",
+              "publishedAt": "2026-09-14T12:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3sqgtMXOUHE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3sqgtMXOUHE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "ypNekbQpT5U",
+              "title": "GPT-6 Made a Fall Guys Game",
+              "publishedAt": "2026-09-14T10:53:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ypNekbQpT5U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ypNekbQpT5U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-13",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "mWrG0MaJB3Q",
+              "title": "I Ran 10 Claude Code Agents Overnight in Upstash Box",
+              "publishedAt": "2026-09-13T13:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mWrG0MaJB3Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mWrG0MaJB3Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -29,6 +83,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/FV8HAq39yxs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/FV8HAq39yxs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Lu2WpMQaEBQ",
+              "title": "Be CAREFUL when using Claude now!",
+              "publishedAt": "2026-09-13T18:39:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Lu2WpMQaEBQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Lu2WpMQaEBQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "88RgcQClUmY",
+              "title": "Which AI Certification Should You Actually Get",
+              "publishedAt": "2026-09-13T12:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/88RgcQClUmY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/88RgcQClUmY",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -99,6 +185,38 @@
           ]
         },
         {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "SxuQs9GGYbk",
+              "title": "Pi Agent dev reveals his Agentic Engineering Workflow",
+              "publishedAt": "2026-09-12T19:35:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SxuQs9GGYbk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SxuQs9GGYbk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "Pu-Qt_VBNWA",
+              "title": "GPT-6 Astra Builds $10k Websites in One Prompt",
+              "publishedAt": "2026-09-12T13:10:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Pu-Qt_VBNWA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Pu-Qt_VBNWA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -151,6 +269,22 @@
           ]
         },
         {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "JyEZOSHkpMk",
+              "title": "The Heavyweight AI Cert",
+              "publishedAt": "2026-09-12T12:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JyEZOSHkpMk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JyEZOSHkpMk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
@@ -189,6 +323,22 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "SWQNAK-p7xk",
+              "title": "GPT-6 Astra Automated My Entire Job Hunt",
+              "publishedAt": "2026-09-11T13:00:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SWQNAK-p7xk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SWQNAK-p7xk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -215,6 +365,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/z3l7NmmjO18/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=z3l7NmmjO18",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "ByWCsa8DbF8",
+              "title": "Build a Local AI Agent in 10 Minutes using Python",
+              "publishedAt": "2026-09-11T14:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ByWCsa8DbF8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ByWCsa8DbF8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "KzaSYYQ-pPE",
+              "title": "The Highest Value AI Cert",
+              "publishedAt": "2026-09-11T12:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KzaSYYQ-pPE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KzaSYYQ-pPE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -315,6 +491,22 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "z2ocO_3QwfY",
+              "title": "Get an Entire AI Agency for Free (296 Specialists)",
+              "publishedAt": "2026-09-10T09:23:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z2ocO_3QwfY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/z2ocO_3QwfY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -351,6 +543,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/SFyMgicYV9U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=SFyMgicYV9U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "qxygwvBoBTc",
+              "title": "Lovable ADVANCED Tutorial - FULL Guide for Real Websites",
+              "publishedAt": "2026-09-10T13:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qxygwvBoBTc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qxygwvBoBTc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Ruh5WKjWPTA",
+              "title": "Is NVIDIA's AI Certification Worth It",
+              "publishedAt": "2026-09-10T12:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ruh5WKjWPTA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Ruh5WKjWPTA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -397,6 +615,22 @@
               "transcriptAvailable": false
             }
           ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "dfi3BsEPxic",
+              "title": "Claude 5 Changed Prompting Forever, Fix Yours Now",
+              "publishedAt": "2026-09-10T15:46:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dfi3BsEPxic/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dfi3BsEPxic",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
         }
       ]
     },
@@ -404,6 +638,38 @@
       "date": "2026-09-09",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "mgPj252Dek8",
+              "title": "Fireworks CTO: Why AI Is About To Get 1000x Better",
+              "publishedAt": "2026-09-09T10:27:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mgPj252Dek8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mgPj252Dek8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "hrOJIt4lpM0",
+              "title": "This AI OS Pays Developers to Build Apps ($80K/Month Fund)",
+              "publishedAt": "2026-09-09T13:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hrOJIt4lpM0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hrOJIt4lpM0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -441,6 +707,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/i2v5PHMUe0k/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=i2v5PHMUe0k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "d0bMDDzPBDs",
+              "title": "Is the AWS AI Cert Worth It?",
+              "publishedAt": "2026-09-09T12:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/d0bMDDzPBDs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/d0bMDDzPBDs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "wcBoFbvFxmc",
+              "title": "Why Claude works better inside Slack",
+              "publishedAt": "2026-09-09T18:29:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wcBoFbvFxmc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/wcBoFbvFxmc",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -537,6 +835,22 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "1pmKKYa5Xqc",
+              "title": "Anthropic's 4 New Rules for Prompting Claude 5 Models",
+              "publishedAt": "2026-09-08T17:55:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1pmKKYa5Xqc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1pmKKYa5Xqc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -547,6 +861,48 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zBt__cwsfvQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/zBt__cwsfvQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "4345ujvam84",
+              "title": "The Real Way to Land an AI Job",
+              "publishedAt": "2026-09-08T12:01:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4345ujvam84/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4345ujvam84",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "hm8NzEd5io0",
+              "title": "How founders build on Claude Managed Agents",
+              "publishedAt": "2026-09-08T20:22:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hm8NzEd5io0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hm8NzEd5io0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "jRPn3iG_e5g",
+              "title": "Anthropic engineers on what Claude changed for them",
+              "publishedAt": "2026-09-08T19:42:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jRPn3iG_e5g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jRPn3iG_e5g",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -601,6 +957,22 @@
           ]
         },
         {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "kt5a-TXmWew",
+              "title": "Claude Code: The Advanced Guide (99% of Devs Skip These Features)",
+              "publishedAt": "2026-09-07T18:07:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kt5a-TXmWew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kt5a-TXmWew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -617,76 +989,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-09-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "1qGH6NwTj3o",
-              "title": "For 3 Years You Gave AI The Method. GPT-6 Astra Went And Found Its Own.",
-              "publishedAt": "2026-09-06T17:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1qGH6NwTj3o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "nW-X5EkOnLw",
-              "title": "I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
-              "publishedAt": "2026-09-06T03:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nW-X5EkOnLw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/nW-X5EkOnLw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "VxsBGpSSaNU",
-              "title": "Build a Real-Life JARVIS That Does EVERYTHING for You (Runs My 3 Companies)",
-              "publishedAt": "2026-09-06T14:48:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VxsBGpSSaNU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VxsBGpSSaNU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "slpv4sVUN5o",
-              "title": "GPT-6 Astra IS INSANE! Best Usecases & Tricks...",
-              "publishedAt": "2026-09-06T06:15:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/slpv4sVUN5o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=slpv4sVUN5o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
     "status": "partial",
     "issues": [
-      "RSS unavailable for: MetalSole"
+      "RSS unavailable for: MetalSole, RAmjad, BMadCode"
     ]
   }
 }
