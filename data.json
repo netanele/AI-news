@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-14T19:42:31Z",
+  "lastUpdated": "2026-09-15T12:20:36Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "SWEThyRHMgQ",
+              "title": "My NEW FAVORITE Skill - Claude Code Drives My Whole Computer (Better Computer Use)",
+              "publishedAt": "2026-09-15T00:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SWEThyRHMgQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SWEThyRHMgQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "XMPatH1OxM8",
+              "title": "Grok 5.0 Will Be LEGENDARY, Gemini 4.0 Pro Leaks, China AI vs US AI, & Opus 5.2 Preview! AI NEWS",
+              "publishedAt": "2026-09-15T06:15:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XMPatH1OxM8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XMPatH1OxM8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "dailyDigest": "",
@@ -25,9 +63,35 @@
           ]
         },
         {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "8CijPgYiEaI",
+              "title": "Ten months ago I said AI changed. It just happened again.",
+              "publishedAt": "2026-09-14T23:32:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8CijPgYiEaI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8CijPgYiEaI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "duv4A1gDZOY",
+              "title": "Intelligence is Everywhere: Why the AI 'Race' is Already Over",
+              "publishedAt": "2026-09-14T23:39:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/duv4A1gDZOY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=duv4A1gDZOY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "XIt87tJHm-g",
               "title": "Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.",
@@ -83,6 +147,22 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "PQGxYvkMobQ",
+              "title": "How data retention works when using Claude",
+              "publishedAt": "2026-09-14T19:29:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PQGxYvkMobQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PQGxYvkMobQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -102,6 +182,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "Axj8jYpWyoU",
+              "title": "GPT-6 Built a City Out of Text",
+              "publishedAt": "2026-09-14T23:31:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Axj8jYpWyoU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Axj8jYpWyoU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "LyUoP_5QQOA",
               "title": "Can You Read 1,200 Words Per Minute?",
@@ -1003,70 +1093,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zHRX8pURCho/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zHRX8pURCho",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "ix8SsXjBc7M",
-              "title": "There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.",
-              "publishedAt": "2026-09-07T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ix8SsXjBc7M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ix8SsXjBc7M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "LGKW-nLUkp4",
-              "title": "Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens",
-              "publishedAt": "2026-09-07T03:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LGKW-nLUkp4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LGKW-nLUkp4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "kt5a-TXmWew",
-              "title": "Claude Code: The Advanced Guide (99% of Devs Skip These Features)",
-              "publishedAt": "2026-09-07T18:07:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kt5a-TXmWew/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=kt5a-TXmWew",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "V5NgF_olsTo",
-              "title": "Ponytail Makes Claude Code Write 94% Less Code!",
-              "publishedAt": "2026-09-07T06:15:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/V5NgF_olsTo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=V5NgF_olsTo",
               "summary": "",
               "transcriptAvailable": false
             }
