@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T12:20:36Z",
+  "lastUpdated": "2026-09-15T14:40:33Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/SWEThyRHMgQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=SWEThyRHMgQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "QYkF-qaj0hw",
+              "title": "I Ran GPT-6 Astra Inside Higgsfield and It Built an App for $0",
+              "publishedAt": "2026-09-15T13:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QYkF-qaj0hw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=QYkF-qaj0hw",
               "summary": "",
               "transcriptAvailable": false
             }
