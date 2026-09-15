@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T14:40:33Z",
+  "lastUpdated": "2026-09-15T18:39:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -41,6 +41,32 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "LQkcGtkSLNQ",
+              "title": "Frontier Day | Claude for startups",
+              "publishedAt": "2026-09-15T18:16:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LQkcGtkSLNQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LQkcGtkSLNQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "t6z0Ea0GwSk",
+              "title": "Salesforce in Claude",
+              "publishedAt": "2026-09-15T14:47:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t6z0Ea0GwSk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t6z0Ea0GwSk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -51,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/XMPatH1OxM8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=XMPatH1OxM8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "_6PR25pkHKI",
+              "title": "The Risk Dario’s AI Warning Leaves Out",
+              "publishedAt": "2026-09-15T15:54:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_6PR25pkHKI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=_6PR25pkHKI",
               "summary": "",
               "transcriptAvailable": false
             }
