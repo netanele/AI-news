@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T14:40:38Z",
+  "lastUpdated": "2026-09-16T18:35:57Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-16",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "p565AqELA8M",
+              "title": "This Just Killed AI Video Editing With GPT 6 Astra",
+              "publishedAt": "2026-09-16T16:12:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/p565AqELA8M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=p565AqELA8M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -61,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2_bqKTeg5n0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/2_bqKTeg5n0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "qMUf-jwSpMo",
+              "title": "Claude Cowork and chat are now one Claude",
+              "publishedAt": "2026-09-16T16:18:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qMUf-jwSpMo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qMUf-jwSpMo",
               "summary": "",
               "transcriptAvailable": false
             }
