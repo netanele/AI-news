@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-15T18:39:07Z",
+  "lastUpdated": "2026-09-16T12:17:54Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "wXAif5oyzio",
+              "title": "The hidden costs of a bad AI assistant #siri #apple #applenews",
+              "publishedAt": "2026-09-16T03:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wXAif5oyzio/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/wXAif5oyzio",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "2_bqKTeg5n0",
+              "title": "How I'd Learn Python From Scratch",
+              "publishedAt": "2026-09-16T11:58:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2_bqKTeg5n0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2_bqKTeg5n0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "dailyDigest": "",
@@ -86,6 +124,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "AGdPioTEi9g",
+              "title": "GPT-6 Spent 5 Days Building This City",
+              "publishedAt": "2026-09-15T21:30:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AGdPioTEi9g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AGdPioTEi9g",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "_6PR25pkHKI",
               "title": "The Risk Dario’s AI Warning Leaves Out",
@@ -1023,134 +1071,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/RcW8icS4sgA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/RcW8icS4sgA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "cyIWQHYoUg8",
-              "title": "Github Top Trending Tool Just Fixed The AI Agent’s Biggest Problem",
-              "publishedAt": "2026-09-08T16:02:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cyIWQHYoUg8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=cyIWQHYoUg8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "PxQ_UJXDE1g",
-              "title": "The Safest Way I've Found to Let AI Coding Agents Run Real Infrastructure",
-              "publishedAt": "2026-09-08T17:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PxQ_UJXDE1g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/PxQ_UJXDE1g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "1pmKKYa5Xqc",
-              "title": "Anthropic's 4 New Rules for Prompting Claude 5 Models",
-              "publishedAt": "2026-09-08T17:55:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1pmKKYa5Xqc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1pmKKYa5Xqc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "zBt__cwsfvQ",
-              "title": "AGI is here. Humans should now decide what to do #astra #openai #ai",
-              "publishedAt": "2026-09-08T03:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zBt__cwsfvQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/zBt__cwsfvQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "4345ujvam84",
-              "title": "The Real Way to Land an AI Job",
-              "publishedAt": "2026-09-08T12:01:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4345ujvam84/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4345ujvam84",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "hm8NzEd5io0",
-              "title": "How founders build on Claude Managed Agents",
-              "publishedAt": "2026-09-08T20:22:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hm8NzEd5io0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hm8NzEd5io0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "jRPn3iG_e5g",
-              "title": "Anthropic engineers on what Claude changed for them",
-              "publishedAt": "2026-09-08T19:42:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jRPn3iG_e5g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jRPn3iG_e5g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "zHRX8pURCho",
-              "title": "HUGE Grok 4.7 Leaks! Fable 5.2 Soon, OpenAI's Post Astra Model, Gemini 4.0 Delayed & More! AI NEWS",
-              "publishedAt": "2026-09-08T06:15:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zHRX8pURCho/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zHRX8pURCho",
               "summary": "",
               "transcriptAvailable": false
             }
