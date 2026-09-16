@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T12:17:54Z",
+  "lastUpdated": "2026-09-16T14:40:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "qrCtnDETmLo",
+              "title": "GPT-6 Astra + DeepSeek 4.1 = Frontier AI for Almost $0",
+              "publishedAt": "2026-09-16T13:52:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qrCtnDETmLo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qrCtnDETmLo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "8u3vB6kPdgY",
+              "title": "Cursor Costs $20. This AI Agent Costs $1,000,000.",
+              "publishedAt": "2026-09-16T13:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8u3vB6kPdgY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8u3vB6kPdgY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "2_bqKTeg5n0",
               "title": "How I'd Learn Python From Scratch",
