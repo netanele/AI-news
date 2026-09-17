@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T14:44:18Z",
+  "lastUpdated": "2026-09-17T18:43:59Z",
   "config": {
     "daysToShow": 7
   },
@@ -45,6 +45,16 @@
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
             {
+              "id": "i50zWniqVoU",
+              "title": "Make GPT-6 Astra and Fable 5.1 Work Together",
+              "publishedAt": "2026-09-17T16:18:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i50zWniqVoU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/i50zWniqVoU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "zmjFtIyQbc0",
               "title": "I Gave Claude Code an API Key and It Built a Merch Store",
               "publishedAt": "2026-09-17T13:00:08+00:00",
@@ -87,12 +97,38 @@
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
             {
+              "id": "84-sHkG4AQU",
+              "title": "Top 7 AI Agent Tools That Actually Work",
+              "publishedAt": "2026-09-17T17:18:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/84-sHkG4AQU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=84-sHkG4AQU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "_If-cxb-nB8",
               "title": "Stop Learning Python Like This",
               "publishedAt": "2026-09-17T12:00:26+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_If-cxb-nB8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_If-cxb-nB8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "5qt_aGyAsKk",
+              "title": "Projects are now a conversation with Claude",
+              "publishedAt": "2026-09-17T17:04:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5qt_aGyAsKk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5qt_aGyAsKk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -109,6 +145,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2MPxXpWNB-Q/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/2MPxXpWNB-Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "-URQjhtvxZo",
+              "title": "Claude Beginner to Pro in 18 Minutes",
+              "publishedAt": "2026-09-17T16:37:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-URQjhtvxZo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-URQjhtvxZo",
               "summary": "",
               "transcriptAvailable": false
             }
