@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T12:17:34Z",
+  "lastUpdated": "2026-09-17T14:44:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,51 @@
           ]
         },
         {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "R--bWH0x8_c",
+              "title": "I let GPT-6 Astra run my business… it’s insane",
+              "publishedAt": "2026-09-17T14:12:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/R--bWH0x8_c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=R--bWH0x8_c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "zmjFtIyQbc0",
+              "title": "I Gave Claude Code an API Key and It Built a Merch Store",
+              "publishedAt": "2026-09-17T13:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zmjFtIyQbc0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zmjFtIyQbc0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "YTG0rdHPTDE",
+              "title": "AI Agents Are Starting To Buy. Stripe Is Building How They Pay.",
+              "publishedAt": "2026-09-17T14:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YTG0rdHPTDE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YTG0rdHPTDE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "0TzNu627VzY",
               "title": "What is Omarchy?  #OS #AI #agents",
@@ -51,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_If-cxb-nB8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/_If-cxb-nB8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "2MPxXpWNB-Q",
+              "title": "Anthropic’s IPO Makes No Sense",
+              "publishedAt": "2026-09-17T12:21:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2MPxXpWNB-Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/2MPxXpWNB-Q",
               "summary": "",
               "transcriptAvailable": false
             }
