@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-09-20T11:54:37Z",
+  "lastUpdated": "2026-09-20T13:59:27Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "Ge47OxX5vAI",
+              "title": "Stop Passively Watching Tutorials",
+              "publishedAt": "2026-09-20T12:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ge47OxX5vAI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Ge47OxX5vAI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "dailyDigest": "",
