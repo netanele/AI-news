@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T13:59:27Z",
+  "lastUpdated": "2026-09-20T17:50:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-20",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "eLpRDIvOMEw",
+              "title": "You can be ambitious without the huge token bill. Here's how.",
+              "publishedAt": "2026-09-20T17:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eLpRDIvOMEw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eLpRDIvOMEw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
