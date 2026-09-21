@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T13:27:42Z",
+  "lastUpdated": "2026-09-21T16:17:02Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,51 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "bA8WeHYmJko",
+              "title": "Jev is the FIRST of a Whole New Class of AI Models (Here's How to Actually Use It)",
+              "publishedAt": "2026-09-21T13:45:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bA8WeHYmJko/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bA8WeHYmJko",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "40bjDoUIqmc",
+              "title": "Here's how this 35B competes with Frontier models",
+              "publishedAt": "2026-09-21T15:09:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/40bjDoUIqmc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/40bjDoUIqmc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "tYugqJ9YytQ",
+              "title": "What is Jev? The AI that Can't Talk Back (and why that's a good thing)",
+              "publishedAt": "2026-09-21T14:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tYugqJ9YytQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=tYugqJ9YytQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "HBz9O5e7FiE",
               "title": "The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork",
@@ -35,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/e8i9pp5-y4k/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/e8i9pp5-y4k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "kF1BvUK5_Mc",
+              "title": "Claude Cowork and chat are now one Claude",
+              "publishedAt": "2026-09-21T14:34:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kF1BvUK5_Mc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/kF1BvUK5_Mc",
               "summary": "",
               "transcriptAvailable": false
             }
