@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T16:17:02Z",
+  "lastUpdated": "2026-09-21T19:50:26Z",
   "config": {
     "daysToShow": 7
   },
@@ -71,6 +71,16 @@
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
             {
+              "id": "oZ-w0kOpylw",
+              "title": "Understand Local AI in 15 Minutes",
+              "publishedAt": "2026-09-21T17:42:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oZ-w0kOpylw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oZ-w0kOpylw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "e8i9pp5-y4k",
               "title": "Momentum Beats Mastery",
               "publishedAt": "2026-09-21T12:00:00+00:00",
@@ -118,6 +128,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "6ov1JaMVT_U",
+              "title": "What People Are Building With Jev Is Incredible",
+              "publishedAt": "2026-09-21T16:46:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6ov1JaMVT_U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6ov1JaMVT_U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "S4VUMFELhaQ",
               "title": "Is This Simulated Fruit Fly Real?",
