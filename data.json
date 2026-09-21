@@ -1,13 +1,99 @@
 {
-  "lastUpdated": "2026-09-20T17:50:49Z",
+  "lastUpdated": "2026-09-21T13:27:42Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-09-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "HBz9O5e7FiE",
+              "title": "The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork",
+              "publishedAt": "2026-09-21T03:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HBz9O5e7FiE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/HBz9O5e7FiE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "e8i9pp5-y4k",
+              "title": "Momentum Beats Mastery",
+              "publishedAt": "2026-09-21T12:00:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e8i9pp5-y4k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/e8i9pp5-y4k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "i00isgmGgGg",
+              "title": "HUGE Opus 5.5 LEAKS + Cheaper? Qwen 4, Kimi K3.1, MiniMax M3.1 & Step 5 Preview! AI NEWS",
+              "publishedAt": "2026-09-21T06:15:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i00isgmGgGg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i00isgmGgGg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "S4VUMFELhaQ",
+              "title": "Is This Simulated Fruit Fly Real?",
+              "publishedAt": "2026-09-21T06:18:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S4VUMFELhaQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/S4VUMFELhaQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "6CaQ9ZFuuKI",
+              "title": "Claude Code: The Complete AI-Native SDLC Guide",
+              "publishedAt": "2026-09-20T22:42:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6CaQ9ZFuuKI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6CaQ9ZFuuKI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -19,6 +105,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/eLpRDIvOMEw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=eLpRDIvOMEw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "OGem_i11wHk",
+              "title": "WTF is Gods Eye AI?",
+              "publishedAt": "2026-09-20T19:58:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OGem_i11wHk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/OGem_i11wHk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -903,128 +1005,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ypNekbQpT5U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ypNekbQpT5U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "mWrG0MaJB3Q",
-              "title": "I Ran 10 Claude Code Agents Overnight in Upstash Box",
-              "publishedAt": "2026-09-13T13:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mWrG0MaJB3Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mWrG0MaJB3Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "ifgB5u53Ftg",
-              "title": "The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.",
-              "publishedAt": "2026-09-13T16:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ifgB5u53Ftg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ifgB5u53Ftg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FV8HAq39yxs",
-              "title": "We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools",
-              "publishedAt": "2026-09-13T03:00:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FV8HAq39yxs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FV8HAq39yxs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "Lu2WpMQaEBQ",
-              "title": "Be CAREFUL when using Claude now!",
-              "publishedAt": "2026-09-13T18:39:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Lu2WpMQaEBQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Lu2WpMQaEBQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "88RgcQClUmY",
-              "title": "Which AI Certification Should You Actually Get",
-              "publishedAt": "2026-09-13T12:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/88RgcQClUmY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/88RgcQClUmY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "fyygMxVCAWI",
-              "title": "HUGE Google DeepMind RSI LEAKS! GPT-6 Astra NERFED, Kimi K2.8 Code, & More! AI NEWS",
-              "publishedAt": "2026-09-13T06:15:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fyygMxVCAWI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fyygMxVCAWI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "OSqR_ISUbXY",
-              "title": "The $1 Million Fluid Problem",
-              "publishedAt": "2026-09-13T17:26:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OSqR_ISUbXY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/OSqR_ISUbXY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "gk6uuwmFVq8",
-              "title": "DeepSeek Is INSANELY Fast",
-              "publishedAt": "2026-09-13T12:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gk6uuwmFVq8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/gk6uuwmFVq8",
               "summary": "",
               "transcriptAvailable": false
             }
