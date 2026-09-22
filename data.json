@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T12:11:52Z",
+  "lastUpdated": "2026-09-22T14:25:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "_8Wod-K8bn0",
+              "title": "Grok 4.7 is out, here's how I use it",
+              "publishedAt": "2026-09-22T12:47:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_8Wod-K8bn0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_8Wod-K8bn0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "TR8RDUzQaMo",
+              "title": "Does Your Computer Belong To Codex? I Went To OpenAI To Ask.",
+              "publishedAt": "2026-09-22T14:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TR8RDUzQaMo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TR8RDUzQaMo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "AgzVxj_ztiA",
               "title": "Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage",
@@ -19,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/AgzVxj_ztiA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/AgzVxj_ztiA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "5RsKIKQejJw",
+              "title": "This NEW AI Unlocks ENDLESS Possibilities",
+              "publishedAt": "2026-09-22T14:07:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5RsKIKQejJw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5RsKIKQejJw",
               "summary": "",
               "transcriptAvailable": false
             }
