@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T14:25:00Z",
+  "lastUpdated": "2026-09-22T18:27:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "CHHEjuNBxoQ",
+              "title": "This New Open Source Tool Just Fixed Your Claude Code Workflow",
+              "publishedAt": "2026-09-22T15:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CHHEjuNBxoQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CHHEjuNBxoQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "DavidOndrej",
           "channelUrl": "https://www.youtube.com/@DavidOndrej",
           "videos": [
+            {
+              "id": "VeaaXWFQG0U",
+              "title": "Opus 5.5 is Here",
+              "publishedAt": "2026-09-22T17:05:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VeaaXWFQG0U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/VeaaXWFQG0U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "_8Wod-K8bn0",
               "title": "Grok 4.7 is out, here's how I use it",
@@ -83,6 +109,72 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "FcK--rzZfpA",
+              "title": "Meet Claude Opus 5.5",
+              "publishedAt": "2026-09-22T17:47:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FcK--rzZfpA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FcK--rzZfpA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "1f13Bl1sYkw",
+              "title": "Introducing Claude Opus 5.5",
+              "publishedAt": "2026-09-22T16:32:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1f13Bl1sYkw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1f13Bl1sYkw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "K-pgPNFcAj4",
+              "title": "GPS, explained by Claude Opus 5.5",
+              "publishedAt": "2026-09-22T16:32:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/K-pgPNFcAj4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=K-pgPNFcAj4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Ov-B6K1EsaI",
+              "title": "Claude Opus 5.5 rebuilds Earthrise in 3D, down to the second",
+              "publishedAt": "2026-09-22T16:32:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ov-B6K1EsaI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ov-B6K1EsaI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "lCR9epzSNGc",
+              "title": "Claude Opus 5.5 builds daydreams that hold together",
+              "publishedAt": "2026-09-22T16:32:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lCR9epzSNGc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lCR9epzSNGc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "uMsZ21ubIMM",
+              "title": "Claude Opus 5.5 turns graphite into gravity",
+              "publishedAt": "2026-09-22T16:32:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uMsZ21ubIMM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uMsZ21ubIMM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -102,6 +194,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "5MFORiebZks",
+              "title": "GPT-6 SOL AND LUNA ARE OUT!!!",
+              "publishedAt": "2026-09-22T16:33:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5MFORiebZks/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5MFORiebZks",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "MJllZbpvrAc",
               "title": "Did Elon catch up? (Grok 4.7 is here)",
