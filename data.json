@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-09-21T19:50:26Z",
+  "lastUpdated": "2026-09-22T12:11:52Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "AgzVxj_ztiA",
+              "title": "Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage",
+              "publishedAt": "2026-09-22T03:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AgzVxj_ztiA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AgzVxj_ztiA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "NoJAH9_nS5I",
+              "title": "Is Software Engineering Dying",
+              "publishedAt": "2026-09-22T11:26:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NoJAH9_nS5I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NoJAH9_nS5I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "Nv_kTdHIVNY",
+              "title": "Xiaomi MiMo-V2.6 Pro IS THE BEST Open Source Model EVER! (Fully Tested)",
+              "publishedAt": "2026-09-22T06:15:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Nv_kTdHIVNY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Nv_kTdHIVNY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "MJllZbpvrAc",
+              "title": "Did Elon catch up? (Grok 4.7 is here)",
+              "publishedAt": "2026-09-22T00:13:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MJllZbpvrAc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MJllZbpvrAc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "dailyDigest": "",
@@ -909,180 +979,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/_6PR25pkHKI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=_6PR25pkHKI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "Ua0APTMVcb8",
-              "title": "8 Insane GitHub Repos That 10x Your Claude Code Setup",
-              "publishedAt": "2026-09-14T15:53:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ua0APTMVcb8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ua0APTMVcb8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "8CijPgYiEaI",
-              "title": "Ten months ago I said AI changed. It just happened again.",
-              "publishedAt": "2026-09-14T23:32:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8CijPgYiEaI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8CijPgYiEaI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "duv4A1gDZOY",
-              "title": "Intelligence is Everywhere: Why the AI 'Race' is Already Over",
-              "publishedAt": "2026-09-14T23:39:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/duv4A1gDZOY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=duv4A1gDZOY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "XIt87tJHm-g",
-              "title": "Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.",
-              "publishedAt": "2026-09-14T14:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XIt87tJHm-g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XIt87tJHm-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "z3kot_j4et8",
-              "title": "Stop Learning to Build Websites. Learn to Sell Them",
-              "publishedAt": "2026-09-14T15:12:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/z3kot_j4et8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=z3kot_j4et8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "0nU4lQnnSz0",
-              "title": "I Replaced Myself With 4 AI Agents... It Actually Worked",
-              "publishedAt": "2026-09-14T13:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0nU4lQnnSz0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0nU4lQnnSz0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "3sqgtMXOUHE",
-              "title": "Don't Just Collect AI Certifications — Do This Instead",
-              "publishedAt": "2026-09-14T12:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3sqgtMXOUHE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3sqgtMXOUHE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "PQGxYvkMobQ",
-              "title": "How data retention works when using Claude",
-              "publishedAt": "2026-09-14T19:29:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PQGxYvkMobQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PQGxYvkMobQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "TKkdTyT6FlA",
-              "title": "NEW Opus 5.2 LEAKS, AI Development To Be Slowed Down, GPT-6 Sol Preview, DeepSeek Code 2.0, & More!",
-              "publishedAt": "2026-09-14T06:15:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TKkdTyT6FlA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TKkdTyT6FlA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Axj8jYpWyoU",
-              "title": "GPT-6 Built a City Out of Text",
-              "publishedAt": "2026-09-14T23:31:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Axj8jYpWyoU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Axj8jYpWyoU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "LyUoP_5QQOA",
-              "title": "Can You Read 1,200 Words Per Minute?",
-              "publishedAt": "2026-09-14T13:29:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LyUoP_5QQOA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LyUoP_5QQOA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ypNekbQpT5U",
-              "title": "GPT-6 Made a Fall Guys Game",
-              "publishedAt": "2026-09-14T10:53:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ypNekbQpT5U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ypNekbQpT5U",
               "summary": "",
               "transcriptAvailable": false
             }
