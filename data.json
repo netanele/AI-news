@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T14:45:10Z",
+  "lastUpdated": "2026-09-23T18:46:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "wE0wbpCy7zU",
+              "title": "The Backend Cheat Code for Claude Code",
+              "publishedAt": "2026-09-23T15:15:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wE0wbpCy7zU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/wE0wbpCy7zU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "uJPnh6eqT6k",
               "title": "The Fastest Way to Add SMS, WhatsApp & RCS to Your App",
@@ -103,6 +113,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/z6jbk0On37A/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/z6jbk0On37A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "jKRl_CSVxyI",
+              "title": "Using Claude Opus 5.5 as your daily driver",
+              "publishedAt": "2026-09-23T16:41:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jKRl_CSVxyI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jKRl_CSVxyI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "LCQ0_t02OHY",
+              "title": "Sometimes the whole point of a project is who it’s for",
+              "publishedAt": "2026-09-23T15:43:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LCQ0_t02OHY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LCQ0_t02OHY",
               "summary": "",
               "transcriptAvailable": false
             }
