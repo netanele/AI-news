@@ -1,9 +1,95 @@
 {
-  "lastUpdated": "2026-09-22T18:27:03Z",
+  "lastUpdated": "2026-09-23T12:24:48Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "fNam_AXX1dA",
+              "title": "I Put GPT-6 Sol and Opus 5.5 to the Test: Here's What Happened",
+              "publishedAt": "2026-09-23T06:58:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fNam_AXX1dA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fNam_AXX1dA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ntFJj-W7Otg",
+              "title": "As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents",
+              "publishedAt": "2026-09-23T03:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ntFJj-W7Otg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ntFJj-W7Otg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "z6jbk0On37A",
+              "title": "Where the Junior Dev Jobs Went",
+              "publishedAt": "2026-09-23T12:00:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z6jbk0On37A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/z6jbk0On37A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "GJIkBVSoxUw",
+              "title": "HUGE AI NEWS: GPT-6 Sol & Luna, Opus 5.5, Sonnet 5.5, Haiku 5.5, Qwen 4.0, & Trump To Change AI!",
+              "publishedAt": "2026-09-23T06:15:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GJIkBVSoxUw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GJIkBVSoxUw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "OWu2kjKrRTA",
+              "title": "Anthropic went CRAZY (Opus 5.5)",
+              "publishedAt": "2026-09-23T03:41:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OWu2kjKrRTA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OWu2kjKrRTA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "dailyDigest": "",
@@ -51,6 +137,22 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "wjKOlntfka8",
+              "title": "Claude Opus 5.5: Stronger Coding Than Opus 5 for Less",
+              "publishedAt": "2026-09-22T19:48:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wjKOlntfka8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wjKOlntfka8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -80,6 +182,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "BkT9Wa5Z_nU",
+              "title": "Never Give Fable This..",
+              "publishedAt": "2026-09-22T20:47:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BkT9Wa5Z_nU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BkT9Wa5Z_nU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "5RsKIKQejJw",
               "title": "This NEW AI Unlocks ENDLESS Possibilities",
@@ -179,6 +291,16 @@
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
             {
+              "id": "rFCaGc7owT8",
+              "title": "Claude Opus 5.5 IS THE Greatest AI Model EVER! Cheaper, Fast, & Powerful! (FULLY TESTED)",
+              "publishedAt": "2026-09-22T19:10:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rFCaGc7owT8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rFCaGc7owT8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "Nv_kTdHIVNY",
               "title": "Xiaomi MiMo-V2.6 Pro IS THE BEST Open Source Model EVER! (Fully Tested)",
               "publishedAt": "2026-09-22T06:15:02+00:00",
@@ -194,6 +316,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "bn4uvtg8ECY",
+              "title": "How I Use Eight Sleep to Improve My Sleep",
+              "publishedAt": "2026-09-22T21:33:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bn4uvtg8ECY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/bn4uvtg8ECY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "5MFORiebZks",
               "title": "GPT-6 SOL AND LUNA ARE OUT!!!",
@@ -1017,112 +1149,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/xAmTQ80tNQA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/xAmTQ80tNQA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "SWEThyRHMgQ",
-              "title": "My NEW FAVORITE Skill - Claude Code Drives My Whole Computer (Better Computer Use)",
-              "publishedAt": "2026-09-15T00:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SWEThyRHMgQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SWEThyRHMgQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "QYkF-qaj0hw",
-              "title": "I Ran GPT-6 Astra Inside Higgsfield and It Built an App for $0",
-              "publishedAt": "2026-09-15T13:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QYkF-qaj0hw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=QYkF-qaj0hw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "LQkcGtkSLNQ",
-              "title": "Frontier Day | Claude for startups",
-              "publishedAt": "2026-09-15T18:16:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LQkcGtkSLNQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LQkcGtkSLNQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "t6z0Ea0GwSk",
-              "title": "Salesforce in Claude",
-              "publishedAt": "2026-09-15T14:47:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t6z0Ea0GwSk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=t6z0Ea0GwSk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "XMPatH1OxM8",
-              "title": "Grok 5.0 Will Be LEGENDARY, Gemini 4.0 Pro Leaks, China AI vs US AI, & Opus 5.2 Preview! AI NEWS",
-              "publishedAt": "2026-09-15T06:15:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XMPatH1OxM8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=XMPatH1OxM8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "AGdPioTEi9g",
-              "title": "GPT-6 Spent 5 Days Building This City",
-              "publishedAt": "2026-09-15T21:30:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AGdPioTEi9g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AGdPioTEi9g",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_6PR25pkHKI",
-              "title": "The Risk Dario’s AI Warning Leaves Out",
-              "publishedAt": "2026-09-15T15:54:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_6PR25pkHKI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=_6PR25pkHKI",
               "summary": "",
               "transcriptAvailable": false
             }
