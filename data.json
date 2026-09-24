@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T14:40:29Z",
+  "lastUpdated": "2026-09-24T18:46:44Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-24",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "bBMp5tLxShQ",
+              "title": "Shopify Just Released The Greatest Claude Code Workflow Ever",
+              "publishedAt": "2026-09-24T15:41:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bBMp5tLxShQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bBMp5tLxShQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -67,6 +83,22 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "oZgcAsfvS_g",
+              "title": "How AI is being used in humanitarian work",
+              "publishedAt": "2026-09-24T17:03:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oZgcAsfvS_g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oZgcAsfvS_g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -77,6 +109,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zPbbOaX5yJ8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zPbbOaX5yJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "jGD_UR4wMJc",
+              "title": "8 Jev Use Cases That Feel Like Cheating",
+              "publishedAt": "2026-09-24T18:37:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jGD_UR4wMJc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jGD_UR4wMJc",
               "summary": "",
               "transcriptAvailable": false
             }
