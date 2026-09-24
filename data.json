@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T12:24:11Z",
+  "lastUpdated": "2026-09-24T14:40:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ry9J1i3krIY",
+              "title": "When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.",
+              "publishedAt": "2026-09-24T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ry9J1i3krIY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ry9J1i3krIY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "He8tUwLzLnU",
+              "title": "MCP Servers Explained & Built",
+              "publishedAt": "2026-09-24T13:00:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=He8tUwLzLnU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "D0ij-BgQBqs",
               "title": "AI has made writing code cheap",
