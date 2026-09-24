@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-09-23T18:46:04Z",
+  "lastUpdated": "2026-09-24T12:24:11Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "NZq88JAJSag",
+              "title": "AI Coding Rate Limits are RIDICULOUS Now - Here's How You Keep Scaling Anyway",
+              "publishedAt": "2026-09-24T00:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NZq88JAJSag/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NZq88JAJSag",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "D0ij-BgQBqs",
+              "title": "AI has made writing code cheap",
+              "publishedAt": "2026-09-24T12:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D0ij-BgQBqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/D0ij-BgQBqs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "zPbbOaX5yJ8",
+              "title": "HUGE GPT-6 Astra Minor LEAK, Claude HUGE Discovery, Mimo V3.0, Sonnet 5.5, & Muse Spark 1.4! AI NEWS",
+              "publishedAt": "2026-09-24T06:15:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zPbbOaX5yJ8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zPbbOaX5yJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "dailyDigest": "",
@@ -19,6 +73,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/i2TQy33mYhE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/i2TQy33mYhE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "dePdvvaNBAA",
+              "title": "Your app isn't secure... here's how to solve it",
+              "publishedAt": "2026-09-23T21:16:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dePdvvaNBAA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dePdvvaNBAA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -165,12 +235,38 @@
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
             {
+              "id": "Ima_AVPyQ9E",
+              "title": "GPT-6 Sol and Luna Are HERE!",
+              "publishedAt": "2026-09-23T20:19:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Ima_AVPyQ9E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Ima_AVPyQ9E",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "OWu2kjKrRTA",
               "title": "Anthropic went CRAZY (Opus 5.5)",
               "publishedAt": "2026-09-23T03:41:24+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/OWu2kjKrRTA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=OWu2kjKrRTA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "D-Z5HnLW_ho",
+              "title": "Every Jev Concept Explained (use with Claude)",
+              "publishedAt": "2026-09-23T20:33:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D-Z5HnLW_ho/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=D-Z5HnLW_ho",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -1115,128 +1211,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/-URQjhtvxZo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=-URQjhtvxZo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "p565AqELA8M",
-              "title": "This Just Killed AI Video Editing With GPT 6 Astra",
-              "publishedAt": "2026-09-16T16:12:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/p565AqELA8M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=p565AqELA8M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "wXAif5oyzio",
-              "title": "The hidden costs of a bad AI assistant #siri #apple #applenews",
-              "publishedAt": "2026-09-16T03:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/wXAif5oyzio/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/wXAif5oyzio",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "qrCtnDETmLo",
-              "title": "GPT-6 Astra + DeepSeek 4.1 = Frontier AI for Almost $0",
-              "publishedAt": "2026-09-16T13:52:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qrCtnDETmLo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qrCtnDETmLo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "8u3vB6kPdgY",
-              "title": "Cursor Costs $20. This AI Agent Costs $1,000,000.",
-              "publishedAt": "2026-09-16T13:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8u3vB6kPdgY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8u3vB6kPdgY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2_bqKTeg5n0",
-              "title": "How I'd Learn Python From Scratch",
-              "publishedAt": "2026-09-16T11:58:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2_bqKTeg5n0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2_bqKTeg5n0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "To5nrYqvR44",
-              "title": "Meet Claude Slides, Claude Design and Claude Docs",
-              "publishedAt": "2026-09-16T19:12:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/To5nrYqvR44/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=To5nrYqvR44",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "qMUf-jwSpMo",
-              "title": "Claude Cowork and chat are now one Claude",
-              "publishedAt": "2026-09-16T16:18:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qMUf-jwSpMo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qMUf-jwSpMo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "xAmTQ80tNQA",
-              "title": "Doom in Real Time",
-              "publishedAt": "2026-09-16T19:42:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xAmTQ80tNQA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/xAmTQ80tNQA",
               "summary": "",
               "transcriptAvailable": false
             }
