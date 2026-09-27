@@ -1,9 +1,355 @@
 {
-  "lastUpdated": "2026-09-24T18:46:44Z",
+  "lastUpdated": "2026-09-27T12:34:24Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "A-JBaNvv3Tk",
+              "title": "Ex-Apple dev reveals his Agentic Engineering Workflow",
+              "publishedAt": "2026-09-27T05:01:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/A-JBaNvv3Tk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=A-JBaNvv3Tk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "7d892sCIRNo",
+              "title": "The Best Agentic Engineering GUI",
+              "publishedAt": "2026-09-27T00:47:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7d892sCIRNo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7d892sCIRNo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Vbo2zV9fC_g",
+              "title": "A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech",
+              "publishedAt": "2026-09-27T03:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Vbo2zV9fC_g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Vbo2zV9fC_g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "XbjqvTJtH7A",
+              "title": "The Real Cost of AI: What Companies Won't Tell You",
+              "publishedAt": "2026-09-27T11:48:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XbjqvTJtH7A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/XbjqvTJtH7A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "8AKAE9gzTRc",
+              "title": "Being Good With AI Isn't Special Anymore",
+              "publishedAt": "2026-09-27T12:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8AKAE9gzTRc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8AKAE9gzTRc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "6DjIjjE3doo",
+              "title": "HUGE OpenAI DevDay LEAK! “o” AI Agent, Sonnet 5.5 BEATS GPT-6, MiniMax M3.1 OUT & More! AI NEWS",
+              "publishedAt": "2026-09-27T06:17:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6DjIjjE3doo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6DjIjjE3doo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "V2LM98zJlko",
+              "title": "Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance",
+              "publishedAt": "2026-09-26T03:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/V2LM98zJlko/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/V2LM98zJlko",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "BZG-fE2-LYk",
+              "title": "Build One AI Bot and You Could Watch a Starship Launch",
+              "publishedAt": "2026-09-26T15:01:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BZG-fE2-LYk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BZG-fE2-LYk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "BAoCx-OlP2A",
+              "title": "Use AI Like a Pro, Not a Vibe Coder",
+              "publishedAt": "2026-09-26T12:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BAoCx-OlP2A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BAoCx-OlP2A",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "XpPtfB2pdio",
+              "title": "LM Studio Full Tutorial - The BEST Way to Run Local Models",
+              "publishedAt": "2026-09-26T11:50:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XpPtfB2pdio/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=XpPtfB2pdio",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "NuXuUNRlaqk",
+              "title": "HUGE Gemini 4 Pro LEAKS BEATS Opus 5.5! Kimi K4, New Stealth Model, ByteDance 10T & More! AI NEWS",
+              "publishedAt": "2026-09-26T06:43:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NuXuUNRlaqk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NuXuUNRlaqk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "rgO5v8MFtFg",
+              "title": "What People Are Building With Opus 5.5",
+              "publishedAt": "2026-09-26T01:30:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rgO5v8MFtFg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rgO5v8MFtFg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "td52e2tQFIU",
+              "title": "The Biggest AI Coding Agent Upgrade Is Already on Your Machine?!",
+              "publishedAt": "2026-09-25T14:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/td52e2tQFIU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=td52e2tQFIU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "WFR3oe8xgD8",
+              "title": "I Gave My Website an AI Avatar That Takes Orders (Synthesia)",
+              "publishedAt": "2026-09-25T13:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WFR3oe8xgD8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WFR3oe8xgD8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "G1iKbjHkZqQ",
+              "title": "The 4-Cent AI Model That Saves Your Usage Limits",
+              "publishedAt": "2026-09-25T12:11:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/G1iKbjHkZqQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/G1iKbjHkZqQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "Risal7sjYms",
+              "title": "How To Use ChatGPT Work: The Complete Beginner's Guide (2026)",
+              "publishedAt": "2026-09-25T15:30:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Risal7sjYms/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Risal7sjYms",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "8B6KuqZuHng",
+              "title": "Why world models matter #nvidia #ai #physicalai #robots",
+              "publishedAt": "2026-09-25T03:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8B6KuqZuHng/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8B6KuqZuHng",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Uq2tkX5_PRk",
+              "title": "Opus 5.5 + Jev Just Solved AI's Biggest Problem",
+              "publishedAt": "2026-09-25T18:50:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Uq2tkX5_PRk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Uq2tkX5_PRk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "3hbE8ga-0A0",
+              "title": "Reading Code Beats Writing It",
+              "publishedAt": "2026-09-25T12:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3hbE8ga-0A0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3hbE8ga-0A0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "mQZB0l-rhxE",
+              "title": "Building verification loops in Claude Code",
+              "publishedAt": "2026-09-25T23:13:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mQZB0l-rhxE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=mQZB0l-rhxE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "h5QwrHhW28Q",
+              "title": "Google's Project Suncatcher IS SENDING AI TO SPACE!?, Sonnet 5.5, $500 ChatGPT Plan & More! AI NEWS",
+              "publishedAt": "2026-09-25T06:39:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/h5QwrHhW28Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=h5QwrHhW28Q",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "zICv3IJaAfQ",
+              "title": "DeepSeek is CRAZY",
+              "publishedAt": "2026-09-25T21:05:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zICv3IJaAfQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/zICv3IJaAfQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "dailyDigest": "",
@@ -86,6 +432,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "S_lzYIvtEaQ",
+              "title": "Patrick Collison on Claude Code at Stripe",
+              "publishedAt": "2026-09-24T22:57:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S_lzYIvtEaQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=S_lzYIvtEaQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "oZgcAsfvS_g",
               "title": "How AI is being used in humanitarian work",
@@ -819,472 +1175,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Ge47OxX5vAI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Ge47OxX5vAI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "f6We53TnkbU",
-              "title": "Build Anything with Jev, Here’s How",
-              "publishedAt": "2026-09-19T21:51:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/f6We53TnkbU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=f6We53TnkbU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "UyhrTDYhTuo",
-              "title": "Stop Using ChatGPT for Everything—Jev Is Here",
-              "publishedAt": "2026-09-19T07:40:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UyhrTDYhTuo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UyhrTDYhTuo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "ChsbhUjFrn4",
-              "title": "AI Experts Made Personal Belief Sound Factual. And We Helped!",
-              "publishedAt": "2026-09-19T19:47:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ChsbhUjFrn4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ChsbhUjFrn4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "1PdgNyOy20w",
-              "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
-              "publishedAt": "2026-09-19T13:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1PdgNyOy20w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1PdgNyOy20w",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "hzQ0brWmVyM",
-              "title": "My Biggest Python Mistake",
-              "publishedAt": "2026-09-19T12:00:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hzQ0brWmVyM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hzQ0brWmVyM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "hUZNPCSZDaQ",
-              "title": "HUGE Fable 5.2, Opus 5.2, Sonnet 5.2 LEAKS! Gemini World, Google AI HACKS Companies & More! AI NEWS",
-              "publishedAt": "2026-09-19T06:15:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hUZNPCSZDaQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hUZNPCSZDaQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "Ow_z94c3wKk",
-              "title": "This New Design Tool Just Fixed Claude Code's Design Problem",
-              "publishedAt": "2026-09-18T15:16:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ow_z94c3wKk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ow_z94c3wKk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "shYJ0P-vvdI",
-              "title": "Don't Miss These 7 Claude Code Updates",
-              "publishedAt": "2026-09-18T06:15:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/shYJ0P-vvdI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=shYJ0P-vvdI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "jopulPr2upk",
-              "title": "Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia",
-              "publishedAt": "2026-09-18T03:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jopulPr2upk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jopulPr2upk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "ElrC9j2XiMg",
-              "title": "Use this Loophole to make thousands selling websites",
-              "publishedAt": "2026-09-18T13:15:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ElrC9j2XiMg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ElrC9j2XiMg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "ScvXFi4MUSc",
-              "title": "Jev + Claude Code = The Cheapest Agentic Coding Loop Yet",
-              "publishedAt": "2026-09-18T15:02:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ScvXFi4MUSc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ScvXFi4MUSc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "FGC8-V-UkJs",
-              "title": "Python Is Still No 1",
-              "publishedAt": "2026-09-18T12:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FGC8-V-UkJs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FGC8-V-UkJs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "71-8fJIGi34",
-              "title": "Which Claude model should you use?",
-              "publishedAt": "2026-09-18T16:22:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/71-8fJIGi34/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=71-8fJIGi34",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "ZJ6RUAH--Js",
-              "title": "HUGE Gemini 4 Pro LEAKS! GPT-6 Sol Testing, Grok 4.7 UPDATE, Google RSI & More! AI NEWS",
-              "publishedAt": "2026-09-18T06:15:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZJ6RUAH--Js/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZJ6RUAH--Js",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Z4no-hhcuas",
-              "title": "NVIDIA PAIR Connects Your Computers for Local AI",
-              "publishedAt": "2026-09-18T22:04:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Z4no-hhcuas/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Z4no-hhcuas",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2z-7pIj57f8",
-              "title": "We need to talk about Jev...",
-              "publishedAt": "2026-09-18T15:28:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2z-7pIj57f8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2z-7pIj57f8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "jsZvCoe-Qto",
-              "title": "GPT-6 Made a Literal Needle-in-a-Haystack Game",
-              "publishedAt": "2026-09-18T13:16:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jsZvCoe-Qto/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jsZvCoe-Qto",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "x1pZBYj1fUk",
-              "title": "Jev Sorts 150,000 Skittles in 5 Seconds",
-              "publishedAt": "2026-09-18T07:48:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/x1pZBYj1fUk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/x1pZBYj1fUk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "simonscrapes",
-          "channelUrl": "https://www.youtube.com/@simonscrapes",
-          "videos": [
-            {
-              "id": "afVpjeoQF2I",
-              "title": "Anthropic Just Built It’s Own Agentic OS",
-              "publishedAt": "2026-09-18T17:06:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/afVpjeoQF2I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=afVpjeoQF2I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "mjQlZrteMIY",
-              "title": "You Built Your AI Second Brain. Now What? (Here's How to Evolve It)",
-              "publishedAt": "2026-09-17T00:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mjQlZrteMIY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=mjQlZrteMIY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "R--bWH0x8_c",
-              "title": "I let GPT-6 Astra run my business… it’s insane",
-              "publishedAt": "2026-09-17T14:12:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/R--bWH0x8_c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=R--bWH0x8_c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "i50zWniqVoU",
-              "title": "Make GPT-6 Astra and Fable 5.1 Work Together",
-              "publishedAt": "2026-09-17T16:18:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i50zWniqVoU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/i50zWniqVoU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "zmjFtIyQbc0",
-              "title": "I Gave Claude Code an API Key and It Built a Merch Store",
-              "publishedAt": "2026-09-17T13:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/zmjFtIyQbc0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=zmjFtIyQbc0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "YTG0rdHPTDE",
-              "title": "AI Agents Are Starting To Buy. Stripe Is Building How They Pay.",
-              "publishedAt": "2026-09-17T14:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YTG0rdHPTDE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YTG0rdHPTDE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0TzNu627VzY",
-              "title": "What is Omarchy?  #OS #AI #agents",
-              "publishedAt": "2026-09-17T03:00:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0TzNu627VzY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0TzNu627VzY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "84-sHkG4AQU",
-              "title": "Top 7 AI Agent Tools That Actually Work",
-              "publishedAt": "2026-09-17T17:18:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/84-sHkG4AQU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=84-sHkG4AQU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_If-cxb-nB8",
-              "title": "Stop Learning Python Like This",
-              "publishedAt": "2026-09-17T12:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_If-cxb-nB8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_If-cxb-nB8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "5qt_aGyAsKk",
-              "title": "Projects are now a conversation with Claude",
-              "publishedAt": "2026-09-17T17:04:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5qt_aGyAsKk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5qt_aGyAsKk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "_7f2k3g4ym8",
-              "title": "Can You Tell What's Real and What's AI?",
-              "publishedAt": "2026-09-17T23:18:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_7f2k3g4ym8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_7f2k3g4ym8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "2MPxXpWNB-Q",
-              "title": "Anthropic’s IPO Makes No Sense",
-              "publishedAt": "2026-09-17T12:21:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2MPxXpWNB-Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/2MPxXpWNB-Q",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "simonscrapes",
-          "channelUrl": "https://www.youtube.com/@simonscrapes",
-          "videos": [
-            {
-              "id": "-URQjhtvxZo",
-              "title": "Claude Beginner to Pro in 18 Minutes",
-              "publishedAt": "2026-09-17T16:37:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-URQjhtvxZo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-URQjhtvxZo",
               "summary": "",
               "transcriptAvailable": false
             }
