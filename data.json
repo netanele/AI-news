@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T12:34:24Z",
+  "lastUpdated": "2026-09-27T15:01:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -70,6 +70,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "FGBUPD-SHMw",
+              "title": "5 Python Coding Skills That Get You Hired in 2026",
+              "publishedAt": "2026-09-27T13:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FGBUPD-SHMw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FGBUPD-SHMw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8AKAE9gzTRc",
               "title": "Being Good With AI Isn't Special Anymore",
