@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T15:01:18Z",
+  "lastUpdated": "2026-09-27T18:50:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -38,6 +38,16 @@
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "2IAYFgAqX6g",
+              "title": "The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.",
+              "publishedAt": "2026-09-27T16:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2IAYFgAqX6g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2IAYFgAqX6g",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Vbo2zV9fC_g",
               "title": "A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech",
