@@ -1,9 +1,115 @@
 {
-  "lastUpdated": "2026-09-27T18:50:07Z",
+  "lastUpdated": "2026-09-28T14:41:26Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "oFPUUFLZJHQ",
+              "title": "Your Coding Agent Wastes SO MANY Tokens Just Finding Code - Here's the Fix",
+              "publishedAt": "2026-09-28T14:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oFPUUFLZJHQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/oFPUUFLZJHQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "vI4mMEAV0O8",
+              "title": "Why every Agent needs it's own computer",
+              "publishedAt": "2026-09-28T09:02:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vI4mMEAV0O8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/vI4mMEAV0O8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "3yvmtO6bWY8",
+              "title": "Why you shouldn't buy a Mac mini for your AI Agents",
+              "publishedAt": "2026-09-28T02:33:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3yvmtO6bWY8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3yvmtO6bWY8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "j8Wi8ovhoGY",
+              "title": "Everybody's talking about Jev. Here's what it is #jev #ai",
+              "publishedAt": "2026-09-28T03:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/j8Wi8ovhoGY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/j8Wi8ovhoGY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "SB8QvazUzG8",
+              "title": "ChatGPT Work+ GPT-6 Astra Can Do So Much More for You Now...",
+              "publishedAt": "2026-09-28T12:54:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SB8QvazUzG8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SB8QvazUzG8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "s5E6pwMBgNg",
+              "title": "Every Company Wants This AI Skill",
+              "publishedAt": "2026-09-28T13:47:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/s5E6pwMBgNg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/s5E6pwMBgNg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "misjUj4Q_ho",
+              "title": "Building a Real App with Claude Code (Start to Finish)",
+              "publishedAt": "2026-09-28T12:29:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/misjUj4Q_ho/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=misjUj4Q_ho",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-27",
       "dailyDigest": "",
@@ -1125,76 +1231,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/S4VUMFELhaQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/S4VUMFELhaQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "6CaQ9ZFuuKI",
-              "title": "Claude Code: The Complete AI-Native SDLC Guide",
-              "publishedAt": "2026-09-20T22:42:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6CaQ9ZFuuKI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6CaQ9ZFuuKI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "eLpRDIvOMEw",
-              "title": "You can be ambitious without the huge token bill. Here's how.",
-              "publishedAt": "2026-09-20T17:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eLpRDIvOMEw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=eLpRDIvOMEw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "OGem_i11wHk",
-              "title": "WTF is Gods Eye AI?",
-              "publishedAt": "2026-09-20T19:58:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OGem_i11wHk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/OGem_i11wHk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "Ge47OxX5vAI",
-              "title": "Stop Passively Watching Tutorials",
-              "publishedAt": "2026-09-20T12:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ge47OxX5vAI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Ge47OxX5vAI",
               "summary": "",
               "transcriptAvailable": false
             }
