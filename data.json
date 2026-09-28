@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T17:59:09Z",
+  "lastUpdated": "2026-09-28T20:59:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -44,6 +44,16 @@
           "channelName": "DavidOndrej",
           "channelUrl": "https://www.youtube.com/@DavidOndrej",
           "videos": [
+            {
+              "id": "GwlqUZF52ug",
+              "title": "You're betting against AI if you're doing this...",
+              "publishedAt": "2026-09-28T18:47:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GwlqUZF52ug/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/GwlqUZF52ug",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "vI4mMEAV0O8",
               "title": "Why every Agent needs it's own computer",
@@ -129,6 +139,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/misjUj4Q_ho/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=misjUj4Q_ho",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "s5nkj-L2vAw",
+              "title": "Introducing Claude Sonnet 5.5",
+              "publishedAt": "2026-09-28T18:04:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/s5nkj-L2vAw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "u-3cPWPvRUE",
+              "title": "Introducing Claude Sonnet 5.5",
+              "publishedAt": "2026-09-28T18:04:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u-3cPWPvRUE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/u-3cPWPvRUE",
               "summary": "",
               "transcriptAvailable": false
             }
