@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T14:41:26Z",
+  "lastUpdated": "2026-09-28T17:59:09Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-09-28",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "2nc_QMuNp18",
+              "title": "Insane Jev Uses You Need To Use Right Now",
+              "publishedAt": "2026-09-28T15:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2nc_QMuNp18/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2nc_QMuNp18",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -71,6 +87,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "ZdLhJn-p8x0",
+              "title": "I Ditched Claude For 3 Separate AI Models — Here's Why",
+              "publishedAt": "2026-09-28T14:44:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZdLhJn-p8x0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZdLhJn-p8x0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "SB8QvazUzG8",
               "title": "ChatGPT Work+ GPT-6 Astra Can Do So Much More for You Now...",
               "publishedAt": "2026-09-28T12:54:43+00:00",
@@ -103,6 +129,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/misjUj4Q_ho/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=misjUj4Q_ho",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "TyhlQ0ufH3Y",
+              "title": "MYSTERIOUS Stealth AI Model BEATS GPT-6 Astra & It’s COMPLETELY FREE!",
+              "publishedAt": "2026-09-28T17:37:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TyhlQ0ufH3Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TyhlQ0ufH3Y",
               "summary": "",
               "transcriptAvailable": false
             }
