@@ -1,9 +1,99 @@
 {
-  "lastUpdated": "2026-09-28T20:59:38Z",
+  "lastUpdated": "2026-09-29T13:31:56Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-09-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "nPECyNOy3ak",
+              "title": "I Let GPT Control Blender and THIS Happened",
+              "publishedAt": "2026-09-29T02:17:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nPECyNOy3ak/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nPECyNOy3ak",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "lFA-zuZRG4Q",
+              "title": "Why You NEED This New Python Tool",
+              "publishedAt": "2026-09-29T13:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lFA-zuZRG4Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lFA-zuZRG4Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "EpHVYqaqw_o",
+              "title": "The AI Skills That Sit on Top of Coding",
+              "publishedAt": "2026-09-29T12:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EpHVYqaqw_o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EpHVYqaqw_o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "WzoDOZnHbCk",
+              "title": "HUGE Fable 5.5 LEAK, Sonnet 5.5 IS INSANE, GPT 6.1, Qwen 4.0, Kimi K3.1 & More! AI NEWS",
+              "publishedAt": "2026-09-29T06:40:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WzoDOZnHbCk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WzoDOZnHbCk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "T-E7rmD6rh4",
+              "title": "Sonnet 5.5 Is Here. Look What It Can Build.",
+              "publishedAt": "2026-09-29T05:04:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/T-E7rmD6rh4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=T-E7rmD6rh4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "0NhtHVPQwt8",
+              "title": "What We Built With Sonnet 5.5",
+              "publishedAt": "2026-09-29T00:01:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0NhtHVPQwt8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/0NhtHVPQwt8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "dailyDigest": "",
@@ -96,6 +186,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "SHQfLM0c7QQ",
+              "title": "This Is What a Week Off Looks Like When AI Runs Your Business",
+              "publishedAt": "2026-09-28T23:22:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SHQfLM0c7QQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SHQfLM0c7QQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ZdLhJn-p8x0",
               "title": "I Ditched Claude For 3 Separate AI Models — Here's Why",
@@ -1161,154 +1261,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/MJllZbpvrAc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=MJllZbpvrAc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "bA8WeHYmJko",
-              "title": "Jev is the FIRST of a Whole New Class of AI Models (Here's How to Actually Use It)",
-              "publishedAt": "2026-09-21T13:45:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bA8WeHYmJko/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=bA8WeHYmJko",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "40bjDoUIqmc",
-              "title": "Here's how this 35B competes with Frontier models",
-              "publishedAt": "2026-09-21T15:09:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/40bjDoUIqmc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/40bjDoUIqmc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "tYugqJ9YytQ",
-              "title": "What is Jev? The AI that Can't Talk Back (and why that's a good thing)",
-              "publishedAt": "2026-09-21T14:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tYugqJ9YytQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=tYugqJ9YytQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "HBz9O5e7FiE",
-              "title": "The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork",
-              "publishedAt": "2026-09-21T03:00:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HBz9O5e7FiE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/HBz9O5e7FiE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "oZ-w0kOpylw",
-              "title": "Understand Local AI in 15 Minutes",
-              "publishedAt": "2026-09-21T17:42:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oZ-w0kOpylw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oZ-w0kOpylw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "e8i9pp5-y4k",
-              "title": "Momentum Beats Mastery",
-              "publishedAt": "2026-09-21T12:00:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/e8i9pp5-y4k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/e8i9pp5-y4k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "kF1BvUK5_Mc",
-              "title": "Claude Cowork and chat are now one Claude",
-              "publishedAt": "2026-09-21T14:34:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kF1BvUK5_Mc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/kF1BvUK5_Mc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "i00isgmGgGg",
-              "title": "HUGE Opus 5.5 LEAKS + Cheaper? Qwen 4, Kimi K3.1, MiniMax M3.1 & Step 5 Preview! AI NEWS",
-              "publishedAt": "2026-09-21T06:15:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i00isgmGgGg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=i00isgmGgGg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "6ov1JaMVT_U",
-              "title": "What People Are Building With Jev Is Incredible",
-              "publishedAt": "2026-09-21T16:46:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6ov1JaMVT_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6ov1JaMVT_U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "S4VUMFELhaQ",
-              "title": "Is This Simulated Fruit Fly Real?",
-              "publishedAt": "2026-09-21T06:18:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/S4VUMFELhaQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/S4VUMFELhaQ",
               "summary": "",
               "transcriptAvailable": false
             }
