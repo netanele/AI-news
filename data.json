@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T13:31:56Z",
+  "lastUpdated": "2026-09-29T16:22:00Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nPECyNOy3ak/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=nPECyNOy3ak",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "gbbPBr3OraQ",
+              "title": "I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.",
+              "publishedAt": "2026-09-29T14:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gbbPBr3OraQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gbbPBr3OraQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "13_-mbhsbpE",
+              "title": "How to Never Run Out of Codex Usage Limit (Even on GPT-6 Astra)",
+              "publishedAt": "2026-09-29T14:05:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/13_-mbhsbpE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=13_-mbhsbpE",
               "summary": "",
               "transcriptAvailable": false
             }
