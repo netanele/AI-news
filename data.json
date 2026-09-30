@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T13:08:15Z",
+  "lastUpdated": "2026-09-30T16:17:37Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,67 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "DP7mgLUKN_U",
+              "title": "How To Use Claude Code To Build Insanely Beautiful Sites With Opus 5.5",
+              "publishedAt": "2026-09-30T15:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DP7mgLUKN_U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DP7mgLUKN_U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "osZZjdMZVvA",
+              "title": "Opus 5.5 vs The Rest: Is this the new industry standard?",
+              "publishedAt": "2026-09-30T14:47:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/osZZjdMZVvA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=osZZjdMZVvA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "CMfeUBp6A68",
+              "title": "How I Turned a 40-Minute Training Into 11 Posts in 10 Minutes",
+              "publishedAt": "2026-09-30T14:30:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CMfeUBp6A68/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/CMfeUBp6A68",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "x6siPRkPAeQ",
+              "title": "MacBook vs. PC for AI: The 2026 Verdict",
+              "publishedAt": "2026-09-30T13:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/x6siPRkPAeQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=x6siPRkPAeQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Y7BNSNLlqmI",
               "title": "Sep 30, 2026   These AI Skills Are Learnable",
