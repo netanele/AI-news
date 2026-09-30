@@ -1,13 +1,83 @@
 {
-  "lastUpdated": "2026-09-29T19:44:11Z",
+  "lastUpdated": "2026-09-30T13:08:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-09-30",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "Y7BNSNLlqmI",
+              "title": "Sep 30, 2026   These AI Skills Are Learnable",
+              "publishedAt": "2026-09-30T12:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Y7BNSNLlqmI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Y7BNSNLlqmI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "uJNP_FdlR3I",
+              "title": "GPT-6.1 Sol IS INSANE! + OpenAI's DevDay: Dots, Pro 500, Ultrafast, Codex & More! AI NEWS",
+              "publishedAt": "2026-09-30T06:51:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uJNP_FdlR3I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uJNP_FdlR3I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Xc6ERvZM1NY",
+              "title": "OpenAI COOKED",
+              "publishedAt": "2026-09-30T01:26:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Xc6ERvZM1NY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Xc6ERvZM1NY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "u9g9EBUAam8",
+              "title": "David's takes on OpenAI DevDay",
+              "publishedAt": "2026-09-29T23:25:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u9g9EBUAam8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/u9g9EBUAam8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
@@ -19,6 +89,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/nPECyNOy3ak/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=nPECyNOy3ak",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "dNl4J6YxICw",
+              "title": "I Left Claude This Summer. Opus 5.5 Is Winning Me Back.",
+              "publishedAt": "2026-09-29T22:03:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dNl4J6YxICw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dNl4J6YxICw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -77,6 +163,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/EpHVYqaqw_o/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/EpHVYqaqw_o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "_f_rtbW_uFM",
+              "title": "Getting started with Claude Tag",
+              "publishedAt": "2026-09-29T20:07:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_f_rtbW_uFM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=_f_rtbW_uFM",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -1033,266 +1135,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/D-Z5HnLW_ho/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=D-Z5HnLW_ho",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "CHHEjuNBxoQ",
-              "title": "This New Open Source Tool Just Fixed Your Claude Code Workflow",
-              "publishedAt": "2026-09-22T15:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CHHEjuNBxoQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=CHHEjuNBxoQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "VeaaXWFQG0U",
-              "title": "Opus 5.5 is Here",
-              "publishedAt": "2026-09-22T17:05:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VeaaXWFQG0U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/VeaaXWFQG0U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "_8Wod-K8bn0",
-              "title": "Grok 4.7 is out, here's how I use it",
-              "publishedAt": "2026-09-22T12:47:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_8Wod-K8bn0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_8Wod-K8bn0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "wjKOlntfka8",
-              "title": "Claude Opus 5.5: Stronger Coding Than Opus 5 for Less",
-              "publishedAt": "2026-09-22T19:48:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/wjKOlntfka8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=wjKOlntfka8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "TR8RDUzQaMo",
-              "title": "Does Your Computer Belong To Codex? I Went To OpenAI To Ask.",
-              "publishedAt": "2026-09-22T14:00:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TR8RDUzQaMo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TR8RDUzQaMo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "AgzVxj_ztiA",
-              "title": "Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage",
-              "publishedAt": "2026-09-22T03:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/AgzVxj_ztiA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/AgzVxj_ztiA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "BkT9Wa5Z_nU",
-              "title": "Never Give Fable This..",
-              "publishedAt": "2026-09-22T20:47:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BkT9Wa5Z_nU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/BkT9Wa5Z_nU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5RsKIKQejJw",
-              "title": "This NEW AI Unlocks ENDLESS Possibilities",
-              "publishedAt": "2026-09-22T14:07:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5RsKIKQejJw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5RsKIKQejJw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "NoJAH9_nS5I",
-              "title": "Is Software Engineering Dying",
-              "publishedAt": "2026-09-22T11:26:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NoJAH9_nS5I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/NoJAH9_nS5I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "FcK--rzZfpA",
-              "title": "Meet Claude Opus 5.5",
-              "publishedAt": "2026-09-22T17:47:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FcK--rzZfpA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FcK--rzZfpA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1f13Bl1sYkw",
-              "title": "Introducing Claude Opus 5.5",
-              "publishedAt": "2026-09-22T16:32:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1f13Bl1sYkw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1f13Bl1sYkw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "K-pgPNFcAj4",
-              "title": "GPS, explained by Claude Opus 5.5",
-              "publishedAt": "2026-09-22T16:32:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K-pgPNFcAj4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=K-pgPNFcAj4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Ov-B6K1EsaI",
-              "title": "Claude Opus 5.5 rebuilds Earthrise in 3D, down to the second",
-              "publishedAt": "2026-09-22T16:32:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ov-B6K1EsaI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ov-B6K1EsaI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "lCR9epzSNGc",
-              "title": "Claude Opus 5.5 builds daydreams that hold together",
-              "publishedAt": "2026-09-22T16:32:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lCR9epzSNGc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lCR9epzSNGc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uMsZ21ubIMM",
-              "title": "Claude Opus 5.5 turns graphite into gravity",
-              "publishedAt": "2026-09-22T16:32:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uMsZ21ubIMM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uMsZ21ubIMM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "rFCaGc7owT8",
-              "title": "Claude Opus 5.5 IS THE Greatest AI Model EVER! Cheaper, Fast, & Powerful! (FULLY TESTED)",
-              "publishedAt": "2026-09-22T19:10:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rFCaGc7owT8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rFCaGc7owT8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Nv_kTdHIVNY",
-              "title": "Xiaomi MiMo-V2.6 Pro IS THE BEST Open Source Model EVER! (Fully Tested)",
-              "publishedAt": "2026-09-22T06:15:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Nv_kTdHIVNY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Nv_kTdHIVNY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "bn4uvtg8ECY",
-              "title": "How I Use Eight Sleep to Improve My Sleep",
-              "publishedAt": "2026-09-22T21:33:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/bn4uvtg8ECY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/bn4uvtg8ECY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5MFORiebZks",
-              "title": "GPT-6 SOL AND LUNA ARE OUT!!!",
-              "publishedAt": "2026-09-22T16:33:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5MFORiebZks/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5MFORiebZks",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "MJllZbpvrAc",
-              "title": "Did Elon catch up? (Grok 4.7 is here)",
-              "publishedAt": "2026-09-22T00:13:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MJllZbpvrAc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=MJllZbpvrAc",
               "summary": "",
               "transcriptAvailable": false
             }
