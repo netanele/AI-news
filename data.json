@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T16:17:37Z",
+  "lastUpdated": "2026-09-30T19:46:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -44,6 +44,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "qI0LbAkqQ_c",
+              "title": "wtf is grok bot & how to setup for real",
+              "publishedAt": "2026-09-30T17:59:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qI0LbAkqQ_c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qI0LbAkqQ_c",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "CMfeUBp6A68",
               "title": "How I Turned a 40-Minute Training Into 11 Posts in 10 Minutes",
