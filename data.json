@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T16:55:03Z",
+  "lastUpdated": "2026-10-01T20:02:56Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-01",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "8h6JyvDQvg8",
+              "title": "ChatGPT Now Works While You Sleep (OpenAI Dots)",
+              "publishedAt": "2026-10-01T16:58:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8h6JyvDQvg8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8h6JyvDQvg8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -35,6 +51,48 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1iC4b4d4-Zc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/1iC4b4d4-Zc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "bVXiNb9RyyI",
+              "title": "How an Anthropic designer uses Claude Slides",
+              "publishedAt": "2026-10-01T18:07:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bVXiNb9RyyI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bVXiNb9RyyI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "NzcRprKWbD8",
+              "title": "How an Anthropic designer uses Claude Slides",
+              "publishedAt": "2026-10-01T18:07:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NzcRprKWbD8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NzcRprKWbD8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "OODvXcQJyVo",
+              "title": "Muse from Meta Can Work Through Your To-Do List",
+              "publishedAt": "2026-10-01T16:59:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OODvXcQJyVo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/OODvXcQJyVo",
               "summary": "",
               "transcriptAvailable": false
             }
