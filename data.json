@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T14:00:21Z",
+  "lastUpdated": "2026-10-01T16:55:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1iC4b4d4-Zc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/1iC4b4d4-Zc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "e7TY56-yIvM",
+              "title": "Everything You Know About Skills IS OUTDATED",
+              "publishedAt": "2026-10-01T15:38:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e7TY56-yIvM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=e7TY56-yIvM",
               "summary": "",
               "transcriptAvailable": false
             }
