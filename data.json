@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-09-30T19:46:04Z",
+  "lastUpdated": "2026-10-01T14:00:21Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-01",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "otMlZycCBZ4",
+              "title": "Meta's Muse can get your money back #AI #meta #muse #agent",
+              "publishedAt": "2026-10-01T03:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/otMlZycCBZ4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/otMlZycCBZ4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "1iC4b4d4-Zc",
+              "title": "The Highest Leverage AI Career Move",
+              "publishedAt": "2026-10-01T12:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1iC4b4d4-Zc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1iC4b4d4-Zc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "dailyDigest": "",
@@ -19,6 +57,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DP7mgLUKN_U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DP7mgLUKN_U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "qwnJJMNGwgY",
+              "title": "The BEST Jev Use Cases for AI Coding (Absolute Game Changers)",
+              "publishedAt": "2026-09-30T21:18:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qwnJJMNGwgY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qwnJJMNGwgY",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -96,6 +150,16 @@
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
+            {
+              "id": "RMTWayrwYkQ",
+              "title": "Gemini 4 Argon Is Google’s Most Powerful AI Model + Early Tests!",
+              "publishedAt": "2026-09-30T21:53:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RMTWayrwYkQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RMTWayrwYkQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "uJNP_FdlR3I",
               "title": "GPT-6.1 Sol IS INSANE! + OpenAI's DevDay: Dots, Pro 500, Ultrafast, Codex & More! AI NEWS",
@@ -987,222 +1051,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/jGD_UR4wMJc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=jGD_UR4wMJc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "i2TQy33mYhE",
-              "title": "Bring Your MCP Server to Amazon's $190K Hackathon!",
-              "publishedAt": "2026-09-23T13:54:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i2TQy33mYhE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/i2TQy33mYhE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "dePdvvaNBAA",
-              "title": "Your app isn't secure... here's how to solve it",
-              "publishedAt": "2026-09-23T21:16:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dePdvvaNBAA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dePdvvaNBAA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "wE0wbpCy7zU",
-              "title": "The Backend Cheat Code for Claude Code",
-              "publishedAt": "2026-09-23T15:15:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/wE0wbpCy7zU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/wE0wbpCy7zU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uJPnh6eqT6k",
-              "title": "The Fastest Way to Add SMS, WhatsApp & RCS to Your App",
-              "publishedAt": "2026-09-23T13:00:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uJPnh6eqT6k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uJPnh6eqT6k",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "fNam_AXX1dA",
-              "title": "I Put GPT-6 Sol and Opus 5.5 to the Test: Here's What Happened",
-              "publishedAt": "2026-09-23T06:58:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fNam_AXX1dA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fNam_AXX1dA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "ntFJj-W7Otg",
-              "title": "As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents",
-              "publishedAt": "2026-09-23T03:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ntFJj-W7Otg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ntFJj-W7Otg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "DIogX8GZS-c",
-              "title": "How to Run Your ENTIRE Business With GPT-6 Astra (No Coding Required)",
-              "publishedAt": "2026-09-23T14:44:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DIogX8GZS-c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DIogX8GZS-c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "-RTgK6qX6A8",
-              "title": "How to Build AI Agents in Python - 3 Ways",
-              "publishedAt": "2026-09-23T13:30:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-RTgK6qX6A8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-RTgK6qX6A8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "z6jbk0On37A",
-              "title": "Where the Junior Dev Jobs Went",
-              "publishedAt": "2026-09-23T12:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/z6jbk0On37A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/z6jbk0On37A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "jKRl_CSVxyI",
-              "title": "Using Claude Opus 5.5 as your daily driver",
-              "publishedAt": "2026-09-23T16:41:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jKRl_CSVxyI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jKRl_CSVxyI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "LCQ0_t02OHY",
-              "title": "Sometimes the whole point of a project is who it’s for",
-              "publishedAt": "2026-09-23T15:43:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LCQ0_t02OHY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LCQ0_t02OHY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "GJIkBVSoxUw",
-              "title": "HUGE AI NEWS: GPT-6 Sol & Luna, Opus 5.5, Sonnet 5.5, Haiku 5.5, Qwen 4.0, & Trump To Change AI!",
-              "publishedAt": "2026-09-23T06:15:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GJIkBVSoxUw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=GJIkBVSoxUw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Ima_AVPyQ9E",
-              "title": "GPT-6 Sol and Luna Are HERE!",
-              "publishedAt": "2026-09-23T20:19:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Ima_AVPyQ9E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Ima_AVPyQ9E",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "OWu2kjKrRTA",
-              "title": "Anthropic went CRAZY (Opus 5.5)",
-              "publishedAt": "2026-09-23T03:41:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OWu2kjKrRTA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OWu2kjKrRTA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "simonscrapes",
-          "channelUrl": "https://www.youtube.com/@simonscrapes",
-          "videos": [
-            {
-              "id": "D-Z5HnLW_ho",
-              "title": "Every Jev Concept Explained (use with Claude)",
-              "publishedAt": "2026-09-23T20:33:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/D-Z5HnLW_ho/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=D-Z5HnLW_ho",
               "summary": "",
               "transcriptAvailable": false
             }
