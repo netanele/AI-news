@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T12:56:27Z",
+  "lastUpdated": "2026-10-04T15:11:01Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "HGoECgO6PdY",
+              "title": "i promise you, setting up AIOS can blow up your business!",
+              "publishedAt": "2026-10-04T13:11:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HGoECgO6PdY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=HGoECgO6PdY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "H5o1P8RMiMw",
+              "title": "Build Your Own Agentic Harness in Python - Full Tutorial",
+              "publishedAt": "2026-10-04T14:11:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H5o1P8RMiMw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "u3HMv_QlhBM",
               "title": "Software Engineering Is Changing Here's What to Focus On",
