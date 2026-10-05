@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T15:23:15Z",
+  "lastUpdated": "2026-10-05T19:06:23Z",
   "config": {
     "daysToShow": 7
   },
@@ -41,6 +41,22 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "uMCIgRcJWMM",
+              "title": "If You've Been Wanting to Use AI in Your Business, Watch This",
+              "publishedAt": "2026-10-05T18:04:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uMCIgRcJWMM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uMCIgRcJWMM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
@@ -61,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1gHEWetDx6U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/1gHEWetDx6U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "iFHsEHP437U",
+              "title": "How to use Opus 5.5 and Sonnet 5.5",
+              "publishedAt": "2026-10-05T17:06:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iFHsEHP437U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/iFHsEHP437U",
               "summary": "",
               "transcriptAvailable": false
             }
