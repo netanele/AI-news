@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T19:06:23Z",
+  "lastUpdated": "2026-10-05T21:45:59Z",
   "config": {
     "daysToShow": 7
   },
@@ -86,6 +86,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "yUuFvL1lK4k",
+              "title": "Mods in Claude Code: change how Claude Code works",
+              "publishedAt": "2026-10-05T19:18:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yUuFvL1lK4k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yUuFvL1lK4k",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "iFHsEHP437U",
               "title": "How to use Opus 5.5 and Sonnet 5.5",
