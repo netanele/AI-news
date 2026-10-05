@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-10-04T18:29:51Z",
+  "lastUpdated": "2026-10-05T15:23:15Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-05",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "i6Q7bXnWGlM",
+              "title": "25 Hidden Settings That You Need In Your Claude Code Setup",
+              "publishedAt": "2026-10-05T15:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i6Q7bXnWGlM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i6Q7bXnWGlM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "xsDXfHALzdg",
+              "title": "OpenAI’s Dots Feels Like an Actual Assistant",
+              "publishedAt": "2026-10-05T12:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xsDXfHALzdg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xsDXfHALzdg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "BwUNZPfOeCQ",
+              "title": "What Actually Makes Claude Code Smart",
+              "publishedAt": "2026-10-05T12:28:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BwUNZPfOeCQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BwUNZPfOeCQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "1gHEWetDx6U",
+              "title": "These Skills Are Worth More Than Ever",
+              "publishedAt": "2026-10-05T11:52:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1gHEWetDx6U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1gHEWetDx6U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "dailyDigest": "",
@@ -28,6 +92,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "4ykvIClnrAM",
+              "title": "Google Mapped a Brain and Now It's INSANE",
+              "publishedAt": "2026-10-04T20:22:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4ykvIClnrAM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4ykvIClnrAM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "HGoECgO6PdY",
               "title": "i promise you, setting up AIOS can blow up your business!",
@@ -61,6 +135,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/u3HMv_QlhBM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/u3HMv_QlhBM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "jo70OkhryIA",
+              "title": "DeepSeek Painted My Portrait",
+              "publishedAt": "2026-10-04T20:05:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jo70OkhryIA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jo70OkhryIA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -943,122 +1033,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TyhlQ0ufH3Y/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=TyhlQ0ufH3Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "A-JBaNvv3Tk",
-              "title": "Ex-Apple dev reveals his Agentic Engineering Workflow",
-              "publishedAt": "2026-09-27T05:01:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/A-JBaNvv3Tk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=A-JBaNvv3Tk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7d892sCIRNo",
-              "title": "The Best Agentic Engineering GUI",
-              "publishedAt": "2026-09-27T00:47:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7d892sCIRNo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7d892sCIRNo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "2IAYFgAqX6g",
-              "title": "The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.",
-              "publishedAt": "2026-09-27T16:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2IAYFgAqX6g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2IAYFgAqX6g",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Vbo2zV9fC_g",
-              "title": "A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech",
-              "publishedAt": "2026-09-27T03:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Vbo2zV9fC_g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Vbo2zV9fC_g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "XbjqvTJtH7A",
-              "title": "The Real Cost of AI: What Companies Won't Tell You",
-              "publishedAt": "2026-09-27T11:48:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/XbjqvTJtH7A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/XbjqvTJtH7A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "FGBUPD-SHMw",
-              "title": "5 Python Coding Skills That Get You Hired in 2026",
-              "publishedAt": "2026-09-27T13:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FGBUPD-SHMw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FGBUPD-SHMw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8AKAE9gzTRc",
-              "title": "Being Good With AI Isn't Special Anymore",
-              "publishedAt": "2026-09-27T12:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8AKAE9gzTRc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8AKAE9gzTRc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "6DjIjjE3doo",
-              "title": "HUGE OpenAI DevDay LEAK! “o” AI Agent, Sonnet 5.5 BEATS GPT-6, MiniMax M3.1 OUT & More! AI NEWS",
-              "publishedAt": "2026-09-27T06:17:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6DjIjjE3doo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6DjIjjE3doo",
               "summary": "",
               "transcriptAvailable": false
             }
