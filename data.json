@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T13:45:05Z",
+  "lastUpdated": "2026-10-06T16:32:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-06",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "26R8qtAqsWE",
+              "title": "Change One Thing In An AI Image, Not The Whole Picture",
+              "publishedAt": "2026-10-06T14:29:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/26R8qtAqsWE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/26R8qtAqsWE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -28,6 +44,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "uccBE9Tun6M",
+              "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
+              "publishedAt": "2026-10-06T13:54:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/uccBE9Tun6M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=uccBE9Tun6M",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "-Xlvmc6Y8Eg",
               "title": "Write Code That Others People Can Work With",
