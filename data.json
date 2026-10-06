@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-10-05T21:45:59Z",
+  "lastUpdated": "2026-10-06T13:45:05Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-06",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "1MzU5v8l5ZU",
+              "title": "OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity",
+              "publishedAt": "2026-10-06T03:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1MzU5v8l5ZU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1MzU5v8l5ZU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "-Xlvmc6Y8Eg",
+              "title": "Write Code That Others People Can Work With",
+              "publishedAt": "2026-10-06T12:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-Xlvmc6Y8Eg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/-Xlvmc6Y8Eg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "PQw0TRzpCkk",
+              "title": "MYSTERIOUS GPT-Next Model LEAKED,  Fable 5.5 TODAY? Gemini 4 Argon + RSI Update & More! AI NEWS",
+              "publishedAt": "2026-10-06T06:51:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PQw0TRzpCkk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PQw0TRzpCkk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "yrn7FqgVOW8",
+              "title": "Video Game Mashups: Minecraft and Mario in Elden Ring",
+              "publishedAt": "2026-10-06T08:13:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yrn7FqgVOW8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/yrn7FqgVOW8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "dailyDigest": "",
@@ -881,200 +951,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/0NhtHVPQwt8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/0NhtHVPQwt8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "2nc_QMuNp18",
-              "title": "Insane Jev Uses You Need To Use Right Now",
-              "publishedAt": "2026-09-28T15:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2nc_QMuNp18/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2nc_QMuNp18",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "oFPUUFLZJHQ",
-              "title": "Your Coding Agent Wastes SO MANY Tokens Just Finding Code - Here's the Fix",
-              "publishedAt": "2026-09-28T14:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oFPUUFLZJHQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/oFPUUFLZJHQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "GwlqUZF52ug",
-              "title": "You're betting against AI if you're doing this...",
-              "publishedAt": "2026-09-28T18:47:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/GwlqUZF52ug/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/GwlqUZF52ug",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "vI4mMEAV0O8",
-              "title": "Why every Agent needs it's own computer",
-              "publishedAt": "2026-09-28T09:02:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vI4mMEAV0O8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vI4mMEAV0O8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "3yvmtO6bWY8",
-              "title": "Why you shouldn't buy a Mac mini for your AI Agents",
-              "publishedAt": "2026-09-28T02:33:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3yvmtO6bWY8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3yvmtO6bWY8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "j8Wi8ovhoGY",
-              "title": "Everybody's talking about Jev. Here's what it is #jev #ai",
-              "publishedAt": "2026-09-28T03:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/j8Wi8ovhoGY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/j8Wi8ovhoGY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "SHQfLM0c7QQ",
-              "title": "This Is What a Week Off Looks Like When AI Runs Your Business",
-              "publishedAt": "2026-09-28T23:22:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SHQfLM0c7QQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SHQfLM0c7QQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZdLhJn-p8x0",
-              "title": "I Ditched Claude For 3 Separate AI Models — Here's Why",
-              "publishedAt": "2026-09-28T14:44:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZdLhJn-p8x0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZdLhJn-p8x0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SB8QvazUzG8",
-              "title": "ChatGPT Work+ GPT-6 Astra Can Do So Much More for You Now...",
-              "publishedAt": "2026-09-28T12:54:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SB8QvazUzG8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SB8QvazUzG8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "s5E6pwMBgNg",
-              "title": "Every Company Wants This AI Skill",
-              "publishedAt": "2026-09-28T13:47:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/s5E6pwMBgNg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/s5E6pwMBgNg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "misjUj4Q_ho",
-              "title": "Building a Real App with Claude Code (Start to Finish)",
-              "publishedAt": "2026-09-28T12:29:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/misjUj4Q_ho/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=misjUj4Q_ho",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "s5nkj-L2vAw",
-              "title": "Introducing Claude Sonnet 5.5",
-              "publishedAt": "2026-09-28T18:04:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/s5nkj-L2vAw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "u-3cPWPvRUE",
-              "title": "Introducing Claude Sonnet 5.5",
-              "publishedAt": "2026-09-28T18:04:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/u-3cPWPvRUE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "TyhlQ0ufH3Y",
-              "title": "MYSTERIOUS Stealth AI Model BEATS GPT-6 Astra & It’s COMPLETELY FREE!",
-              "publishedAt": "2026-09-28T17:37:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TyhlQ0ufH3Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TyhlQ0ufH3Y",
               "summary": "",
               "transcriptAvailable": false
             }
