@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T16:32:38Z",
+  "lastUpdated": "2026-10-06T19:56:34Z",
   "config": {
     "daysToShow": 7
   },
@@ -61,6 +61,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/-Xlvmc6Y8Eg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/-Xlvmc6Y8Eg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "idJQMJwHtyM",
+              "title": "Claude for Google Workspace™",
+              "publishedAt": "2026-10-06T17:02:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=idJQMJwHtyM",
               "summary": "",
               "transcriptAvailable": false
             }
