@@ -1,9 +1,137 @@
 {
-  "lastUpdated": "2026-10-06T19:56:34Z",
+  "lastUpdated": "2026-10-07T14:02:46Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-07",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "8WUFmW9zrgY",
+              "title": "The only moat in the age of AI is this",
+              "publishedAt": "2026-10-07T02:01:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8WUFmW9zrgY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8WUFmW9zrgY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "jmKcZhM-1ww",
+              "title": "Viktor Solves Claude's Biggest Limitation (Finally)",
+              "publishedAt": "2026-10-07T13:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jmKcZhM-1ww/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jmKcZhM-1ww",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "aggJvNZxfKA",
+              "title": "I Built a Self-Improving Software Factory",
+              "publishedAt": "2026-10-07T00:46:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aggJvNZxfKA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=aggJvNZxfKA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "ZF6l9MIRkXs",
+              "title": "The New Way to Work With AI",
+              "publishedAt": "2026-10-07T12:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZF6l9MIRkXs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZF6l9MIRkXs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "sVQ3XlM9I40",
+              "title": "Gemini 4 Argon Is #1 On A Leaderboard. Here's Why You Still Can't Use It.",
+              "publishedAt": "2026-10-07T14:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sVQ3XlM9I40/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=sVQ3XlM9I40",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "TwpizYlIcbg",
+              "title": "How to Pass a Python Live Coding Interview in 2026",
+              "publishedAt": "2026-10-07T12:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TwpizYlIcbg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TwpizYlIcbg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "-mv1Tf26Vms",
+              "title": "GPT-7 'Bel' First Preview, Mythos 5.1 Access, Mistral Large 4, Claude Code Update, & More! AI NEWS",
+              "publishedAt": "2026-10-07T07:25:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-mv1Tf26Vms/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-mv1Tf26Vms",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "Hu1JOK6aXsI",
+              "title": "Mistral is BACK! (Le Chonk)",
+              "publishedAt": "2026-10-07T00:12:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Hu1JOK6aXsI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "dailyDigest": "",
@@ -41,6 +169,42 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "iyPr2KsbvzQ",
+              "title": "Claude Just Stopped Yapping, Here's the One Rule",
+              "publishedAt": "2026-10-06T23:02:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iyPr2KsbvzQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/iyPr2KsbvzQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "toHS7bwiR4Y",
+              "title": "DeepSeek's New Model Just KILLED My GPT-6 Bill",
+              "publishedAt": "2026-10-06T20:27:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/toHS7bwiR4Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/toHS7bwiR4Y",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "jCeFG7xTJkc",
+              "title": "Google Mapped a Brain and Now It's INSANE",
+              "publishedAt": "2026-10-06T20:25:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jCeFG7xTJkc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jCeFG7xTJkc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
@@ -70,6 +234,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "z7cNbsr3b5s",
+              "title": "Building secure agents for knowledge work",
+              "publishedAt": "2026-10-06T20:31:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/z7cNbsr3b5s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=z7cNbsr3b5s",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "idJQMJwHtyM",
               "title": "Claude for Google Workspace™",
@@ -823,176 +997,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Xc6ERvZM1NY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Xc6ERvZM1NY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "u9g9EBUAam8",
-              "title": "David's takes on OpenAI DevDay",
-              "publishedAt": "2026-09-29T23:25:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/u9g9EBUAam8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/u9g9EBUAam8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "nPECyNOy3ak",
-              "title": "I Let GPT Control Blender and THIS Happened",
-              "publishedAt": "2026-09-29T02:17:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nPECyNOy3ak/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=nPECyNOy3ak",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "dNl4J6YxICw",
-              "title": "I Left Claude This Summer. Opus 5.5 Is Winning Me Back.",
-              "publishedAt": "2026-09-29T22:03:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dNl4J6YxICw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dNl4J6YxICw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "gbbPBr3OraQ",
-              "title": "I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.",
-              "publishedAt": "2026-09-29T14:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gbbPBr3OraQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=gbbPBr3OraQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "13_-mbhsbpE",
-              "title": "How to Never Run Out of Codex Usage Limit (Even on GPT-6 Astra)",
-              "publishedAt": "2026-09-29T14:05:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/13_-mbhsbpE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=13_-mbhsbpE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "lFA-zuZRG4Q",
-              "title": "Why You NEED This New Python Tool",
-              "publishedAt": "2026-09-29T13:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/lFA-zuZRG4Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=lFA-zuZRG4Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EpHVYqaqw_o",
-              "title": "The AI Skills That Sit on Top of Coding",
-              "publishedAt": "2026-09-29T12:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EpHVYqaqw_o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EpHVYqaqw_o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "_f_rtbW_uFM",
-              "title": "Getting started with Claude Tag",
-              "publishedAt": "2026-09-29T20:07:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_f_rtbW_uFM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=_f_rtbW_uFM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WzoDOZnHbCk",
-              "title": "HUGE Fable 5.5 LEAK, Sonnet 5.5 IS INSANE, GPT 6.1, Qwen 4.0, Kimi K3.1 & More! AI NEWS",
-              "publishedAt": "2026-09-29T06:40:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WzoDOZnHbCk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WzoDOZnHbCk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "T-E7rmD6rh4",
-              "title": "Sonnet 5.5 Is Here. Look What It Can Build.",
-              "publishedAt": "2026-09-29T05:04:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/T-E7rmD6rh4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=T-E7rmD6rh4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0NhtHVPQwt8",
-              "title": "What We Built With Sonnet 5.5",
-              "publishedAt": "2026-09-29T00:01:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0NhtHVPQwt8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/0NhtHVPQwt8",
               "summary": "",
               "transcriptAvailable": false
             }
