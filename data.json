@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T14:02:46Z",
+  "lastUpdated": "2026-10-07T17:19:06Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-07",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "jlEMo6Dsh9E",
+              "title": "Insane Tools That Actually Fix Your Claude Code Setup With Jev",
+              "publishedAt": "2026-10-07T15:32:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jlEMo6Dsh9E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=jlEMo6Dsh9E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "DavidOndrej",
           "channelUrl": "https://www.youtube.com/@DavidOndrej",
@@ -83,9 +99,35 @@
           ]
         },
         {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "EZP_aOvtkxA",
+              "title": "STOP Building AI Dashboards — Here's What Actually Works",
+              "publishedAt": "2026-10-07T15:10:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EZP_aOvtkxA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EZP_aOvtkxA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "gwysoMn-n3Q",
+              "title": "Register free through the event link on my channel.",
+              "publishedAt": "2026-10-07T14:44:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gwysoMn-n3Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/gwysoMn-n3Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "TwpizYlIcbg",
               "title": "How to Pass a Python Live Coding Interview in 2026",
@@ -93,6 +135,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TwpizYlIcbg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/TwpizYlIcbg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "ICGS7LlRfpI",
+              "title": "What's new in Claude: September recap",
+              "publishedAt": "2026-10-07T15:41:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ICGS7LlRfpI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ICGS7LlRfpI",
               "summary": "",
               "transcriptAvailable": false
             }
