@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T14:10:19Z",
+  "lastUpdated": "2026-10-08T17:14:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -119,6 +119,32 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "9GtcbnmldcY",
+              "title": "Inside Shopify's AI strategy with CTO Mikhail Parakhin",
+              "publishedAt": "2026-10-08T16:30:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9GtcbnmldcY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9GtcbnmldcY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "n9WfoNW2XnE",
+              "title": "What's new in Claude: September recap",
+              "publishedAt": "2026-10-08T15:53:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/n9WfoNW2XnE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -129,6 +155,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6gfACqBAKfw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6gfACqBAKfw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "QnxXx1FpnF8",
+              "title": "Mistral Large 4 Failed My Rubik's Cube Test",
+              "publishedAt": "2026-10-08T15:54:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/QnxXx1FpnF8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/QnxXx1FpnF8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "zac3kEUwIlg",
+              "title": "You Should Be Using Jev’s Browser Agent, Here’s Why",
+              "publishedAt": "2026-10-08T15:30:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zac3kEUwIlg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zac3kEUwIlg",
               "summary": "",
               "transcriptAvailable": false
             }
