@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T17:14:32Z",
+  "lastUpdated": "2026-10-08T20:26:17Z",
   "config": {
     "daysToShow": 7
   },
@@ -65,6 +65,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "wep2EQ9Y_Tc",
+              "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
+              "publishedAt": "2026-10-08T20:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/wep2EQ9Y_Tc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "EZAugIwI1Do",
               "title": "Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech",
               "publishedAt": "2026-10-08T03:00:37+00:00",
@@ -97,6 +107,16 @@
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
             {
+              "id": "vNnTeuNCPYY",
+              "title": "I Tested Jev, the AI Model That Makes Decisions Instead of Text",
+              "publishedAt": "2026-10-08T18:22:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vNnTeuNCPYY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=vNnTeuNCPYY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "pclw-q_jCUc",
               "title": "You do not need an AI startup",
               "publishedAt": "2026-10-08T12:33:18+00:00",
@@ -122,6 +142,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "en0GuyhieQk",
+              "title": "Introducing Claude Dashboards and Claude Motion",
+              "publishedAt": "2026-10-08T18:52:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/en0GuyhieQk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=en0GuyhieQk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "9GtcbnmldcY",
               "title": "Inside Shopify's AI strategy with CTO Mikhail Parakhin",
