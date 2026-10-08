@@ -1,9 +1,141 @@
 {
-  "lastUpdated": "2026-10-07T20:23:34Z",
+  "lastUpdated": "2026-10-08T14:10:19Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-08",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "Cl3OWig5hkk",
+              "title": "Jev Can SERIOUSLY Supercharge Your AI Second Brain (Here's How)",
+              "publishedAt": "2026-10-08T00:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Cl3OWig5hkk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Cl3OWig5hkk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "D0eHUcbOpUk",
+              "title": "I Landed a $530K Forward Deployed Engineer Job Offer at Google",
+              "publishedAt": "2026-10-08T13:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D0eHUcbOpUk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=D0eHUcbOpUk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "jiN44AHKXvQ",
+              "title": "How to Double Your App's Users for $0",
+              "publishedAt": "2026-10-08T03:02:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jiN44AHKXvQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jiN44AHKXvQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "8wZVnc99x_k",
+              "title": "Claude Code Mods: The Ultimate Customization Guide",
+              "publishedAt": "2026-10-08T02:51:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8wZVnc99x_k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8wZVnc99x_k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "EZAugIwI1Do",
+              "title": "Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech",
+              "publishedAt": "2026-10-08T03:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EZAugIwI1Do/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EZAugIwI1Do",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "1YHoKILCjAE",
+              "title": "Perplexity Just KILLED SEO Agencies",
+              "publishedAt": "2026-10-08T10:32:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1YHoKILCjAE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1YHoKILCjAE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "pclw-q_jCUc",
+              "title": "You do not need an AI startup",
+              "publishedAt": "2026-10-08T12:33:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pclw-q_jCUc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/pclw-q_jCUc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "FjAdjZmprg0",
+              "title": "Every Python Job Needs This",
+              "publishedAt": "2026-10-08T12:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FjAdjZmprg0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FjAdjZmprg0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "6gfACqBAKfw",
+              "title": "Claude Haiku 5.5 Is a GAME CHANGER! 90% CHEAPER & INSANE Performance! (Fully Tested)",
+              "publishedAt": "2026-10-08T02:01:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6gfACqBAKfw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6gfACqBAKfw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "dailyDigest": "",
@@ -103,6 +235,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "t6uqW-vKfzE",
+              "title": "Nick Puru | AI Automation Live Stream",
+              "publishedAt": "2026-10-07T22:59:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t6uqW-vKfzE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t6uqW-vKfzE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "EZP_aOvtkxA",
               "title": "STOP Building AI Dashboards — Here's What Actually Works",
               "publishedAt": "2026-10-07T15:10:53+00:00",
@@ -176,6 +318,26 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "BsNHg6cNjZE",
+              "title": "12 Grok Bot Use Cases That Feel Illegal",
+              "publishedAt": "2026-10-07T23:08:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BsNHg6cNjZE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "EItxPNgKOX4",
+              "title": "How to Find Nano Banana 2.1 in Google AI Studio",
+              "publishedAt": "2026-10-07T20:23:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EItxPNgKOX4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/EItxPNgKOX4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Hu1JOK6aXsI",
               "title": "Mistral is BACK! (Le Chonk)",
@@ -907,154 +1069,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/e7TY56-yIvM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=e7TY56-yIvM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "DP7mgLUKN_U",
-              "title": "How To Use Claude Code To Build Insanely Beautiful Sites With Opus 5.5",
-              "publishedAt": "2026-09-30T15:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DP7mgLUKN_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DP7mgLUKN_U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "qwnJJMNGwgY",
-              "title": "The BEST Jev Use Cases for AI Coding (Absolute Game Changers)",
-              "publishedAt": "2026-09-30T21:18:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qwnJJMNGwgY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qwnJJMNGwgY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "osZZjdMZVvA",
-              "title": "Opus 5.5 vs The Rest: Is this the new industry standard?",
-              "publishedAt": "2026-09-30T14:47:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/osZZjdMZVvA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=osZZjdMZVvA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "qI0LbAkqQ_c",
-              "title": "wtf is grok bot & how to setup for real",
-              "publishedAt": "2026-09-30T17:59:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qI0LbAkqQ_c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qI0LbAkqQ_c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "CMfeUBp6A68",
-              "title": "How I Turned a 40-Minute Training Into 11 Posts in 10 Minutes",
-              "publishedAt": "2026-09-30T14:30:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CMfeUBp6A68/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/CMfeUBp6A68",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "x6siPRkPAeQ",
-              "title": "MacBook vs. PC for AI: The 2026 Verdict",
-              "publishedAt": "2026-09-30T13:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/x6siPRkPAeQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=x6siPRkPAeQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Y7BNSNLlqmI",
-              "title": "Sep 30, 2026   These AI Skills Are Learnable",
-              "publishedAt": "2026-09-30T12:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Y7BNSNLlqmI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Y7BNSNLlqmI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "RMTWayrwYkQ",
-              "title": "Gemini 4 Argon Is Google’s Most Powerful AI Model + Early Tests!",
-              "publishedAt": "2026-09-30T21:53:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RMTWayrwYkQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RMTWayrwYkQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "uJNP_FdlR3I",
-              "title": "GPT-6.1 Sol IS INSANE! + OpenAI's DevDay: Dots, Pro 500, Ultrafast, Codex & More! AI NEWS",
-              "publishedAt": "2026-09-30T06:51:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uJNP_FdlR3I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uJNP_FdlR3I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "Xc6ERvZM1NY",
-              "title": "OpenAI COOKED",
-              "publishedAt": "2026-09-30T01:26:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Xc6ERvZM1NY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Xc6ERvZM1NY",
               "summary": "",
               "transcriptAvailable": false
             }
