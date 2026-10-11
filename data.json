@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T13:37:43Z",
+  "lastUpdated": "2026-10-11T16:10:37Z",
   "config": {
     "daysToShow": 7
   },
@@ -29,6 +29,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/FnB9tHKBJXQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=FnB9tHKBJXQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "huWizSgmRf0",
+              "title": "The AI Paradox: 5 Human Skills That Are More Valuable Than Ever",
+              "publishedAt": "2026-10-11T16:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/huWizSgmRf0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=huWizSgmRf0",
               "summary": "",
               "transcriptAvailable": false
             }
