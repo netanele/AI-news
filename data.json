@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T16:10:37Z",
+  "lastUpdated": "2026-10-11T19:17:30Z",
   "config": {
     "daysToShow": 7
   },
@@ -45,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/huWizSgmRf0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=huWizSgmRf0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "vzwsWaKcTgE",
+              "title": "Meta Just Made Competitor Research INSANE",
+              "publishedAt": "2026-10-11T16:40:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vzwsWaKcTgE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/vzwsWaKcTgE",
               "summary": "",
               "transcriptAvailable": false
             }
