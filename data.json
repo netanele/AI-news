@@ -1,13 +1,147 @@
 {
-  "lastUpdated": "2026-10-11T19:17:30Z",
+  "lastUpdated": "2026-10-12T16:15:56Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-10-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "PMOnd8T7Py0",
+              "title": "Is Learning to Build Software Still Worth It with AI? (My Honest Take)",
+              "publishedAt": "2026-10-12T15:32:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PMOnd8T7Py0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PMOnd8T7Py0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "9zs87tcukH4",
+              "title": "AI Was Supposed to Make This Easier",
+              "publishedAt": "2026-10-12T14:57:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9zs87tcukH4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9zs87tcukH4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "IHnYXbZru4w",
+              "title": "people will hate me for this...but claude code era is ending",
+              "publishedAt": "2026-10-12T13:52:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IHnYXbZru4w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IHnYXbZru4w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "Od9706XIXcc",
+              "title": "S TIER Claude Code Mods for Agentic Engineers",
+              "publishedAt": "2026-10-12T11:04:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Od9706XIXcc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Od9706XIXcc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "6oA95Xzl9gA",
+              "title": "From working agent to paid implementation",
+              "publishedAt": "2026-10-12T11:34:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6oA95Xzl9gA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6oA95Xzl9gA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "4iKUaUmeoWk",
+              "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
+              "publishedAt": "2026-10-12T07:25:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4iKUaUmeoWk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4iKUaUmeoWk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "PODwi90Ne8k",
+              "title": "Human Creativity Still Matters",
+              "publishedAt": "2026-10-12T02:23:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PODwi90Ne8k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/PODwi90Ne8k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "ZHOmBeMNbnc",
+              "title": "Stop coding, build Software Factories instead",
+              "publishedAt": "2026-10-11T21:55:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZHOmBeMNbnc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZHOmBeMNbnc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
@@ -1075,96 +1209,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/iFHsEHP437U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/iFHsEHP437U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "0j8wy4jUlsw",
-              "title": "The end of the app era: What comes next?",
-              "publishedAt": "2026-10-04T16:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0j8wy4jUlsw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0j8wy4jUlsw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "4ykvIClnrAM",
-              "title": "Google Mapped a Brain and Now It's INSANE",
-              "publishedAt": "2026-10-04T20:22:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4ykvIClnrAM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4ykvIClnrAM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "HGoECgO6PdY",
-              "title": "i promise you, setting up AIOS can blow up your business!",
-              "publishedAt": "2026-10-04T13:11:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HGoECgO6PdY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=HGoECgO6PdY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "H5o1P8RMiMw",
-              "title": "Build Your Own Agentic Harness in Python - Full Tutorial",
-              "publishedAt": "2026-10-04T14:11:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/H5o1P8RMiMw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "u3HMv_QlhBM",
-              "title": "Software Engineering Is Changing Here's What to Focus On",
-              "publishedAt": "2026-10-04T12:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/u3HMv_QlhBM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/u3HMv_QlhBM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "jo70OkhryIA",
-              "title": "DeepSeek Painted My Portrait",
-              "publishedAt": "2026-10-04T20:05:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jo70OkhryIA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jo70OkhryIA",
               "summary": "",
               "transcriptAvailable": false
             }
