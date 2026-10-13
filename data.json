@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:24:29Z",
+  "lastUpdated": "2026-10-13T20:28:01Z",
   "config": {
     "daysToShow": 7
   },
@@ -77,6 +77,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Gxt7JXVLkzI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Gxt7JXVLkzI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "-OH1y7CjIew",
+              "title": "Coding on the go with Claude Code",
+              "publishedAt": "2026-10-13T18:54:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-OH1y7CjIew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-OH1y7CjIew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "JocjKnl4lBs",
+              "title": "Gemini 4 Argon Is Out, Fable 5.5 This Week? GPT-6.1 Astra, Nano Banana 3 & AI Self-Creating! AI NEWS",
+              "publishedAt": "2026-10-13T19:09:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JocjKnl4lBs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JocjKnl4lBs",
               "summary": "",
               "transcriptAvailable": false
             }
