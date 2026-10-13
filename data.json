@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-10-12T22:21:01Z",
+  "lastUpdated": "2026-10-13T14:40:14Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-13",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "pTh4IJ-Mi3Y",
+              "title": "OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.",
+              "publishedAt": "2026-10-13T14:00:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pTh4IJ-Mi3Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=pTh4IJ-Mi3Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "Gxt7JXVLkzI",
+              "title": "Hobbyist vs Professional",
+              "publishedAt": "2026-10-13T12:00:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Gxt7JXVLkzI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Gxt7JXVLkzI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "rpLrkJ5NNEI",
+              "title": "Meta just dropped something insane... (Muse Wonder)",
+              "publishedAt": "2026-10-13T00:47:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rpLrkJ5NNEI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "dailyDigest": "",
@@ -102,6 +156,16 @@
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
+            {
+              "id": "f7OpKLA-CLI",
+              "title": "Meta's Muse Wonder IS OPUS 5.5 LEVEL?! I Don't Think So... (Fully Tested)",
+              "publishedAt": "2026-10-12T23:16:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f7OpKLA-CLI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=f7OpKLA-CLI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "4iKUaUmeoWk",
               "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
@@ -1123,112 +1187,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/yrn7FqgVOW8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/yrn7FqgVOW8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-05",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "i6Q7bXnWGlM",
-              "title": "25 Hidden Settings That You Need In Your Claude Code Setup",
-              "publishedAt": "2026-10-05T15:00:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i6Q7bXnWGlM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=i6Q7bXnWGlM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "xsDXfHALzdg",
-              "title": "OpenAI’s Dots Feels Like an Actual Assistant",
-              "publishedAt": "2026-10-05T12:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xsDXfHALzdg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xsDXfHALzdg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "uMCIgRcJWMM",
-              "title": "If You've Been Wanting to Use AI in Your Business, Watch This",
-              "publishedAt": "2026-10-05T18:04:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uMCIgRcJWMM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uMCIgRcJWMM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "BwUNZPfOeCQ",
-              "title": "What Actually Makes Claude Code Smart",
-              "publishedAt": "2026-10-05T12:28:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BwUNZPfOeCQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/BwUNZPfOeCQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1gHEWetDx6U",
-              "title": "These Skills Are Worth More Than Ever",
-              "publishedAt": "2026-10-05T11:52:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1gHEWetDx6U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1gHEWetDx6U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "yUuFvL1lK4k",
-              "title": "Mods in Claude Code: change how Claude Code works",
-              "publishedAt": "2026-10-05T19:18:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yUuFvL1lK4k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yUuFvL1lK4k",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "iFHsEHP437U",
-              "title": "How to use Opus 5.5 and Sonnet 5.5",
-              "publishedAt": "2026-10-05T17:06:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/iFHsEHP437U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/iFHsEHP437U",
               "summary": "",
               "transcriptAvailable": false
             }
