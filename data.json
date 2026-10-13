@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T14:40:14Z",
+  "lastUpdated": "2026-10-13T17:24:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-13",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "au2TI8sdq8E",
+              "title": "Google Just Fixed AI Design By Releasing This",
+              "publishedAt": "2026-10-13T15:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/au2TI8sdq8E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=au2TI8sdq8E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -19,6 +35,32 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/pTh4IJ-Mi3Y/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=pTh4IJ-Mi3Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "JFMg3IS8xV8",
+              "title": "GPT-6 Astra Just Built My Product, Here's EVERYTHING",
+              "publishedAt": "2026-10-13T16:46:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JFMg3IS8xV8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JFMg3IS8xV8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "0BeG0lqA374",
+              "title": "AI Reverse Engineering Is the Most Dangerous Thing on the Internet",
+              "publishedAt": "2026-10-13T15:28:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0BeG0lqA374/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0BeG0lqA374",
               "summary": "",
               "transcriptAvailable": false
             }
