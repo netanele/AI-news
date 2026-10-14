@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T14:55:06Z",
+  "lastUpdated": "2026-10-14T19:06:50Z",
   "config": {
     "daysToShow": 7
   },
@@ -51,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7RjEosTjhE0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/7RjEosTjhE0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "M66YZt8Jz5I",
+              "title": "This FREE Website Shows The Whole Planet Live",
+              "publishedAt": "2026-10-14T16:55:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M66YZt8Jz5I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/M66YZt8Jz5I",
               "summary": "",
               "transcriptAvailable": false
             }
