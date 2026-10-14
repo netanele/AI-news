@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-10-13T20:28:01Z",
+  "lastUpdated": "2026-10-14T12:32:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-14",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "FbKXvab-0yQ",
+              "title": "Cloudroom: How I Run 200+ Agents At Once",
+              "publishedAt": "2026-10-14T08:35:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FbKXvab-0yQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FbKXvab-0yQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "7RjEosTjhE0",
+              "title": "What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science",
+              "publishedAt": "2026-10-14T03:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7RjEosTjhE0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7RjEosTjhE0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "dIPXSa3czi4",
+              "title": "Building With AI vs Building AI",
+              "publishedAt": "2026-10-14T11:34:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dIPXSa3czi4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dIPXSa3czi4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "M8iqahFogtA",
+              "title": "Google just went FRONTIER (Gemini 4 Argon)",
+              "publishedAt": "2026-10-14T01:33:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M8iqahFogtA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=M8iqahFogtA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "dailyDigest": "",
@@ -118,6 +188,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "CIlqLzoJiU8",
+              "title": "OpenAI Employee Arrested Over Recording Device",
+              "publishedAt": "2026-10-13T21:49:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CIlqLzoJiU8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/CIlqLzoJiU8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "rpLrkJ5NNEI",
               "title": "Meta just dropped something insane... (Muse Wonder)",
@@ -1103,164 +1183,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Hu1JOK6aXsI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "26R8qtAqsWE",
-              "title": "Change One Thing In An AI Image, Not The Whole Picture",
-              "publishedAt": "2026-10-06T14:29:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/26R8qtAqsWE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/26R8qtAqsWE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "1MzU5v8l5ZU",
-              "title": "OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity",
-              "publishedAt": "2026-10-06T03:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1MzU5v8l5ZU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1MzU5v8l5ZU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "iyPr2KsbvzQ",
-              "title": "Claude Just Stopped Yapping, Here's the One Rule",
-              "publishedAt": "2026-10-06T23:02:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/iyPr2KsbvzQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/iyPr2KsbvzQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "toHS7bwiR4Y",
-              "title": "DeepSeek's New Model Just KILLED My GPT-6 Bill",
-              "publishedAt": "2026-10-06T20:27:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/toHS7bwiR4Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/toHS7bwiR4Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "jCeFG7xTJkc",
-              "title": "Google Mapped a Brain and Now It's INSANE",
-              "publishedAt": "2026-10-06T20:25:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jCeFG7xTJkc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jCeFG7xTJkc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "uccBE9Tun6M",
-              "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
-              "publishedAt": "2026-10-06T13:54:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/uccBE9Tun6M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=uccBE9Tun6M",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "-Xlvmc6Y8Eg",
-              "title": "Write Code That Others People Can Work With",
-              "publishedAt": "2026-10-06T12:00:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-Xlvmc6Y8Eg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/-Xlvmc6Y8Eg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "z7cNbsr3b5s",
-              "title": "Building secure agents for knowledge work",
-              "publishedAt": "2026-10-06T20:31:57+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/z7cNbsr3b5s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=z7cNbsr3b5s",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "idJQMJwHtyM",
-              "title": "Claude for Google Workspace™",
-              "publishedAt": "2026-10-06T17:02:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "PQw0TRzpCkk",
-              "title": "MYSTERIOUS GPT-Next Model LEAKED,  Fable 5.5 TODAY? Gemini 4 Argon + RSI Update & More! AI NEWS",
-              "publishedAt": "2026-10-06T06:51:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PQw0TRzpCkk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PQw0TRzpCkk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "yrn7FqgVOW8",
-              "title": "Video Game Mashups: Minecraft and Mario in Elden Ring",
-              "publishedAt": "2026-10-06T08:13:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yrn7FqgVOW8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/yrn7FqgVOW8",
               "summary": "",
               "transcriptAvailable": false
             }
