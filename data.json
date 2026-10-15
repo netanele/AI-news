@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T12:15:07Z",
+  "lastUpdated": "2026-10-15T14:42:48Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2i_ZyqDmtio/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2i_ZyqDmtio",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "4wBVuj2an8E",
+              "title": "Pstack: How a Cursor Engineer Ships Code With AI",
+              "publishedAt": "2026-10-15T13:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4wBVuj2an8E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4wBVuj2an8E",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -45,6 +61,16 @@
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
             {
+              "id": "PseF3LyXQ04",
+              "title": "Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.",
+              "publishedAt": "2026-10-15T14:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PseF3LyXQ04/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PseF3LyXQ04",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "ShSVKyAjyyk",
               "title": "Is AI making us really productive? #AI #productivity #focus #futureofwork #careers",
               "publishedAt": "2026-10-15T03:00:16+00:00",
@@ -60,6 +86,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "AjTF6FUp9to",
+              "title": "3 Jobs My Team Handed to Viktor, Our AI Employee",
+              "publishedAt": "2026-10-15T14:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AjTF6FUp9to/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=AjTF6FUp9to",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ImvxN0-27R0",
               "title": "The AI Skills Python Developers Need to Stand Out",
