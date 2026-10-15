@@ -1,9 +1,95 @@
 {
-  "lastUpdated": "2026-10-14T19:06:50Z",
+  "lastUpdated": "2026-10-15T12:15:07Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-15",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "2i_ZyqDmtio",
+              "title": "How I Keep Up with AI Without Drowning in It (Free Skill)",
+              "publishedAt": "2026-10-15T00:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2i_ZyqDmtio/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2i_ZyqDmtio",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "79hKmlnyvso",
+              "title": "Work Like the Pros: AI Agent Teams, Explained",
+              "publishedAt": "2026-10-15T12:00:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/79hKmlnyvso/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=79hKmlnyvso",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "ShSVKyAjyyk",
+              "title": "Is AI making us really productive? #AI #productivity #focus #futureofwork #careers",
+              "publishedAt": "2026-10-15T03:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ShSVKyAjyyk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ShSVKyAjyyk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "ImvxN0-27R0",
+              "title": "The AI Skills Python Developers Need to Stand Out",
+              "publishedAt": "2026-10-15T12:00:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ImvxN0-27R0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ImvxN0-27R0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "bk1xyTwzsY8",
+              "title": "FABLE 5.5 THIS WEEK? OpenAI Employee ARRESTED?! HUGE Claude Code Update, & Anthropic IPO! AI NEWS",
+              "publishedAt": "2026-10-15T06:15:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/bk1xyTwzsY8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=bk1xyTwzsY8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "dailyDigest": "",
@@ -93,6 +179,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dIPXSa3czi4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/dIPXSa3czi4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "nJMwXtD56mA",
+              "title": "Coding on the go with Claude Code",
+              "publishedAt": "2026-10-14T19:32:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nJMwXtD56mA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/nJMwXtD56mA",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -1009,222 +1111,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zac3kEUwIlg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zac3kEUwIlg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "jlEMo6Dsh9E",
-              "title": "Insane Tools That Actually Fix Your Claude Code Setup With Jev",
-              "publishedAt": "2026-10-07T15:32:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jlEMo6Dsh9E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jlEMo6Dsh9E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "8WUFmW9zrgY",
-              "title": "The only moat in the age of AI is this",
-              "publishedAt": "2026-10-07T02:01:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8WUFmW9zrgY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8WUFmW9zrgY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "jmKcZhM-1ww",
-              "title": "Viktor Solves Claude's Biggest Limitation (Finally)",
-              "publishedAt": "2026-10-07T13:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jmKcZhM-1ww/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=jmKcZhM-1ww",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "aggJvNZxfKA",
-              "title": "I Built a Self-Improving Software Factory",
-              "publishedAt": "2026-10-07T00:46:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aggJvNZxfKA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aggJvNZxfKA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "ZF6l9MIRkXs",
-              "title": "The New Way to Work With AI",
-              "publishedAt": "2026-10-07T12:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZF6l9MIRkXs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZF6l9MIRkXs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "sVQ3XlM9I40",
-              "title": "Gemini 4 Argon Is #1 On A Leaderboard. Here's Why You Still Can't Use It.",
-              "publishedAt": "2026-10-07T14:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sVQ3XlM9I40/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=sVQ3XlM9I40",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "t6uqW-vKfzE",
-              "title": "Nick Puru | AI Automation Live Stream",
-              "publishedAt": "2026-10-07T22:59:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t6uqW-vKfzE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=t6uqW-vKfzE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EZP_aOvtkxA",
-              "title": "STOP Building AI Dashboards — Here's What Actually Works",
-              "publishedAt": "2026-10-07T15:10:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EZP_aOvtkxA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EZP_aOvtkxA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "gwysoMn-n3Q",
-              "title": "Register free through the event link on my channel.",
-              "publishedAt": "2026-10-07T14:44:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/gwysoMn-n3Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/gwysoMn-n3Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "TwpizYlIcbg",
-              "title": "How to Pass a Python Live Coding Interview in 2026",
-              "publishedAt": "2026-10-07T12:00:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TwpizYlIcbg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/TwpizYlIcbg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "ICGS7LlRfpI",
-              "title": "What's new in Claude: September recap",
-              "publishedAt": "2026-10-07T15:41:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ICGS7LlRfpI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ICGS7LlRfpI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "-mv1Tf26Vms",
-              "title": "GPT-7 'Bel' First Preview, Mythos 5.1 Access, Mistral Large 4, Claude Code Update, & More! AI NEWS",
-              "publishedAt": "2026-10-07T07:25:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-mv1Tf26Vms/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-mv1Tf26Vms",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "BsNHg6cNjZE",
-              "title": "12 Grok Bot Use Cases That Feel Illegal",
-              "publishedAt": "2026-10-07T23:08:41+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/BsNHg6cNjZE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EItxPNgKOX4",
-              "title": "How to Find Nano Banana 2.1 in Google AI Studio",
-              "publishedAt": "2026-10-07T20:23:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EItxPNgKOX4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/EItxPNgKOX4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Hu1JOK6aXsI",
-              "title": "Mistral is BACK! (Le Chonk)",
-              "publishedAt": "2026-10-07T00:12:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Hu1JOK6aXsI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
               "summary": "",
               "transcriptAvailable": false
             }
