@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T11:52:15Z",
+  "lastUpdated": "2026-10-18T13:47:59Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,6 +25,22 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "qXTYBzx4QuY",
+              "title": "Is Your SaaS Visible to AI? I Used Claude and DataForSEO to Find Out",
+              "publishedAt": "2026-10-18T13:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qXTYBzx4QuY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qXTYBzx4QuY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -35,6 +51,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ZVnuhgXF9uM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ZVnuhgXF9uM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "RbfQayMNtJc",
+              "title": "Your Prompts Are Too SMALL for Claude Code",
+              "publishedAt": "2026-10-18T12:04:14+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RbfQayMNtJc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RbfQayMNtJc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "LLFpLVvK9Dk",
+              "title": "Why You Can’t Run That AI Model",
+              "publishedAt": "2026-10-18T12:00:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LLFpLVvK9Dk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/LLFpLVvK9Dk",
               "summary": "",
               "transcriptAvailable": false
             }
