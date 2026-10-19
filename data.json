@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-10-18T17:43:05Z",
+  "lastUpdated": "2026-10-19T14:08:51Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-19",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "ygDtsnXczfE",
+              "title": "I Caught My AI Agents Using the Wrong Model",
+              "publishedAt": "2026-10-19T12:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ygDtsnXczfE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ygDtsnXczfE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "sIX_c_ayIl4",
+              "title": "Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips",
+              "publishedAt": "2026-10-19T03:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/sIX_c_ayIl4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/sIX_c_ayIl4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "Dpg7pcPa4WE",
+              "title": "VRAM Explained What Decides If a Model Fits",
+              "publishedAt": "2026-10-19T12:00:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Dpg7pcPa4WE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Dpg7pcPa4WE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "24j6YmsTVng",
+              "title": "Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS",
+              "publishedAt": "2026-10-19T06:33:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/24j6YmsTVng/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=24j6YmsTVng",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "dailyDigest": "",
@@ -119,6 +189,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/eItSZ33FVnA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=eItSZ33FVnA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "RS9vWYlJeH8",
+              "title": "How DeepSeek Uses Less Memory",
+              "publishedAt": "2026-10-18T23:02:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RS9vWYlJeH8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/RS9vWYlJeH8",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -1011,118 +1097,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/PODwi90Ne8k/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/PODwi90Ne8k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "ZHOmBeMNbnc",
-              "title": "Stop coding, build Software Factories instead",
-              "publishedAt": "2026-10-11T21:55:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZHOmBeMNbnc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ZHOmBeMNbnc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "KRUI9JCLVSM",
-              "title": "MiniMax Code vs Real Coding: It's Getting Scary Good",
-              "publishedAt": "2026-10-11T13:00:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KRUI9JCLVSM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KRUI9JCLVSM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FnB9tHKBJXQ",
-              "title": "How To Use REA To Clone Any Software In Minutes",
-              "publishedAt": "2026-10-11T02:32:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FnB9tHKBJXQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FnB9tHKBJXQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "huWizSgmRf0",
-              "title": "The AI Paradox: 5 Human Skills That Are More Valuable Than Ever",
-              "publishedAt": "2026-10-11T16:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/huWizSgmRf0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=huWizSgmRf0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "vzwsWaKcTgE",
-              "title": "Meta Just Made Competitor Research INSANE",
-              "publishedAt": "2026-10-11T16:40:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vzwsWaKcTgE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vzwsWaKcTgE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "enJeKfePoOc",
-              "title": "The API Skill Every Python Developer Needs",
-              "publishedAt": "2026-10-11T12:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/enJeKfePoOc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/enJeKfePoOc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "0EwN9bb157M",
-              "title": "China AI ACHIEVED RSI? GLM 5.5, NEW Fable 5.5 Checkpoint, Qwen4, Kimi K3.1, M3.1 Pro & More! AI NEWS",
-              "publishedAt": "2026-10-11T07:45:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0EwN9bb157M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0EwN9bb157M",
               "summary": "",
               "transcriptAvailable": false
             }
