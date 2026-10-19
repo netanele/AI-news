@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T16:50:03Z",
+  "lastUpdated": "2026-10-19T20:18:53Z",
   "config": {
     "daysToShow": 7
   },
@@ -61,6 +61,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "IrCBV6onDrE",
+              "title": "I reached superintelligence for basically free..",
+              "publishedAt": "2026-10-19T17:44:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IrCBV6onDrE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IrCBV6onDrE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "Yv45X2CRraE",
               "title": "Claude Just Got Its Own Phone Number",
               "publishedAt": "2026-10-19T14:39:54+00:00",
@@ -83,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/Dpg7pcPa4WE/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/Dpg7pcPa4WE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "_Ui4ZkYm4ho",
+              "title": "Introducing Claude Dashboards and Claude Motion",
+              "publishedAt": "2026-10-19T18:35:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/_Ui4ZkYm4ho/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/_Ui4ZkYm4ho",
               "summary": "",
               "transcriptAvailable": false
             }
