@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T14:08:51Z",
+  "lastUpdated": "2026-10-19T16:50:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-19",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "y2ifUC9_zuU",
+              "title": "Vercel's CEO Just Unveiled The Greatest AI Coding Workflow Ever",
+              "publishedAt": "2026-10-19T15:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/y2ifUC9_zuU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=y2ifUC9_zuU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "MetalSole",
           "channelUrl": "https://www.youtube.com/@MetalSole",
@@ -35,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/sIX_c_ayIl4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/sIX_c_ayIl4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "Yv45X2CRraE",
+              "title": "Claude Just Got Its Own Phone Number",
+              "publishedAt": "2026-10-19T14:39:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Yv45X2CRraE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Yv45X2CRraE",
               "summary": "",
               "transcriptAvailable": false
             }
