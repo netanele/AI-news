@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T14:45:16Z",
+  "lastUpdated": "2026-10-20T18:51:31Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,6 +25,58 @@
           ]
         },
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "hLoyhm1dHlM",
+              "title": "Prompt Injection Is Just the Start of AI Agent Security (Here's What You Need)",
+              "publishedAt": "2026-10-20T18:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hLoyhm1dHlM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hLoyhm1dHlM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "TVhhmhvCovg",
+              "title": "Let Your AI Agent Do ITS OWN Harness Engineering (Here's How)",
+              "publishedAt": "2026-10-20T16:06:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TVhhmhvCovg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TVhhmhvCovg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "1MNSJhCGMLY",
+              "title": "Matt Pocock's 3 New Skills Close the AI Coding Loop",
+              "publishedAt": "2026-10-20T17:37:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1MNSJhCGMLY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1MNSJhCGMLY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "K-e3S31Ta68",
+              "title": "Bun vs Node.js: Why Bun is 2x Faster",
+              "publishedAt": "2026-10-20T16:43:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/K-e3S31Ta68/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/K-e3S31Ta68",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
@@ -44,6 +96,16 @@
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "pZ59GuxXqis",
+              "title": "Claude Just KILLED Gemini In Google Docs",
+              "publishedAt": "2026-10-20T18:27:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/pZ59GuxXqis/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/pZ59GuxXqis",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "a-xRgEsu28o",
               "title": "AI Fundamentals in 49 Minutes (No Tech Background Needed)",
@@ -83,6 +145,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/5J6OXXe4SeM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/5J6OXXe4SeM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "SkFmiMHDN38",
+              "title": "How an Anthropic engineer uses Claude Docs",
+              "publishedAt": "2026-10-20T16:40:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SkFmiMHDN38/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SkFmiMHDN38",
               "summary": "",
               "transcriptAvailable": false
             }
