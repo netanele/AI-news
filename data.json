@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T12:22:45Z",
+  "lastUpdated": "2026-10-20T14:45:16Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,54 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ICoSNVMYV-I/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=ICoSNVMYV-I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "xUl-RD4l4i4",
+              "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
+              "publishedAt": "2026-10-20T14:00:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xUl-RD4l4i4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xUl-RD4l4i4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "a-xRgEsu28o",
+              "title": "AI Fundamentals in 49 Minutes (No Tech Background Needed)",
+              "publishedAt": "2026-10-20T13:37:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a-xRgEsu28o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a-xRgEsu28o",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "IFNum8_oAD8",
+              "title": "Your Attention Is the REAL Bottleneck in Claude Code",
+              "publishedAt": "2026-10-20T14:04:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IFNum8_oAD8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IFNum8_oAD8",
               "summary": "",
               "transcriptAvailable": false
             }
