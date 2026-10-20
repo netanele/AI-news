@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-10-19T20:18:53Z",
+  "lastUpdated": "2026-10-20T12:22:45Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-20",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "BMadCode",
+          "channelUrl": "https://www.youtube.com/@BMadCode",
+          "videos": [
+            {
+              "id": "ICoSNVMYV-I",
+              "title": "Is BMad Too Heavy? I Answer the Critics",
+              "publishedAt": "2026-10-20T01:43:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ICoSNVMYV-I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ICoSNVMYV-I",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "5J6OXXe4SeM",
+              "title": "Why Your Local AI Is Slow",
+              "publishedAt": "2026-10-20T12:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5J6OXXe4SeM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5J6OXXe4SeM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "2BXktpaCEN4",
+              "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
+              "publishedAt": "2026-10-20T07:01:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2BXktpaCEN4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2BXktpaCEN4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "dailyDigest": "",
@@ -1007,154 +1061,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/rpLrkJ5NNEI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "PMOnd8T7Py0",
-              "title": "Is Learning to Build Software Still Worth It with AI? (My Honest Take)",
-              "publishedAt": "2026-10-12T15:32:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PMOnd8T7Py0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PMOnd8T7Py0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "9zs87tcukH4",
-              "title": "AI Was Supposed to Make This Easier",
-              "publishedAt": "2026-10-12T14:57:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9zs87tcukH4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9zs87tcukH4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "QXHgDLC6who",
-              "title": "Jev Just REPLACED My Content Filter, Here's How",
-              "publishedAt": "2026-10-12T17:11:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/QXHgDLC6who/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/QXHgDLC6who",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "IHnYXbZru4w",
-              "title": "people will hate me for this...but claude code era is ending",
-              "publishedAt": "2026-10-12T13:52:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IHnYXbZru4w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IHnYXbZru4w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "Od9706XIXcc",
-              "title": "S TIER Claude Code Mods for Agentic Engineers",
-              "publishedAt": "2026-10-12T11:04:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Od9706XIXcc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Od9706XIXcc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "6oA95Xzl9gA",
-              "title": "From working agent to paid implementation",
-              "publishedAt": "2026-10-12T11:34:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6oA95Xzl9gA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6oA95Xzl9gA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "f7OpKLA-CLI",
-              "title": "Meta's Muse Wonder IS OPUS 5.5 LEVEL?! I Don't Think So... (Fully Tested)",
-              "publishedAt": "2026-10-12T23:16:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/f7OpKLA-CLI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=f7OpKLA-CLI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "4iKUaUmeoWk",
-              "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
-              "publishedAt": "2026-10-12T07:25:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4iKUaUmeoWk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=4iKUaUmeoWk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "FTaPMTB-LxI",
-              "title": "I'm Rebuilding Super Mario World With AI",
-              "publishedAt": "2026-10-12T16:21:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FTaPMTB-LxI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/FTaPMTB-LxI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "PODwi90Ne8k",
-              "title": "Human Creativity Still Matters",
-              "publishedAt": "2026-10-12T02:23:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PODwi90Ne8k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/PODwi90Ne8k",
               "summary": "",
               "transcriptAvailable": false
             }
