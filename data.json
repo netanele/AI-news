@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T12:32:25Z",
+  "lastUpdated": "2026-10-21T14:54:24Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "VTowX1wzY0w",
+              "title": "I Found a $44 Leak in My Claude Code Usage",
+              "publishedAt": "2026-10-21T13:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VTowX1wzY0w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VTowX1wzY0w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "3rgd2Xx5ceg",
+              "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
+              "publishedAt": "2026-10-21T14:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3rgd2Xx5ceg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3rgd2Xx5ceg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "8Inu1FNd8mc",
               "title": "Which AI Agent Should You Actually Use",
@@ -1122,9 +1148,7 @@
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "1 channel(s) could not be resolved"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
