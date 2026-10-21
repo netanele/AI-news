@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T14:54:24Z",
+  "lastUpdated": "2026-10-21T19:03:42Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-21",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "92ZDgn8bgLM",
+              "title": "Anthropic Just Revealed How Their Engineers Use Claude Code",
+              "publishedAt": "2026-10-21T15:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/92ZDgn8bgLM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=92ZDgn8bgLM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "BMadCode",
           "channelUrl": "https://www.youtube.com/@BMadCode",
@@ -61,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/8Inu1FNd8mc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/8Inu1FNd8mc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "3gXLmy7DK_4",
+              "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
+              "publishedAt": "2026-10-21T15:30:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3gXLmy7DK_4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
               "summary": "",
               "transcriptAvailable": false
             }
