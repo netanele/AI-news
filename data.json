@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-10-20T18:51:31Z",
+  "lastUpdated": "2026-10-21T12:32:25Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-21",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "BMadCode",
+          "channelUrl": "https://www.youtube.com/@BMadCode",
+          "videos": [
+            {
+              "id": "LHQbLmKJWDs",
+              "title": "Why BMad V7 Stops Writing Every Story Up Front",
+              "publishedAt": "2026-10-21T11:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LHQbLmKJWDs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LHQbLmKJWDs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "8Inu1FNd8mc",
+              "title": "Which AI Agent Should You Actually Use",
+              "publishedAt": "2026-10-21T12:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8Inu1FNd8mc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/8Inu1FNd8mc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "dailyDigest": "",
@@ -12,6 +50,16 @@
           "channelName": "BMadCode",
           "channelUrl": "https://www.youtube.com/@BMadCode",
           "videos": [
+            {
+              "id": "n51qfZQ4-9s",
+              "title": "How Teams Avoid Stepping on Each Other with AI Agents",
+              "publishedAt": "2026-10-20T23:00:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/n51qfZQ4-9s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=n51qfZQ4-9s",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "ICoSNVMYV-I",
               "title": "Is BMad Too Heavy? I Answer the Critics",
@@ -45,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TVhhmhvCovg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=TVhhmhvCovg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "DwoWIf8f2yQ",
+              "title": "Stop paying for AI, run everything locally (here’s how)",
+              "publishedAt": "2026-10-20T22:09:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DwoWIf8f2yQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DwoWIf8f2yQ",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -1055,148 +1119,12 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-13",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "au2TI8sdq8E",
-              "title": "Google Just Fixed AI Design By Releasing This",
-              "publishedAt": "2026-10-13T15:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/au2TI8sdq8E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=au2TI8sdq8E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "pTh4IJ-Mi3Y",
-              "title": "OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.",
-              "publishedAt": "2026-10-13T14:00:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pTh4IJ-Mi3Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=pTh4IJ-Mi3Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "JFMg3IS8xV8",
-              "title": "GPT-6 Astra Just Built My Product, Here's EVERYTHING",
-              "publishedAt": "2026-10-13T16:46:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JFMg3IS8xV8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/JFMg3IS8xV8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "0BeG0lqA374",
-              "title": "AI Reverse Engineering Is the Most Dangerous Thing on the Internet",
-              "publishedAt": "2026-10-13T15:28:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0BeG0lqA374/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0BeG0lqA374",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "Gxt7JXVLkzI",
-              "title": "Hobbyist vs Professional",
-              "publishedAt": "2026-10-13T12:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Gxt7JXVLkzI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Gxt7JXVLkzI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "-OH1y7CjIew",
-              "title": "Coding on the go with Claude Code",
-              "publishedAt": "2026-10-13T18:54:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-OH1y7CjIew/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-OH1y7CjIew",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "JocjKnl4lBs",
-              "title": "Gemini 4 Argon Is Out, Fable 5.5 This Week? GPT-6.1 Astra, Nano Banana 3 & AI Self-Creating! AI NEWS",
-              "publishedAt": "2026-10-13T19:09:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JocjKnl4lBs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JocjKnl4lBs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "CIlqLzoJiU8",
-              "title": "OpenAI Employee Arrested Over Recording Device",
-              "publishedAt": "2026-10-13T21:49:49+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/CIlqLzoJiU8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/CIlqLzoJiU8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rpLrkJ5NNEI",
-              "title": "Meta just dropped something insane... (Muse Wonder)",
-              "publishedAt": "2026-10-13T00:47:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rpLrkJ5NNEI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "1 channel(s) could not be resolved"
+    ]
   }
 }
