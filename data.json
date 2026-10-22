@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T12:36:42Z",
+  "lastUpdated": "2026-10-22T14:54:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,54 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zj1TJlP7c9Y/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zj1TJlP7c9Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "htesCCGvpFY",
+              "title": "2 Claude Code Mods You Need to Turn On",
+              "publishedAt": "2026-10-22T12:56:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/htesCCGvpFY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/htesCCGvpFY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "15gxN8DnC8s",
+              "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
+              "publishedAt": "2026-10-22T14:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/15gxN8DnC8s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=15gxN8DnC8s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "GYDjNN7CGic",
+              "title": "My AI Clone Runs My Entire Life Now... (SETUP + HOW TO USE)",
+              "publishedAt": "2026-10-22T13:09:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/GYDjNN7CGic/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=GYDjNN7CGic",
               "summary": "",
               "transcriptAvailable": false
             }
