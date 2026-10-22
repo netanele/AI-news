@@ -1,9 +1,47 @@
 {
-  "lastUpdated": "2026-10-21T19:03:42Z",
+  "lastUpdated": "2026-10-22T12:36:42Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-22",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "zj1TJlP7c9Y",
+              "title": "AI Makes Us WAY Faster but Fries Our Focus (Here's What I Do About It)",
+              "publishedAt": "2026-10-22T00:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zj1TJlP7c9Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zj1TJlP7c9Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "egh6GlvyD1g",
+              "title": "Gemini 4 Carbon Is INSANE! OPUS 5.5 LEVEL?! Claude Duet, Kimi K3.1, OpenAI Agents & More! AI NEWS",
+              "publishedAt": "2026-10-22T06:04:04+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/egh6GlvyD1g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=egh6GlvyD1g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "dailyDigest": "",
@@ -83,9 +121,75 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "Fb-68zqcSVs",
+              "title": "Introducing Claude Duet",
+              "publishedAt": "2026-10-21T19:35:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Fb-68zqcSVs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "tc92psltcEg",
+              "title": "Sam Altman on What Personal AI Still Needs",
+              "publishedAt": "2026-10-21T23:13:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/tc92psltcEg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/tc92psltcEg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "u6Tf62_5CP0",
+              "title": "Sam Altman on Why AI Needs a New Kind of Hardware",
+              "publishedAt": "2026-10-21T21:38:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u6Tf62_5CP0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/u6Tf62_5CP0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "1g9Tqvyt4kU",
+              "title": "Sam Altman on Why Demand for Coders Hasn't Disappeared",
+              "publishedAt": "2026-10-21T21:09:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1g9Tqvyt4kU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1g9Tqvyt4kU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "SU-h1k5IYOI",
+              "title": "Sam Altman on Why AI Hasn't Made Us Less Busy",
+              "publishedAt": "2026-10-21T20:13:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SU-h1k5IYOI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SU-h1k5IYOI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "5eJnIYrr8rg",
+              "title": "Actual Robot Bodyguard",
+              "publishedAt": "2026-10-21T19:52:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5eJnIYrr8rg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/5eJnIYrr8rg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "3gXLmy7DK_4",
               "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
@@ -1043,134 +1147,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6VDjFXM1FbM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/6VDjFXM1FbM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "FbKXvab-0yQ",
-              "title": "Cloudroom: How I Run 200+ Agents At Once",
-              "publishedAt": "2026-10-14T08:35:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FbKXvab-0yQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FbKXvab-0yQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "i6gi3oBf4FY",
-              "title": "I Built an AI Web Agent in Claude With TinyFish",
-              "publishedAt": "2026-10-14T13:00:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i6gi3oBf4FY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=i6gi3oBf4FY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "7RjEosTjhE0",
-              "title": "What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science",
-              "publishedAt": "2026-10-14T03:00:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7RjEosTjhE0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7RjEosTjhE0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "M66YZt8Jz5I",
-              "title": "This FREE Website Shows The Whole Planet Live",
-              "publishedAt": "2026-10-14T16:55:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/M66YZt8Jz5I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/M66YZt8Jz5I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "1J_zOJlBPGc",
-              "title": "I Had Opus 5.5 Build me 3 Apps at Every Effort Level",
-              "publishedAt": "2026-10-14T14:00:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1J_zOJlBPGc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1J_zOJlBPGc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "dIPXSa3czi4",
-              "title": "Building With AI vs Building AI",
-              "publishedAt": "2026-10-14T11:34:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dIPXSa3czi4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/dIPXSa3czi4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "nJMwXtD56mA",
-              "title": "Coding on the go with Claude Code",
-              "publishedAt": "2026-10-14T19:32:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/nJMwXtD56mA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/nJMwXtD56mA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "M8iqahFogtA",
-              "title": "Google just went FRONTIER (Gemini 4 Argon)",
-              "publishedAt": "2026-10-14T01:33:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/M8iqahFogtA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=M8iqahFogtA",
               "summary": "",
               "transcriptAvailable": false
             }
