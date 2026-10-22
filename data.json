@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T14:54:18Z",
+  "lastUpdated": "2026-10-22T18:59:46Z",
   "config": {
     "daysToShow": 7
   },
@@ -61,6 +61,16 @@
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
             {
+              "id": "b7WF0FrLXww",
+              "title": "This FREE Claude Skill Writes Your Prompts For You",
+              "publishedAt": "2026-10-22T16:32:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/b7WF0FrLXww/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/b7WF0FrLXww",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "GYDjNN7CGic",
               "title": "My AI Clone Runs My Entire Life Now... (SETUP + HOW TO USE)",
               "publishedAt": "2026-10-22T13:09:09+00:00",
@@ -83,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/egh6GlvyD1g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=egh6GlvyD1g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "v9YVQoeSp-I",
+              "title": "5 Claude Myths Even “Pros” Fall For",
+              "publishedAt": "2026-10-22T15:45:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/v9YVQoeSp-I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=v9YVQoeSp-I",
               "summary": "",
               "transcriptAvailable": false
             }
