@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T14:08:32Z",
+  "lastUpdated": "2026-10-25T18:01:08Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "xxf6D9jynFw",
+              "title": "EGM: Google's New Way To Use Claude Code Is Insane",
+              "publishedAt": "2026-10-25T15:01:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xxf6D9jynFw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xxf6D9jynFw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
           "videos": [
+            {
+              "id": "RvnQZQAHUDc",
+              "title": "Are You Buying AI Per Seat Or Per Token?  That's the Wrong Question. Ask This Instead.",
+              "publishedAt": "2026-10-25T16:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RvnQZQAHUDc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RvnQZQAHUDc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Dpr4GqZEc5o",
               "title": "AI agents = messy roommates",
