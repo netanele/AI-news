@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T13:42:34Z",
+  "lastUpdated": "2026-10-26T16:34:45Z",
   "config": {
     "daysToShow": 7
   },
@@ -44,6 +44,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "3UFpGesW2_U",
+              "title": "How I Would Learn Python for Machine Learning (If I Started Over)",
+              "publishedAt": "2026-10-26T14:02:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3UFpGesW2_U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3UFpGesW2_U",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "47XaA3ZJ3I4",
               "title": "Don’t Let Your Agent Touch Your Files",
