@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T16:34:45Z",
+  "lastUpdated": "2026-10-26T20:14:49Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ASgfLPMCINo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ASgfLPMCINo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "16aUA3WJm9k",
+              "title": "Every Level of AI Coding Explained Simply..",
+              "publishedAt": "2026-10-26T17:59:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/16aUA3WJm9k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=16aUA3WJm9k",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -61,6 +77,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/47XaA3ZJ3I4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/47XaA3ZJ3I4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "N9TUbGO6Kr4",
+              "title": "How an Anthropic engineer uses Claude Docs",
+              "publishedAt": "2026-10-26T17:24:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/N9TUbGO6Kr4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/N9TUbGO6Kr4",
               "summary": "",
               "transcriptAvailable": false
             }
