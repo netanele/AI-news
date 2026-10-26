@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-10-25T18:01:08Z",
+  "lastUpdated": "2026-10-26T13:42:34Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "ASgfLPMCINo",
+              "title": "Test Your Day Trades 10,000 Times Before Buying",
+              "publishedAt": "2026-10-26T12:16:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ASgfLPMCINo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ASgfLPMCINo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "ybx0mmd22pQ",
+              "title": "Anthropic Says You're Using Subagents WRONG",
+              "publishedAt": "2026-10-26T10:57:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ybx0mmd22pQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ybx0mmd22pQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "47XaA3ZJ3I4",
+              "title": "Don’t Let Your Agent Touch Your Files",
+              "publishedAt": "2026-10-26T12:48:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/47XaA3ZJ3I4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/47XaA3ZJ3I4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "dailyDigest": "",
@@ -86,6 +140,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "L18lkQs4PeM",
+              "title": "Kimi K3.1 Passes the Rubik's Cube Test",
+              "publishedAt": "2026-10-25T22:29:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L18lkQs4PeM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/L18lkQs4PeM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "eQTOJZ6_NVU",
               "title": "Sam Altman on What People Still Bring to an AI World",
@@ -1039,144 +1103,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/24j6YmsTVng/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=24j6YmsTVng",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "YaK6cnET2IE",
-              "title": "OpenCode hack is INSANE.",
-              "publishedAt": "2026-10-18T04:09:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YaK6cnET2IE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YaK6cnET2IE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "qXTYBzx4QuY",
-              "title": "Is Your SaaS Visible to AI? I Used Claude and DataForSEO to Find Out",
-              "publishedAt": "2026-10-18T13:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/qXTYBzx4QuY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=qXTYBzx4QuY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "btUxMt_tssA",
-              "title": "What Really Happens When AI Agents Meet in the Wild?",
-              "publishedAt": "2026-10-18T16:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/btUxMt_tssA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=btUxMt_tssA",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZVnuhgXF9uM",
-              "title": "How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips",
-              "publishedAt": "2026-10-18T03:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZVnuhgXF9uM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZVnuhgXF9uM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "RbfQayMNtJc",
-              "title": "Your Prompts Are Too SMALL for Claude Code",
-              "publishedAt": "2026-10-18T12:04:14+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RbfQayMNtJc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RbfQayMNtJc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "aypkvuGFq5Y",
-              "title": "Build an AI That Turns Your Voice Into Images, Video and Audio (Python)",
-              "publishedAt": "2026-10-18T14:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aypkvuGFq5Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aypkvuGFq5Y",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "LLFpLVvK9Dk",
-              "title": "Why You Can’t Run That AI Model",
-              "publishedAt": "2026-10-18T12:00:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LLFpLVvK9Dk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/LLFpLVvK9Dk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "eItSZ33FVnA",
-              "title": "DeepSeek V4.1 Flash 1017 Is INSANE! Best Open Model EVER?! (Fully Tested)",
-              "publishedAt": "2026-10-18T06:25:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eItSZ33FVnA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=eItSZ33FVnA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "RS9vWYlJeH8",
-              "title": "How DeepSeek Uses Less Memory",
-              "publishedAt": "2026-10-18T23:02:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RS9vWYlJeH8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/RS9vWYlJeH8",
               "summary": "",
               "transcriptAvailable": false
             }
