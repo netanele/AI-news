@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T15:45:55Z",
+  "lastUpdated": "2026-10-27T19:46:29Z",
   "config": {
     "daysToShow": 7
   },
@@ -112,6 +112,26 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "mMzaL15KFVY",
+              "title": "I Ranked 5 Ways to Wake Up",
+              "publishedAt": "2026-10-27T18:47:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/mMzaL15KFVY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/mMzaL15KFVY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "jeUgtyvvkfs",
+              "title": "Anthropic’s IPO: Who Gets the Voting Power?",
+              "publishedAt": "2026-10-27T15:47:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jeUgtyvvkfs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jeUgtyvvkfs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "JI3bbZNdyeA",
               "title": "It's happening...",
