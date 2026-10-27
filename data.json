@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T12:50:38Z",
+  "lastUpdated": "2026-10-27T15:45:55Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,9 +25,35 @@
           ]
         },
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "NIRFVjttNvA",
+              "title": "Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.",
+              "publishedAt": "2026-10-27T14:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NIRFVjttNvA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=NIRFVjttNvA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "D5JABz5h7D4",
+              "title": "ChatGPT Just Got Its Own Phone Number",
+              "publishedAt": "2026-10-27T15:07:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/D5JABz5h7D4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/D5JABz5h7D4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "YUlumGjB-dM",
               "title": "speedrunning a $10K/Month AI Agency From $0",
@@ -44,6 +70,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "S8fc9na4pA8",
+              "title": "Everything New in Hermes Agent (Full Setup Guide)",
+              "publishedAt": "2026-10-27T14:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S8fc9na4pA8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=S8fc9na4pA8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "rPoLNjfda2w",
               "title": "6 AI Agents, 6 Different Jobs",
