@@ -1,9 +1,95 @@
 {
-  "lastUpdated": "2026-10-26T20:14:49Z",
+  "lastUpdated": "2026-10-27T12:50:38Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-27",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "8-NrvPP5e80",
+              "title": "This Claude Code Security Skill Found 21 Real Bugs",
+              "publishedAt": "2026-10-27T06:04:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8-NrvPP5e80/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8-NrvPP5e80",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "YUlumGjB-dM",
+              "title": "speedrunning a $10K/Month AI Agency From $0",
+              "publishedAt": "2026-10-27T12:18:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YUlumGjB-dM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YUlumGjB-dM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "rPoLNjfda2w",
+              "title": "6 AI Agents, 6 Different Jobs",
+              "publishedAt": "2026-10-27T12:00:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rPoLNjfda2w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rPoLNjfda2w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "SyUjFWgqDNo",
+              "title": "HUGE ANTHROPIC BOMBSHELL! Claude REA UNBANNED?! GPT-6.1 Terra, Qwen 4 27B, & Fable 5.5! AI NEWS",
+              "publishedAt": "2026-10-27T06:15:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SyUjFWgqDNo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SyUjFWgqDNo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "JI3bbZNdyeA",
+              "title": "It's happening...",
+              "publishedAt": "2026-10-27T01:58:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JI3bbZNdyeA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "dailyDigest": "",
@@ -1017,134 +1103,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/2BXktpaCEN4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=2BXktpaCEN4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "y2ifUC9_zuU",
-              "title": "Vercel's CEO Just Unveiled The Greatest AI Coding Workflow Ever",
-              "publishedAt": "2026-10-19T15:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/y2ifUC9_zuU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=y2ifUC9_zuU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "ygDtsnXczfE",
-              "title": "I Caught My AI Agents Using the Wrong Model",
-              "publishedAt": "2026-10-19T12:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ygDtsnXczfE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ygDtsnXczfE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "sIX_c_ayIl4",
-              "title": "Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips",
-              "publishedAt": "2026-10-19T03:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/sIX_c_ayIl4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/sIX_c_ayIl4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "IrCBV6onDrE",
-              "title": "I reached superintelligence for basically free..",
-              "publishedAt": "2026-10-19T17:44:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IrCBV6onDrE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IrCBV6onDrE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Yv45X2CRraE",
-              "title": "Claude Just Got Its Own Phone Number",
-              "publishedAt": "2026-10-19T14:39:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Yv45X2CRraE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Yv45X2CRraE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "Dpg7pcPa4WE",
-              "title": "VRAM Explained What Decides If a Model Fits",
-              "publishedAt": "2026-10-19T12:00:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Dpg7pcPa4WE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Dpg7pcPa4WE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "_Ui4ZkYm4ho",
-              "title": "Introducing Claude Dashboards and Claude Motion",
-              "publishedAt": "2026-10-19T18:35:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/_Ui4ZkYm4ho/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/_Ui4ZkYm4ho",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "24j6YmsTVng",
-              "title": "Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS",
-              "publishedAt": "2026-10-19T06:33:58+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/24j6YmsTVng/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=24j6YmsTVng",
               "summary": "",
               "transcriptAvailable": false
             }
