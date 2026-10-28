@@ -1,9 +1,111 @@
 {
-  "lastUpdated": "2026-10-27T19:46:29Z",
+  "lastUpdated": "2026-10-28T13:39:07Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-28",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "RHMsAm4ODDU",
+              "title": "kimi k3.1 changes everything...",
+              "publishedAt": "2026-10-28T07:09:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RHMsAm4ODDU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RHMsAm4ODDU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "7zKf5wEN9UM",
+              "title": "700 Free Prompts for AI Motion Graphics",
+              "publishedAt": "2026-10-28T11:33:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7zKf5wEN9UM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/7zKf5wEN9UM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "t1qkeD8GEUk",
+              "title": "claude can’t run your business yet unless you do this..",
+              "publishedAt": "2026-10-28T12:53:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t1qkeD8GEUk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t1qkeD8GEUk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "6dsRGjyjqN4",
+              "title": "The AI Agent in Your Chat Apps",
+              "publishedAt": "2026-10-28T12:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6dsRGjyjqN4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6dsRGjyjqN4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "1aLfN7TpOl8",
+              "title": "HUGE GEMINI 4 HYDROGEN LEAK! GPT-7 Bel BREAKTHROUGH, Genie 4 DeepSeek V5, GLM 5.5, & Qwen 4! AI NEWS",
+              "publishedAt": "2026-10-28T07:35:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1aLfN7TpOl8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1aLfN7TpOl8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "DDZ-a6bAn3Y",
+              "title": "Deepseek crushed everyone",
+              "publishedAt": "2026-10-28T03:47:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DDZ-a6bAn3Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "dailyDigest": "",
@@ -953,212 +1055,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/3gXLmy7DK_4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "BMadCode",
-          "channelUrl": "https://www.youtube.com/@BMadCode",
-          "videos": [
-            {
-              "id": "n51qfZQ4-9s",
-              "title": "How Teams Avoid Stepping on Each Other with AI Agents",
-              "publishedAt": "2026-10-20T23:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/n51qfZQ4-9s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=n51qfZQ4-9s",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ICoSNVMYV-I",
-              "title": "Is BMad Too Heavy? I Answer the Critics",
-              "publishedAt": "2026-10-20T01:43:04+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ICoSNVMYV-I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ICoSNVMYV-I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "hLoyhm1dHlM",
-              "title": "Prompt Injection Is Just the Start of AI Agent Security (Here's What You Need)",
-              "publishedAt": "2026-10-20T18:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hLoyhm1dHlM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/hLoyhm1dHlM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "TVhhmhvCovg",
-              "title": "Let Your AI Agent Do ITS OWN Harness Engineering (Here's How)",
-              "publishedAt": "2026-10-20T16:06:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/TVhhmhvCovg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=TVhhmhvCovg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "DwoWIf8f2yQ",
-              "title": "Stop paying for AI, run everything locally (here’s how)",
-              "publishedAt": "2026-10-20T22:09:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DwoWIf8f2yQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DwoWIf8f2yQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "1MNSJhCGMLY",
-              "title": "Matt Pocock's 3 New Skills Close the AI Coding Loop",
-              "publishedAt": "2026-10-20T17:37:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1MNSJhCGMLY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1MNSJhCGMLY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "K-e3S31Ta68",
-              "title": "Bun vs Node.js: Why Bun is 2x Faster",
-              "publishedAt": "2026-10-20T16:43:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K-e3S31Ta68/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/K-e3S31Ta68",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "xUl-RD4l4i4",
-              "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
-              "publishedAt": "2026-10-20T14:00:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xUl-RD4l4i4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xUl-RD4l4i4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "pZ59GuxXqis",
-              "title": "Claude Just KILLED Gemini In Google Docs",
-              "publishedAt": "2026-10-20T18:27:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/pZ59GuxXqis/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/pZ59GuxXqis",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "a-xRgEsu28o",
-              "title": "AI Fundamentals in 49 Minutes (No Tech Background Needed)",
-              "publishedAt": "2026-10-20T13:37:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/a-xRgEsu28o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=a-xRgEsu28o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "IFNum8_oAD8",
-              "title": "Your Attention Is the REAL Bottleneck in Claude Code",
-              "publishedAt": "2026-10-20T14:04:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IFNum8_oAD8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IFNum8_oAD8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "5J6OXXe4SeM",
-              "title": "Why Your Local AI Is Slow",
-              "publishedAt": "2026-10-20T12:00:01+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5J6OXXe4SeM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5J6OXXe4SeM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "SkFmiMHDN38",
-              "title": "How an Anthropic engineer uses Claude Docs",
-              "publishedAt": "2026-10-20T16:40:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SkFmiMHDN38/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SkFmiMHDN38",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "2BXktpaCEN4",
-              "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
-              "publishedAt": "2026-10-20T07:01:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/2BXktpaCEN4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=2BXktpaCEN4",
               "summary": "",
               "transcriptAvailable": false
             }
