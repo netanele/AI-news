@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T13:39:07Z",
+  "lastUpdated": "2026-10-28T16:27:57Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-10-28",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "1kQ_1_QL5Es",
+              "title": "This Is Microsoft's New Plan To Fix Claude's Usage Limits",
+              "publishedAt": "2026-10-28T15:00:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1kQ_1_QL5Es/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1kQ_1_QL5Es",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "DavidOndrej",
           "channelUrl": "https://www.youtube.com/@DavidOndrej",
@@ -29,12 +45,38 @@
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
             {
+              "id": "exkQTYOm47c",
+              "title": "Claude Code for Free With 7 Billion Tokens a Month",
+              "publishedAt": "2026-10-28T15:14:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/exkQTYOm47c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=exkQTYOm47c",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "7zKf5wEN9UM",
               "title": "700 Free Prompts for AI Motion Graphics",
               "publishedAt": "2026-10-28T11:33:43+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/7zKf5wEN9UM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/7zKf5wEN9UM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "EAEixlPC6L4",
+              "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
+              "publishedAt": "2026-10-28T14:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EAEixlPC6L4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EAEixlPC6L4",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -60,6 +102,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "KlZDeqvD52A",
+              "title": "I Tested The Viral Reverse Engineering Repo",
+              "publishedAt": "2026-10-28T14:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KlZDeqvD52A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KlZDeqvD52A",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "6dsRGjyjqN4",
               "title": "The AI Agent in Your Chat Apps",
