@@ -1,9 +1,95 @@
 {
-  "lastUpdated": "2026-10-28T20:01:03Z",
+  "lastUpdated": "2026-10-29T13:48:50Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-10-29",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "qIWB1yMsqRo",
+              "title": "The 4 Components of Every Successful AI Second Brain (Build These Now)",
+              "publishedAt": "2026-10-29T00:00:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qIWB1yMsqRo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=qIWB1yMsqRo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "JPE22wtnDo0",
+              "title": "How hackable is your computer #blackoctober #cybersecurity",
+              "publishedAt": "2026-10-29T03:00:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JPE22wtnDo0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/JPE22wtnDo0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "e1vuX2svBrE",
+              "title": "OpenClaw The Honest Pros and Cons",
+              "publishedAt": "2026-10-29T12:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/e1vuX2svBrE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/e1vuX2svBrE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "L4yqXWDyGCg",
+              "title": "GEMINI 4 CARBON IS Best Model Ever?! Fable 5.5 Benchmarks, Gemini 4 Ultra, & Claude Ultrathink!",
+              "publishedAt": "2026-10-29T07:48:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L4yqXWDyGCg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=L4yqXWDyGCg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "zhnJo7s91ls",
+              "title": "Google \"Carbon\" just won everything...",
+              "publishedAt": "2026-10-29T00:29:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zhnJo7s91ls/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "dailyDigest": "",
@@ -145,12 +231,38 @@
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
             {
+              "id": "3yZb9rGt-rk",
+              "title": "Google announces Gemini 4 Carbon",
+              "publishedAt": "2026-10-28T22:20:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3yZb9rGt-rk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "DDZ-a6bAn3Y",
               "title": "Deepseek crushed everyone",
               "publishedAt": "2026-10-28T03:47:38+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DDZ-a6bAn3Y/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "KjuANoI8HDw",
+              "title": "The New Claude Is Secretly Insane (17 New Features)",
+              "publishedAt": "2026-10-28T23:04:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KjuANoI8HDw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KjuANoI8HDw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -945,168 +1057,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/v9YVQoeSp-I/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=v9YVQoeSp-I",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "92ZDgn8bgLM",
-              "title": "Anthropic Just Revealed How Their Engineers Use Claude Code",
-              "publishedAt": "2026-10-21T15:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/92ZDgn8bgLM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=92ZDgn8bgLM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "BMadCode",
-          "channelUrl": "https://www.youtube.com/@BMadCode",
-          "videos": [
-            {
-              "id": "LHQbLmKJWDs",
-              "title": "Why BMad V7 Stops Writing Every Story Up Front",
-              "publishedAt": "2026-10-21T11:00:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LHQbLmKJWDs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LHQbLmKJWDs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "VTowX1wzY0w",
-              "title": "I Found a $44 Leak in My Claude Code Usage",
-              "publishedAt": "2026-10-21T13:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VTowX1wzY0w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VTowX1wzY0w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "3rgd2Xx5ceg",
-              "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
-              "publishedAt": "2026-10-21T14:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3rgd2Xx5ceg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3rgd2Xx5ceg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "8Inu1FNd8mc",
-              "title": "Which AI Agent Should You Actually Use",
-              "publishedAt": "2026-10-21T12:00:37+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8Inu1FNd8mc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/8Inu1FNd8mc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "Fb-68zqcSVs",
-              "title": "Introducing Claude Duet",
-              "publishedAt": "2026-10-21T19:35:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Fb-68zqcSVs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "tc92psltcEg",
-              "title": "Sam Altman on What Personal AI Still Needs",
-              "publishedAt": "2026-10-21T23:13:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/tc92psltcEg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/tc92psltcEg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "u6Tf62_5CP0",
-              "title": "Sam Altman on Why AI Needs a New Kind of Hardware",
-              "publishedAt": "2026-10-21T21:38:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/u6Tf62_5CP0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/u6Tf62_5CP0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1g9Tqvyt4kU",
-              "title": "Sam Altman on Why Demand for Coders Hasn't Disappeared",
-              "publishedAt": "2026-10-21T21:09:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1g9Tqvyt4kU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1g9Tqvyt4kU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "SU-h1k5IYOI",
-              "title": "Sam Altman on Why AI Hasn't Made Us Less Busy",
-              "publishedAt": "2026-10-21T20:13:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SU-h1k5IYOI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/SU-h1k5IYOI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "5eJnIYrr8rg",
-              "title": "Actual Robot Bodyguard",
-              "publishedAt": "2026-10-21T19:52:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5eJnIYrr8rg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/5eJnIYrr8rg",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "3gXLmy7DK_4",
-              "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
-              "publishedAt": "2026-10-21T15:30:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3gXLmy7DK_4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
               "summary": "",
               "transcriptAvailable": false
             }
