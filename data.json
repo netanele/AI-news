@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T16:40:51Z",
+  "lastUpdated": "2026-10-29T20:00:23Z",
   "config": {
     "daysToShow": 7
   },
@@ -57,6 +57,22 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "SkpwzfR4A1E",
+              "title": "Claude's new mobile app updates are here",
+              "publishedAt": "2026-10-29T18:02:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SkpwzfR4A1E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SkpwzfR4A1E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -76,6 +92,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "IrgQdsxzRa4",
+              "title": "Two AI bots for spam calls and data privacy",
+              "publishedAt": "2026-10-29T19:05:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IrgQdsxzRa4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IrgQdsxzRa4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "zhnJo7s91ls",
               "title": "Google \"Carbon\" just won everything...",
