@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T13:54:23Z",
+  "lastUpdated": "2026-11-01T16:36:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-11-01",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "VJnTQXDX0lU",
+              "title": "How to Automate Your ENTIRE Business With Claude in 2027 (No Coding)",
+              "publishedAt": "2026-11-01T14:07:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VJnTQXDX0lU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VJnTQXDX0lU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "JETl3kG_Ur0",
+              "title": "TOP 1% Agentic Engineering: Claude Code Verifiers",
+              "publishedAt": "2026-11-01T14:26:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JETl3kG_Ur0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JETl3kG_Ur0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
