@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T16:36:52Z",
+  "lastUpdated": "2026-11-01T19:18:32Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-11-01",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "svZWnyA_rYc",
+              "title": "Claude Code With Free AI Models (Up to 7B Tokens/Month)",
+              "publishedAt": "2026-11-01T16:50:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/svZWnyA_rYc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/svZWnyA_rYc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "KDGxQtfjBj0",
+              "title": "Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.",
+              "publishedAt": "2026-11-01T17:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KDGxQtfjBj0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KDGxQtfjBj0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
