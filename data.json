@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T20:00:13Z",
+  "lastUpdated": "2026-11-02T22:57:52Z",
   "config": {
     "daysToShow": 7
   },
@@ -25,6 +25,22 @@
           ]
         },
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "YHKuUjicB3M",
+              "title": "My AI Software Factory Ships Hundreds of PRs a Week (Here's How I Manage It)",
+              "publishedAt": "2026-11-02T21:06:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YHKuUjicB3M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YHKuUjicB3M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "DavidOndrej",
           "channelUrl": "https://www.youtube.com/@DavidOndrej",
           "videos": [
@@ -35,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/9tOu4r-FiQI/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=9tOu4r-FiQI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "eDafFeXAOYk",
+              "title": "Big Tech is shifting, and you need to pay attention #tech #ai #business",
+              "publishedAt": "2026-11-02T22:29:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eDafFeXAOYk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/eDafFeXAOYk",
               "summary": "",
               "transcriptAvailable": false
             }
