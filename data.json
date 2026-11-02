@@ -1,9 +1,95 @@
 {
-  "lastUpdated": "2026-11-01T19:18:32Z",
+  "lastUpdated": "2026-11-02T16:40:09Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-02",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "oTWUyW_bR-g",
+              "title": "Insane GitHub Repos To Actually 10x Claude Video Editing",
+              "publishedAt": "2026-11-02T15:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oTWUyW_bR-g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=oTWUyW_bR-g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "9tOu4r-FiQI",
+              "title": "This DeepSeek v4.1 is powerful and uncensored, let's run it",
+              "publishedAt": "2026-11-02T01:37:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/9tOu4r-FiQI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=9tOu4r-FiQI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "fqvZRWbAnR4",
+              "title": "Your website might be wide open right now. 🚨",
+              "publishedAt": "2026-11-02T00:37:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fqvZRWbAnR4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fqvZRWbAnR4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "1oMTgxXTFpI",
+              "title": "This AI Agent Gets Smarter Over Time",
+              "publishedAt": "2026-11-02T12:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1oMTgxXTFpI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/1oMTgxXTFpI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "L7opnQdpdMY",
+              "title": "HUGE CLAUDE MYTHOS 5.5 LEAK! Fable 5.5 INSANE, GPT-6.2 Astra, Gemini 4 Xenon & Carbon-H! AI NEWS",
+              "publishedAt": "2026-11-02T08:55:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L7opnQdpdMY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=L7opnQdpdMY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "dailyDigest": "",
@@ -19,6 +105,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/svZWnyA_rYc/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/svZWnyA_rYc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "fk20bs6KLNE",
+              "title": "My AI Agent Worked for Hours. Then I Looked Closer.",
+              "publishedAt": "2026-11-01T19:13:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fk20bs6KLNE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fk20bs6KLNE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -879,112 +981,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/N9TUbGO6Kr4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/N9TUbGO6Kr4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "xxf6D9jynFw",
-              "title": "EGM: Google's New Way To Use Claude Code Is Insane",
-              "publishedAt": "2026-10-25T15:01:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/xxf6D9jynFw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=xxf6D9jynFw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "RvnQZQAHUDc",
-              "title": "Are You Buying AI Per Seat Or Per Token?  That's the Wrong Question. Ask This Instead.",
-              "publishedAt": "2026-10-25T16:00:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RvnQZQAHUDc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RvnQZQAHUDc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Dpr4GqZEc5o",
-              "title": "AI agents = messy roommates",
-              "publishedAt": "2026-10-25T03:00:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Dpr4GqZEc5o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Dpr4GqZEc5o",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "R7u3ncQFIU0",
-              "title": "What’s Inside an AI Agent",
-              "publishedAt": "2026-10-25T12:00:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/R7u3ncQFIU0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/R7u3ncQFIU0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "aZMKzHhlTh8",
-              "title": "HUGE GPT-7 BEL UPDATE! Claude REA BANNED, Gemini 4 Carbon Is INSANE, Qwen 4 LEAKS, & More! AI NEWS",
-              "publishedAt": "2026-10-25T07:03:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aZMKzHhlTh8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=aZMKzHhlTh8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "L18lkQs4PeM",
-              "title": "Kimi K3.1 Passes the Rubik's Cube Test",
-              "publishedAt": "2026-10-25T22:29:29+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L18lkQs4PeM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/L18lkQs4PeM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "eQTOJZ6_NVU",
-              "title": "Sam Altman on What People Still Bring to an AI World",
-              "publishedAt": "2026-10-25T05:59:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eQTOJZ6_NVU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/eQTOJZ6_NVU",
               "summary": "",
               "transcriptAvailable": false
             }
