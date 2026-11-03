@@ -1,9 +1,105 @@
 {
-  "lastUpdated": "2026-11-02T22:57:52Z",
+  "lastUpdated": "2026-11-03T14:44:13Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-03",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "rg91Ecbkzuk",
+              "title": "I Tested The New Grok Bot Updates – Here's What You Need To Know",
+              "publishedAt": "2026-11-03T07:25:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rg91Ecbkzuk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rg91Ecbkzuk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "KwHKVA9fjd4",
+              "title": "GPT-6.1 Terra Is Fantastic at Some Work and Terrible at Others",
+              "publishedAt": "2026-11-03T13:00:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KwHKVA9fjd4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=KwHKVA9fjd4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "EcoCd1Ot7gA",
+              "title": "How to Be a Better CEO Using AI",
+              "publishedAt": "2026-11-03T12:25:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EcoCd1Ot7gA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EcoCd1Ot7gA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "Sc_D4o9-vNk",
+              "title": "I Looked Inside my Agents Context Window...",
+              "publishedAt": "2026-11-03T14:06:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Sc_D4o9-vNk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Sc_D4o9-vNk",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "fBW4CFf9ztw",
+              "title": "This AI Can Teach Itself Wrong",
+              "publishedAt": "2026-11-03T12:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fBW4CFf9ztw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/fBW4CFf9ztw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "i-wYjUriSzo",
+              "title": "Anthropic's RSI Breakthrough?! NEW Fable 5.5 Checkpoint, NEW GPT, DeepSeek Harness, & More! AI NEWS",
+              "publishedAt": "2026-11-03T08:12:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/i-wYjUriSzo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=i-wYjUriSzo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "dailyDigest": "",
@@ -917,102 +1013,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/JI3bbZNdyeA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "ASgfLPMCINo",
-              "title": "Test Your Day Trades 10,000 Times Before Buying",
-              "publishedAt": "2026-10-26T12:16:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ASgfLPMCINo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ASgfLPMCINo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "16aUA3WJm9k",
-              "title": "Every Level of AI Coding Explained Simply..",
-              "publishedAt": "2026-10-26T17:59:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/16aUA3WJm9k/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=16aUA3WJm9k",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "ybx0mmd22pQ",
-              "title": "Anthropic Says You're Using Subagents WRONG",
-              "publishedAt": "2026-10-26T10:57:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ybx0mmd22pQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=ybx0mmd22pQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "3UFpGesW2_U",
-              "title": "How I Would Learn Python for Machine Learning (If I Started Over)",
-              "publishedAt": "2026-10-26T14:02:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3UFpGesW2_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3UFpGesW2_U",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "47XaA3ZJ3I4",
-              "title": "Don’t Let Your Agent Touch Your Files",
-              "publishedAt": "2026-10-26T12:48:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/47XaA3ZJ3I4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/47XaA3ZJ3I4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "N9TUbGO6Kr4",
-              "title": "How an Anthropic engineer uses Claude Docs",
-              "publishedAt": "2026-10-26T17:24:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/N9TUbGO6Kr4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/N9TUbGO6Kr4",
               "summary": "",
               "transcriptAvailable": false
             }
