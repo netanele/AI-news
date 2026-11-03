@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T14:44:13Z",
+  "lastUpdated": "2026-11-03T17:35:56Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/KwHKVA9fjd4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=KwHKVA9fjd4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "JFoDdKuRmSk",
+              "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
+              "publishedAt": "2026-11-03T15:00:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JFoDdKuRmSk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JFoDdKuRmSk",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -93,6 +109,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/i-wYjUriSzo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=i-wYjUriSzo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "r0cJOa9MZsE",
+              "title": "They did it...",
+              "publishedAt": "2026-11-03T16:51:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/r0cJOa9MZsE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
               "summary": "",
               "transcriptAvailable": false
             }
