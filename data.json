@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:35:56Z",
+  "lastUpdated": "2026-11-03T20:43:51Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "hlZ0nJwDGOE",
+              "title": "The AI bubble is popping",
+              "publishedAt": "2026-11-03T20:02:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hlZ0nJwDGOE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hlZ0nJwDGOE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "-0ekNQbijgo",
+              "title": "God's Eye View: Full Setup + Deploy It to the Cloud",
+              "publishedAt": "2026-11-03T19:37:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-0ekNQbijgo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-0ekNQbijgo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "rg91Ecbkzuk",
               "title": "I Tested The New Grok Bot Updates – Here's What You Need To Know",
@@ -76,6 +102,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "UUrTt-vTdTQ",
+              "title": "I Built an Entire AI Ad Campaign in One Chat Window",
+              "publishedAt": "2026-11-03T18:15:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UUrTt-vTdTQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/UUrTt-vTdTQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "Sc_D4o9-vNk",
               "title": "I Looked Inside my Agents Context Window...",
