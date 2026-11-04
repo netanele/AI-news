@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-11-03T20:43:51Z",
+  "lastUpdated": "2026-11-04T14:56:36Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-04",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "G1rs663anWs",
+              "title": "Claude Code Video Editing: No Video Editor Needed",
+              "publishedAt": "2026-11-04T13:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/G1rs663anWs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=G1rs663anWs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "v5FYtD1hy6w",
+              "title": "The New Job of a Software Engineer (It's Not Writing Code)",
+              "publishedAt": "2026-11-04T13:00:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/v5FYtD1hy6w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=v5FYtD1hy6w",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "aZ1Ae7vjafk",
+              "title": "The AI Agent That Writes Its Own Tools",
+              "publishedAt": "2026-11-04T12:00:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/aZ1Ae7vjafk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/aZ1Ae7vjafk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "FQABKeCe1jM",
+              "title": "OpenAI's NEW GPT-ADA! GPT-6.2 Astra is Fable 5.5 Level?! Hy4 IS OUT, DeepSeek V5, & More! AI NEWS",
+              "publishedAt": "2026-11-04T09:41:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FQABKeCe1jM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FQABKeCe1jM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "dailyDigest": "",
@@ -939,148 +1003,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/KjuANoI8HDw/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=KjuANoI8HDw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "8-NrvPP5e80",
-              "title": "This Claude Code Security Skill Found 21 Real Bugs",
-              "publishedAt": "2026-10-27T06:04:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/8-NrvPP5e80/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=8-NrvPP5e80",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "NIRFVjttNvA",
-              "title": "Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.",
-              "publishedAt": "2026-10-27T14:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NIRFVjttNvA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=NIRFVjttNvA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "D5JABz5h7D4",
-              "title": "ChatGPT Just Got Its Own Phone Number",
-              "publishedAt": "2026-10-27T15:07:48+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/D5JABz5h7D4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/D5JABz5h7D4",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "YUlumGjB-dM",
-              "title": "speedrunning a $10K/Month AI Agency From $0",
-              "publishedAt": "2026-10-27T12:18:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YUlumGjB-dM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YUlumGjB-dM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "S8fc9na4pA8",
-              "title": "Everything New in Hermes Agent (Full Setup Guide)",
-              "publishedAt": "2026-10-27T14:00:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/S8fc9na4pA8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=S8fc9na4pA8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rPoLNjfda2w",
-              "title": "6 AI Agents, 6 Different Jobs",
-              "publishedAt": "2026-10-27T12:00:23+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rPoLNjfda2w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/rPoLNjfda2w",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "SyUjFWgqDNo",
-              "title": "HUGE ANTHROPIC BOMBSHELL! Claude REA UNBANNED?! GPT-6.1 Terra, Qwen 4 27B, & Fable 5.5! AI NEWS",
-              "publishedAt": "2026-10-27T06:15:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/SyUjFWgqDNo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=SyUjFWgqDNo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "mMzaL15KFVY",
-              "title": "I Ranked 5 Ways to Wake Up",
-              "publishedAt": "2026-10-27T18:47:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/mMzaL15KFVY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/mMzaL15KFVY",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "jeUgtyvvkfs",
-              "title": "Anthropic’s IPO: Who Gets the Voting Power?",
-              "publishedAt": "2026-10-27T15:47:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jeUgtyvvkfs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jeUgtyvvkfs",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "JI3bbZNdyeA",
-              "title": "It's happening...",
-              "publishedAt": "2026-10-27T01:58:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JI3bbZNdyeA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
               "summary": "",
               "transcriptAvailable": false
             }
