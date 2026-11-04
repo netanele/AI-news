@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T14:56:36Z",
+  "lastUpdated": "2026-11-04T17:48:50Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,38 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/G1rs663anWs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=G1rs663anWs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "-5cDYPwNf5g",
+              "title": "Elon's AI Agent Has a Massive Cost Problem",
+              "publishedAt": "2026-11-04T15:00:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-5cDYPwNf5g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "yrRpnx_iugY",
+              "title": "OpenAI Revealed What Comes After Loops",
+              "publishedAt": "2026-11-04T15:01:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/yrRpnx_iugY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=yrRpnx_iugY",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -61,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/FQABKeCe1jM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=FQABKeCe1jM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "j09uV1oAuIo",
+              "title": "MIT Researchers Discover AI Can Rewrite Its Own Weights",
+              "publishedAt": "2026-11-04T17:09:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/j09uV1oAuIo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=j09uV1oAuIo",
               "summary": "",
               "transcriptAvailable": false
             }
