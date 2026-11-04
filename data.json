@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T17:48:50Z",
+  "lastUpdated": "2026-11-04T21:00:42Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/-5cDYPwNf5g/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "jYbOptzDG_U",
+              "title": "This Claude Trick Rebuilds ANY App You Pay For",
+              "publishedAt": "2026-11-04T19:47:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/jYbOptzDG_U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/jYbOptzDG_U",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -77,6 +93,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/aZ1Ae7vjafk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/aZ1Ae7vjafk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "kJA3fQnntpY",
+              "title": "Collaborate on artifacts in Claude",
+              "publishedAt": "2026-11-04T18:18:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kJA3fQnntpY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kJA3fQnntpY",
               "summary": "",
               "transcriptAvailable": false
             }
