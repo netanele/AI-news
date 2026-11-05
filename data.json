@@ -1,9 +1,111 @@
 {
-  "lastUpdated": "2026-11-04T21:00:42Z",
+  "lastUpdated": "2026-11-05T15:01:25Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-05",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "RYIV5E2Xq60",
+              "title": "I REALLY Want Open Models to Win, But They Just Don't Cut It (Yet)",
+              "publishedAt": "2026-11-05T01:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RYIV5E2Xq60/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RYIV5E2Xq60",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "H9yy1DD79vk",
+              "title": "Don't Pay for AI! 5 Open Source Alternatives That Are Better",
+              "publishedAt": "2026-11-05T13:00:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/H9yy1DD79vk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=H9yy1DD79vk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "4A7uzDwAlN8",
+              "title": "Be CAREFUL when using ChatGpt now!",
+              "publishedAt": "2026-11-05T12:43:49+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4A7uzDwAlN8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=4A7uzDwAlN8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "q79euz_J1ag",
+              "title": "The Most Transparent AI Agent",
+              "publishedAt": "2026-11-05T12:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/q79euz_J1ag/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/q79euz_J1ag",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "LHxOG65r12w",
+              "title": "AI BOOM ENDING?! Calls to PAUSE AI, GPT-6.2 Astra & Sol LEAKED, Fable 5.5 & Gemini 4! AI NEWS",
+              "publishedAt": "2026-11-05T08:58:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LHxOG65r12w/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LHxOG65r12w",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "t8-RG3ju_Ao",
+              "title": "I built my own PDF reader to replace Adobe Acrobat",
+              "publishedAt": "2026-11-05T01:33:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t8-RG3ju_Ao/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "dailyDigest": "",
@@ -903,186 +1005,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/zhnJo7s91ls/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "1kQ_1_QL5Es",
-              "title": "This Is Microsoft's New Plan To Fix Claude's Usage Limits",
-              "publishedAt": "2026-10-28T15:00:31+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1kQ_1_QL5Es/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1kQ_1_QL5Es",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "RHMsAm4ODDU",
-              "title": "kimi k3.1 changes everything...",
-              "publishedAt": "2026-10-28T07:09:39+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RHMsAm4ODDU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RHMsAm4ODDU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "exkQTYOm47c",
-              "title": "Claude Code for Free With 7 Billion Tokens a Month",
-              "publishedAt": "2026-10-28T15:14:40+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/exkQTYOm47c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=exkQTYOm47c",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "7zKf5wEN9UM",
-              "title": "700 Free Prompts for AI Motion Graphics",
-              "publishedAt": "2026-10-28T11:33:43+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7zKf5wEN9UM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/7zKf5wEN9UM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "EAEixlPC6L4",
-              "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
-              "publishedAt": "2026-10-28T14:00:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EAEixlPC6L4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EAEixlPC6L4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "t1qkeD8GEUk",
-              "title": "claude can’t run your business yet unless you do this..",
-              "publishedAt": "2026-10-28T12:53:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t1qkeD8GEUk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=t1qkeD8GEUk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "KlZDeqvD52A",
-              "title": "I Tested The Viral Reverse Engineering Repo",
-              "publishedAt": "2026-10-28T14:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KlZDeqvD52A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KlZDeqvD52A",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "6dsRGjyjqN4",
-              "title": "The AI Agent in Your Chat Apps",
-              "publishedAt": "2026-10-28T12:00:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6dsRGjyjqN4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/6dsRGjyjqN4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "1aLfN7TpOl8",
-              "title": "HUGE GEMINI 4 HYDROGEN LEAK! GPT-7 Bel BREAKTHROUGH, Genie 4 DeepSeek V5, GLM 5.5, & Qwen 4! AI NEWS",
-              "publishedAt": "2026-10-28T07:35:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1aLfN7TpOl8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1aLfN7TpOl8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "3yZb9rGt-rk",
-              "title": "Google announces Gemini 4 Carbon",
-              "publishedAt": "2026-10-28T22:20:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3yZb9rGt-rk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/3yZb9rGt-rk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "DDZ-a6bAn3Y",
-              "title": "Deepseek crushed everyone",
-              "publishedAt": "2026-10-28T03:47:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DDZ-a6bAn3Y/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "simonscrapes",
-          "channelUrl": "https://www.youtube.com/@simonscrapes",
-          "videos": [
-            {
-              "id": "KjuANoI8HDw",
-              "title": "The New Claude Is Secretly Insane (17 New Features)",
-              "publishedAt": "2026-10-28T23:04:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KjuANoI8HDw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KjuANoI8HDw",
               "summary": "",
               "transcriptAvailable": false
             }
