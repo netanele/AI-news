@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T17:53:07Z",
+  "lastUpdated": "2026-11-05T21:18:06Z",
   "config": {
     "daysToShow": 7
   },
@@ -105,6 +105,22 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "UTubvRLX2j4",
+              "title": "Introducing Personal Finance in Claude",
+              "publishedAt": "2026-11-05T18:00:30+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UTubvRLX2j4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UTubvRLX2j4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -124,6 +140,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "hu1YDJZYGTc",
+              "title": "A 4B AI model that creates 3D game assets",
+              "publishedAt": "2026-11-05T20:32:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hu1YDJZYGTc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/hu1YDJZYGTc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "-M62vWrZh54",
               "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
