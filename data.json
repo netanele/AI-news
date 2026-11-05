@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T15:01:25Z",
+  "lastUpdated": "2026-11-05T17:53:07Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-05",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "3DklR44DHnM",
+              "title": "Deepseek Just Released The Greatest Claude Code Workflow Ever",
+              "publishedAt": "2026-11-05T15:00:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3DklR44DHnM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3DklR44DHnM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -35,6 +51,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/H9yy1DD79vk/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=H9yy1DD79vk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "XuUEgWtLfMw",
+              "title": "Stop wasting time: How to value your hours #time #efficiency #tips",
+              "publishedAt": "2026-11-05T17:27:44+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XuUEgWtLfMw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/XuUEgWtLfMw",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -92,6 +124,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "-M62vWrZh54",
+              "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
+              "publishedAt": "2026-11-05T16:51:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-M62vWrZh54/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-M62vWrZh54",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "t8-RG3ju_Ao",
               "title": "I built my own PDF reader to replace Adobe Acrobat",
