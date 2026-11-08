@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T16:31:35Z",
+  "lastUpdated": "2026-11-08T19:16:06Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-08",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "illf65HD_t4",
+              "title": "You Use AI Every Week. Voters Just Said Not In My Backyard.",
+              "publishedAt": "2026-11-08T17:00:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/illf65HD_t4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=illf65HD_t4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
