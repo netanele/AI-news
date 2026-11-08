@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T13:57:34Z",
+  "lastUpdated": "2026-11-08T16:31:35Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-08",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "HylDdGcSmjY",
+              "title": "3 Claude Settings You NEED To Turn On",
+              "publishedAt": "2026-11-08T15:58:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/HylDdGcSmjY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/HylDdGcSmjY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
