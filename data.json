@@ -1,9 +1,89 @@
 {
-  "lastUpdated": "2026-11-08T19:16:06Z",
+  "lastUpdated": "2026-11-09T16:57:47Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-09",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "6gT2sGrYgHk",
+              "title": "Claude Usage Limit Is Broken... This Just Fixed It",
+              "publishedAt": "2026-11-09T15:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6gT2sGrYgHk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6gT2sGrYgHk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "1Uv6osWCb0E",
+              "title": "AI will change everything by 2028 (start preparing)",
+              "publishedAt": "2026-11-09T12:23:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1Uv6osWCb0E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1Uv6osWCb0E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "5z5aoqMURFM",
+              "title": "I Gave My AI Agent My IDE. Here's What Changed.",
+              "publishedAt": "2026-11-09T15:11:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5z5aoqMURFM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5z5aoqMURFM",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "NdTTX-TPdhE",
+              "title": "The Most Autonomous AI Agent",
+              "publishedAt": "2026-11-09T11:27:51+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/NdTTX-TPdhE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/NdTTX-TPdhE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "WzZtBgfeUxg",
+              "title": "OpenAI's GPT-6.2 PREVIEW Is INSANE! BEATS Opus 5.5 & Fable 5.5?",
+              "publishedAt": "2026-11-09T07:15:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WzZtBgfeUxg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WzZtBgfeUxg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "dailyDigest": "",
@@ -967,124 +1047,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/L7opnQdpdMY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=L7opnQdpdMY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "svZWnyA_rYc",
-              "title": "Claude Code With Free AI Models (Up to 7B Tokens/Month)",
-              "publishedAt": "2026-11-01T16:50:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/svZWnyA_rYc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/svZWnyA_rYc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "fk20bs6KLNE",
-              "title": "My AI Agent Worked for Hours. Then I Looked Closer.",
-              "publishedAt": "2026-11-01T19:13:18+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fk20bs6KLNE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=fk20bs6KLNE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "KDGxQtfjBj0",
-              "title": "Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.",
-              "publishedAt": "2026-11-01T17:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KDGxQtfjBj0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KDGxQtfjBj0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "VJnTQXDX0lU",
-              "title": "How to Automate Your ENTIRE Business With Claude in 2027 (No Coding)",
-              "publishedAt": "2026-11-01T14:07:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VJnTQXDX0lU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VJnTQXDX0lU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "JETl3kG_Ur0",
-              "title": "TOP 1% Agentic Engineering: Claude Code Verifiers",
-              "publishedAt": "2026-11-01T14:26:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JETl3kG_Ur0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JETl3kG_Ur0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "Z5QpwLqPQm4",
-              "title": "AI can do more than just generate text",
-              "publishedAt": "2026-11-01T12:00:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Z5QpwLqPQm4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/Z5QpwLqPQm4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "Nj7rnWJE92o",
-              "title": "Grok Bot Is INSANE! AI Teammates That Actually Do The Work (Full Tutorial)",
-              "publishedAt": "2026-11-01T06:38:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Nj7rnWJE92o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Nj7rnWJE92o",
               "summary": "",
               "transcriptAvailable": false
             }
