@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T20:29:12Z",
+  "lastUpdated": "2026-11-09T23:49:01Z",
   "config": {
     "daysToShow": 7
   },
@@ -1118,7 +1118,9 @@
     }
   ],
   "pipelineStatus": {
-    "status": "ok",
-    "issues": []
+    "status": "partial",
+    "issues": [
+      "RSS unavailable for: AILABS-393, matthew_berman, NicholasPuru, MetalSole, RAmjad, BMadCode, EricWTech, simonscrapes, TechWithTim, DavidOndrej"
+    ]
   }
 }
