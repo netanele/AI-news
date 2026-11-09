@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T16:57:47Z",
+  "lastUpdated": "2026-11-09T20:29:12Z",
   "config": {
     "daysToShow": 7
   },
@@ -67,6 +67,52 @@
           ]
         },
         {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "4sV2Wzo1V1s",
+              "title": "Meet Claude Fable 5.2",
+              "publishedAt": "2026-11-09T19:04:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4sV2Wzo1V1s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "vdYynH177h0",
+              "title": "Claude Fable 5.2 designs a working voice-assistant hub",
+              "publishedAt": "2026-11-09T18:57:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vdYynH177h0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=vdYynH177h0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "FMbXUxn_nBw",
+              "title": "Claude Mythos 5.2 predicts the structure of a therapy capsid",
+              "publishedAt": "2026-11-09T18:56:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FMbXUxn_nBw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "6a1QSJlsYpU",
+              "title": "Introducing Claude Fable 5.2",
+              "publishedAt": "2026-11-09T18:56:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6a1QSJlsYpU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
@@ -77,6 +123,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/WzZtBgfeUxg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=WzZtBgfeUxg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "0vNyVMDFdkg",
+              "title": "Anthropic just dropped the best model ever... (Fable 5.2)",
+              "publishedAt": "2026-11-09T19:02:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0vNyVMDFdkg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
               "summary": "",
               "transcriptAvailable": false
             }
