@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T15:17:58Z",
+  "lastUpdated": "2026-11-10T17:31:35Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,48 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DdCTXZfZMzs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DdCTXZfZMzs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "OEY-vm7qRHc",
+              "title": "US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)",
+              "publishedAt": "2026-11-10T16:26:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/OEY-vm7qRHc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=OEY-vm7qRHc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "YewAJPawE7I",
+              "title": "Introducing Claude Whiteboards, Sheets, and Data",
+              "publishedAt": "2026-11-10T17:26:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YewAJPawE7I",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Gy1jSeSzAhk",
+              "title": "Your apps have moved into Claude",
+              "publishedAt": "2026-11-10T17:26:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Gy1jSeSzAhk",
               "summary": "",
               "transcriptAvailable": false
             }
