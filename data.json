@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-11-09T23:49:01Z",
+  "lastUpdated": "2026-11-10T15:17:58Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-10",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "PwV9C0mD2Qo",
+              "title": "How Much Memory Does Local AI Really Need?",
+              "publishedAt": "2026-11-10T06:52:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/PwV9C0mD2Qo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=PwV9C0mD2Qo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "DdCTXZfZMzs",
+              "title": "AI Agent Secrets Nobody Tells You",
+              "publishedAt": "2026-11-10T13:55:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DdCTXZfZMzs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DdCTXZfZMzs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "rGzEmR8fGaw",
+              "title": "Claude Fable 5.2 IS INSANE! Fable 6 HIDDEN, Gemini Krypton, GPT-6.2 & Sol! AI NEWS",
+              "publishedAt": "2026-11-10T07:44:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rGzEmR8fGaw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rGzEmR8fGaw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "oW98tLm7suY",
+              "title": "Fable 5.2 just solved software",
+              "publishedAt": "2026-11-10T00:56:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oW98tLm7suY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/oW98tLm7suY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "dailyDigest": "",
@@ -25,9 +95,55 @@
           ]
         },
         {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "45-qbcAeUbM",
+              "title": "More skills = worse agents (do this instead)",
+              "publishedAt": "2026-11-09T20:43:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/45-qbcAeUbM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=45-qbcAeUbM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "LUykxdd7g3o",
+              "title": "Anthropic Just Made Claude Way Better (Fable 5.2)",
+              "publishedAt": "2026-11-09T22:56:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LUykxdd7g3o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LUykxdd7g3o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "g51D7bwJfoo",
+              "title": "Claude Just Released The SMARTEST AI Model",
+              "publishedAt": "2026-11-09T21:46:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/g51D7bwJfoo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/g51D7bwJfoo",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "vGKy4ZX-CmU",
+              "title": "140 FREE AI Employees That Run Your Business For You",
+              "publishedAt": "2026-11-09T20:24:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/vGKy4ZX-CmU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/vGKy4ZX-CmU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "1Uv6osWCb0E",
               "title": "AI will change everything by 2028 (start preparing)",
@@ -997,130 +1113,10 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-02",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "oTWUyW_bR-g",
-              "title": "Insane GitHub Repos To Actually 10x Claude Video Editing",
-              "publishedAt": "2026-11-02T15:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oTWUyW_bR-g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=oTWUyW_bR-g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "YHKuUjicB3M",
-              "title": "My AI Software Factory Ships Hundreds of PRs a Week (Here's How I Manage It)",
-              "publishedAt": "2026-11-02T21:06:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YHKuUjicB3M/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YHKuUjicB3M",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "9tOu4r-FiQI",
-              "title": "This DeepSeek v4.1 is powerful and uncensored, let's run it",
-              "publishedAt": "2026-11-02T01:37:53+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/9tOu4r-FiQI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=9tOu4r-FiQI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "eDafFeXAOYk",
-              "title": "Big Tech is shifting, and you need to pay attention #tech #ai #business",
-              "publishedAt": "2026-11-02T22:29:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/eDafFeXAOYk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/eDafFeXAOYk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "fqvZRWbAnR4",
-              "title": "Your website might be wide open right now. 🚨",
-              "publishedAt": "2026-11-02T00:37:17+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fqvZRWbAnR4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/fqvZRWbAnR4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "1oMTgxXTFpI",
-              "title": "This AI Agent Gets Smarter Over Time",
-              "publishedAt": "2026-11-02T12:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1oMTgxXTFpI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/1oMTgxXTFpI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "L7opnQdpdMY",
-              "title": "HUGE CLAUDE MYTHOS 5.5 LEAK! Fable 5.5 INSANE, GPT-6.2 Astra, Gemini 4 Xenon & Carbon-H! AI NEWS",
-              "publishedAt": "2026-11-02T08:55:44+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L7opnQdpdMY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=L7opnQdpdMY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
     }
   ],
   "pipelineStatus": {
-    "status": "partial",
-    "issues": [
-      "RSS unavailable for: AILABS-393, matthew_berman, NicholasPuru, MetalSole, RAmjad, BMadCode, EricWTech, simonscrapes, TechWithTim, DavidOndrej"
-    ]
+    "status": "ok",
+    "issues": []
   }
 }
