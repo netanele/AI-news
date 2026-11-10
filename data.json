@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T17:31:35Z",
+  "lastUpdated": "2026-11-10T21:08:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -12,6 +12,16 @@
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "FnIXGSx19rI",
+              "title": "60+ Ways to Actually Use AI (That You Didn’t Know)",
+              "publishedAt": "2026-11-10T20:42:55+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FnIXGSx19rI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FnIXGSx19rI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "PwV9C0mD2Qo",
               "title": "How Much Memory Does Local AI Really Need?",
