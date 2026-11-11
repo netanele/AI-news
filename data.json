@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T14:47:53Z",
+  "lastUpdated": "2026-11-11T17:44:33Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "EHpUBR2OXLo",
+              "title": "the free github repo that prints $$$",
+              "publishedAt": "2026-11-11T14:57:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EHpUBR2OXLo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EHpUBR2OXLo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
@@ -19,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/dypZz-6RV7c/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=dypZz-6RV7c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "C33hJGt-ySg",
+              "title": "Fable 5.2 or Opus? When to use each model in Claude Code",
+              "publishedAt": "2026-11-11T17:30:20+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/C33hJGt-ySg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=C33hJGt-ySg",
               "summary": "",
               "transcriptAvailable": false
             }
