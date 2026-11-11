@@ -1,17 +1,91 @@
 {
-  "lastUpdated": "2026-11-10T21:08:04Z",
+  "lastUpdated": "2026-11-11T14:47:53Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-11-11",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "dypZz-6RV7c",
+              "title": "I Tested the Cheapest Coding Model on 7 Real Builds",
+              "publishedAt": "2026-11-11T14:21:42+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dypZz-6RV7c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dypZz-6RV7c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "FCmLuTENOp0",
+              "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
+              "publishedAt": "2026-11-11T11:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FCmLuTENOp0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=FCmLuTENOp0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "ZBJV-hA-tLM",
+              "title": "What software provides when AI bypasses the interface",
+              "publishedAt": "2026-11-11T07:33:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ZBJV-hA-tLM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "hMEQ4rdaOLw",
+              "title": "11 More Tiny Coding Agent Fixes With A Stupid Amount Of Payoff (Learn These Now)",
+              "publishedAt": "2026-11-10T22:57:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/hMEQ4rdaOLw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=hMEQ4rdaOLw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "dI06jEoaM-8",
+              "title": "60+ Ways to Actually Use AI (That You Didn’t Know)",
+              "publishedAt": "2026-11-10T21:34:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dI06jEoaM-8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=dI06jEoaM-8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "FnIXGSx19rI",
               "title": "60+ Ways to Actually Use AI (That You Didn’t Know)",
@@ -112,6 +186,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "L2acYRMzig8",
+              "title": "AI made Box features obsolete before launch",
+              "publishedAt": "2026-11-10T23:57:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/L2acYRMzig8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/L2acYRMzig8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "oW98tLm7suY",
               "title": "Fable 5.2 just solved software",
@@ -995,170 +1079,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/j09uV1oAuIo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=j09uV1oAuIo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "hlZ0nJwDGOE",
-              "title": "The AI bubble is popping",
-              "publishedAt": "2026-11-03T20:02:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hlZ0nJwDGOE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hlZ0nJwDGOE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "-0ekNQbijgo",
-              "title": "God's Eye View: Full Setup + Deploy It to the Cloud",
-              "publishedAt": "2026-11-03T19:37:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-0ekNQbijgo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-0ekNQbijgo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "rg91Ecbkzuk",
-              "title": "I Tested The New Grok Bot Updates – Here's What You Need To Know",
-              "publishedAt": "2026-11-03T07:25:10+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rg91Ecbkzuk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rg91Ecbkzuk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "KwHKVA9fjd4",
-              "title": "GPT-6.1 Terra Is Fantastic at Some Work and Terrible at Others",
-              "publishedAt": "2026-11-03T13:00:27+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KwHKVA9fjd4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=KwHKVA9fjd4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "JFoDdKuRmSk",
-              "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
-              "publishedAt": "2026-11-03T15:00:08+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JFoDdKuRmSk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JFoDdKuRmSk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "EcoCd1Ot7gA",
-              "title": "How to Be a Better CEO Using AI",
-              "publishedAt": "2026-11-03T12:25:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EcoCd1Ot7gA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EcoCd1Ot7gA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "UUrTt-vTdTQ",
-              "title": "I Built an Entire AI Ad Campaign in One Chat Window",
-              "publishedAt": "2026-11-03T18:15:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UUrTt-vTdTQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/UUrTt-vTdTQ",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Sc_D4o9-vNk",
-              "title": "I Looked Inside my Agents Context Window...",
-              "publishedAt": "2026-11-03T14:06:47+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Sc_D4o9-vNk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Sc_D4o9-vNk",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "fBW4CFf9ztw",
-              "title": "This AI Can Teach Itself Wrong",
-              "publishedAt": "2026-11-03T12:00:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/fBW4CFf9ztw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/fBW4CFf9ztw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "i-wYjUriSzo",
-              "title": "Anthropic's RSI Breakthrough?! NEW Fable 5.5 Checkpoint, NEW GPT, DeepSeek Harness, & More! AI NEWS",
-              "publishedAt": "2026-11-03T08:12:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/i-wYjUriSzo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=i-wYjUriSzo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "r0cJOa9MZsE",
-              "title": "They did it...",
-              "publishedAt": "2026-11-03T16:51:59+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/r0cJOa9MZsE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
               "summary": "",
               "transcriptAvailable": false
             }
