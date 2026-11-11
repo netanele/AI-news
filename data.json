@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T17:44:33Z",
+  "lastUpdated": "2026-11-11T21:41:22Z",
   "config": {
     "daysToShow": 7
   },
@@ -9,9 +9,35 @@
       "dailyDigest": "",
       "channels": [
         {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "g8jKNvxbqYI",
+              "title": "The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack",
+              "publishedAt": "2026-11-11T18:28:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/g8jKNvxbqYI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/g8jKNvxbqYI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "NicholasPuru",
           "channelUrl": "https://www.youtube.com/@NicholasPuru",
           "videos": [
+            {
+              "id": "oNoM8UmOeXU",
+              "title": "How To Build And SELL An AI Service With Hermes Agent",
+              "publishedAt": "2026-11-11T18:30:52+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/oNoM8UmOeXU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/oNoM8UmOeXU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "EHpUBR2OXLo",
               "title": "the free github repo that prints $$$",
@@ -77,6 +103,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/ZBJV-hA-tLM/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "VSrarL8Ki_A",
+              "title": "n8n’s New Agent BEATS Dots, Muse & Grok Bot",
+              "publishedAt": "2026-11-11T18:01:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VSrarL8Ki_A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VSrarL8Ki_A",
               "summary": "",
               "transcriptAvailable": false
             }
