@@ -1,13 +1,173 @@
 {
-  "lastUpdated": "2026-11-11T21:41:22Z",
+  "lastUpdated": "2026-11-12T15:40:08Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-11-12",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "-bv2xKQzZio",
+              "title": "Creator Of Taste Skill Just Revealed His Entire AI Design Workflow",
+              "publishedAt": "2026-11-12T15:00:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/-bv2xKQzZio/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=-bv2xKQzZio",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "rBUb_OA-73o",
+              "title": "Your Coding Agent Has a MASSIVE Blind Spot (You Need to Fix It)",
+              "publishedAt": "2026-11-12T14:20:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rBUb_OA-73o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/rBUb_OA-73o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "fLjGgbW0Ki8",
+              "title": "Your Complete Guide to Fable 5.2 (When to Use It, Effort Levels, Prompting)",
+              "publishedAt": "2026-11-12T04:24:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fLjGgbW0Ki8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fLjGgbW0Ki8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "BZ8R9eJKrqw",
+              "title": "Stop Starting AI Faceless Channels (Do This)",
+              "publishedAt": "2026-11-12T11:32:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/BZ8R9eJKrqw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/BZ8R9eJKrqw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "owMtQh_3k4k",
+              "title": "Fable 5.2 Is really good and really expensive. So, when should you use it?",
+              "publishedAt": "2026-11-12T15:00:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/owMtQh_3k4k/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=owMtQh_3k4k",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "xKlUf-dw_Lw",
+              "title": "Claude Fable 5.2 is INSANE",
+              "publishedAt": "2026-11-12T10:25:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/xKlUf-dw_Lw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=xKlUf-dw_Lw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "2_z9c-6AOSc",
+              "title": "Mariko Mori's world of radiant light",
+              "publishedAt": "2026-11-12T00:14:53+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/2_z9c-6AOSc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=2_z9c-6AOSc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "lhCad7WDyHw",
+              "title": "Google's Gemini 4 KRYPTON Is INSANE! Carbon 4, Grok 4.8, GPT-6.2 Release LEAKED, Qwen 4 Max! AI NEWS",
+              "publishedAt": "2026-11-12T08:43:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lhCad7WDyHw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=lhCad7WDyHw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "TzZmDf60hIQ",
+              "title": "Let AI redesign your work",
+              "publishedAt": "2026-11-12T07:50:40+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TzZmDf60hIQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/TzZmDf60hIQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "BMadCode",
+          "channelUrl": "https://www.youtube.com/@BMadCode",
+          "videos": [
+            {
+              "id": "cRT4eaQP52s",
+              "title": "3 Things Successful AI-Native Engineering Teams Are Doing Differently",
+              "publishedAt": "2026-11-11T23:15:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/cRT4eaQP52s/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=cRT4eaQP52s",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -86,6 +246,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "LFzBzzHZESE",
+              "title": "AMA with me and the team!",
+              "publishedAt": "2026-11-11T22:52:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/LFzBzzHZESE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=LFzBzzHZESE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "FCmLuTENOp0",
               "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
@@ -1009,150 +1179,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/t8-RG3ju_Ao/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "G1rs663anWs",
-              "title": "Claude Code Video Editing: No Video Editor Needed",
-              "publishedAt": "2026-11-04T13:00:30+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/G1rs663anWs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=G1rs663anWs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "-5cDYPwNf5g",
-              "title": "Elon's AI Agent Has a Massive Cost Problem",
-              "publishedAt": "2026-11-04T15:00:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/-5cDYPwNf5g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "jYbOptzDG_U",
-              "title": "This Claude Trick Rebuilds ANY App You Pay For",
-              "publishedAt": "2026-11-04T19:47:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/jYbOptzDG_U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/jYbOptzDG_U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "RAmjad",
-          "channelUrl": "https://www.youtube.com/@RAmjad",
-          "videos": [
-            {
-              "id": "yrRpnx_iugY",
-              "title": "OpenAI Revealed What Comes After Loops",
-              "publishedAt": "2026-11-04T15:01:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/yrRpnx_iugY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=yrRpnx_iugY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "v5FYtD1hy6w",
-              "title": "The New Job of a Software Engineer (It's Not Writing Code)",
-              "publishedAt": "2026-11-04T13:00:38+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/v5FYtD1hy6w/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=v5FYtD1hy6w",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "aZ1Ae7vjafk",
-              "title": "The AI Agent That Writes Its Own Tools",
-              "publishedAt": "2026-11-04T12:00:28+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/aZ1Ae7vjafk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/aZ1Ae7vjafk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "kJA3fQnntpY",
-              "title": "Collaborate on artifacts in Claude",
-              "publishedAt": "2026-11-04T18:18:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/kJA3fQnntpY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=kJA3fQnntpY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "FQABKeCe1jM",
-              "title": "OpenAI's NEW GPT-ADA! GPT-6.2 Astra is Fable 5.5 Level?! Hy4 IS OUT, DeepSeek V5, & More! AI NEWS",
-              "publishedAt": "2026-11-04T09:41:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FQABKeCe1jM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FQABKeCe1jM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "j09uV1oAuIo",
-              "title": "MIT Researchers Discover AI Can Rewrite Its Own Weights",
-              "publishedAt": "2026-11-04T17:09:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/j09uV1oAuIo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=j09uV1oAuIo",
               "summary": "",
               "transcriptAvailable": false
             }
