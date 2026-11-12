@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T17:57:17Z",
+  "lastUpdated": "2026-11-12T21:40:38Z",
   "config": {
     "daysToShow": 7
   },
@@ -55,6 +55,16 @@
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
             {
+              "id": "q3ryv048sjs",
+              "title": "Nevlin Review: Can an AI Tutor Teach You Investing?",
+              "publishedAt": "2026-11-12T20:27:26+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/q3ryv048sjs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=q3ryv048sjs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "BZ8R9eJKrqw",
               "title": "Stop Starting AI Faceless Channels (Do This)",
               "publishedAt": "2026-11-12T11:32:58+00:00",
@@ -102,6 +112,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "YUYeHMsqbmY",
+              "title": "Introducing Claude Meetings",
+              "publishedAt": "2026-11-12T20:10:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/YUYeHMsqbmY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=YUYeHMsqbmY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "p2xvJAbF-i4",
               "title": "Building the Claude API for the Frontier",
@@ -154,6 +174,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "G11-Vmw7-PQ",
+              "title": "Cheaper AI can lead to more spending",
+              "publishedAt": "2026-11-12T18:01:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/G11-Vmw7-PQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/G11-Vmw7-PQ",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "TzZmDf60hIQ",
               "title": "Let AI redesign your work",
