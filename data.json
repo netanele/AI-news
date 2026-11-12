@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T15:40:08Z",
+  "lastUpdated": "2026-11-12T17:57:17Z",
   "config": {
     "daysToShow": 7
   },
@@ -102,6 +102,26 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "p2xvJAbF-i4",
+              "title": "Building the Claude API for the Frontier",
+              "publishedAt": "2026-11-12T17:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/p2xvJAbF-i4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=p2xvJAbF-i4",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Esh-w8QVCpE",
+              "title": "When to use every Claude model",
+              "publishedAt": "2026-11-12T16:34:54+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Esh-w8QVCpE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Esh-w8QVCpE",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "2_z9c-6AOSc",
               "title": "Mariko Mori's world of radiant light",
