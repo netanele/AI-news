@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T16:50:51Z",
+  "lastUpdated": "2026-11-15T20:04:04Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,38 @@
       "date": "2026-11-15",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "3BFMS3Wirq8",
+              "title": "Use AI Like Andrej Karpathy (Habits of the Top 0.2%)",
+              "publishedAt": "2026-11-15T18:53:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3BFMS3Wirq8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3BFMS3Wirq8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "JlHqTyW8rtA",
+              "title": "Why Your Company Doesn't Need the Most Expensive AI Model",
+              "publishedAt": "2026-11-15T17:00:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JlHqTyW8rtA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JlHqTyW8rtA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
