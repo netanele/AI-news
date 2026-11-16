@@ -1,13 +1,157 @@
 {
-  "lastUpdated": "2026-11-15T20:04:04Z",
+  "lastUpdated": "2026-11-16T16:35:30Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
     {
+      "date": "2026-11-16",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "83NRvB_Gusk",
+              "title": "My AI Agents Write Code Faster Than I Can Verify It",
+              "publishedAt": "2026-11-16T14:48:43+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/83NRvB_Gusk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/83NRvB_Gusk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "ijlSsgA6T7A",
+              "title": "Everyone's Arguing Whether AI Killed Software. They're Missing Something Bigger",
+              "publishedAt": "2026-11-16T16:17:07+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ijlSsgA6T7A/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ijlSsgA6T7A",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "1aXBg-qQzgA",
+              "title": "Everyone's Arguing About The AI Bubble. Nobody's Checking The Bill",
+              "publishedAt": "2026-11-16T16:00:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1aXBg-qQzgA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1aXBg-qQzgA",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "dzsSYHob9a0",
+              "title": "What are they hiding about Alice Huang? #shorts #conspiracy",
+              "publishedAt": "2026-11-16T04:00:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/dzsSYHob9a0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/dzsSYHob9a0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "XOhxWGZ8MTI",
+              "title": "This Claude AI Receptionist Answers EVERY Call",
+              "publishedAt": "2026-11-16T15:54:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/XOhxWGZ8MTI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/XOhxWGZ8MTI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "DRNbxPk9Ab8",
+              "title": "Code Mode Is Claude Code's BIGGEST Harness Change Yet",
+              "publishedAt": "2026-11-16T12:04:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DRNbxPk9Ab8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DRNbxPk9Ab8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "Up_Z9sVQdy0",
+              "title": "How Expedia Group builds with Claude managed agents",
+              "publishedAt": "2026-11-16T15:28:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Up_Z9sVQdy0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Up_Z9sVQdy0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "5vPXJiy83Sg",
+              "title": "Qwen 4 Max IS OUT! BEST Chinese AI Model EVER?! (Fully Tested)",
+              "publishedAt": "2026-11-16T05:59:39+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/5vPXJiy83Sg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5vPXJiy83Sg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "7-Tj5qaOUbc",
+              "title": "Build your own open-source Grok Bot, here’s how",
+              "publishedAt": "2026-11-15T23:15:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7-Tj5qaOUbc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7-Tj5qaOUbc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
@@ -985,76 +1129,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/0vNyVMDFdkg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "illf65HD_t4",
-              "title": "You Use AI Every Week. Voters Just Said Not In My Backyard.",
-              "publishedAt": "2026-11-08T17:00:26+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/illf65HD_t4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=illf65HD_t4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "HylDdGcSmjY",
-              "title": "3 Claude Settings You NEED To Turn On",
-              "publishedAt": "2026-11-08T15:58:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/HylDdGcSmjY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/HylDdGcSmjY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "JsfKoOkAqxU",
-              "title": "An AI That Runs a Whole Company",
-              "publishedAt": "2026-11-08T12:00:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JsfKoOkAqxU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/JsfKoOkAqxU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "FNnVmvii6Uo",
-              "title": "NEW Claude Model Family LEAKED?! Stealth Model BEATS Opus 5.5, OpenAI Cactus, Qoduck! AI NEWS",
-              "publishedAt": "2026-11-08T07:50:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FNnVmvii6Uo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FNnVmvii6Uo",
               "summary": "",
               "transcriptAvailable": false
             }
