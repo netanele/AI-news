@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T16:35:30Z",
+  "lastUpdated": "2026-11-16T20:01:40Z",
   "config": {
     "daysToShow": 7
   },
@@ -99,6 +99,22 @@
           ]
         },
         {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "DweFQOPbCz0",
+              "title": "I Let an AI Company Run for 7 Days",
+              "publishedAt": "2026-11-16T17:03:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DweFQOPbCz0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DweFQOPbCz0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
@@ -125,6 +141,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/5vPXJiy83Sg/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=5vPXJiy83Sg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "kMdHCyAnNHA",
+              "title": "Box CEO Explains How AI Is Changing Software",
+              "publishedAt": "2026-11-16T17:42:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/kMdHCyAnNHA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
               "summary": "",
               "transcriptAvailable": false
             }
