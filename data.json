@@ -1,9 +1,79 @@
 {
-  "lastUpdated": "2026-11-16T23:36:52Z",
+  "lastUpdated": "2026-11-17T16:33:25Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-17",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "KBshUcE-JrI",
+              "title": "Why is everything shutting down at once? #cybersecurity #news #tech",
+              "publishedAt": "2026-11-17T14:00:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/KBshUcE-JrI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/KBshUcE-JrI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "REkAsVAP5vg",
+              "title": "Claude’s New Mods Feature is INSANE",
+              "publishedAt": "2026-11-17T15:31:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/REkAsVAP5vg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/REkAsVAP5vg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "DfAOBID70Q0",
+              "title": "5 Concepts to Know for Coding with AI Agents",
+              "publishedAt": "2026-11-17T13:00:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DfAOBID70Q0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DfAOBID70Q0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "WRdgKyOTPXA",
+              "title": "GPT-6.2 Astra Is INSANE! Gemini 4 Neon, OpenAI AGI CONFIRMED?!, Claude Code UPGRADES & MORE! AI NEWS",
+              "publishedAt": "2026-11-17T09:16:12+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/WRdgKyOTPXA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=WRdgKyOTPXA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "dailyDigest": "",
@@ -12,6 +82,16 @@
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
           "videos": [
+            {
+              "id": "r5iPi8RL7A8",
+              "title": "5 Types of AI Software Factories Clearly Explained",
+              "publishedAt": "2026-11-16T23:51:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/r5iPi8RL7A8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=r5iPi8RL7A8",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "83NRvB_Gusk",
               "title": "My AI Agents Write Code Faster Than I Can Verify It",
@@ -973,194 +1053,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/oW98tLm7suY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/oW98tLm7suY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "6gT2sGrYgHk",
-              "title": "Claude Usage Limit Is Broken... This Just Fixed It",
-              "publishedAt": "2026-11-09T15:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6gT2sGrYgHk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6gT2sGrYgHk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "45-qbcAeUbM",
-              "title": "More skills = worse agents (do this instead)",
-              "publishedAt": "2026-11-09T20:43:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/45-qbcAeUbM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=45-qbcAeUbM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "LUykxdd7g3o",
-              "title": "Anthropic Just Made Claude Way Better (Fable 5.2)",
-              "publishedAt": "2026-11-09T22:56:45+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LUykxdd7g3o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LUykxdd7g3o",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "g51D7bwJfoo",
-              "title": "Claude Just Released The SMARTEST AI Model",
-              "publishedAt": "2026-11-09T21:46:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/g51D7bwJfoo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/g51D7bwJfoo",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "vGKy4ZX-CmU",
-              "title": "140 FREE AI Employees That Run Your Business For You",
-              "publishedAt": "2026-11-09T20:24:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vGKy4ZX-CmU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/vGKy4ZX-CmU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "1Uv6osWCb0E",
-              "title": "AI will change everything by 2028 (start preparing)",
-              "publishedAt": "2026-11-09T12:23:34+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/1Uv6osWCb0E/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=1Uv6osWCb0E",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "5z5aoqMURFM",
-              "title": "I Gave My AI Agent My IDE. Here's What Changed.",
-              "publishedAt": "2026-11-09T15:11:46+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/5z5aoqMURFM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=5z5aoqMURFM",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "NdTTX-TPdhE",
-              "title": "The Most Autonomous AI Agent",
-              "publishedAt": "2026-11-09T11:27:51+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/NdTTX-TPdhE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/NdTTX-TPdhE",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "4sV2Wzo1V1s",
-              "title": "Meet Claude Fable 5.2",
-              "publishedAt": "2026-11-09T19:04:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/4sV2Wzo1V1s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "vdYynH177h0",
-              "title": "Claude Fable 5.2 designs a working voice-assistant hub",
-              "publishedAt": "2026-11-09T18:57:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/vdYynH177h0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=vdYynH177h0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FMbXUxn_nBw",
-              "title": "Claude Mythos 5.2 predicts the structure of a therapy capsid",
-              "publishedAt": "2026-11-09T18:56:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FMbXUxn_nBw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "6a1QSJlsYpU",
-              "title": "Introducing Claude Fable 5.2",
-              "publishedAt": "2026-11-09T18:56:50+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/6a1QSJlsYpU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WzZtBgfeUxg",
-              "title": "OpenAI's GPT-6.2 PREVIEW Is INSANE! BEATS Opus 5.5 & Fable 5.5?",
-              "publishedAt": "2026-11-09T07:15:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WzZtBgfeUxg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WzZtBgfeUxg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "0vNyVMDFdkg",
-              "title": "Anthropic just dropped the best model ever... (Fable 5.2)",
-              "publishedAt": "2026-11-09T19:02:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/0vNyVMDFdkg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
               "summary": "",
               "transcriptAvailable": false
             }
