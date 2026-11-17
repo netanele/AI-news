@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T16:33:25Z",
+  "lastUpdated": "2026-11-17T18:58:47Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-17",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "JhZB3spnuIY",
+              "title": "Google Just Released Something To Fix AI Agent's Biggest Problem",
+              "publishedAt": "2026-11-17T16:31:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/JhZB3spnuIY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=JhZB3spnuIY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "NateBJones",
           "channelUrl": "https://www.youtube.com/@NateBJones",
@@ -51,6 +67,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/DfAOBID70Q0/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=DfAOBID70Q0",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "RRj07Hc3ikU",
+              "title": "A season on the farm with AI",
+              "publishedAt": "2026-11-17T18:43:13+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/RRj07Hc3ikU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=RRj07Hc3ikU",
               "summary": "",
               "transcriptAvailable": false
             }
