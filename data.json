@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T18:58:47Z",
+  "lastUpdated": "2026-11-17T22:45:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -60,6 +60,16 @@
           "channelName": "TechWithTim",
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
+            {
+              "id": "IKHF1u7N75o",
+              "title": "Claude Can Now Ship Real Apps (IT Approved)",
+              "publishedAt": "2026-11-17T22:10:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IKHF1u7N75o/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IKHF1u7N75o",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "DfAOBID70Q0",
               "title": "5 Concepts to Know for Coding with AI Agents",
