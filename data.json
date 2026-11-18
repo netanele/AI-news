@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-11-17T22:45:03Z",
+  "lastUpdated": "2026-11-18T16:01:55Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-18",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "VkvoUCgHP6Q",
+              "title": "The Robot Brain Might Already Exist. It's A Coding Agent.",
+              "publishedAt": "2026-11-18T15:00:36+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/VkvoUCgHP6Q/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=VkvoUCgHP6Q",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "MgI7YCbLS8c",
+              "title": "It’s not just you: Everything is going down #internet #tech #breaking",
+              "publishedAt": "2026-11-18T01:00:22+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MgI7YCbLS8c/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/MgI7YCbLS8c",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "UJqo144Qogs",
+              "title": "Be CAREFUL Using GPT-6.2 Astra",
+              "publishedAt": "2026-11-18T02:25:56+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/UJqo144Qogs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=UJqo144Qogs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "q8iHsdzd94U",
+              "title": "Claude Fable 5.5 or Opus 5.6?! GPT-6.2 Astra & Sol, Gemini 4 Neon TODAY! & Microsoft MAI! AI NEWS",
+              "publishedAt": "2026-11-18T09:27:00+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/q8iHsdzd94U/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=q8iHsdzd94U",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "dailyDigest": "",
@@ -19,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/JhZB3spnuIY/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=JhZB3spnuIY",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "K81vU-gykmQ",
+              "title": "RSI is here?! GPT 6.2 is “high” on recursive self-improvement",
+              "publishedAt": "2026-11-17T22:37:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/K81vU-gykmQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=K81vU-gykmQ",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -937,164 +1017,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/VSrarL8Ki_A/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=VSrarL8Ki_A",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "ColeMedin",
-          "channelUrl": "https://www.youtube.com/@ColeMedin",
-          "videos": [
-            {
-              "id": "hMEQ4rdaOLw",
-              "title": "11 More Tiny Coding Agent Fixes With A Stupid Amount Of Payoff (Learn These Now)",
-              "publishedAt": "2026-11-10T22:57:03+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/hMEQ4rdaOLw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=hMEQ4rdaOLw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "dI06jEoaM-8",
-              "title": "60+ Ways to Actually Use AI (That You Didn’t Know)",
-              "publishedAt": "2026-11-10T21:34:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dI06jEoaM-8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dI06jEoaM-8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FnIXGSx19rI",
-              "title": "60+ Ways to Actually Use AI (That You Didn’t Know)",
-              "publishedAt": "2026-11-10T20:42:55+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FnIXGSx19rI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FnIXGSx19rI",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "PwV9C0mD2Qo",
-              "title": "How Much Memory Does Local AI Really Need?",
-              "publishedAt": "2026-11-10T06:52:35+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/PwV9C0mD2Qo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=PwV9C0mD2Qo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "MetalSole",
-          "channelUrl": "https://www.youtube.com/@MetalSole",
-          "videos": [
-            {
-              "id": "DdCTXZfZMzs",
-              "title": "AI Agent Secrets Nobody Tells You",
-              "publishedAt": "2026-11-10T13:55:02+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DdCTXZfZMzs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DdCTXZfZMzs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "OEY-vm7qRHc",
-              "title": "US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)",
-              "publishedAt": "2026-11-10T16:26:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/OEY-vm7qRHc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=OEY-vm7qRHc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "YewAJPawE7I",
-              "title": "Introducing Claude Whiteboards, Sheets, and Data",
-              "publishedAt": "2026-11-10T17:26:09+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=YewAJPawE7I",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "Gy1jSeSzAhk",
-              "title": "Your apps have moved into Claude",
-              "publishedAt": "2026-11-10T17:26:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=Gy1jSeSzAhk",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "rGzEmR8fGaw",
-              "title": "Claude Fable 5.2 IS INSANE! Fable 6 HIDDEN, Gemini Krypton, GPT-6.2 & Sol! AI NEWS",
-              "publishedAt": "2026-11-10T07:44:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/rGzEmR8fGaw/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=rGzEmR8fGaw",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "L2acYRMzig8",
-              "title": "AI made Box features obsolete before launch",
-              "publishedAt": "2026-11-10T23:57:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/L2acYRMzig8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/L2acYRMzig8",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "oW98tLm7suY",
-              "title": "Fable 5.2 just solved software",
-              "publishedAt": "2026-11-10T00:56:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oW98tLm7suY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/oW98tLm7suY",
               "summary": "",
               "transcriptAvailable": false
             }
