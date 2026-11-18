@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T18:41:13Z",
+  "lastUpdated": "2026-11-18T22:26:53Z",
   "config": {
     "daysToShow": 7
   },
@@ -45,6 +45,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/UJqo144Qogs/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=UJqo144Qogs",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "t2Zo3YAJdj4",
+              "title": "Five brand new ways to use Claude at work",
+              "publishedAt": "2026-11-18T18:39:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t2Zo3YAJdj4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t2Zo3YAJdj4",
               "summary": "",
               "transcriptAvailable": false
             }
