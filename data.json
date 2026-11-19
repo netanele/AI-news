@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T16:08:55Z",
+  "lastUpdated": "2026-11-19T18:53:57Z",
   "config": {
     "daysToShow": 7
   },
@@ -8,6 +8,22 @@
       "date": "2026-11-19",
       "dailyDigest": "",
       "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "M2obvRkNHXw",
+              "title": "Claude Skills Are Broken... This Is How You Fix It",
+              "publishedAt": "2026-11-19T17:02:28+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/M2obvRkNHXw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=M2obvRkNHXw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
         {
           "channelName": "ColeMedin",
           "channelUrl": "https://www.youtube.com/@ColeMedin",
@@ -87,6 +103,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/lTb_-tBZpD4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/lTb_-tBZpD4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "6VjeXzvpoJo",
+              "title": "Everyone Ignore These Claude Concepts, But They Change Everything",
+              "publishedAt": "2026-11-19T16:27:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6VjeXzvpoJo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6VjeXzvpoJo",
               "summary": "",
               "transcriptAvailable": false
             }
