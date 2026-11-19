@@ -1,9 +1,99 @@
 {
-  "lastUpdated": "2026-11-18T22:26:53Z",
+  "lastUpdated": "2026-11-19T16:08:55Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-19",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "a90pZ1DSyls",
+              "title": "This Skill Turns Claude Code Into an Expert Video Editor (I'm Giving It Away)",
+              "publishedAt": "2026-11-19T01:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/a90pZ1DSyls/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=a90pZ1DSyls",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "gYPIb6h4PqI",
+              "title": "Give Claude Code Live Docs (It Stops Guessing)",
+              "publishedAt": "2026-11-19T13:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/gYPIb6h4PqI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=gYPIb6h4PqI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "4lDRYC5ynXI",
+              "title": "This Free Local Model Just Beat Claude",
+              "publishedAt": "2026-11-19T10:13:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/4lDRYC5ynXI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/4lDRYC5ynXI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "SxvGGIPV6kM",
+              "title": "I Gave Claude Code an Uncensored AI Model",
+              "publishedAt": "2026-11-19T01:42:18+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SxvGGIPV6kM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=SxvGGIPV6kM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "6zDaco92yMI",
+              "title": "I Tested the Viral GitHub Repo That Gives Claude Code 7.4B Tokens/Month",
+              "publishedAt": "2026-11-19T14:11:37+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6zDaco92yMI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6zDaco92yMI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "lTb_-tBZpD4",
+              "title": "One Workspace for Your Team and Your AI Agents",
+              "publishedAt": "2026-11-19T11:52:33+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/lTb_-tBZpD4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/lTb_-tBZpD4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "dailyDigest": "",
@@ -70,6 +160,16 @@
           "channelName": "intheworldofai",
           "channelUrl": "https://www.youtube.com/@intheworldofai",
           "videos": [
+            {
+              "id": "R0rXSJmymTc",
+              "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
+              "publishedAt": "2026-11-18T23:59:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/R0rXSJmymTc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=R0rXSJmymTc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "q8iHsdzd94U",
               "title": "Claude Fable 5.5 or Opus 5.6?! GPT-6.2 Astra & Sol, Gemini 4 Neon TODAY! & Microsoft MAI! AI NEWS",
@@ -885,154 +985,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/TzZmDf60hIQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/TzZmDf60hIQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "BMadCode",
-          "channelUrl": "https://www.youtube.com/@BMadCode",
-          "videos": [
-            {
-              "id": "cRT4eaQP52s",
-              "title": "3 Things Successful AI-Native Engineering Teams Are Doing Differently",
-              "publishedAt": "2026-11-11T23:15:07+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/cRT4eaQP52s/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=cRT4eaQP52s",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "g8jKNvxbqYI",
-              "title": "The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack",
-              "publishedAt": "2026-11-11T18:28:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/g8jKNvxbqYI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/g8jKNvxbqYI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "oNoM8UmOeXU",
-              "title": "How To Build And SELL An AI Service With Hermes Agent",
-              "publishedAt": "2026-11-11T18:30:52+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/oNoM8UmOeXU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/oNoM8UmOeXU",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "EHpUBR2OXLo",
-              "title": "the free github repo that prints $$$",
-              "publishedAt": "2026-11-11T14:57:06+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/EHpUBR2OXLo/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=EHpUBR2OXLo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "dypZz-6RV7c",
-              "title": "I Tested the Cheapest Coding Model on 7 Real Builds",
-              "publishedAt": "2026-11-11T14:21:42+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/dypZz-6RV7c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=dypZz-6RV7c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "C33hJGt-ySg",
-              "title": "Fable 5.2 or Opus? When to use each model in Claude Code",
-              "publishedAt": "2026-11-11T17:30:20+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/C33hJGt-ySg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=C33hJGt-ySg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "matthew_berman",
-          "channelUrl": "https://www.youtube.com/@matthew_berman",
-          "videos": [
-            {
-              "id": "LFzBzzHZESE",
-              "title": "AMA with me and the team!",
-              "publishedAt": "2026-11-11T22:52:54+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/LFzBzzHZESE/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=LFzBzzHZESE",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "FCmLuTENOp0",
-              "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
-              "publishedAt": "2026-11-11T11:00:25+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/FCmLuTENOp0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=FCmLuTENOp0",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "ZBJV-hA-tLM",
-              "title": "What software provides when AI bypasses the interface",
-              "publishedAt": "2026-11-11T07:33:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/ZBJV-hA-tLM/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "simonscrapes",
-          "channelUrl": "https://www.youtube.com/@simonscrapes",
-          "videos": [
-            {
-              "id": "VSrarL8Ki_A",
-              "title": "n8n’s New Agent BEATS Dots, Muse & Grok Bot",
-              "publishedAt": "2026-11-11T18:01:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VSrarL8Ki_A/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VSrarL8Ki_A",
               "summary": "",
               "transcriptAvailable": false
             }
