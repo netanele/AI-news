@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T18:53:57Z",
+  "lastUpdated": "2026-11-19T22:31:37Z",
   "config": {
     "daysToShow": 7
   },
@@ -97,12 +97,48 @@
           "channelUrl": "https://www.youtube.com/@TechWithTim",
           "videos": [
             {
+              "id": "CRSj9JQJktc",
+              "title": "How AI App Builders Actually Work - Full Breakdown",
+              "publishedAt": "2026-11-19T21:59:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CRSj9JQJktc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CRSj9JQJktc",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
               "id": "lTb_-tBZpD4",
               "title": "One Workspace for Your Team and Your AI Agents",
               "publishedAt": "2026-11-19T11:52:33+00:00",
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/lTb_-tBZpD4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/shorts/lTb_-tBZpD4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "nEYuoqqMgyg",
+              "title": "What's going on with GPT-6.2?",
+              "publishedAt": "2026-11-19T20:02:19+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nEYuoqqMgyg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=nEYuoqqMgyg",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "FUj0a5B6bVk",
+              "title": "POV: The diff after I asked Claude to fix my app",
+              "publishedAt": "2026-11-19T19:47:46+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/FUj0a5B6bVk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/FUj0a5B6bVk",
               "summary": "",
               "transcriptAvailable": false
             }
