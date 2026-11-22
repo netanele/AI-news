@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T17:39:18Z",
+  "lastUpdated": "2026-11-22T20:54:03Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "Jz4QT0vH-MU",
+              "title": "Give Me 10 Minutes and I'll Make Claude Code 100x Smarter",
+              "publishedAt": "2026-11-22T18:35:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Jz4QT0vH-MU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=Jz4QT0vH-MU",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "FGRNPAjrbnQ",
               "title": "Claude Code on a VPS: Your Software Factory Runs 24/7",
