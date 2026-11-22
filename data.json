@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T14:57:42Z",
+  "lastUpdated": "2026-11-22T17:39:18Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/FGRNPAjrbnQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=FGRNPAjrbnQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "fFeyE4nINqs",
+              "title": "Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?",
+              "publishedAt": "2026-11-22T17:00:15+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/fFeyE4nINqs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=fFeyE4nINqs",
               "summary": "",
               "transcriptAvailable": false
             }
