@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T18:50:52Z",
+  "lastUpdated": "2026-11-23T21:55:23Z",
   "config": {
     "daysToShow": 7
   },
@@ -35,6 +35,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/0q0UbO4oqgQ/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=0q0UbO4oqgQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "3Ym_IwwsG84",
+              "title": "I Let ChatGPT dots Run My Computers and Daily Automations",
+              "publishedAt": "2026-11-23T20:10:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/3Ym_IwwsG84/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=3Ym_IwwsG84",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -124,6 +140,16 @@
           "channelName": "claude",
           "channelUrl": "https://www.youtube.com/@claude",
           "videos": [
+            {
+              "id": "ANcPabMDH14",
+              "title": "Explaining Claude’s CRISPR-like discovery",
+              "publishedAt": "2026-11-23T20:35:03+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ANcPabMDH14/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ANcPabMDH14",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "EuOg5f_Egns",
               "title": "Everything new in Claude this month",
