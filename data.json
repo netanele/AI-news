@@ -1,9 +1,169 @@
 {
-  "lastUpdated": "2026-11-22T20:54:03Z",
+  "lastUpdated": "2026-11-23T18:50:52Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-23",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "eFog2ttK95g",
+              "title": "How To Make Claude Motion Graphics Better Than 90% Of People",
+              "publishedAt": "2026-11-23T16:45:10+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/eFog2ttK95g/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=eFog2ttK95g",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "0q0UbO4oqgQ",
+              "title": "Hackers Are Coming for Your AI Coding Agent (Lock It Down Now)",
+              "publishedAt": "2026-11-23T15:23:29+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/0q0UbO4oqgQ/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=0q0UbO4oqgQ",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "MetalSole",
+          "channelUrl": "https://www.youtube.com/@MetalSole",
+          "videos": [
+            {
+              "id": "TjDkPjwifFo",
+              "title": "I Gave It a Big Job. It Did Beautifully. Then It Didn't",
+              "publishedAt": "2026-11-23T13:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/TjDkPjwifFo/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=TjDkPjwifFo",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "y0WVOisJ6Js",
+              "title": "GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.",
+              "publishedAt": "2026-11-23T15:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/y0WVOisJ6Js/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=y0WVOisJ6Js",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "clvRU3bAgoA",
+              "title": "Once You Understand This About AI, You'll Stop Being the Bottleneck",
+              "publishedAt": "2026-11-23T14:29:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/clvRU3bAgoA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=clvRU3bAgoA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "DNwMbJf5SAI",
+              "title": "How Anthropic Verifies Code Written by Claude",
+              "publishedAt": "2026-11-23T10:26:59+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/DNwMbJf5SAI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=DNwMbJf5SAI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "zqswGa4erWc",
+              "title": "I Asked GitHub's COO if CS Grads Are Cooked",
+              "publishedAt": "2026-11-23T15:26:31+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/zqswGa4erWc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zqswGa4erWc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "EuOg5f_Egns",
+              "title": "Everything new in Claude this month",
+              "publishedAt": "2026-11-23T16:56:38+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EuOg5f_Egns/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EuOg5f_Egns",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "qQ6M5neU2ew",
+              "title": "Everything new in Claude this month",
+              "publishedAt": "2026-11-23T16:45:58+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/qQ6M5neU2ew/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/qQ6M5neU2ew",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "7n3cZzR0tVE",
+              "title": "GEMINI 5 LEAKED?! GLM 5.4 Is Out, OpenAI GPT-7 Bel, Nano Banana Pro 2 & MORE! AI NEWS",
+              "publishedAt": "2026-11-23T06:40:27+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7n3cZzR0tVE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7n3cZzR0tVE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "dailyDigest": "",
@@ -883,76 +1043,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/kMdHCyAnNHA/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "7-Tj5qaOUbc",
-              "title": "Build your own open-source Grok Bot, here’s how",
-              "publishedAt": "2026-11-15T23:15:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/7-Tj5qaOUbc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=7-Tj5qaOUbc",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "EricWTech",
-          "channelUrl": "https://www.youtube.com/@EricWTech",
-          "videos": [
-            {
-              "id": "3BFMS3Wirq8",
-              "title": "Use AI Like Andrej Karpathy (Habits of the Top 0.2%)",
-              "publishedAt": "2026-11-15T18:53:11+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/3BFMS3Wirq8/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=3BFMS3Wirq8",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "JlHqTyW8rtA",
-              "title": "Why Your Company Doesn't Need the Most Expensive AI Model",
-              "publishedAt": "2026-11-15T17:00:21+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JlHqTyW8rtA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JlHqTyW8rtA",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "iXvttGCoc1g",
-              "title": "Gemini 4 Krypton BEATS FABLE 5.2!?, GPT-6.2 Preview, GLM-5.5 LEAKED & Claude Code UPDATE! AI NEWS",
-              "publishedAt": "2026-11-15T07:13:16+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/iXvttGCoc1g/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=iXvttGCoc1g",
               "summary": "",
               "transcriptAvailable": false
             }
