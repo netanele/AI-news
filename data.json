@@ -1,9 +1,157 @@
 {
-  "lastUpdated": "2026-11-24T01:58:25Z",
+  "lastUpdated": "2026-11-24T18:27:01Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-24",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "AFBNHW0-2Cs",
+              "title": "How to Put Claude Code Sites Live in Seconds",
+              "publishedAt": "2026-11-24T17:20:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/AFBNHW0-2Cs/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/AFBNHW0-2Cs",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "EUmySbeO3DA",
+              "title": "7 Levels of a Claude Obsidian Second Brain",
+              "publishedAt": "2026-11-24T13:00:25+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/EUmySbeO3DA/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=EUmySbeO3DA",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "S1COTnDviGc",
+              "title": "The AI bubble is bigger than you think ⚠️ Jensen is back! #investing #stocks #shorts",
+              "publishedAt": "2026-11-24T15:00:11+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S1COTnDviGc/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/S1COTnDviGc",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "meAUiy9grV0",
+              "title": "AI Agencies Are in Big Trouble",
+              "publishedAt": "2026-11-24T14:06:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/meAUiy9grV0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=meAUiy9grV0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "6DxE7HZpwwk",
+              "title": "3 Claude Settings You NEED To Turn On",
+              "publishedAt": "2026-11-24T13:04:05+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6DxE7HZpwwk/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/6DxE7HZpwwk",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "7KfSA7HvavE",
+              "title": "How I’d Learn Claude FAST (Do This Instead of Watching Tutorials)",
+              "publishedAt": "2026-11-24T13:00:01+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/7KfSA7HvavE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=7KfSA7HvavE",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "claude",
+          "channelUrl": "https://www.youtube.com/@claude",
+          "videos": [
+            {
+              "id": "8Aoq6mJeAXI",
+              "title": "Lessons from building agents on the Claude Platform",
+              "publishedAt": "2026-11-24T17:01:50+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/8Aoq6mJeAXI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=8Aoq6mJeAXI",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "Fp1P03610wM",
+              "title": "Dance as Waves with Claude",
+              "publishedAt": "2026-11-24T16:55:57+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/Fp1P03610wM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/Fp1P03610wM",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "N6kzEOdzSus",
+              "title": "Claude Opus 5.6 Early Preview! Gemini 4 Helium, GLM-5.4, Quantum AI & Superintelligence! AI NEWS",
+              "publishedAt": "2026-11-24T08:48:48+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/N6kzEOdzSus/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=N6kzEOdzSus",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "MkeKXJzJo98",
+              "title": "Did AI JUST Solve Mathematics?",
+              "publishedAt": "2026-11-24T02:30:08+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/MkeKXJzJo98/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=MkeKXJzJo98",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "dailyDigest": "",
