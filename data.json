@@ -1,9 +1,111 @@
 {
-  "lastUpdated": "2026-11-24T23:42:38Z",
+  "lastUpdated": "2026-11-25T17:41:44Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-25",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "AILABS-393",
+          "channelUrl": "https://www.youtube.com/@AILABS-393",
+          "videos": [
+            {
+              "id": "1mdFSbyKEB4",
+              "title": "This Claude Code Feature Is Broken... Vercel Just Fixed It",
+              "publishedAt": "2026-11-25T16:09:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1mdFSbyKEB4/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1mdFSbyKEB4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "76PElJeMJkU",
+              "title": "Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.",
+              "publishedAt": "2026-11-25T15:00:16+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/76PElJeMJkU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=76PElJeMJkU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "RAmjad",
+          "channelUrl": "https://www.youtube.com/@RAmjad",
+          "videos": [
+            {
+              "id": "CmmrdJwji-Y",
+              "title": "Agent Teams vs Software Factories: What Comes Next",
+              "publishedAt": "2026-11-25T16:03:35+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/CmmrdJwji-Y/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=CmmrdJwji-Y",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "u4Y6qAcl3MU",
+              "title": "Which AI Agent Should You Use",
+              "publishedAt": "2026-11-25T11:45:23+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/u4Y6qAcl3MU/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/u4Y6qAcl3MU",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "IO9ce7ubAJ8",
+              "title": "Claude Opus 5.6 (Next) Will Be the GREATEST AI Model EVER! & AI Models Are TOO POWERFUL to Release?",
+              "publishedAt": "2026-11-25T08:10:47+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IO9ce7ubAJ8/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=IO9ce7ubAJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "simonscrapes",
+          "channelUrl": "https://www.youtube.com/@simonscrapes",
+          "videos": [
+            {
+              "id": "t6azkOJwx5M",
+              "title": "I Built a Claude System That Makes Context Loss Impossible",
+              "publishedAt": "2026-11-25T16:58:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/t6azkOJwx5M/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=t6azkOJwx5M",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "dailyDigest": "",
@@ -929,134 +1031,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/q8iHsdzd94U/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=q8iHsdzd94U",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "AILABS-393",
-          "channelUrl": "https://www.youtube.com/@AILABS-393",
-          "videos": [
-            {
-              "id": "JhZB3spnuIY",
-              "title": "Google Just Released Something To Fix AI Agent's Biggest Problem",
-              "publishedAt": "2026-11-17T16:31:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/JhZB3spnuIY/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=JhZB3spnuIY",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "DavidOndrej",
-          "channelUrl": "https://www.youtube.com/@DavidOndrej",
-          "videos": [
-            {
-              "id": "K81vU-gykmQ",
-              "title": "RSI is here?! GPT 6.2 is “high” on recursive self-improvement",
-              "publishedAt": "2026-11-17T22:37:19+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/K81vU-gykmQ/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=K81vU-gykmQ",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "KBshUcE-JrI",
-              "title": "Why is everything shutting down at once? #cybersecurity #news #tech",
-              "publishedAt": "2026-11-17T14:00:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/KBshUcE-JrI/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/KBshUcE-JrI",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "REkAsVAP5vg",
-              "title": "Claude’s New Mods Feature is INSANE",
-              "publishedAt": "2026-11-17T15:31:32+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/REkAsVAP5vg/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/REkAsVAP5vg",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "TechWithTim",
-          "channelUrl": "https://www.youtube.com/@TechWithTim",
-          "videos": [
-            {
-              "id": "IKHF1u7N75o",
-              "title": "Claude Can Now Ship Real Apps (IT Approved)",
-              "publishedAt": "2026-11-17T22:10:24+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/IKHF1u7N75o/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=IKHF1u7N75o",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "DfAOBID70Q0",
-              "title": "5 Concepts to Know for Coding with AI Agents",
-              "publishedAt": "2026-11-17T13:00:33+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/DfAOBID70Q0/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=DfAOBID70Q0",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "RRj07Hc3ikU",
-              "title": "A season on the farm with AI",
-              "publishedAt": "2026-11-17T18:43:13+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/RRj07Hc3ikU/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=RRj07Hc3ikU",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "WRdgKyOTPXA",
-              "title": "GPT-6.2 Astra Is INSANE! Gemini 4 Neon, OpenAI AGI CONFIRMED?!, Claude Code UPGRADES & MORE! AI NEWS",
-              "publishedAt": "2026-11-17T09:16:12+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/WRdgKyOTPXA/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=WRdgKyOTPXA",
               "summary": "",
               "transcriptAvailable": false
             }
