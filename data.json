@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:47:47Z",
+  "lastUpdated": "2026-11-25T23:26:34Z",
   "config": {
     "daysToShow": 7
   },
@@ -19,6 +19,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/1mdFSbyKEB4/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=1mdFSbyKEB4",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "DavidOndrej",
+          "channelUrl": "https://www.youtube.com/@DavidOndrej",
+          "videos": [
+            {
+              "id": "6kadyV1GkcE",
+              "title": "This 100% abliterated AI agent can do anything… just watch",
+              "publishedAt": "2026-11-25T23:15:09+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/6kadyV1GkcE/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=6kadyV1GkcE",
               "summary": "",
               "transcriptAvailable": false
             }
@@ -92,6 +108,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "nMPyC3s4Q-0",
+              "title": "They're doing what in the arctic?!",
+              "publishedAt": "2026-11-25T21:42:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/nMPyC3s4Q-0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/nMPyC3s4Q-0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "iA0ns69dZGM",
               "title": "RANKING the BEST AI Models for Coding | TIER LIST",
