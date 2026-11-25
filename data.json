@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:41:44Z",
+  "lastUpdated": "2026-11-25T19:47:47Z",
   "config": {
     "daysToShow": 7
   },
@@ -83,6 +83,22 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/IO9ce7ubAJ8/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=IO9ce7ubAJ8",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "matthew_berman",
+          "channelUrl": "https://www.youtube.com/@matthew_berman",
+          "videos": [
+            {
+              "id": "iA0ns69dZGM",
+              "title": "RANKING the BEST AI Models for Coding | TIER LIST",
+              "publishedAt": "2026-11-25T19:28:41+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/iA0ns69dZGM/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=iA0ns69dZGM",
               "summary": "",
               "transcriptAvailable": false
             }
