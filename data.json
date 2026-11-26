@@ -1,9 +1,121 @@
 {
-  "lastUpdated": "2026-11-25T23:26:34Z",
+  "lastUpdated": "2026-11-26T17:24:44Z",
   "config": {
     "daysToShow": 7
   },
   "days": [
+    {
+      "date": "2026-11-26",
+      "dailyDigest": "",
+      "channels": [
+        {
+          "channelName": "ColeMedin",
+          "channelUrl": "https://www.youtube.com/@ColeMedin",
+          "videos": [
+            {
+              "id": "f1gAilgILeI",
+              "title": "The Best Defense Against This Wave of AI Attacks: Hack Yourself First (Try This Now)",
+              "publishedAt": "2026-11-26T01:00:06+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/f1gAilgILeI/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=f1gAilgILeI",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "EricWTech",
+          "channelUrl": "https://www.youtube.com/@EricWTech",
+          "videos": [
+            {
+              "id": "1dH_Bcwc09E",
+              "title": "Claude Ship: The One File That Decides Who Reviews Code",
+              "publishedAt": "2026-11-26T03:46:02+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/1dH_Bcwc09E/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=1dH_Bcwc09E",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NateBJones",
+          "channelUrl": "https://www.youtube.com/@NateBJones",
+          "videos": [
+            {
+              "id": "IbBWjp-kLis",
+              "title": "Why Gemini 4 feels better than ChatGPT 6.2 #gemini #openai",
+              "publishedAt": "2026-11-26T15:00:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/IbBWjp-kLis/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/IbBWjp-kLis",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "NicholasPuru",
+          "channelUrl": "https://www.youtube.com/@NicholasPuru",
+          "videos": [
+            {
+              "id": "SPluZH3Iikw",
+              "title": "Google's AI Is Cutting Your Website Clicks in Half",
+              "publishedAt": "2026-11-26T15:53:34+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/SPluZH3Iikw/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/SPluZH3Iikw",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "TechWithTim",
+          "channelUrl": "https://www.youtube.com/@TechWithTim",
+          "videos": [
+            {
+              "id": "F8D9P1wO1PY",
+              "title": "Claude + PowerPoint The Missing Piece",
+              "publishedAt": "2026-11-26T13:00:17+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/F8D9P1wO1PY/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=F8D9P1wO1PY",
+              "summary": "",
+              "transcriptAvailable": false
+            },
+            {
+              "id": "A50Q-Yk9wtg",
+              "title": "Can You Tell Which Is the Clone",
+              "publishedAt": "2026-11-26T11:49:45+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/A50Q-Yk9wtg/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/A50Q-Yk9wtg",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        },
+        {
+          "channelName": "intheworldofai",
+          "channelUrl": "https://www.youtube.com/@intheworldofai",
+          "videos": [
+            {
+              "id": "rsBYH09bR30",
+              "title": "Claude 6.0 LEAKED?! AI Quantum Scares, HUGE Gemini Breakthrough, Gemini Bots & MORE! AI NEWS",
+              "publishedAt": "2026-11-26T07:48:21+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/rsBYH09bR30/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=rsBYH09bR30",
+              "summary": "",
+              "transcriptAvailable": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "dailyDigest": "",
@@ -108,6 +220,16 @@
           "channelName": "matthew_berman",
           "channelUrl": "https://www.youtube.com/@matthew_berman",
           "videos": [
+            {
+              "id": "ngZ1_I_RWS0",
+              "title": "This changed my life...",
+              "publishedAt": "2026-11-25T23:56:32+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/ngZ1_I_RWS0/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/shorts/ngZ1_I_RWS0",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "nMPyC3s4Q-0",
               "title": "They're doing what in the arctic?!",
@@ -983,96 +1105,6 @@
               "duration": null,
               "thumbnailUrl": "https://i.ytimg.com/vi/6VjeXzvpoJo/hqdefault.jpg",
               "videoUrl": "https://www.youtube.com/watch?v=6VjeXzvpoJo",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "dailyDigest": "",
-      "channels": [
-        {
-          "channelName": "NateBJones",
-          "channelUrl": "https://www.youtube.com/@NateBJones",
-          "videos": [
-            {
-              "id": "VkvoUCgHP6Q",
-              "title": "The Robot Brain Might Already Exist. It's A Coding Agent.",
-              "publishedAt": "2026-11-18T15:00:36+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/VkvoUCgHP6Q/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=VkvoUCgHP6Q",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "MgI7YCbLS8c",
-              "title": "It’s not just you: Everything is going down #internet #tech #breaking",
-              "publishedAt": "2026-11-18T01:00:22+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/MgI7YCbLS8c/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/shorts/MgI7YCbLS8c",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "NicholasPuru",
-          "channelUrl": "https://www.youtube.com/@NicholasPuru",
-          "videos": [
-            {
-              "id": "UJqo144Qogs",
-              "title": "Be CAREFUL Using GPT-6.2 Astra",
-              "publishedAt": "2026-11-18T02:25:56+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/UJqo144Qogs/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=UJqo144Qogs",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "claude",
-          "channelUrl": "https://www.youtube.com/@claude",
-          "videos": [
-            {
-              "id": "t2Zo3YAJdj4",
-              "title": "Five brand new ways to use Claude at work",
-              "publishedAt": "2026-11-18T18:39:05+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/t2Zo3YAJdj4/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=t2Zo3YAJdj4",
-              "summary": "",
-              "transcriptAvailable": false
-            }
-          ]
-        },
-        {
-          "channelName": "intheworldofai",
-          "channelUrl": "https://www.youtube.com/@intheworldofai",
-          "videos": [
-            {
-              "id": "R0rXSJmymTc",
-              "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
-              "publishedAt": "2026-11-18T23:59:15+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/R0rXSJmymTc/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=R0rXSJmymTc",
-              "summary": "",
-              "transcriptAvailable": false
-            },
-            {
-              "id": "q8iHsdzd94U",
-              "title": "Claude Fable 5.5 or Opus 5.6?! GPT-6.2 Astra & Sol, Gemini 4 Neon TODAY! & Microsoft MAI! AI NEWS",
-              "publishedAt": "2026-11-18T09:27:00+00:00",
-              "duration": null,
-              "thumbnailUrl": "https://i.ytimg.com/vi/q8iHsdzd94U/hqdefault.jpg",
-              "videoUrl": "https://www.youtube.com/watch?v=q8iHsdzd94U",
               "summary": "",
               "transcriptAvailable": false
             }
