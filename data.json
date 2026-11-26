@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T19:26:35Z",
+  "lastUpdated": "2026-11-26T23:26:16Z",
   "config": {
     "daysToShow": 7
   },
@@ -28,6 +28,16 @@
           "channelName": "EricWTech",
           "channelUrl": "https://www.youtube.com/@EricWTech",
           "videos": [
+            {
+              "id": "S2bgAvhOync",
+              "title": "Most People Use Claude Skills Wrong (6 Levels to Fix It)",
+              "publishedAt": "2026-11-26T19:33:24+00:00",
+              "duration": null,
+              "thumbnailUrl": "https://i.ytimg.com/vi/S2bgAvhOync/hqdefault.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=S2bgAvhOync",
+              "summary": "",
+              "transcriptAvailable": false
+            },
             {
               "id": "1dH_Bcwc09E",
               "title": "Claude Ship: The One File That Decides Who Reviews Code",
